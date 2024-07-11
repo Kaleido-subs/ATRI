@@ -3,8 +3,8 @@
 | Anime Information |                               |
 | ----------------- | ----------------------------- |
 | **Title**         | Blue Archive the Animation    |
-| **TVDB ID**       | [430095][tvdb-id]             |
-| **AniDB ID**      | [17834][anidb-id]             |
+| **TVDB ID**       | [425244][tvdb-id]             |
+| **AniDB ID**      | [17635][anidb-id]             |
 | **Season**        | 1 ([Aired Order][tvdb-order]) |
 
 ### Staff
@@ -45,7 +45,6 @@
 | **Full Subtitles (Honorifics)** | English  | enm           | ASS    | Yes     | No     |
 
 This release contains an alternative honorifics track.
-This track also changes words like "Teacher" to "Sensei" and includes adjustments to a couple of lines.
 Set your media player to play "enm" language tracks by default to automatically play honorifics tracks.
 
 Spot an issue, want to chat, or want to check out the project's progress? Join our [Discord server][discord]!
@@ -60,18 +59,18 @@ If you're a foreign fansub group or want to do your own lyrics,
 you can ask us to render out our song styling for you in our [Discord server][discord].
 
 [//]: <> (Info)
-[cover-art]: https://cdn-eu.anidb.net/images/main/298708.jpg
-[tvdb-id]: https://thetvdb.com/series/blue-archive-the-animation
-[anidb-id]: https://anidb.net/anime/17834
-[tvdb-order]: https://thetvdb.com/series/blue-archive-the-animation/allseasons/official
+[cover-art]: https://cdn-eu.anidb.net/images/main/304775.jpg
+[tvdb-id]: https://thetvdb.com/series/atri-my-dear-moments
+[anidb-id]: https://anidb.net/anime/17635
+[tvdb-order]: https://thetvdb.com/series/atri-my-dear-moments/allseasons/official
 
 [//]: <> (Sources)
 [crunchyroll]:
 [amazon]: [//](https://nyaa.si/?f=0&c=0_0&q=ATRI+1080p+WEB+NanDesuKa+AMZN)
 
 [//]: <> (Encode info)
-[slowpics]: https://slow.pics/c/1GXUOKNh
-[mediainfo]: https://paste2.org/5s8jUaDL
+[slowpics]: ifyouseethisIforgotsorry.com
+[mediainfo]: ifyouseethisIforgotsorry.com
 
 [//]: <> (Other)
 [discord]: https://discord.gg/dk7aadV

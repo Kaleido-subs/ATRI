@@ -1,114 +1,78 @@
-# The Kaleido SubKt Project template
+[![cover][cover-art]][anidb-id]
 
-Clone this repo
-and copy all the files over
-when making a new fansubbing project.
+| Anime Information |                               |
+| ----------------- | ----------------------------- |
+| **Title**         | Blue Archive the Animation    |
+| **TVDB ID**       | [430095][tvdb-id]             |
+| **AniDB ID**      | [17834][anidb-id]             |
+| **Season**        | 1 ([Aired Order][tvdb-order]) |
 
-This template is designed to streamline the process
-of creating and maintaining subtitles for [Kaleido-subs](https://github.com/Kaleido-subs) projects.
+### Staff
 
-## Dependencies
+| Episode Staff         |              |     | Song Staff       | Opening | Ending |
+| --------------------- | ------------ | --- | ---------------- | ------- | ------ |
+| **Translation**       | DubstepKazoo |     | **Translation**  | chron   | ?      |
+| **Translation Check** | ?            |     | **Editing**      | rasen   | ?      |
+| **Editing**           | alonesome    |     | **Timing**       | BB      | ?      |
+| **Encode**            | BB           |     | **Typesetting**  | ?       | ?      |
+| **Timing**            | Dae          |     | **Song Styling** | BB      | BB     |
+| **Typesetting**       | Nyarthur     |     |                  | petzku  | petzku |
+|                       | BB           |     |                  |         |        |
+| **Quality Control**   | BB           |     |                  |         |        |
+|                       | petzku       |     |                  |         |        |
 
-- [SubKt](https://github.com/Myaamori/SubKt)
-- [mkvmerge](https://mkvtoolnix.download/downloads.html)
-- [JDK SE 14](https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html),
-  [15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html),
-  or [16](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html)
+### Video
 
-### Warning
+|                  |                              |                        |
+| ---------------- | ---------------------------- | ---------------------- |
+| **Sources**      | [Crunchyroll][crunchyroll]   |                        |
+| **Resolution**   | 1920x1080p                   |                        |
+| **Codec**        | H.265 (x265) 10-bit          |                        |
+| **Aspect Ratio** | 16:9                         |                        |
+| **Extra**        | [Video Comparison][slowpics] | [MediaInfo][mediainfo] |
 
-Currently,
-only JDK 14, and 15 appear to work out-of-the-box with SubKt,
-but support has been added to this template for 16 too.
-Please ensure Gradle uses the correct version
-if you run into any issues.
+### Audio
 
-## Directory Structure
+| Track        | Codec | Channels | Bitrate  | Source           | Default | Forced |
+| ------------ | ----- | -------- | -------- | ---------------- | ------- | ------ |
+| **Japanese** | EAC-3 | 2.0      | 224 kbps | [Amazon][amazon] | Yes     | No     |
 
-The following files should be adjusted
-on a per-project basis:
+### Subtitles
 
-- **Root Directory:**
+| Track                           | Language | Language Code | Format | Default | Forced |
+| ------------------------------- | -------- | ------------- | ------ | ------- | ------ |
+| **Full Subtitles**              | English  | eng           | ASS    | Yes     | No     |
+| **Full Subtitles (Honorifics)** | English  | enm           | ASS    | Yes     | No     |
 
-  - `build.gradle.kts`: SubKt Gradle build script.
-  - `sub.properties`: Project properties config file.
+This release contains an alternative honorifics track.
+This track also changes words like "Teacher" to "Sensei" and includes adjustments to a couple of lines.
+Set your media player to play "enm" language tracks by default to automatically play honorifics tracks.
 
-- **01/**: Example of regular episode directory
+Spot an issue, want to chat, or want to check out the project's progress? Join our [Discord server][discord]!
 
-  - `NewShow 01 - (Premux) [ABCDEF01].mkv`: Premux file.
-  - `NewShow 01 - Dialogue.ass`: Subtitle file for dialogue.
-  - `NewShow 01 - TS.ass`: Subtitle file for typesetting.
-    - There can be multiple TS files. Example: `NewShow 01 - TS (Light).ass` & `NewShow 01 - TS (petzku).ass`
-  - (Optional) `NewShow 01 - INS.ass`: Subtitle file for insert songs.
-    - There can be multiple INS files. Example: `NewShow 01 - INS (OP).ass` & `NewShow 01 - INS (Song Name).ass`
-  - (Optional) `NewShow 01 - Extra.ass`: Subtitle file for any extra subtitles that may not fit elsewhere.
+We only support [mpv][]! Please try out a recent mpv build if you run into any playback issues.
 
-- **common/**: Common resources for all episodes
+You are free to re-use any part of our release,
+provided you are not redistributing for the purpose of monetary gain.
+Credit for our work is appreciated, but not required.
 
-  - (Optional) `warning.ass`: A subtitle file that contains a warning to display in players that don't support ASS tags properly.
-  - `fonts/`: Directory containing common fonts, such as dialogue fonts.
+If you're a foreign fansub group or want to do your own lyrics,
+you can ask us to render out our song styling for you in our [Discord server][discord].
 
-## Getting Started
+[//]: <> (Info)
+[cover-art]: https://cdn-eu.anidb.net/images/main/298708.jpg
+[tvdb-id]: https://thetvdb.com/series/blue-archive-the-animation
+[anidb-id]: https://anidb.net/anime/17834
+[tvdb-order]: https://thetvdb.com/series/blue-archive-the-animation/allseasons/official
 
-To get started with this template:
+[//]: <> (Sources)
+[crunchyroll]:
+[amazon]: [//](https://nyaa.si/?f=0&c=0_0&q=ATRI+1080p+WEB+NanDesuKa+AMZN)
 
-1. **Use the Template Repository:**
+[//]: <> (Encode info)
+[slowpics]: https://slow.pics/c/1GXUOKNh
+[mediainfo]: https://paste2.org/5s8jUaDL
 
-   Click the following button in the top-right of the [project-template](https://github.com/Kaleido-subs/project-template) GitHub repo.
-
-   ![Github "Use this template" button](https://i.imgur.com/zT0SLVM.png)
-
-2. **Set up project files:**
-
-   The project file should be updated on a per-project basis.
-   This may also include the types of expected files,
-   as well as metadata.
-
-   For a fairly regular project,
-   set up the following files:
-
-   - Set up the `sub.properties` file.
-     - Set the name of your group and the show.
-     - Set the format of the video and audio.
-     - Set the number of episodes, as well as any specials.
-     - Set the episode ranges for the OP and EDs.
-       If no episodes are set, expect it in every episode.
-       If an episode has no OP or ED set, it will not be muxed.
-   - (Optional) Place any common subtitle files or other resources in the `common/` directory.
-   - Add your dialogue and chapters to the episode's dialogue subtitle file.
-   - Add your typesetting to the episode's TS subtitle file.
-   - (Optional) Set up INS and Extra subtitle files.
-   - Collect all the fonts and put them in the `episode/fonts/` directory (i.e. `01/fonts/`).
-
-3. **Build project:**
-
-   Use the Gradle wrapper to build the project:
-
-   ```sh
-   ./gradlew mux.01   # For Unix
-   gradlew.bat mux.01 # For Windows
-   ```
-
-   `mux` can be replaced with any of the following commands:
-
-   - `chapters`: Create a chapters file from the episode's dialogue subtitle file.
-   - `merge`: Merge the episode's subtitle files together, as well as optional OP and ED subtitle files.
-   - `cleanmerge`: Same as merge, but clean up the merge output by removing ktemplates and empty lines.
-   - `swap`: Create a swapped subtitle file. This is commonly used for honorific tracks.
-
-   The output of these commands,
-   minux `mux`,
-   can be found in the `build/` directory.
-
-## Contributing
-
-Spot an issue in the build scripts?
-Have any suggestions?
-Contributions are welcome!<br>
-Please fork the repository
-and create a pull request with your changes,
-or create an issue.
-
-For further support,
-please contact either LightArrowsEXE or petzku
-on the [Kaleido discord server](https://discord.gg/dk7aadV).
+[//]: <> (Other)
+[discord]: https://discord.gg/dk7aadV
+[mpv]: https://mpv.io/

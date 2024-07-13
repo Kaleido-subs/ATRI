@@ -1386,8 +1386,8 @@ Dialogue: 0,0:06:01.05,0:06:04.05,LightSigns,mask,0,0,0,,{\an7\pos(1900,1054)\c&
 Dialogue: 0,0:06:01.05,0:06:04.05,LightSigns,mask,0,0,0,,{\an7\pos(1693,1087)\c&H7E6B5F&\blur1\p1}m -12.05 -9.74 l 38.04 -11.86 39.97 -2.22 -13.02 0.28
 Dialogue: 0,0:06:01.05,0:06:04.05,LightSigns,mask,0,0,0,,{\an7\pos(1693,1087)\c&H78675B&\blur1\p1}m 67.33 -12.05 l 115.69 -14.94 120.31 -2.03 66.94 -0.49
 Dialogue: 0,0:06:01.05,0:06:04.05,LightSigns,mask,0,0,0,,{\an7\pos(1693,1087)\c&H776355&\blur1\p1}m 167.52 -13.98 l 207.6 -16.87 210.1 1.82 164.24 0.67
-Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=41}{\pos(1666,927)\org(3486.09,760.54)\fscx15.19\fscy22.03\frz1.95\fry-0.134\frx-2.341\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Main Power
-Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=41}{\pos(1666,927)\org(3486.09,760.54)\fscx15.19\fscy22.03\frz1.95\fry-0.134\frx-2.341\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Main Power
+Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=41}{\pos(1666,927)\org(3486.09,760.54)\fscx15.19\fscy22.03\frz1.95\fry-0.134\frx-2.341\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Brightness
+Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=41}{\pos(1666,927)\org(3486.09,760.54)\fscx15.19\fscy22.03\frz1.95\fry-0.134\frx-2.341\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Brightness
 Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=43}{\pos(1654,1009)\org(3491.03,833.89)\fscx15.07\fscy21.63\frz1.904\fry-0.143\frx-2.368\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Min
 Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=43}{\pos(1654,1009)\org(3491.03,833.89)\fscx15.07\fscy21.63\frz1.904\fry-0.143\frx-2.368\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Min
 Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=44}{\pos(1758,1009)\org(3488.5,844.91)\fscx15.05\fscy21.57\frz1.896\fry-0.142\frx-2.377\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Min

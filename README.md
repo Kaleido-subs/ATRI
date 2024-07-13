@@ -2,7 +2,7 @@
 
 | Anime Information |                               |
 | ----------------- | ----------------------------- |
-| **Title**         | Blue Archive the Animation    |
+| **Title**         | ATRI -My Dear Moments-        |
 | **TVDB ID**       | [425244][tvdb-id]             |
 | **AniDB ID**      | [17635][anidb-id]             |
 | **Season**        | 1 ([Aired Order][tvdb-order]) |

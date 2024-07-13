@@ -21,7 +21,7 @@ Style: LightSigns,LTFinnegan Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:05:54.58,0:05:54.58,LightSigns,,0,0,0,,-- Submarine
+Comment: 0,0:05:54.58,0:05:54.58,LightSigns,,0,0,0,,{=77}-- Submarine
 Comment: 0,0:05:56.04,0:05:56.04,LightSigns,,0,0,0,,{=26}---- First control panel
 Dialogue: 0,0:05:54.58,0:05:54.96,LightSigns,mask,0,0,0,,{\an7\pos(1000,760)\c&H7A6B5E&\blur0.7\p1}m 7 -12 b 9 -9 8 -5 8 -2 l 9 -2 10 -2 10 2 8 3 8 4 b 6 7 5 8 2 9 l 0 10 -1 10 -6 11 -7 12 -8 13 -9 11 -10 10 -9 10 b -8 9 -6 5 -5 5 -2 5 -6 7 -3 6 -1 6 3 2 3 0 4 -2 3 -5 3 -7 l 4 -11 5 -12 6 -13
 Dialogue: 0,0:05:54.58,0:05:54.96,LightSigns,mask,0,0,0,,{\an7\pos(1000,875)\c&H706055&\blur0.7\p1}m 0 -10 b 1 -10 2 -10 3 -10 9 -11 3 -3 5 -1 l 5 5 6 5 b 14 2 11 12 4 9 1 8 1 5 -1 4 -2 3 -3 4 -3 2 l -4 2 b -8 2 -10 -2 -11 -5 l -9 -7 -8 -7 -6 -9 -5 -9 -3 -11 0 -11
@@ -1396,7 +1396,27 @@ Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=45}{\pos(1734,1007)\o
 Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=45}{\pos(1734,1007)\org(3518.12,854.16)\fscx14.97\fscy21.46\frz1.877\fry-0.12\frx-2.343\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Max
 Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=46}{\pos(1836,1006)\org(3552.65,863.17)\fscx14.93\fscy21.37\frz1.867\fry-0.112\frx-2.302\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Max
 Dialogue: 1,0:05:58.59,0:06:01.09,LightSigns,text,0,0,0,,{=46=48}{\pos(1836,1006)\org(3552.65,863.17)\fscx14.93\fscy21.37\frz1.867\fry-0.112\frx-2.302\fnMontserrat SemiBold\b600\c&H191511&\1a&H32&\blur1.4}Max
-Comment: 0,0:05:54.58,0:05:54.58,LightSigns,,0,0,0,,-- Submarine
+Comment: 0,0:07:51.28,0:07:51.28,LightSigns,,0,0,0,,{=75}---- Third control panel
+Dialogue: 0,0:07:51.28,0:07:52.28,LightSigns,,0,0,0,,{\an7\pos(1147,835)\c&H65645F&\blur2\p1}m -13 -25 l 34 9 11 25 -34 -6
+Dialogue: 0,0:07:51.28,0:07:52.28,LightSigns,,0,0,0,,{\an7\pos(1074,792)\c&H65645F&\blur2\p1}m -12 -22 l 32 7 19 22 -4 9 -20 1 -32 -7
+Dialogue: 0,0:07:51.28,0:07:51.78,LightSigns,,0,0,0,,{\an7\pos(988,741)\c&H65645F&\blur2\p1}m -4 -19 l 11 -10 23 -2 20 12 14 19 -3 12 -5 6 -17 1 -23 -7 -19 -16
+Dialogue: 0,0:07:51.78,0:07:51.91,LightSigns,,0,0,0,,{\an7\pos(988,741)\c&H65645F&\blur2\clip(m 957 750 l 1021 711 1031 717 1077 757 1002 805)\p1}m -4 -19 l 11 -10 23 -2 20 12 14 19 -3 12 -5 6 -17 1 -23 -7 -19 -16
+Dialogue: 0,0:07:51.91,0:07:52.28,LightSigns,,0,0,0,,{\an7\pos(988,741)\c&H65645F&\blur2\clip(m 913 773 l 977 733 987 738 1004 730 1027 716 1064 761 952 810)\p1}m -4 -19 l 11 -10 23 -2 20 12 14 19 -3 12 -5 6 -17 1 -23 -7 -19 -16
+Dialogue: 0,0:07:51.28,0:07:51.78,LightSigns,,0,0,0,,{\an7\pos(896,681)\c&H65645F&\blur4\p1}m -12 -21 l 8 -10 22 3 17 15 8 21 -5 13 -16 4 -22 1
+Dialogue: 0,0:07:51.28,0:07:51.78,LightSigns,,0,0,0,,{\an7\pos(847,652)\c&H5D5C57&\blur4\clip(m 834 636 l 834 673 899 686 893 615)\p1}m -12 -14 l 8 -13 12 -8 6 14 -10 12
+Dialogue: 0,0:07:51.78,0:07:51.91,LightSigns,,0,0,0,,{\an7\pos(847,652)\c&H5D5C57&\blur4\clip(m 833 622 l 840 620 849 626 850 687 835 688)\p1}m -12 -14 l 8 -13 12 -8 6 14 -10 12
+Dialogue: 0,0:07:51.78,0:07:51.91,LightSigns,,0,0,0,,{\an7\pos(847,652)\c&H5D5C57&\blur4\clip(m 833 622 l 840 620 849 626 850 687 835 688)\p1}m -12 -14 l 8 -13 12 -8 6 14 -10 12
+Dialogue: 0,0:07:51.28,0:07:52.28,LightSigns,,0,0,0,,{\an7\pos(1112,726)\c&H65645F&\blur4\p1}m -23 -32 l 18 -7 49 12 31 32 0 19 -8 7 -21 -2 -36 -8 -49 -19
+Dialogue: 1,0:07:51.28,0:07:52.28,LightSigns,text,0,0,0,,{=74}{\pos(3835,3102)\org(1763,2046)\fscx34.34\fscy54.92\frz-216.923\fry0.938\frx5.389\fnMontserrat SemiBold\b600\c&H1C2120&\blur3}Emergency Release
+Dialogue: 1,0:07:51.28,0:07:52.28,LightSigns,text,0,0,0,,{=69}{\pos(3559,3003)\org(1734,2061)\fscx34.45\fscy55.67\frz-217.148\fry0.932\frx5.351\fnMontserrat SemiBold\b600\c&H1C2120&\blur2.5}Main Power
+Dialogue: 1,0:07:51.28,0:07:51.78,LightSigns,text,0,0,0,,{=73}{\pos(3825,3500)\org(1466,2175)\fscx35.45\fscy62.42\frz-219.204\fry0.889\frx5.116\fnMontserrat SemiBold\b600\c&H1C2120&\blur3.5\clip(m 833 634 l 834 671 852 677 866 643 871 641 882 641 886 646 864 690 912 720 965 675 883 629)}Manipulator Arms
+Dialogue: 1,0:07:51.78,0:07:51.91,LightSigns,text,0,0,0,,{=73}{\pos(3825,3500)\org(1466,2175)\fscx35.45\fscy62.42\frz-219.204\fry0.889\frx5.116\fnMontserrat SemiBold\b600\c&H1C2120&\blur3.5\clip(m 833 622 l 840 620 849 626 850 687 835 688)}Manipulator Arms
+Dialogue: 1,0:07:51.28,0:07:51.78,LightSigns,text,0,0,0,,{=71}{\pos(3744,3277)\org(1588,2127)\fscx35.04\fscy59.39\frz-218.281\fry0.907\frx5.215\fnMontserrat SemiBold\b600\c&H1C2120&\blur3}Microphone
+Dialogue: 1,0:07:51.78,0:07:51.91,LightSigns,text,0,0,0,,{=71}{\pos(3744,3277)\org(1588,2127)\fscx35.04\fscy59.39\frz-218.281\fry0.907\frx5.215\fnMontserrat SemiBold\b600\c&H1C2120&\blur3\clip(m 957 751 l 1020 711 1080 748 1025 788)}Microphone
+Dialogue: 1,0:07:51.91,0:07:52.28,LightSigns,text,0,0,0,,{=71}{\pos(3744,3277)\org(1588,2127)\fscx35.04\fscy59.39\frz-218.281\fry0.907\frx5.215\fnMontserrat SemiBold\b600\c&H1C2120&\blur3\clip(m 958 744 l 978 733 987 738 998 734 1008 727 1071 759 974 782)}Microphone
+Dialogue: 1,0:07:51.28,0:07:52.28,LightSigns,text,0,0,0,,{=70=76}{\pos(3653,3122)\org(1671,2091)\fscx34.72\fscy57.28\frz-217.638\fry0.921\frx5.289\fnMontserrat SemiBold\b600\c&H1C2120&\blur2.5}Searchlights
+Comment: 0,0:05:54.58,0:05:54.58,LightSigns,,0,0,0,,{=78}-- Submarine
+Dialogue: 0,0:07:51.91,0:07:54.91,LightSigns,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 8,_aegi_perspective_ambient_plane,e255.05;612.01#7C1595.31;-82.74#7C2233.53;340.14#7C829.35;1261.16
@@ -1419,3 +1439,12 @@ Data: 45,_aegi_perspective_ambient_plane,e1587.46;943.00#7C1939.23;931.54#7C1975
 Data: 46,_aegi_perspective_ambient_plane,e1587.48;943.01#7C1939.14;931.63#7C1975.84;1083.21#7C1630.94;1093.83
 Data: 47,_aegi_folddata,e0;1;2
 Data: 48,_aegi_folddata,e1;1;2
+Data: 69,_aegi_perspective_ambient_plane,e1264.57;848.60#7C893.72;629.45#7C941.64;605.87#7C1309.84;819.60
+Data: 70,_aegi_perspective_ambient_plane,e1264.57;848.59#7C893.72;629.46#7C941.64;605.87#7C1309.84;819.59
+Data: 71,_aegi_perspective_ambient_plane,e1264.57;848.60#7C893.76;629.49#7C941.67;605.91#7C1309.83;819.60
+Data: 73,_aegi_perspective_ambient_plane,e1264.66;848.66#7C893.77;629.50#7C941.66;605.93#7C1309.91;819.66
+Data: 74,_aegi_perspective_ambient_plane,e1264.57;848.61#7C893.75;629.48#7C941.66;605.90#7C1309.84;819.61
+Data: 75,_aegi_folddata,e0;1;3
+Data: 76,_aegi_folddata,e1;1;3
+Data: 77,_aegi_folddata,e0;1;4
+Data: 78,_aegi_folddata,e1;1;4

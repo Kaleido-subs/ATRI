@@ -33,7 +33,7 @@ Dialogue: 10,0:00:14.33,0:00:16.16,Default,,0,0,0,,Help me...
 Dialogue: 10,0:00:16.16,0:00:17.91,Default,,0,0,0,,I'm so cold...
 Dialogue: 10,0:00:23.84,0:00:25.59,Default,,0,0,0,,I don't wanna die...
 Dialogue: 10,0:00:25.59,0:00:26.92,Default,,0,0,0,,I'm scared...
-Dialogue: 10,0:00:32.72,0:00:34.85,Default,,0,0,0,,Move! Move!
+Dialogue: 10,0:00:32.72,0:00:34.85,Default,,0,0,0,,Move! Move!{I feel like keeping at least one of these as a swear word would be better - yon}
 Dialogue: 10,0:00:36.14,0:00:37.43,Default,,0,0,0,,Mom?
 Dialogue: 10,0:00:41.10,0:00:41.94,Default,,0,0,0,,Mom...
 Dialogue: 10,0:00:51.24,0:00:52.49,Default,,0,0,0,,Not again.
@@ -46,18 +46,18 @@ Dialogue: 10,0:01:09.34,0:01:10.51,Default,,0,0,0,,Personal space. {!}
 Dialogue: 10,0:01:10.80,0:01:12.84,Default,,0,0,0,,If you're trying to seduce me,\nyou're wasting your time.
 Dialogue: 10,0:01:12.84,0:01:15.01,Default,,0,0,0,,Please. You know you like it.
 Dialogue: 10,0:01:16.18,0:01:18.89,Default,,0,0,0,,This one won't let you down, trust me.
-Dialogue: 10,0:01:18.89,0:01:23.23,Default,,0,0,0,,Got it from a reliable seller.\nSays it's as good as new.
+Dialogue: 10,0:01:18.89,0:01:23.23,Default,,0,0,0,,Got it from a reliable seller.\nSays it's as good as new.{alright, though "good as new" is a bit overstated I think - yon}
 Dialogue: 10,0:01:23.23,0:01:26.07,Default,,0,0,0,,How many times have I heard that before?
 Dialogue: 10,0:01:29.36,0:01:31.70,Default,,0,0,0,,Keep writing checks like that,\nand your death won't be pretty.
 Dialogue: 10,0:01:31.70,0:01:33.95,Default,,0,0,0,,Just give it a try already!
 Dialogue: 10,0:01:33.95,0:01:35.78,Default,,0,0,0,,You never know! You never know! {?}
 Dialogue: 10,0:01:36.37,0:01:36.99,Default,,0,0,0,,Here.
 Dialogue: 10,0:01:39.33,0:01:42.29,Default,,0,0,0,,Well, it {\i1}is{\i0} better than\nanything else you've brought me.
-Dialogue: 10,0:01:42.29,0:01:44.08,Default,,0,0,0,,Hell yeah!
+Dialogue: 10,0:01:42.29,0:01:44.08,Default,,0,0,0,,Hell yeah!{"See!" fits vibe a bit better imo -yon}
 Dialogue: 10,0:01:45.96,0:01:47.96,Default,,0,0,0,,Guess I can at least give it a shot.
-Dialogue: 10,0:01:52.51,0:01:54.55,Default,,0,0,0,,Not like we've got anything to lose.
+Dialogue: 10,0:01:52.51,0:01:54.55,Default,,0,0,0,,Not like we've got anything to lose.{this seems like a pretty different statement than "Not like I have anything else to do" ? -yon}
 Dialogue: 10,0:01:59.18,0:02:00.85,Default,,0,0,0,,Not when the world's like this.
-Dialogue: 10,0:02:14.45,0:02:19.29,Default,,0,0,0,,...expected to serve as humanity's new\nsustainable energy source, the Amaterasu Project
+Dialogue: 10,0:02:14.45,0:02:19.29,Default,,0,0,0,,...expected to serve as humanity's new\nsustainable energy source, the Amaterasu Project{an8? -yon}
 Dialogue: 10,0:02:19.70,0:02:24.96,Default,,0,0,0,,has been met with increasingly strong\nopposition by local populations
 Dialogue: 10,0:02:24.96,0:02:27.21,Default,,0,0,0,,as it prepares for its first stage of rocket launches...
 Dialogue: 10,0:02:27.21,0:02:29.30,Default,,0,0,0,,Think it'll get off the ground this time?
@@ -154,7 +154,7 @@ Dialogue: 10,0:06:34.54,0:06:36.54,Default,,0,0,0,,We all used to live in this t
 Dialogue: 10,0:06:41.84,0:06:43.09,Default,,0,0,0,,Natsu{**-kun}...
 Dialogue: 10,0:06:49.68,0:06:50.72,Default,,0,0,0,,There it is.
 Dialogue: 10,0:06:56.73,0:06:58.31,Default,,0,0,0,,Unbelievable...
-Dialogue: 10,0:06:58.81,0:07:01.07,Default,,0,0,0,,It looks just like it always did.
+Dialogue: 10,0:06:58.81,0:07:01.07,Default,,0,0,0,,It looks just like it always did.{I think the vibe is more that he's talking about it not having decayed much. It's much more intact than one might expect -yon}
 Dialogue: 10,0:07:06.28,0:07:07.99,Default,,0,0,0,,Natsu-kun, where are you?
 Dialogue: 10,0:07:09.24,0:07:11.16,Default,,0,0,0,,Better catch me if you can, Minamo!
 Dialogue: 10,0:07:12.08,0:07:13.00,Default,,0,0,0,,See ya!
@@ -216,7 +216,7 @@ Dialogue: 10,0:11:43.10,0:11:46.64,Default,,0,0,0,,It is illegal to use me in a 
 Dialogue: 10,0:11:46.64,0:11:48.06,Default,,0,0,0,,Your master?
 Dialogue: 10,0:11:48.06,0:11:50.65,Default,,0,0,0,,Doctor Yachigusa Nonko!
 Dialogue: 10,0:11:55.19,0:11:57.03,Default,,0,0,0,,Your master...
-Dialogue: 10,0:11:58.11,0:12:00.66,Default,,0,0,0,,she passed away last month.
+Dialogue: 10,0:11:58.11,0:12:00.66,Default,,0,0,0,,she passed away last month.{should we not be including that she died of illness? -yon}
 Dialogue: 10,0:12:00.99,0:12:03.66,Default,,0,0,0,,Huh? Nonko's...
 Dialogue: 10,0:12:04.08,0:12:05.66,Default,,0,0,0,,Oh.
 Dialogue: 10,0:12:06.12,0:12:08.25,Default,,0,0,0,,Uh, um...
@@ -290,7 +290,7 @@ Dialogue: 10,0:15:13.81,0:15:17.02,Default,,0,0,0,,It'll help increase her sale 
 Dialogue: 10,0:15:17.02,0:15:18.56,Default,,0,0,0,,Wow...
 Dialogue: 10,0:15:18.56,0:15:19.31,Default,,0,0,0,,What?
 Dialogue: 10,0:15:19.31,0:15:20.19,Default,,0,0,0,,Oh, nothing.
-Dialogue: 10,0:15:20.19,0:15:22.23,Default,,0,0,0,,This pair is the biggest,
+Dialogue: 10,0:15:20.19,0:15:22.23,Default,,0,0,0,,This pair is the biggest,{I think this is saying this is the best size -yon}
 Dialogue: 10,0:15:22.23,0:15:25.07,Default,,0,0,0,,but this has the superior design.
 Dialogue: 10,0:15:26.28,0:15:28.20,Default,,0,0,0,,We're burning daylight here.
 Dialogue: 10,0:15:28.20,0:15:29.74,Default,,0,0,0,,Make an executive decision already.
@@ -389,7 +389,7 @@ Dialogue: 10,0:20:45.93,0:20:48.56,Default,,0,0,0,,You really get what you pay f
 Dialogue: 10,0:20:53.36,0:20:53.98,Default,,0,0,0,,Excuse me...
 Dialogue: 10,0:20:53.98,0:20:54.44,Default,,0,0,0,,{TM: Too short}What?!
 Dialogue: 10,0:20:57.11,0:20:58.11,Default,,0,0,0,,Oh shit!
-Dialogue: 10,0:20:58.74,0:21:02.82,Default,,0,0,0,,Don't you dare die on me here, you oversized toaster!
+Dialogue: 10,0:20:58.74,0:21:02.82,Default,,0,0,0,,Don't you dare die on me here, you oversized toaster!{very minor, but could consider keeping this being the same insult used for Atri earlier -yon}
 Dialogue: 10,0:21:06.12,0:21:07.66,Default,,0,0,0,,Hey, wait!
 Dialogue: 10,0:21:08.75,0:21:09.79,Default,,0,0,0,,Come back.
 Dialogue: 10,0:21:11.25,0:21:12.25,Default,,0,0,0,,Come back...

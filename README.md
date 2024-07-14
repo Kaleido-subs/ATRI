@@ -64,12 +64,12 @@ you can ask us to render out our song styling for you in our [Discord server][di
 [tvdb-order]: https://thetvdb.com/series/atri-my-dear-moments/allseasons/official
 
 [//]: <> (Sources)
-[crunchyroll]:
-[amazon]: [//](https://nyaa.si/?f=0&c=0_0&q=ATRI+1080p+WEB+NanDesuKa+AMZN)
+[crunchyroll]: https://nyaa.si/?f=0&c=0_0&q=Atri+My+Dear+Moments+S01+1080p+CR+NanDesuKa
+[amazon]: https://nyaa.si/?f=0&c=0_0&q=New-raws+ATRI+My+Dear+Moments+1080p+AMZN
 
 [//]: <> (Encode info)
-[slowpics]: ifyouseethisIforgotsorry.com
-[mediainfo]: ifyouseethisIforgotsorry.com
+[slowpics]: https://slow.pics/c/GQ7Dsjns
+[mediainfo]: https://paste2.org/62XhxYxk
 
 [//]: <> (Other)
 [discord]: https://discord.gg/dk7aadV

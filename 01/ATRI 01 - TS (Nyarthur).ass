@@ -11,13 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: H:/Anime/[SubsPlease] Atri - My Dear Moments - 01 (1080p) [56E418C3].mkv
-Video File: H:/Anime/[SubsPlease] Atri - My Dear Moments - 01 (1080p) [56E418C3].mkv
+Audio File: ../../../../Downloads/ATRI - S01E01 (Premux) [E89B4F62].mkv
+Video File: ../../../../Downloads/ATRI - S01E01 (Premux) [E89B4F62].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 63
-Video Position: 21605
+Video Zoom Percent: 0.375000
+Active Line: 39
+Video Position: 3263
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,67 +26,43 @@ Style: NyarthurSigns,Crimson,50,&H00FFFFFF,&H000000FF,&H00444444,&HA0000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{=0}
-Dialogue: 0,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur2\bord4\fs120\b0\3c&HFFFFFF&\fad(522,0)\c&HFFFFFF&\pos(1824.61,929.58)\3a&H71&\1a&HFF&\t(477,522,\1a&H00&)}Log 01: The Cradle Under the Sea
-Dialogue: 1,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord1\fs120\b0\3c&HFFFFFF&\c&HFFFFFF&\fad(522,0)\pos(1824.61,929.58)\1a&HFF&\t(477,522,\1a&H00&)}Log 01: The Cradle Under the Sea
-Comment: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord0\fs120\b0\c&HDFC16B&\pos(1824.61,929.58)\4a&HFF&}Log 01: The Cradle Under the Sea
-Comment: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord0\fs120\b0\c&HC6AA5E&\pos(1824.61,929.58)\4a&HFF&}Log 01: The Cradle Under the Sea
-Comment: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord0\fs120\b0\c&H836637&\pos(1824.61,929.58)\4a&HFF&}Log 01: The Cradle Under the Sea
-Comment: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord0\fs120\b0\c&H6B452A&\pos(1824.61,929.58)\4a&HFF&}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,824,1822,826)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HDFC16B&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,826,1822,828)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HDDBF6A&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,828,1822,830)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HDCBE69&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,830,1822,832)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HDABD68&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,832,1822,834)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HD9BB68&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,834,1822,836)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HD8BA67&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,836,1822,838)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HD6B966&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,838,1822,840)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HD5B865&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,840,1822,842)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HD3B665&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,842,1822,844)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HD2B564&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,844,1822,846)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HD1B463&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,846,1822,848)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HCFB263&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,848,1822,850)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HCEB162&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,850,1822,852)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HCCB061&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,852,1822,854)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HCBAF60&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,854,1822,856)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HCAAD60&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,856,1822,858)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HC8AC5F&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,858,1822,860)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HC7AB5E&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,860,1822,862)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HC6AA5E&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,862,1822,864)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HC6AA5E&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,864,1822,866)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HC2A65B&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,866,1822,868)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HBEA259&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,868,1822,870)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HBA9E57&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,870,1822,872)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HB69A54&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,872,1822,874)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HB29652&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,874,1822,876)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HAE9250&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,876,1822,878)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HAA8E4D&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,878,1822,880)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HA68A4B&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,880,1822,882)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&HA28649&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,882,1822,884)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H9E8247&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,884,1822,886)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H9A7E44&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,886,1822,888)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H967A42&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,888,1822,890)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H927640&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,890,1822,892)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H8E723D&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,892,1822,894)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H8A6E3B&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,894,1822,896)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H866A39&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,896,1822,898)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H836637&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,898,1822,900)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H836637&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,900,1822,902)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H816436&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,902,1822,904)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H806235&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,904,1822,906)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H7E6034&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,906,1822,908)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H7D5E33&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,908,1822,910)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H7B5C33&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,910,1822,912)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H7A5A32&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,912,1822,914)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H795831&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,914,1822,916)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H775630&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,916,1822,918)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H765430&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,918,1822,920)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H74522F&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,920,1822,922)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H73502E&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,922,1822,924)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H724E2D&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,924,1822,926)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H704C2D&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,926,1822,928)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H6F4A2C&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,928,1822,930)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H6D482B&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,930,1822,932)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H6C462A&\fad(522,0)}Log 01: The Cradle Under the Sea
-Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(93,932,1822,934)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\c&H6B452A&\fad(522,0)}Log 01: The Cradle Under the Sea
+Dialogue: 0,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur2\bord4\fs120\b0\3c&HFFFFFF&\fad(522,0)\c&HFFFFFF&\pos(1824.61,929.58)\3a&H71&\1a&HFF&\fscx80\fscy80\t(477,522,\1a&H00&)}The Cradle Under the Sea
+Dialogue: 1,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord1\fs120\b0\3c&HFFFFFF&\c&HFFFFFF&\fad(522,0)\pos(1824.61,929.58)\1a&HFF&\fscx80\fscy80\t(477,522,\1a&H00&)}The Cradle Under the Sea
+Comment: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord0\fs120\b0\c&HDFC16B&\pos(1824.61,929.58)\4a&HFF&\fscx80\fscy80}The Cradle Under the Sea
+Comment: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord0\fs120\b0\c&HC6AA5E&\pos(1824.61,929.58)\4a&HFF&\fscx80\fscy80}The Cradle Under the Sea
+Comment: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord0\fs120\b0\c&H836637&\pos(1824.61,929.58)\4a&HFF&\fscx80\fscy80}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,848,1826,850)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HDFC16B&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,850,1826,852)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HDDBF6A&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,852,1826,854)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HDBBD69&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,854,1826,856)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HDABC68&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,856,1826,858)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HD8BA67&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,858,1826,860)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HD6B966&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,860,1826,862)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HD5B765&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,862,1826,864)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HD3B664&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,864,1826,866)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HD1B464&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,866,1826,868)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HD0B363&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,868,1826,870)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HCEB162&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,870,1826,872)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HCCB061&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,872,1826,874)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HCBAE60&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,874,1826,876)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HC9AD5F&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,876,1826,878)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HC7AB5E&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,878,1826,880)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HC6AA5E&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,880,1826,882)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HC6AA5E&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,882,1826,884)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HC1A55B&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,884,1826,886)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HBCA058&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,886,1826,888)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HB79B55&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,888,1826,890)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HB29652&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,890,1826,892)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HAE9150&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,892,1826,894)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HA98C4D&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,894,1826,896)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&HA4884A&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,896,1826,898)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&H9F8347&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,898,1826,900)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&H9A7E44&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,900,1826,902)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&H967942&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,902,1826,904)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&H91743F&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,904,1826,906)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&H8C6F3C&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,906,1826,908)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&H876A39&}The Cradle Under the Sea
+Dialogue: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\clip(990,908,1826,910)\pos(1824.61,929.58)\fnCrimson\an3\blur0.5\bord0\fs120\b0\4a&HFF&\fscx80\fscy80\c&H836637&}The Cradle Under the Sea
+Comment: 2,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{\fnCrimson\an3\blur0.5\bord0\fs120\b0\c&H6B452A&\pos(1824.61,929.58)\4a&HFF&\fscx80\fscy80}The Cradle Under the Sea
 Comment: 0,0:02:14.53,0:02:19.29,NyarthurSigns,,0,0,0,,{=1}
 Comment: 0,0:15:01.09,0:15:05.59,NyarthurSigns,,0,0,0,,{\fnJAVATA\fs40\blur0.75\an7\pos(751.01,968.82)}Street\N Market
 

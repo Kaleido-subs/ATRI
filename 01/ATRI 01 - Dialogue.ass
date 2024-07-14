@@ -160,8 +160,8 @@ Dialogue: 10,0:07:09.24,0:07:11.16,Default,,0,0,0,,Better catch me if you can, M
 Dialogue: 10,0:07:12.08,0:07:13.00,Default,,0,0,0,,See ya!
 Dialogue: 10,0:07:14.16,0:07:16.87,Default,,0,0,0,,Natsu{**-kun}! Wait for me!
 Dialogue: 10,0:07:19.00,0:07:20.34,Default,,0,0,0,,Find it yet?
-Dialogue: 10,0:07:20.34,0:07:21.10,Default,,0,0,0,,Oh!
-Dialogue: 10,0:07:21.87,0:07:23.13,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:07:20.34,0:07:21.09,Default,,0,0,0,,Oh!
+Dialogue: 10,0:07:21.88,0:07:23.13,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:07:29.05,0:07:30.14,Default,,0,0,0,,Here it is.
 Dialogue: 10,0:07:44.28,0:07:46.15,Default,,0,0,0,,What's this?
 Dialogue: 10,0:07:46.15,0:07:48.78,Default,,0,0,0,,What is it? A stash of gold ingots?
@@ -174,8 +174,8 @@ Dialogue: 10,0:08:19.94,0:08:21.65,Default,,0,0,0,,No... a Humanoid...
 Dialogue: 10,0:08:22.65,0:08:23.98,Default,,0,0,0,,I'm sending it up.
 Dialogue: 10,0:08:23.98,0:08:25.36,Default,,0,0,0,,Lower me the crane hook.
 Dialogue: 10,0:08:25.36,0:08:26.15,Default,,0,0,0,,Sure thing.
-Dialogue: 10,0:08:26.57,0:08:29.15,Default,,0,0,0,,She doesn't look the least bit artificial.
-Dialogue: 10,0:08:29.15,0:08:34.66,Default,,0,0,0,,I've never seen such an intricately made model before...
+Dialogue: 10,0:08:26.57,0:08:29.16,Default,,0,0,0,,She doesn't look the least bit artificial.
+Dialogue: 10,0:08:29.16,0:08:34.66,Default,,0,0,0,,I've never seen such an intricately made model before...
 Dialogue: 10,0:08:48.84,0:08:51.34,Default,,0,0,0,,Natsu{**-kun}! Natsu{**-kun}, what happened?
 Dialogue: 10,0:08:56.47,0:08:57.39,Default,,0,0,0,,Not again...
 Dialogue: 10,0:08:57.77,0:08:58.89,Default,,0,0,0,,Not again...
@@ -200,8 +200,8 @@ Dialogue: 10,0:11:04.77,0:11:10.02,Default,,0,0,0,,I do indeed belong to the cla
 Dialogue: 10,0:11:10.02,0:11:13.61,Default,,0,0,0,,but that colloquial term is rather broad and imprecise.
 Dialogue: 10,0:11:13.61,0:11:15.03,Default,,0,0,0,,Wow...
 Dialogue: 10,0:11:15.03,0:11:18.66,Default,,0,0,0,,I've never seen such a lifelike Humanoid before.
-Dialogue: 10,0:11:18.66,0:11:19.57,Default,,0,0,0,,But of course!
-Dialogue: 10,0:11:19.57,0:11:21.62,Default,,0,0,0,,I'm a super high-spec model! {this is a super regular running gag}
+Dialogue: 10,0:11:18.66,0:11:19.58,Default,,0,0,0,,But of course!
+Dialogue: 10,0:11:19.58,0:11:21.62,Default,,0,0,0,,I'm a super high-spec model! {this is a super regular running gag}
 Dialogue: 10,0:11:23.08,0:11:26.79,Default,ED,0,0,0,,Who'd've{### HATE HATE HATE HATE} guessed that old bag\nwas hiding something like this?
 Dialogue: 10,0:11:26.79,0:11:32.09,Default,,0,0,0,,Hyper-realistic Humanoids\nwent out of production a long time ago.
 Dialogue: 10,0:11:32.09,0:11:33.05,Default,,0,0,0,,It'll fetch a pretty penny!
@@ -246,9 +246,9 @@ Dialogue: 10,0:13:06.39,0:13:07.22,Default,,0,0,0,,Atri!
 Dialogue: 10,0:13:07.64,0:13:08.60,Default,,0,0,0,,Atri...
 Dialogue: 10,0:13:09.23,0:13:10.31,Default,,0,0,0,,That's me!
 Dialogue: 10,0:13:10.31,0:13:16.23,Default,,0,0,0,,To robots, being given a human name is proof\nthat you have been recognized as a living being.
-Dialogue: 10,0:13:16.23,0:13:19.44,Default,,0,0,0,,A testament to my mind-bogglingly high specs!
-Dialogue: 10,0:13:19.44,0:13:23.11,Default,,0,0,0,,Oh, but Natsuki is a perfectly fine name, too.
-Dialogue: 10,0:13:23.11,0:13:25.24,Default,ED,0,0,0,,Is this thing seriously looking down on me? {should discuss}{### idk I think it works}
+Dialogue: 10,0:13:16.23,0:13:19.45,Default,,0,0,0,,A testament to my mind-bogglingly high specs!
+Dialogue: 10,0:13:19.45,0:13:23.12,Default,,0,0,0,,Oh, but Natsuki is a perfectly fine name, too.
+Dialogue: 10,0:13:23.12,0:13:25.24,Default,ED,0,0,0,,Is this thing seriously looking down on me? {should discuss}{### idk I think it works}
 Dialogue: 10,0:13:25.24,0:13:27.70,Default,,0,0,0,,Of course not. You're much taller than I am.
 Dialogue: 10,0:13:29.87,0:13:31.08,Default,,0,0,0,,Guess you don't do sarcasm.
 Dialogue: 10,0:13:35.38,0:13:38.80,Default,,0,0,0,,Was he making fun of me, by any chance?
@@ -278,7 +278,7 @@ Dialogue: 10,0:14:40.78,0:14:43.82,Default,,0,0,0,,This place {\i1}has{\i0} chan
 Dialogue: 10,0:14:44.61,0:14:45.99,Default,,0,0,0,,How many years were you asleep?
 Dialogue: 10,0:14:47.32,0:14:49.62,Default,,0,0,0,,Was I asleep for that long?
 Dialogue: 10,0:14:49.62,0:14:51.79,Default,,0,0,0,,You don't even know that much?
-Dialogue: 10,0:14:51.79,0:14:56.12,Default,,0,0,0,,No. My memory banks are totally empty.
+Dialogue: 10,0:14:51.79,0:14:56.13,Default,,0,0,0,,No. My memory banks are totally empty.
 Dialogue: 10,0:15:03.55,0:15:04.55,Default,,0,0,0,,Follow me.
 Dialogue: 10,0:15:04.55,0:15:05.59,Default,,0,0,0,,H-Hey!
 Dialogue: 10,0:15:10.35,0:15:11.85,Default,,0,0,0,,Pick any pair you like.
@@ -311,8 +311,8 @@ Dialogue: 10,0:16:53.12,0:16:54.53,Default,,0,0,0,,Would you look at that...
 Dialogue: 10,0:16:55.41,0:16:58.87,Default,,0,0,0,,A genuine Yamasaki Factory fourth generation unit. {u okay bro?}
 Dialogue: 10,0:16:58.87,0:17:01.88,Default,,0,0,0,,That's two generations after this one here.
 Dialogue: 10,0:17:01.88,0:17:03.50,Default,,0,0,0,,Only two?
-Dialogue: 10,0:17:03.50,0:17:06.50,Default,,0,0,0,,The realism sure came a long way\nin only two generations.
-Dialogue: 10,0:17:06.50,0:17:10.05,Default,,0,0,0,,Yeah. It was all over the news\nwhen they first came out.
+Dialogue: 10,0:17:03.50,0:17:06.51,Default,,0,0,0,,The realism sure came a long way\nin only two generations.
+Dialogue: 10,0:17:06.51,0:17:10.05,Default,,0,0,0,,Yeah. It was all over the news\nwhen they first came out.
 Dialogue: 10,0:17:10.05,0:17:12.64,Default,,0,0,0,,But then they issued a recall.
 Dialogue: 10,0:17:12.64,0:17:13.68,Default,,0,0,0,,A recall?
 Dialogue: 10,0:17:13.68,0:17:14.93,Default,,0,0,0,,So, what's our quote?
@@ -329,8 +329,8 @@ Dialogue: 10,0:17:43.04,0:17:45.75,Default,,0,0,0,,What next? I can start search
 Dialogue: 10,0:17:45.75,0:17:47.17,Default,,0,0,0,,Of course! Get on it right—
 Dialogue: 10,0:17:47.46,0:17:48.34,Default,,0,0,0,,Excuse me.
 Dialogue: 10,0:17:48.88,0:17:50.09,Default,,0,0,0,,Huh?
-Dialogue: 10,0:17:50.09,0:17:54.84,Default,,0,0,0,,Can I ask you to wait\nfor a little while before you sell me?
-Dialogue: 10,0:17:54.84,0:17:56.93,Default,,0,0,0,,My former master...
+Dialogue: 10,0:17:50.09,0:17:54.85,Default,,0,0,0,,Can I ask you to wait\nfor a little while before you sell me?
+Dialogue: 10,0:17:54.85,0:17:56.93,Default,,0,0,0,,My former master...
 Dialogue: 10,0:17:56.93,0:18:02.85,Default,,0,0,0,,Rather, Nonko left me with an order\nbefore I went to sleep.
 Dialogue: 10,0:18:03.44,0:18:05.94,Default,,0,0,0,,I'd like to carry it out first!
 Dialogue: 10,0:18:06.52,0:18:07.90,Default,,0,0,0,,An order from my grandma?
@@ -365,7 +365,7 @@ Dialogue: 10,0:19:33.03,0:19:35.57,Default,,0,0,0,,The master's the only person 
 Dialogue: 10,0:19:35.57,0:19:38.66,Default,,0,0,0,,If I leave it with you, you might just run off\nin the middle of the night.
 Dialogue: 10,0:19:38.66,0:19:39.32,Default,,0,0,0,,You wanna sell her?
 Dialogue: 10,0:19:39.70,0:19:40.49,Default,,0,0,0,,You don't?
-Dialogue: 10,0:19:43.49,0:19:47.75,Default,,0,0,0,,So what if it ends up remembering\na dead master's orders?
+Dialogue: 10,0:19:43.50,0:19:47.75,Default,,0,0,0,,So what if it ends up remembering\na dead master's orders?
 Dialogue: 10,0:19:47.75,0:19:51.67,Default,,0,0,0,,Even if it does, I somehow doubt\nit's capable of carrying them out.
 Dialogue: 10,0:19:52.34,0:19:54.34,Default,TM,0,0,0,,Besides, don't you want a new leg? {### Couple syls after the keyframe, I'd extend it}
 Dialogue: 10,0:19:57.01,0:19:58.01,Default,,0,0,0,,Atri.

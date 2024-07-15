@@ -34,7 +34,7 @@ Dialogue: 10,0:00:41.10,0:00:41.94,Default,,0,0,0,,Mom...
 Dialogue: 10,0:00:51.24,0:00:52.49,Default,,0,0,0,,Not again.
 Dialogue: 10,0:00:52.49,0:00:53.95,Default,,0,0,0,,Rise and shine, kiddo!
 Dialogue: 10,0:00:54.95,0:00:56.66,Default,,0,0,0,,What are {\i1}you{\i0} doing here?
-Dialogue: 10,0:00:58.37,0:01:01.08,Default,,0,0,0,ED,Oh, don't look at me like that.{@ED consider: "Oh, don't give me that look." -p}
+Dialogue: 10,0:00:58.37,0:01:01.08,Default,,0,0,0,,Oh, don't give me that look.
 Dialogue: 10,0:01:03.54,0:01:05.67,Default,,0,0,0,,You're talking to the lady
 Dialogue: 10,0:01:05.67,0:01:07.34,Default,,0,0,0,,who's gonna make you rich.
 Dialogue: 10,0:01:09.34,0:01:10.51,Default,,0,0,0,,Personal space.
@@ -44,16 +44,15 @@ Dialogue: 10,0:01:16.18,0:01:18.89,Default,,0,0,0,,This one won't let you down, 
 Dialogue: 10,0:01:18.89,0:01:23.23,Default,,0,0,0,,Got it from a reliable seller.\nSays it's as good as new.{i don't think its perfect, but playing up the shady dealer, snakeoil salesman angle to compensate for the proceeding line a bit}
 Dialogue: 10,0:01:23.23,0:01:26.07,Default,,0,0,0,,How many times have I heard that before?
 Dialogue: 10,0:01:29.36,0:01:31.70,Default,,0,0,0,,Keep writing checks like that,\nand your death won't be pretty.
-Dialogue: 10,0:01:31.70,0:01:33.95,Default,,0,0,0,ED,Just give it a try already!{@ED don't love the double "try", maybe "Oh, knock it off already!"/"Oh, come off of it!" could work? -p}
+Dialogue: 10,0:01:31.70,0:01:33.95,Default,,0,0,0,,Just give it a shot already!
 Dialogue: 10,0:01:33.95,0:01:35.78,Default,,0,0,0,,You never know until you try!
 Dialogue: 10,0:01:36.37,0:01:36.99,Default,,0,0,0,,Here.
 Dialogue: 10,0:01:39.33,0:01:42.29,Default,,0,0,0,,Well, it {\i1}is{\i0} better than\nanything else you've brought me.
 Dialogue: 10,0:01:42.29,0:01:44.08,Default,,0,0,0,,What'd I tell you?!{not sure I like this either, feel like there's a more apt take out there}
 Dialogue: 10,0:01:45.96,0:01:47.96,Default,,0,0,0,,Guess I can at least give it a shot.
-Dialogue: 10,0:01:52.51,0:01:54.55,Default,,0,0,0,ED,Not like we've got anything to lose.{i feel like the douse merits a slightly more pessimistic, "we're fucked anyways" sorta energy; what I was deliberating over is the use of "I" vs "we" in these two lines}{@ED this feels off *somehow* but idk exactly how. maybe "nothing better to do" would be a bit better? or just going harder on the "can't get any worse than this" angle? -p}
+Dialogue: 10,0:01:52.51,0:01:54.55,Default,,0,0,0,,Not like we've got anything to lose.{i feel like the douse merits a slightly more pessimistic, "we're fucked anyways" sorta energy; what I was deliberating over is the use of "I" vs "we" in these two lines}
 Dialogue: 10,0:01:59.18,0:02:00.85,Default,,0,0,0,,Not when the world's like this.
-Dialogue: 10,0:02:14.45,0:02:19.29,Default,,0,0,0,ED,{\an8}...expected to serve as humanity's new\nsustainable energy source, the Amaterasu Project{@ED the ellipsis implies we're dropped in the middle of a sentence. this is a complete thing, as far as i can tell. drop the ellipsis (and uppercase "Expected") and/or shuffle it around a bit more. see below -p}{listening to audio, i'm pretty sure we're not starting mid-sentence -p}
-Comment: 10,0:02:14.45,0:02:19.29,Default,,0,0,0,ED,{\an8}...Amaterasu Project, expected to serve as humanity's new\nsustainable energy source,{@ED dropping article implies something preceding (possibly e.g. "the controversial/long-awaited"). could still just drop the ellipsis too -p}
+Dialogue: 10,0:02:14.45,0:02:19.29,Default,,0,0,0,,{\an8}The controversial Amaterasu Project, expected to \nserve as humanity's new sustainable energy source,
 Dialogue: 10,0:02:19.70,0:02:24.96,Default,,0,0,0,,{\an8}has been met with increasingly strong\nopposition by local populations
 Dialogue: 10,0:02:24.96,0:02:27.21,Default,,0,0,0,,{\an8}as it prepares for its first stage of rocket launches...
 Dialogue: 10,0:02:27.21,0:02:29.30,Default,,0,0,0,,Think it'll get off the ground this time?
@@ -65,7 +64,7 @@ Dialogue: 10,0:02:42.35,0:02:44.23,Default,,0,0,0,,We have to build a lasting fu
 Dialogue: 10,0:02:44.23,0:02:46.69,Default,,0,0,0,,Man, this thing sure has seen better days.
 Dialogue: 10,0:02:46.69,0:02:48.69,Default,,0,0,0,,You sure this piece of junk won't just sink?
 Dialogue: 10,0:02:48.69,0:02:50.82,Default,,0,0,0,,You're the one who came up with this plan, granny.
-Dialogue: 10,0:02:50.82,0:02:52.15,Default,,0,0,0,ED,{@ED consider "It's" -p}Catherine!
+Dialogue: 10,0:02:50.82,0:02:52.15,Default,,0,0,0,,It's Catherine!
 Dialogue: 10,0:02:52.15,0:02:54.70,Default,,0,0,0,,Call me granny again and you'll be sleeping with the fishes!
 Dialogue: 10,0:02:55.11,0:02:57.78,Default,,0,0,0,,Catherine isn't even your real name, is it?
 Dialogue: 10,0:02:57.78,0:02:59.20,Default,,0,0,0,,What's the difference?
@@ -82,14 +81,14 @@ Dialogue: 10,0:03:30.48,0:03:33.65,Default,,0,0,0,,Jesus, what am I, a black cat
 Dialogue: 10,0:03:33.65,0:03:37.28,Default,,0,0,0,,I'm Ikaruga Natsuki{**-kun}'s one and only partner!
 Dialogue: 10,0:03:37.28,0:03:38.03,Default,,0,0,0,,Hwuh?!
 Dialogue: 10,0:03:38.03,0:03:39.57,Default,,0,0,0,,Partner?!
-Dialogue: 10,0:03:39.57,0:03:41.53,Default,,0,0,0,ED,Quit making stuff up.{@ED consider "cut the crap" -p}
+Dialogue: 10,0:03:39.57,0:03:41.53,Default,,0,0,0,,Cut the crap.
 Dialogue: 10,0:03:41.53,0:03:43.91,Default,,0,0,0,,You're a con artist peddling a get-rich-quick scheme.
 Dialogue: 10,0:03:43.91,0:03:45.58,Default,,0,0,0,,It's not a scheme! It's for real!
 Dialogue: 10,0:03:45.58,0:03:49.92,Default,,0,0,0,,I happen to know for a fact that there's\ntreasure hidden in your old granny's house!
 Dialogue: 10,0:03:50.21,0:03:52.17,Default,,0,0,0,,Your grandma?
 Dialogue: 10,0:03:52.17,0:03:54.34,Default,,0,0,0,,The whatever-ologist?
-Dialogue: 10,0:03:54.34,0:03:57.84,Default,,0,0,0,ED,Dr. Yachigusa Nonko, the submarine geologist, yeah.{@ED consider: "Submarine geologist extraordinaire" (too far? maybe) -p}
-Dialogue: 10,0:03:57.84,0:04:04.35,Default,,0,0,0,ED,Catherine wants to salvage her house\nfor sunken treasure and split the profit.{@ED "split the spoils"? -p}
+Dialogue: 10,0:03:54.34,0:03:57.84,Default,,0,0,0,,Dr. Yachigusa Nonko, the submarine geologist, yeah.
+Dialogue: 10,0:03:57.84,0:04:04.35,Default,,0,0,0,,Catherine wants to salvage her house\nfor sunken treasure and split the spoils.
 Dialogue: 10,0:04:04.35,0:04:06.10,Default,,0,0,0,,That {\i1}does{\i0} sound fishy...
 Dialogue: 10,0:04:06.10,0:04:07.27,Default,,0,0,0,,Nobody asked!
 Dialogue: 10,0:04:07.27,0:04:09.27,Default,,0,0,0,,So, we good to go or what?
@@ -108,7 +107,7 @@ Dialogue: 10,0:04:36.71,0:04:39.84,Default,,0,0,0,,What if you find the treasure
 Dialogue: 10,0:04:39.84,0:04:42.30,Default,,0,0,0,,before abandoning you in the middle of the ocean?
 Dialogue: 10,0:04:42.30,0:04:43.39,Default,,0,0,0,,Wouldn't put it past her.
 Dialogue: 10,0:04:43.39,0:04:44.89,Default,,0,0,0,,Are you serious?!
-Dialogue: 10,0:04:44.89,0:04:46.93,Default,,0,0,0,ED,Don't say something so scary!{@ED "how can you say that with a straight face?!" -p}
+Dialogue: 10,0:04:44.89,0:04:46.93,Default,,0,0,0,,How can you say that with a straight face?
 Dialogue: 10,0:04:47.52,0:04:50.06,Default,,0,0,0,,If you're that worried, you can just come with me.
 Dialogue: 10,0:04:50.06,0:04:50.81,Default,,0,0,0,,Huh?
 Dialogue: 10,0:04:51.69,0:04:55.02,Default,,0,0,0,,It's been years since this thing's gone underwater.
@@ -117,15 +116,15 @@ Dialogue: 10,0:04:57.28,0:04:58.11,Default,,0,0,0,,Mhm...
 Dialogue: 10,0:04:59.07,0:05:00.40,Default,,0,0,0,,That's no fair.
 Dialogue: 10,0:05:01.20,0:05:01.99,Default,,0,0,0,,What?
 Dialogue: 10,0:05:03.62,0:05:04.66,Default,,0,0,0,,Nothing.
-Dialogue: 10,0:05:06.87,0:05:10.71,Default,,0,0,0,ST,Sea levels began rapidly rising all over the world.{@ST do you want to do italics for internal/narration? -p}
+Dialogue: 10,0:05:06.87,0:05:10.71,Default,,0,0,0,,Sea levels began rapidly rising all over the world.
 Dialogue: 10,0:05:10.71,0:05:14.75,Default,,0,0,0,,Entire cities in low-lying areas\nwere inundated in the blink of an eye.
 Dialogue: 10,0:05:14.75,0:05:16.34,Default,,0,0,0,,To this day, we don't know what caused it.
 Dialogue: 10,0:05:16.34,0:05:19.09,Default,,0,0,0,,Experts have put forth plenty of theories,
-Dialogue: 10,0:05:19.09,0:05:24.18,Default,,0,0,0,ED,such as an expansion in seawater volume due to\nglobal warming, or{@ED i think this should be "and" rather than "or"? i'm not sure -p} tectonic shifts raising the seafloor,
+Dialogue: 10,0:05:19.09,0:05:24.18,Default,,0,0,0,,such as an expansion in seawater volume due to\nglobal warming, or tectonic shifts raising the seafloor,
 Dialogue: 10,0:05:24.18,0:05:26.43,Default,,0,0,0,,but none of them have been confirmed.
 Dialogue: 10,0:05:26.43,0:05:29.68,Default,,0,0,0,,Once the sea level went up, it never went back down.
 Dialogue: 10,0:05:29.68,0:05:32.44,Default,,0,0,0,,We lost cities and infrastructure en masse,
-Dialogue: 10,0:05:32.44,0:05:35.94,Default,,0,0,0,ED,and the ocean is still\nslowly but surely gobbling up more land.{@ED moved linebreak -p}
+Dialogue: 10,0:05:32.44,0:05:35.94,Default,,0,0,0,,and the ocean is still\nslowly but surely gobbling up more land.
 Dialogue: 10,0:05:37.32,0:05:39.07,Default,,0,0,0,TM,Oh, um...{@TM could snap end to the kf, or extend like this. either's fine; i think i prefer this as is -p}
 Dialogue: 10,0:05:39.40,0:05:41.57,Default,,0,0,0,,Once I get in and close the hatch,
 Dialogue: 10,0:05:41.57,0:05:43.28,Default,,0,0,0,,release the hook for me.
@@ -171,7 +170,8 @@ Dialogue: 10,0:08:22.65,0:08:23.98,Default,,0,0,0,,I'm sending it up.
 Dialogue: 10,0:08:23.98,0:08:25.36,Default,,0,0,0,,Lower me the crane hook.
 Dialogue: 10,0:08:25.36,0:08:26.15,Default,,0,0,0,,Sure thing.
 Dialogue: 10,0:08:26.57,0:08:29.16,Default,,0,0,0,,She doesn't look the least bit artificial.
-Dialogue: 10,0:08:29.16,0:08:34.66,Default,,0,0,0,TM/ED,I've never seen such an intricately made model before...{@TM/ED this feels off with the _really_ long pause, across a kf no less. could we split this up somehow -p}
+Dialogue: 10,0:08:29.16,0:08:32.66,Default,,0,0,0,TM,I've never seen such an intricately made model before.
+Dialogue: 10,0:08:33.21,0:08:34.66,Default,,0,0,0,TM,So impressive...{@TM split. check timing onegai <3 -p}
 Dialogue: 10,0:08:48.84,0:08:51.34,Default,,0,0,0,,Natsu{**-kun}! Natsu{**-kun}, what happened?
 Dialogue: 10,0:08:56.47,0:08:57.39,Default,,0,0,0,,Not again...
 Dialogue: 10,0:08:57.77,0:08:58.89,Default,,0,0,0,,Not again...
@@ -185,7 +185,7 @@ Dialogue: 10,0:09:35.22,0:09:36.31,Default,,0,0,0,,Hurry and raise the winch!
 Dialogue: 10,0:09:43.44,0:09:44.52,Default,,0,0,0,,Natsu{**-kun}!
 Dialogue: 10,0:09:52.70,0:09:53.57,Default,,0,0,0,,There she is.
 Dialogue: 10,0:10:09.96,0:10:10.88,Default,,0,0,0,,{\i1}A leg...
-Dialogue: 10,0:10:12.76,0:10:14.30,Default,,0,0,0,ED,{\i1}That's my prosthetic.{@ED this sounds a bit _too_ matter-of-fact, i think? or maybe not enough. maybe "That has to be" or "Guess that's"; or "Is that mine?" or something? -p}
+Dialogue: 10,0:10:12.76,0:10:14.30,Default,,0,0,0,,{\i1}Must be my prosthetic.
 Dialogue: 10,0:10:16.22,0:10:17.35,Default,,0,0,0,,{\i1}Guess this is it.
 Dialogue: 10,0:10:19.68,0:10:22.18,Default,,0,0,0,,{\i1}The light sure is pretty.
 Dialogue: 10,0:10:23.98,0:10:25.44,Default,,0,0,0,,{\i1}So...
@@ -197,7 +197,7 @@ Dialogue: 10,0:11:10.02,0:11:13.61,Default,,0,0,0,,but that colloquial term is r
 Dialogue: 10,0:11:13.61,0:11:15.03,Default,,0,0,0,,Wow...
 Dialogue: 10,0:11:15.03,0:11:18.66,Default,,0,0,0,,I've never seen such a lifelike Humanoid before.
 Dialogue: 10,0:11:18.66,0:11:19.58,Default,,0,0,0,,But of course!
-Dialogue: 10,0:11:19.58,0:11:21.62,Default,,0,0,0,ED,I'm a super high-spec model! {this is a super regular running gag}{@ED consider "first-class", "top-of-the-line", "flagship"; maybe even "top-tier"? -p}
+Dialogue: 10,0:11:19.58,0:11:21.62,Default,,0,0,0,,I'm a super high-spec model!
 Dialogue: 10,0:11:23.08,0:11:26.79,Default,,0,0,0,,Who would've guessed that old bag\nwas hiding something like this?
 Dialogue: 10,0:11:26.79,0:11:32.09,Default,,0,0,0,,Hyper-realistic Humanoids\nwent out of production a long time ago.
 Dialogue: 10,0:11:32.09,0:11:33.05,Default,,0,0,0,,It'll fetch a pretty penny!
@@ -208,14 +208,14 @@ Dialogue: 10,0:11:38.22,0:11:41.18,Default,,0,0,0,,But is that something you're 
 Dialogue: 10,0:11:41.18,0:11:43.10,Default,,0,0,0,,It most certainly is not!
 Dialogue: 10,0:11:43.10,0:11:46.64,Default,,0,0,0,,It is illegal to use me in a financial transaction\nwithout the consent of my master!
 Dialogue: 10,0:11:46.64,0:11:48.06,Default,,0,0,0,,Your master?
-Dialogue: 10,0:11:48.06,0:11:50.65,Default,,0,0,0,ED,Doctor Yachigusa Nonko!{@ED i thiiiiink this wants to be "Dr." as well -p}
+Dialogue: 10,0:11:48.06,0:11:50.65,Default,,0,0,0,,Doctor Yachigusa Nonko!
 Dialogue: 10,0:11:55.19,0:11:57.03,Default,,0,0,0,,Your master...
 Dialogue: 10,0:11:58.11,0:12:00.66,Default,,0,0,0,,She passed away last month.
 Dialogue: 10,0:12:00.99,0:12:03.66,Default,,0,0,0,,Huh? Nonko's...
 Dialogue: 10,0:12:04.08,0:12:05.66,Default,,0,0,0,,Oh.
 Dialogue: 10,0:12:06.12,0:12:08.25,Default,,0,0,0,,Uh, um...
 Dialogue: 10,0:12:08.25,0:12:10.75,Default,,0,0,0,,She's dead, huh?
-Dialogue: 10,0:12:10.75,0:12:13.67,Default,,0,0,0,ED,How unfortunate. RIP.{@ED how playful is this? consider "God rest her soul", though it might come off as being _sincere_ rather than playful -p}
+Dialogue: 10,0:12:10.75,0:12:13.67,Default,,0,0,0,,How unfortunate. Thoughts and prayers.
 Dialogue: 10,0:12:13.96,0:12:15.80,Default,,0,0,0,,She's... taking this awfully well.
 Dialogue: 10,0:12:15.80,0:12:18.01,Default,,0,0,0,,Of course she is.
 Dialogue: 10,0:12:18.01,0:12:21.55,Default,,0,0,0,,Everything she says and does\nis the output of some computer code.
@@ -223,7 +223,7 @@ Dialogue: 10,0:12:21.55,0:12:23.18,Default,,0,0,0,,So there you have it!
 Dialogue: 10,0:12:23.18,0:12:26.10,Default,,0,0,0,,Your new master is this kiddo right here.\nThe good doctor's grandson.
 Dialogue: 10,0:12:26.10,0:12:28.14,Default,,0,0,0,,You get to do what he says now.
 Dialogue: 10,0:12:28.48,0:12:29.52,Default,,0,0,0,,Ooh...
-Dialogue: 10,0:12:30.98,0:12:33.69,Default,,0,0,0,ED,It's a pleasure to make your acquaintance, Mister Kiddo.{@ED "Mister" or "Master"? -p}
+Dialogue: 10,0:12:30.98,0:12:33.69,Default,,0,0,0,,It's a pleasure to make your acquaintance, Mister Kiddo.
 Dialogue: 10,0:12:33.69,0:12:36.15,Default,,0,0,0,,Is that a suitable term of address?
 Dialogue: 10,0:12:36.15,0:12:41.16,Default,,0,0,0,,Or would you prefer Daddy? {*}Young Master{*Onii-sama}?\nDear Brother? I have plenty more in my database!
 Dialogue: 10,0:12:41.99,0:12:43.12,Default,,0,0,0,,My name's not Kiddo.
@@ -246,11 +246,10 @@ Dialogue: 10,0:13:16.23,0:13:19.45,Default,,0,0,0,,A testament to my mind-boggli
 Dialogue: 10,0:13:19.45,0:13:23.12,Default,,0,0,0,,Oh, but Natsuki is a perfectly fine name, too.
 Dialogue: 10,0:13:23.12,0:13:25.24,Default,,0,0,0,,Is this thing seriously looking down on me?
 Dialogue: 10,0:13:25.24,0:13:27.70,Default,,0,0,0,,Of course not. You're much taller than I am.
-Dialogue: 10,0:13:29.87,0:13:31.08,Default,,0,0,0,ED,Guess you don't do sarcasm.{@ED this isn't really "sarcasm", is it? maybe something like below -p}
-Comment: 10,0:13:29.87,0:13:31.08,Default,,0,0,0,ED,Not high on the humor spec, though.
+Dialogue: 10,0:13:29.87,0:13:31.08,Default,,0,0,0,,Went over her head, huh?
 Dialogue: 10,0:13:35.38,0:13:38.80,Default,,0,0,0,,Was he making fun of me, by any chance?
 Dialogue: 10,0:13:43.93,0:13:48.18,Default,,0,0,0,,Whatever you do, don't sell her\nuntil I get back from school, okay?
-Dialogue: 10,0:13:48.18,0:13:49.27,Default,,0,0,0,ED,I know.{@ED feels like a non-sequitur? maybe "Sure, sure." or "Of course not." -p}
+Dialogue: 10,0:13:48.18,0:13:49.27,Default,,0,0,0,,Yeah, don't worry.
 Dialogue: 10,0:13:50.81,0:13:52.23,Default,,0,0,0,,I mean it!
 Dialogue: 10,0:13:52.23,0:13:53.81,Default,,0,0,0,,I really, really mean it!
 Dialogue: 10,0:13:57.73,0:13:59.19,Default,,0,0,0,,So, what's the plan?
@@ -272,27 +271,27 @@ Dialogue: 10,0:14:35.10,0:14:36.77,Default,,0,0,0,,Is it really that exciting?
 Dialogue: 10,0:14:36.77,0:14:37.77,Default,,0,0,0,,Yes.
 Dialogue: 10,0:14:37.77,0:14:40.19,Default,,0,0,0,,Everything I see here is brand new to me.
 Dialogue: 10,0:14:40.78,0:14:43.82,Default,,0,0,0,,This place {\i1}has{\i0} changed quite a bit\nover the past few years.
-Dialogue: 10,0:14:44.61,0:14:45.99,Default,,0,0,0,ED,How many years were you asleep?{@ED this doesn't quite sit right with me -p}
-Dialogue: 10,0:14:47.32,0:14:49.62,Default,,0,0,0,,Was I asleep for that long?
+Dialogue: 10,0:14:44.61,0:14:45.99,Default,,0,0,0,,Just how long were you asleep?
+Dialogue: 10,0:14:47.32,0:14:49.62,Default,,0,0,0,,Oh? Has it been years?
 Dialogue: 10,0:14:49.62,0:14:51.79,Default,,0,0,0,,You don't even know that much?
 Dialogue: 10,0:14:51.79,0:14:56.13,Default,,0,0,0,,No. My memory banks are totally empty.
 Dialogue: 10,0:15:03.55,0:15:04.55,Default,,0,0,0,,Follow me.
 Dialogue: 10,0:15:04.55,0:15:05.59,Default,,0,0,0,,H-Hey!
 Dialogue: 10,0:15:10.35,0:15:11.85,Default,,0,0,0,,Pick any pair you like.
 Dialogue: 10,0:15:11.85,0:15:13.81,Default,,0,0,0,,What? You're buying it shoes?
-Dialogue: 10,0:15:13.81,0:15:17.02,Default,,0,0,0,ED,It'll help increase her sale value.{@ED ehhhhh. something in the vein of "She needs to look the part to sell well"? -p}
+Dialogue: 10,0:15:13.81,0:15:17.02,Default,,0,0,0,,She needs to look the part if we want her to sell.
 Dialogue: 10,0:15:17.02,0:15:18.56,Default,,0,0,0,,Wow...
 Dialogue: 10,0:15:18.56,0:15:19.31,Default,,0,0,0,,What?
 Dialogue: 10,0:15:19.31,0:15:20.19,Default,,0,0,0,,Oh, nothing.
 Dialogue: 10,0:15:20.19,0:15:22.23,Default,,0,0,0,,This pair is the best size,{good catch, definitely an inaccuracy}
 Dialogue: 10,0:15:22.23,0:15:25.07,Default,,0,0,0,,but this has the superior design.
 Dialogue: 10,0:15:26.28,0:15:28.20,Default,,0,0,0,,We're burning daylight here.
-Dialogue: 10,0:15:28.20,0:15:29.74,Default,,0,0,0,ED,Make an executive decision already.{@ED meh. i like "executive decision" but the sentence doesn't really feel like it works around it. -p}
+Dialogue: 10,0:15:28.20,0:15:29.74,Default,,0,0,0,,Make an executive decision already.
 Dialogue: 10,0:15:36.67,0:15:38.08,Default,,0,0,0,,What do you think?
 Dialogue: 10,0:15:38.08,0:15:39.92,Default,,0,0,0,,They're a perfect fit!
 Dialogue: 10,0:15:42.46,0:15:44.67,Default,,0,0,0,,You're that happy about some shoes?
 Dialogue: 10,0:15:44.67,0:15:45.63,Default,,0,0,0,,Yes!
-Dialogue: 10,0:15:47.05,0:15:48.76,Default,,0,0,0,ED,It means my master has given me{@ED/TM i don't like this split, at all. maybe an ellipsis would fix it? -p}
+Dialogue: 10,0:15:47.05,0:15:48.76,Default,,0,0,0,,It means my master has given me...
 Dialogue: 10,0:15:49.97,0:15:52.64,Default,,0,0,0,,something to own for myself!{master has given atri a sock -p}
 Dialogue: 10,0:15:57.48,0:15:59.98,Default,,0,0,0,,Is it strange for me to be happy?
 Dialogue: 10,0:16:00.56,0:16:01.44,Default,,0,0,0,,Nah.
@@ -316,7 +315,7 @@ Dialogue: 10,0:17:13.68,0:17:14.93,Default,,0,0,0,,So, what's our quote?
 Dialogue: 10,0:17:18.14,0:17:19.56,Default,,0,0,0,,Outta my way!
 Dialogue: 10,0:17:19.56,0:17:20.60,Default,,0,0,0,,What'll it be?!
 Dialogue: 10,0:17:23.56,0:17:26.15,Default,,0,0,0,,I've never seen so many zeroes!\nAnd half of it's all mine!
-Dialogue: 10,0:17:26.15,0:17:29.90,Default,,0,0,0,,I've won! I've won the biggest jackpot of my life!
+Dialogue: 10,0:17:26.15,0:17:29.90,Default,,0,0,0,,Jackpot! I just scored the biggest win of my life!{sure thing dante -p}
 Dialogue: 10,0:17:29.90,0:17:32.24,Default,,0,0,0,,They must've been pretty defective\nto warrant a recall, right?
 Dialogue: 10,0:17:32.24,0:17:33.70,Default,,0,0,0,,And she's still worth this much?
 Dialogue: 10,0:17:33.70,0:17:36.99,Default,,0,0,0,,Collectors love these sorta things.
@@ -327,13 +326,13 @@ Dialogue: 10,0:17:45.75,0:17:47.17,Default,,0,0,0,,Of course! Get on it right—
 Dialogue: 10,0:17:47.46,0:17:48.34,Default,,0,0,0,,Excuse me.
 Dialogue: 10,0:17:48.88,0:17:50.09,Default,,0,0,0,,Huh?
 Dialogue: 10,0:17:50.09,0:17:54.85,Default,,0,0,0,,Can I ask you to wait\nfor a little while before you sell me?
-Dialogue: 10,0:17:54.85,0:17:56.93,Default,,0,0,0,ED,My former master...{@ED consider em-dash rather than ellipsis -p}
+Dialogue: 10,0:17:54.85,0:17:56.93,Default,,0,0,0,,My former master—
 Dialogue: 10,0:17:56.93,0:18:02.85,Default,,0,0,0,,Rather, Nonko left me with an order\nbefore I went to sleep.
 Dialogue: 10,0:18:03.44,0:18:05.94,Default,,0,0,0,,I'd like to carry it out first!
 Dialogue: 10,0:18:06.52,0:18:07.90,Default,,0,0,0,,An order from my grandma?
 Dialogue: 10,0:18:07.90,0:18:08.82,Default,,0,0,0,,Oh, what is it?
 Dialogue: 10,0:18:08.82,0:18:09.69,Default,,0,0,0,,It's...
-Dialogue: 10,0:18:16.03,0:18:17.41,Default,,0,0,0,ED,lost data.{@ED don't love this. maybe "Error: not found"? -p}
+Dialogue: 10,0:18:16.03,0:18:17.41,Default,,0,0,0,,lost data.
 Dialogue: 10,0:18:17.41,0:18:18.66,Default,,0,0,0,,{\i1}What?{\i0}
 Dialogue: 10,0:18:18.66,0:18:21.83,Default,,0,0,0,,Oh no! What was it?
 Dialogue: 10,0:18:21.83,0:18:24.79,Default,,0,0,0,,Um, um...
@@ -350,7 +349,7 @@ Dialogue: 10,0:18:54.53,0:18:57.41,Default,,0,0,0,,I can't believe I lost such i
 Dialogue: 10,0:18:57.41,0:18:59.87,Default,,0,0,0,,Even though I have such high specs...
 Dialogue: 10,0:18:59.87,0:19:02.16,Default,,0,0,0,,Think I'm starting to see why they got recalled.
 Dialogue: 10,0:19:03.58,0:19:07.08,Default,,0,0,0,,Still can't believe we got such\na crazy price for this bucket of bolts.
-Dialogue: 10,0:19:13.92,0:19:18.43,Default,,0,0,0,ED,Calling a robot a "bucket of bolts" is a direct violation\nof the Robot Anti-Discrimination Act!{@ED i kinda wanna jazz this up but i can't think of anything funnier. does it ever come up again? -p}
+Dialogue: 10,0:19:13.92,0:19:18.43,Default,,0,0,0,,Calling a robot a "bucket of bolts" is a direct violation\nof the Robot Anti-Discrimination Act!{the RAD Act is goated; rad, even -p}
 Dialogue: 10,0:19:18.43,0:19:20.01,Default,,0,0,0,,Take it back!
 Dialogue: 10,0:19:20.01,0:19:22.60,Default,,0,0,0,,Where were you keeping that whistle?!
 Dialogue: 10,0:19:23.89,0:19:26.02,Default,,0,0,0,,Just hurry up and remember that order already.
@@ -362,8 +361,8 @@ Dialogue: 10,0:19:33.03,0:19:35.57,Default,,0,0,0,,The master's the only person 
 Dialogue: 10,0:19:35.57,0:19:38.66,Default,,0,0,0,,If I leave it with you, you might just run off\nin the middle of the night.
 Dialogue: 10,0:19:38.66,0:19:39.32,Default,,0,0,0,,You wanna sell her?
 Dialogue: 10,0:19:39.70,0:19:40.49,Default,,0,0,0,,You don't?
-Dialogue: 10,0:19:43.50,0:19:47.75,Default,,0,0,0,ED,So what if it ends up remembering\na{@ED "its"? -p} dead master's orders?
-Dialogue: 10,0:19:47.75,0:19:51.67,Default,,0,0,0,,Even if it does, I somehow doubt\nit's capable of carrying them out.
+Dialogue: 10,0:19:43.50,0:19:47.75,Default,,0,0,0,,So what if it ends up remembering\nits dead master's orders?
+Dialogue: 10,0:19:47.75,0:19:51.67,Default,,0,0,0,,Even if it does, I somehow doubt \nthis thing's gonna be able to carry them out.
 Dialogue: 10,0:19:52.34,0:19:54.97,Default,,0,0,0,,Besides, don't you want a new leg?
 Dialogue: 10,0:19:57.01,0:19:58.01,Default,,0,0,0,,Atri.
 Dialogue: 10,0:19:58.01,0:19:58.84,Default,,0,0,0,,Yes?

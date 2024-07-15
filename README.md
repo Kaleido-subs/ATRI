@@ -9,16 +9,17 @@
 
 ### Staff
 
-| Episode Staff         |              | Song Staff       | Opening   | Ending    |
-| --------------------- | ------------ | ---------------- | --------- | --------- |
-| **Translation**       | DubstepKazoo | **Translation**  | alonesome | alonesome |
-| **Translation Check** | Yon          | **Editing**      | Bee       | Bee       |
-| **Editing**           | alonesome    | **Timing**       | BB        | BB        |
-| **Encode**            | BB           | **Typesetting**  | ?         | ?         |
-| **Timing**            | Dae          | **Song Styling** | BB        | BB        |
-| **Typesetting**       | Nyarthur     |                  |           |           |
-| **Quality Control**   | BB           |                  |           |           |
-|                       | petzku       |                  |           |           |
+| Episode Staff         |                | Song Staff       | Opening   | Ending    |
+| --------------------- | -------------- | ---------------- | --------- | --------- |
+| **Translation**       | DubstepKazoo   | **Translation**  | alonesome | alonesome |
+| **Translation Check** | Yon            | **Editing**      | Bee       | Bee       |
+| **Editing**           | alonesome      | **Timing**       | BB        | BB        |
+| **Encode**            | BB             | **Typesetting**  | —         | —         |
+| **Timing**            | Dae            | **Song Styling** | BB        | BB        |
+| **Typesetting**       | Nyarthur       |                  |           |           |
+| **Quality Control**   | BB (01)        |                  |           |           |
+|                       | petzku         |                  |           |           |
+|                       | Nazaki (02-13) |                  |           |           |
 
 ### Video
 

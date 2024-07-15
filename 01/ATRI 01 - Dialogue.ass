@@ -59,7 +59,7 @@ Dialogue: 10,0:02:27.21,0:02:29.30,Default,,0,0,0,,Think it'll get off the groun
 Dialogue: 10,0:02:29.30,0:02:30.46,Default,,0,0,0,,It will.
 Dialogue: 10,0:02:31.09,0:02:34.63,Default,,0,0,0,,But if they've got time to waste launching fireworks,
 Dialogue: 10,0:02:34.63,0:02:38.05,Default,,0,0,0,,don'tcha figure they could do something\nto actually make our lives better?
-Dialogue: 10,0:02:39.18,0:02:42.35,Default,,0,0,0,TM,Even if we can scrape by for now,\nthings'll fall apart eventually.{@TM really long leadout. i would not snap -p}
+Dialogue: 10,0:02:39.18,0:02:41.85,Default,,0,0,0,,Even if we can scrape by for now,\nthings'll fall apart eventually.
 Dialogue: 10,0:02:42.35,0:02:44.23,Default,,0,0,0,,We have to build a lasting future.
 Dialogue: 10,0:02:44.23,0:02:46.69,Default,,0,0,0,,Man, this thing sure has seen better days.
 Dialogue: 10,0:02:46.69,0:02:48.69,Default,,0,0,0,,You sure this piece of junk won't just sink?
@@ -125,7 +125,7 @@ Dialogue: 10,0:05:24.18,0:05:26.43,Default,,0,0,0,,but none of them have been co
 Dialogue: 10,0:05:26.43,0:05:29.68,Default,,0,0,0,,Once the sea level went up, it never went back down.
 Dialogue: 10,0:05:29.68,0:05:32.44,Default,,0,0,0,,We lost cities and infrastructure en masse,
 Dialogue: 10,0:05:32.44,0:05:35.94,Default,,0,0,0,,and the ocean is still\nslowly but surely gobbling up more land.
-Dialogue: 10,0:05:37.32,0:05:39.07,Default,,0,0,0,TM,Oh, um...{@TM could snap end to the kf, or extend like this. either's fine; i think i prefer this as is -p}
+Dialogue: 10,0:05:37.32,0:05:38.57,Default,,0,0,0,,Oh, um...
 Dialogue: 10,0:05:39.40,0:05:41.57,Default,,0,0,0,,Once I get in and close the hatch,
 Dialogue: 10,0:05:41.57,0:05:43.28,Default,,0,0,0,,release the hook for me.
 Dialogue: 10,0:05:43.28,0:05:44.53,Default,,0,0,0,,Hook?
@@ -138,9 +138,8 @@ Dialogue: 10,0:06:07.47,0:06:11.06,Default,,0,0,0,,Let him go already! Fuel does
 Dialogue: 10,0:06:11.06,0:06:12.23,Default,,0,0,0,,Ugh!
 Dialogue: 10,0:06:15.10,0:06:16.48,Default,,0,0,0,,Venting ballast tanks...
 Dialogue: 10,0:06:17.69,0:06:20.32,Default,,0,0,0,,I really don't think you should go through with this!
-Dialogue: 10,0:06:20.32,0:06:22.49,Default,,0,0,0,TM,The place I'm going is pretty shallow,
-Dialogue: 10,0:06:22.49,0:06:25.45,Default,,0,0,0,TM,and I know exactly where it is. I'll be fine.{@TM/ED this split is kinda weird, mainly because of the period on this half of it. i'd prob keep this all as one (below), or split just the "i'll be fine" off by itself. -p}
-Comment: 10,0:06:20.32,0:06:25.45,Default,,0,0,0,,The place I'm going is pretty shallow,\nand I know exactly where it is. I'll be fine.
+Dialogue: 10,0:06:20.32,0:06:23.95,Default,,0,0,0,,The place I'm going is pretty shallow, \Nand I know exactly where it is.
+Dialogue: 10,0:06:23.95,0:06:25.45,Default,,0,0,0,,I'll be fine.
 Dialogue: 10,0:06:25.45,0:06:27.95,Default,,0,0,0,,Besides, I owe it to myself to go at least once.
 Dialogue: 10,0:06:27.95,0:06:28.95,Default,,0,0,0,,Huh?
 Dialogue: 10,0:06:29.74,0:06:31.33,Default,,0,0,0,,Someone has to,
@@ -170,8 +169,8 @@ Dialogue: 10,0:08:22.65,0:08:23.98,Default,,0,0,0,,I'm sending it up.
 Dialogue: 10,0:08:23.98,0:08:25.36,Default,,0,0,0,,Lower me the crane hook.
 Dialogue: 10,0:08:25.36,0:08:26.15,Default,,0,0,0,,Sure thing.
 Dialogue: 10,0:08:26.57,0:08:29.16,Default,,0,0,0,,She doesn't look the least bit artificial.
-Dialogue: 10,0:08:29.16,0:08:32.66,Default,,0,0,0,TM,I've never seen such an intricately made model before.
-Dialogue: 10,0:08:33.21,0:08:34.66,Default,,0,0,0,TM,So impressive...{@TM split. check timing onegai <3 -p}
+Dialogue: 10,0:08:29.16,0:08:32.66,Default,,0,0,0,,I've never seen such an intricately made model before.
+Dialogue: 10,0:08:33.20,0:08:34.62,Default,,0,0,0,,So impressive...
 Dialogue: 10,0:08:48.84,0:08:51.34,Default,,0,0,0,,Natsu{**-kun}! Natsu{**-kun}, what happened?
 Dialogue: 10,0:08:56.47,0:08:57.39,Default,,0,0,0,,Not again...
 Dialogue: 10,0:08:57.77,0:08:58.89,Default,,0,0,0,,Not again...

@@ -69,7 +69,7 @@ you can ask us to render out our song styling for you in our [Discord server][di
 
 [//]: <> (Encode info)
 [slowpics]: https://slow.pics/c/GQ7Dsjns
-[mediainfo]: https://paste2.org/62XhxYxk
+[mediainfo]: https://paste2.org/FJKpHjkH
 
 [//]: <> (Other)
 [discord]: https://discord.gg/dk7aadV

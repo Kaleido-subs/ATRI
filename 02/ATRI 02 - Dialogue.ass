@@ -36,7 +36,7 @@ Dialogue: 10,0:00:24.88,0:00:25.76,Default,Natsuki,0,0,0,,Huh?
 Dialogue: 10,0:00:25.76,0:00:27.80,Default,Natsuki,0,0,0,,Wh-Whoa!
 Dialogue: 10,0:00:28.72,0:00:29.97,Default,Natsuki,0,0,0,,What are you doing?
 Dialogue: 10,0:00:32.55,0:00:33.39,Default,Natsuki,0,0,0,,Wait!
-Dialogue: 10,0:00:33.39,0:00:37.23,Default,Atri,0,0,0,,Watch this! I can jump to the boat at the end of the pier with relative ease! {for once I don't understand the reasoning behind the "relative" here, if it's because of the くらい I think the sense is rather off, thoughts?}
+Dialogue: 10,0:00:33.39,0:00:37.23,Default,Atri,0,0,0,TLC,Watch this! I can jump to the boat at the end of the pier with relative ease! {for once I don't understand the reasoning behind the "relative" here, if it's because of the くらい I think the sense is rather off, thoughts?}{agree, also think it could be cut -yon}
 Dialogue: 10,0:00:34.18,0:00:35.89,Alt,Natsuki,0,0,0,,Atri!
 Dialogue: 10,0:00:37.23,0:00:41.27,Default,Atri,0,0,0,,{\fad(0,500)}Witness the power of my high specs!
 Comment: 10,0:00:37.23,0:00:41.56,Default,Atri,0,0,0,,Witness the power of my high specs!{TM: Better without fade?}
@@ -74,7 +74,7 @@ Dialogue: 10,0:03:23.31,0:03:24.98,Default,Catherine,0,0,0,,I'll come back for y
 Dialogue: 10,0:03:25.27,0:03:26.02,Default,Catherine,0,0,0,,Go on, get moving!
 Dialogue: 10,0:03:44.91,0:03:49.33,Default,Atri,0,0,0,,And so I came back here while still following your orders to the letter!
 Dialogue: 10,0:03:49.33,0:03:50.13,Default,Atri,0,0,0,,Booyah!
-Dialogue: 10,0:03:50.13,0:03:51.84,Default,Natsuki,0,0,0,,"Booyah," my left kidney. {?! honestly way better than I could come up with, but booyah is sorta the wrong energy/weird to be part of atri's lexicon...}
+Dialogue: 10,0:03:50.13,0:03:51.84,Default,Natsuki,0,0,0,TLC,"Booyah," my left kidney. {?! honestly way better than I could come up with, but booyah is sorta the wrong energy/weird to be part of atri's lexicon...}{idk, maybe "Ta-da"? -yon}
 Dialogue: 10,0:03:52.50,0:03:56.34,Default,Natsuki,0,0,0,,At least that explains why Catherine was so desperate for money...
 Dialogue: 10,0:03:58.97,0:03:59.84,Default,Natsuki,0,0,0,,What are you doing?
 Dialogue: 10,0:03:59.84,0:04:01.97,Default,Atri,0,0,0,,Making breakfast!
@@ -103,7 +103,7 @@ Dialogue: 10,0:04:46.60,0:04:48.31,Default,Minamo,0,0,0,,Is everything okay? Was
 Dialogue: 10,0:04:48.31,0:04:49.35,Default,Atri,0,0,0,,Yes!
 Dialogue: 10,0:04:49.35,0:04:52.02,Default,Atri,0,0,0,,But I handled the situation perfectly!
 Dialogue: 10,0:04:52.02,0:04:52.90,Default,Atri,0,0,0,,
-Dialogue: 10,0:04:52.90,0:04:54.36,Default,Natsuki,0,0,0,,I don't wanna hear it.
+Dialogue: 10,0:04:52.90,0:04:54.36,Default,Natsuki,0,0,0,TLC,I don't wanna hear it.{I feel like this is a bit different from like "That's rich [coming from the person who caused it]" -yon}
 Dialogue: 10,0:04:54.90,0:05:02.32,Default,Atri,0,0,0,,It's all because my specs are so high that I'm able to properly emulate human behavior, errors and all...
 Dialogue: 10,0:05:02.32,0:05:06.04,Default,Atri,0,0,0,,I'll have you know most Humanoids couldn't make mistakes, even if they tried!
 Dialogue: 10,0:05:06.04,0:05:08.16,Default,Natsuki,0,0,0,,I'm getting real sick of that.
@@ -119,7 +119,7 @@ Dialogue: 10,0:05:27.47,0:05:31.27,Default,Natsuki,0,0,0,,If I keep a walking, t
 Dialogue: 10,0:05:31.27,0:05:32.90,Default,Atri,0,0,0,,S-Scrap metal!?
 Dialogue: 10,0:05:35.44,0:05:38.40,Default,Atri,0,0,0,,"Scrap metal" is a slur in direct violation of the Robot Anti-Discrimination Act!
 Dialogue: 10,0:05:38.40,0:05:39.82,Default,Atri,0,0,0,,Take it back immediately!
-Dialogue: 10,0:05:39.82,0:05:42.78,Default,Atri,0,0,0,,Refusal to comply will result in prosecution for robot harassment! {ideally want smth better for robohara, in english the sekuhara/powerhara parallels don't really exist}
+Dialogue: 10,0:05:39.82,0:05:42.78,Default,Atri,0,0,0,TLC,Refusal to comply will result in prosecution for robot harassment! {ideally want smth better for robohara, in english the sekuhara/powerhara parallels don't really exist}{"robotic" would line it a bit closer to "sexual", but also sound kind of awkward -yon}
 Dialogue: 10,0:05:42.78,0:05:43.78,Default,Natsuki,0,0,0,,Can it, you pile of scrap!
 Dialogue: 10,0:05:43.78,0:05:45.91,Default,Atri,0,0,0,,So you double down, do you!?
 Dialogue: 10,0:05:45.91,0:05:48.62,Default,Atri,0,0,0,,This is clearly discrimination! Discrimination, I say!
@@ -151,7 +151,7 @@ Dialogue: 10,0:06:49.60,0:06:52.89,Default,Natsuki,0,0,0,,If she really did leav
 Dialogue: 10,0:06:52.89,0:06:55.27,Default,Natsuki,0,0,0,,there must be some record of it.
 Dialogue: 10,0:06:55.27,0:06:56.94,Default,Natsuki,0,0,0,,I'll do some digging.
 Dialogue: 10,0:07:00.73,0:07:02.61,Default,Natsuki,0,0,0,,This isn't everything,
-Dialogue: 10,0:07:02.61,0:07:05.32,Default,Natsuki,0,0,0,,but it's at least the stuff that was stored the most carefully. {not sure I like "carefully" as the best word choice for taisetsu ni hokan, any thoughts?}
+Dialogue: 10,0:07:02.61,0:07:05.32,Default,Natsuki,0,0,0,,but it's at least the stuff that was stored the most carefully. {not sure I like "carefully" as the best word choice for taisetsu ni hokan, any thoughts?}{sounds pretty reasonable to me -yon}
 Dialogue: 10,0:07:05.32,0:07:07.49,Default,Minamo,0,0,0,,Do you have any memories of this stuff?
 Dialogue: 10,0:07:07.49,0:07:08.28,Default,Atri,0,0,0,,No.
 Dialogue: 10,0:07:12.62,0:07:15.08,Default,Natsuki,0,0,0,,Longitudinal data on sea levels rises...
@@ -172,7 +172,7 @@ Dialogue: 10,0:07:59.46,0:08:02.92,Default,Atri,0,0,0,,Seas, heed my call!
 Dialogue: 10,0:08:02.92,0:08:04.84,Default,Natsuki,0,0,0,,What are you, Moses?
 Dialogue: 10,0:08:04.84,0:08:07.01,Default,Natsuki,0,0,0,,So? You remember anything now, or what?
 Dialogue: 10,0:08:07.01,0:08:09.51,Default,Atri,0,0,0,,Um, about that...
-Dialogue: 10,0:08:09.51,0:08:12.68,Default,Minamo,0,0,0,,Hmm, why don't you come with me to school? {want smth better for the じゃあ tbh}
+Dialogue: 10,0:08:09.51,0:08:12.68,Default,Minamo,0,0,0,TLC,Hmm, why don't you come with me to school? {want smth better for the じゃあ tbh}{how about "Alright, [...] to school then?" -yon}
 Dialogue: 10,0:08:12.68,0:08:13.60,Default,Atri,0,0,0,,To school?
 Dialogue: 10,0:08:13.89,0:08:17.52,Default,Minamo,0,0,0,,Yeah. All the local kids will be there.
 Dialogue: 10,0:08:17.52,0:08:23.11,Default,Minamo,0,0,0,,One of them might know something about those important orders of yours! {feel like these two ideas are related, not disjointed}
@@ -195,12 +195,12 @@ Dialogue: 10,0:08:56.56,0:08:58.64,Default,Natsuki,0,0,0,,Besides, I can sell he
 Dialogue: 10,0:08:58.64,0:08:59.73,Default,Natsuki,0,0,0,,And then...
 Dialogue: 10,0:09:03.65,0:09:08.44,Default,Atri,0,0,0,,Master, you want to sell me so you can afford a new prosthetic, right?
 Dialogue: 10,0:09:08.78,0:09:12.45,Default,Atri,0,0,0,,Is there something you need a new prosthetic in order to do?
-Dialogue: 10,0:09:16.54,0:09:17.70,Default,Natsuki,0,0,0,,What's it to you? {is this a universally understood phrase? want something a little more curt/dismissive than just "why do you care?"}
+Dialogue: 10,0:09:16.54,0:09:17.70,Default,Natsuki,0,0,0,TLC,What's it to you? {is this a universally understood phrase? want something a little more curt/dismissive than just "why do you care?"}{don't quite understand the question, current line seems fine to me -yon}
 Dialogue: 10,0:09:18.66,0:09:25.71,Default,Atri,0,0,0,,If I can help you accomplish your goal by serving as your leg,
 Dialogue: 10,0:09:26.21,0:09:31.09,Default,Atri,0,0,0,,would that be enough to make you smile, Master? {!? really hard line argh}
 Dialogue: 10,0:09:32.76,0:09:33.80,Default,Natsuki,0,0,0,,That's not—
 Dialogue: 10,0:09:33.80,0:09:36.56,Default,Atri,0,0,0,,"That's not" what? What do you mean?
-Dialogue: 10,0:09:36.56,0:09:39.98,Default,Natsuki,0,0,0,,Shut up. I can manage just fine on my own. {don't like "make do" and don't like "live" either, thoughts}
+Dialogue: 10,0:09:36.56,0:09:39.98,Default,Natsuki,0,0,0,TLC,Shut up. I can manage just fine on my own. {don't like "make do" and don't like "live" either, thoughts}{this seems good -yon}
 Dialogue: 10,0:09:42.31,0:09:44.69,Default,Minamo,0,0,0,,Atri-chan, do you have a second?
 Dialogue: 10,0:09:44.69,0:09:45.98,Default,Atri,0,0,0,,Huh? But—
 Dialogue: 10,0:09:46.57,0:09:48.78,Default,Natsuki,0,0,0,,Go. That's an order.
@@ -248,9 +248,9 @@ Dialogue: 10,0:12:05.33,0:12:07.42,Default,Minamo,0,0,0,,I doubt he'll actually 
 Dialogue: 10,0:12:07.42,0:12:11.09,Default,Atri,0,0,0,,Why do you say that? It seems like a perfectly logical decision. {perhaps slightly overtranslated, dubsy's idea was probably workable enough}
 Dialogue: 10,0:12:11.42,0:12:12.38,Default,Minamo,0,0,0,,Hmm...
 Dialogue: 10,0:12:13.05,0:12:19.01,Default,Minamo,0,0,0,,It's hard to say, but I think he likes you.
-Dialogue: 10,0:12:22.39,0:12:23.72,Default,Atri,0,0,0,,He does? {feel like the nuance is less incredulity but more uncertainty about the meaning of her words, fuck if I know how to convey that though, send help}
+Dialogue: 10,0:12:22.39,0:12:23.72,Default,Atri,0,0,0,TLC,He does? {feel like the nuance is less incredulity but more uncertainty about the meaning of her words, fuck if I know how to convey that though, send help}{maybe make it sound more like a vocab question? "Likes?" / "Likes me?" -yon}
 Dialogue: 10,0:12:24.06,0:12:28.48,Default,Minamo,0,0,0,,Yeah. So no need to make him think about the future too much—
-Dialogue: 10,0:12:28.48,0:12:30.44,Default,Minamo,0,0,0,,just be there by his side, okay? {really hard line, any thoughts?}
+Dialogue: 10,0:12:28.48,0:12:30.44,Default,Minamo,0,0,0,TLC,just be there by his side, okay? {really hard line, any thoughts?}{"just be there for him, okay?" -yon}{you even used this two lines down when Atri's repeating it -yon}
 Dialogue: 10,0:12:32.48,0:12:36.99,Default,Minamo,0,0,0,,That alone will be a huge weight off his shoulders!
 Dialogue: 10,0:12:39.66,0:12:42.49,Default,Atri,0,0,0,,Just being there for him is enough...
 Dialogue: 10,0:12:44.37,0:12:46.00,Default,Atri,0,0,0,,I don't get it...
@@ -299,7 +299,7 @@ Dialogue: 10,0:15:30.87,0:15:35.87,Default,Atri,0,0,0,,Most unfortunately, I am 
 Dialogue: 10,0:15:35.87,0:15:38.67,Default,Atri,0,0,0,,I'm way too high-spec for thaaat...
 Dialogue: 10,0:15:39.29,0:15:40.71,Default,Natsuki,0,0,0,,Hey. Hey!
 Dialogue: 10,0:15:40.71,0:15:44.05,Default,Natsuki,0,0,0,,You're a freaking robot! How can you have trouble waking up in the morning?!
-Dialogue: 10,0:15:46.30,0:15:49.64,Default,Atri,0,0,0,,I'm a low voltage model...
+Dialogue: 10,0:15:46.30,0:15:49.64,Default,Atri,0,0,0,TLC,I'm a low voltage model...{I feel like this doesn't convey the "low blood pressure" joke, but that seems pretty hard to handle -yon}
 Dialogue: 10,0:15:49.64,0:15:51.85,Default,Natsuki,0,0,0,,Low voltage? What's that supposed to mean?
 Dialogue: 10,0:15:51.85,0:15:55.52,Default,Atri,0,0,0,,Master, I can't reach my back teeth.
 Dialogue: 10,0:15:55.52,0:15:56.77,Default,Natsuki,0,0,0,,What're you looking at me for?
@@ -324,10 +324,10 @@ Dialogue: 10,0:17:03.67,0:17:07.01,Default,Atri,0,0,0,,How dare you take advanta
 Dialogue: 10,0:17:07.01,0:17:08.80,Default,Natsuki,0,0,0,,I don't wanna hear it!
 Dialogue: 10,0:17:08.80,0:17:11.26,Default,Natsuki,0,0,0,,You tried to punch my lights out yesterday!
 Dialogue: 10,0:17:12.14,0:17:13.56,Default,Atri,0,0,0,,Now look what you've done.
-Dialogue: 10,0:17:13.56,0:17:16.47,Default,Atri,0,0,0,,My joints feel all misaligned... {is 関節 only used in a biological sense or is it also the term used for mechanical joints?}
+Dialogue: 10,0:17:13.56,0:17:16.47,Default,Atri,0,0,0,TLC,My joints feel all misaligned... {is 関節 only used in a biological sense or is it also the term used for mechanical joints?}{only biological I think -yon}
 Dialogue: 10,0:17:16.85,0:17:18.23,Default,Natsuki,0,0,0,,You got what you deserved.
 Dialogue: 10,0:17:18.23,0:17:19.73,Default,Atri,0,0,0,,How do you figure that?!
-Dialogue: 10,0:17:19.73,0:17:22.56,Default,Minamo,0,0,0,,Either way, aren't you glad now you kept Atri-chan around?
+Dialogue: 10,0:17:19.73,0:17:22.56,Default,Minamo,0,0,0,TLC,Either way, aren't you glad now you kept Atri-chan around?{I would lean to taking this as a statement about herself - "I'm glad" -yon}
 Dialogue: 10,0:17:22.56,0:17:26.57,Default,Natsuki,0,0,0,,Listen, the {\i1}instant{\i0} I work things out with Catherine, it's off to the scrap yard with her.
 Dialogue: 10,0:17:26.57,0:17:27.74,Default,Natsuki,0,0,0,,{\i1}After{\i0} a full memory reset.
 Dialogue: 10,0:17:28.03,0:17:32.03,Default,Minamo,0,0,0,,Which means as long as that woman doesn't show up, you'll let Atri-chan stay?
@@ -351,7 +351,7 @@ Dialogue: 10,0:18:11.07,0:18:16.45,Default,Minamo,0,0,0,,So you're saying as lon
 Dialogue: 10,0:18:19.58,0:18:22.62,Default,Minamo,0,0,0,,I know there's nothing at school for you, Natsu-kun.
 Dialogue: 10,0:18:23.00,0:18:26.00,Default,Minamo,0,0,0,,But it's the only school this town has.
 Dialogue: 10,0:18:26.00,0:18:29.13,Default,Minamo,0,0,0,,If it goes away, there won't be anything left.
-Dialogue: 10,0:18:30.09,0:18:34.55,Default,Minamo,0,0,0,,So maybe it seems silly, but I still wanna keep it alive. {tricky line, "is it wrong" feels much too defensive compared to the unironic, slightly self deprecatory sense here}
+Dialogue: 10,0:18:30.09,0:18:34.55,Default,Minamo,0,0,0,TLC,So maybe it seems silly, but I still wanna keep it alive. {tricky line, "is it wrong" feels much too defensive compared to the unironic, slightly self deprecatory sense here}{would agree, also, assuming "selfish" has been consciously not used, maybe "wishful"? -yon}
 Dialogue: 10,0:18:42.52,0:18:43.81,Default,Atri,0,0,0,,Where are we going?
 Dialogue: 10,0:18:44.10,0:18:46.94,Default,Natsuki,0,0,0,,Stocking up on provisions. Water, too.
 Dialogue: 10,0:18:47.86,0:18:52.24,Default,Natsuki,0,0,0,,Public infrastructure's in shambles, and utilities are all out of commission.
@@ -369,7 +369,7 @@ Dialogue: 10,0:19:21.35,0:19:24.14,Default,Natsuki,0,0,0,,They'll be sad if thei
 Dialogue: 10,0:19:27.23,0:19:31.65,Default,Natsuki,0,0,0,,There used to be plenty of selfish bastards who'd pick the shelves clean of whatever they wanted,
 Dialogue: 10,0:19:32.19,0:19:36.07,Default,Natsuki,0,0,0,,but they gave up on this place and left a long time ago. {perhaps slightly retime this line?}
 Dialogue: 10,0:19:37.03,0:19:41.58,Default,Natsuki,0,0,0,,The only people left here are the ones who are too poor to move anywhere else.
-Dialogue: 10,0:19:42.33,0:19:45.54,Default,Natsuki,0,0,0,,And nobody gives a damn about us anymore. {!! okay hear me out...}
+Dialogue: 10,0:19:42.33,0:19:45.54,Default,Natsuki,0,0,0,TLC,And nobody gives a damn about us anymore. {!! okay hear me out...}{The "And" feels a bit out of place -yon}
 Dialogue: 10,0:19:48.25,0:19:50.38,Default,Natsuki,0,0,0,,See those turbines over there?
 Dialogue: 10,0:19:50.67,0:19:54.09,Default,Natsuki,0,0,0,,There used to be land under them.
 Dialogue: 10,0:19:54.09,0:19:56.63,Default,Natsuki,0,0,0,,This island used to be connected to the mainland.
@@ -382,7 +382,7 @@ Dialogue: 10,0:20:17.24,0:20:19.74,Default,Atri,0,0,0,,Even though she had the c
 Dialogue: 10,0:20:20.70,0:20:22.33,Default,Natsuki,0,0,0,,Well...
 Dialogue: 10,0:20:22.70,0:20:26.50,Default,Atri,0,0,0,,I'm sure there are still people who choose to stay because they like it here.
 Dialogue: 10,0:20:27.50,0:20:29.50,Default,Atri,0,0,0,,Maybe Nonko was one of them...
-Dialogue: 10,0:20:30.21,0:20:32.42,Default,Atri,0,0,0,,Maybe that's why she wanted to save this town.
+Dialogue: 10,0:20:30.21,0:20:32.42,Default,Atri,0,0,0,TLC,Maybe that's why she wanted to save this town.{I think this is the wrong order, I think it's "Because she wanted to save this town [she was putting all that effort into research]" -yon}
 Dialogue: 10,0:20:35.05,0:20:36.59,Default,Atri,0,0,0,,Natsuki-san!
 Dialogue: 10,0:20:36.59,0:20:40.80,Default,Atri,0,0,0,,Is that thing over there the rocket?
 Dialogue: 10,0:20:40.80,0:20:41.89,Default,Natsuki,0,0,0,,Yeah.

@@ -14,11 +14,11 @@
 | **Translation**       | DubstepKazoo   | **Translation**  | alonesome | alonesome |
 | **Translation Check** | Yon            | **Editing**      | Bee       | Bee       |
 | **Editing**           | alonesome      | **Timing**       | BB        | BB        |
-| **Encode**            | BB             | **Typesetting**  | —         | —         |
-| **Timing**            | Dae            | **Song Styling** | BB        | BB        |
-| **Typesetting**       | Nyarthur       |                  |           |           |
-| **Quality Control**   | BB (01)        |                  |           |           |
-|                       | petzku         |                  |           |           |
+| **Encode**            | BB             | **Typesetting**  | —         | BB        |
+| **Timing**            | Dae            |                  |           | Nyarthur  |
+| **Typesetting**       | Nyarthur       | **Song Styling** | BB        | BB        |
+| **Quality Control**   | petzku         |                  | petzku    |           |
+|                       | BB (01)        |                  |           |           |
 |                       | Nazaki (02-13) |                  |           |           |
 
 ### Video

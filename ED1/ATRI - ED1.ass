@@ -406,7 +406,8 @@ Comment: 0,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,kara,ikenai koto wa
 Comment: 0,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,kara,chigau sekai no kaze
 Comment: 0,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,kara,wo ireru koto darou
 Comment: 0,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,kara,kotae wa wakaranai
-Comment: 0,0:00:38.94,0:00:42.61,ED1,rom,0,0,0,kara,jibun ga shinjiru mono tegakari
+Comment: 0,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,kara,jibun ga
+Comment: 0,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,kara,shinjiru mono tegakari
 Comment: 0,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,kara,suki na you ni ikitai yo
 Comment: 0,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,kara,sou da ima
 Comment: 0,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,kara,kara nanika hajimeyou
@@ -431,7 +432,8 @@ Comment: 0,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,kara,To throw all the rules out t
 Comment: 0,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,kara,And let in a whole whirlwind of change
 Comment: 0,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,kara,That we needed so desperately
 Comment: 0,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,kara,But who can say where we’ll land one day?
-Comment: 0,0:00:38.94,0:00:42.61,ED1,eng,0,0,0,kara,Just keep it up, put your trust and faith in your heart beat
+Comment: 0,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,kara,Just keep it up
+Comment: 0,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,kara,Put your trust and faith in your heart beat
 Comment: 0,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,kara,I would say, you have eyes for something more
 Comment: 0,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,kara,Take it step by step
 Comment: 0,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,kara,And we’ll find just what we’ve been searching for
@@ -483,10 +485,14 @@ Dialogue: 4,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&H
 Dialogue: 5,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}kotae wa wakaranai
 Dialogue: 6,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}kotae wa wakaranai
 Dialogue: 7,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}kotae wa wakaranai
-Dialogue: 4,0:00:38.94,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}jibun ga shinjiru mono tegakari
-Dialogue: 5,0:00:38.94,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}jibun ga shinjiru mono tegakari
-Dialogue: 6,0:00:38.94,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}jibun ga shinjiru mono tegakari
-Dialogue: 7,0:00:38.94,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}jibun ga shinjiru mono tegakari
+Dialogue: 4,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}jibun ga
+Dialogue: 5,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}jibun ga
+Dialogue: 6,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}jibun ga
+Dialogue: 7,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}jibun ga
+Dialogue: 4,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}shinjiru mono tegakari
+Dialogue: 5,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}shinjiru mono tegakari
+Dialogue: 6,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}shinjiru mono tegakari
+Dialogue: 7,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}shinjiru mono tegakari
 Dialogue: 4,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}suki na you ni ikitai yo
 Dialogue: 5,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}suki na you ni ikitai yo
 Dialogue: 6,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}suki na you ni ikitai yo
@@ -583,10 +589,14 @@ Dialogue: 4,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&H
 Dialogue: 5,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}But who can say where we’ll land one day?
 Dialogue: 6,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}But who can say where we’ll land one day?
 Dialogue: 7,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}But who can say where we’ll land one day?
-Dialogue: 4,0:00:38.94,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Just keep it up, put your trust and faith in your heart beat
-Dialogue: 5,0:00:38.94,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Just keep it up, put your trust and faith in your heart beat
-Dialogue: 6,0:00:38.94,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Just keep it up, put your trust and faith in your heart beat
-Dialogue: 7,0:00:38.94,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Just keep it up, put your trust and faith in your heart beat
+Dialogue: 4,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Just keep it up
+Dialogue: 5,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Just keep it up
+Dialogue: 6,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Just keep it up
+Dialogue: 7,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Just keep it up
+Dialogue: 4,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Put your trust and faith in your heart beat
+Dialogue: 5,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Put your trust and faith in your heart beat
+Dialogue: 6,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Put your trust and faith in your heart beat
+Dialogue: 7,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Put your trust and faith in your heart beat
 Dialogue: 4,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}I would say, you have eyes for something more
 Dialogue: 5,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}I would say, you have eyes for something more
 Dialogue: 6,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}I would say, you have eyes for something more

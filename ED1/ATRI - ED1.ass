@@ -20,7 +20,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED1,Mario Party Hudson,67,&H005C59EB,&H000D1F9B,&H00FFFFFF,&H0033333A,0,0,0,0,98,100,0.75,0,1,0,0,2,100,100,69,1
+Style: ED1,Mario Party Hudson,78,&H005C59EB,&H000D1F9B,&H00FFFFFF,&H0033333A,0,0,0,0,98,100,0.75,0,1,0,0,2,100,100,62,1
 Style: LightSigns (ED1),Advanced Pixel-7,56,&H00FFFFFF,&H00FF7E6E,&H00DD9D3D,&H506A1C03,0,0,0,0,100,100,1.5,0,1,0,0,2,100,100,44,1
 
 [Events]
@@ -32,21 +32,21 @@ Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,math.randomseed(69)
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom') and -60 or 0; end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{=51}
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,{=54}---- Lyrics
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,{=44}---- Lyrics
 Comment: 0,0:00:00.00,0:00:00.00,ED1,lyrics,0,0,0,template line loop layer 4,!relayer($loop_layer + 3)!{!ln.tag.pos(5, 5, 0, pos_y())!}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line,{\1a&HFF&\3a&HFF&\ko0}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line actor rom noactor alt,{\fscx80\fscy80}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 5 layer 6 layer 7,{\blur0.7\xshad0.01}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 5 layer 6 layer 7,{\xshad0.01}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,shad,0,0,0,mixin line layer 4,{\4a&HB4&\shad4\bord12\blur14}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,ring_outer,0,0,0,mixin line layer 5,{\4c!gc(3)!\bord8}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,ring_middle,0,0,0,mixin line layer 6,{\4c!gc(2)!\bord1.6}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,ring_inner,0,0,0,mixin line layer 7,{\4c!gc(1)!}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,ring_inner,0,0,0,mixin line layer 7 actor rom,{\bord0.2}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line actor fade,{=55}!retime('line', 0, -42)!{\fad(0,200)\t(!line.duration-400!,!line.duration-50!,1.5,\4c!gc(3)!)}
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{=57}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line actor fade,{=45}!retime('line', 0, -42)!{\fad(0,200)\t(!line.duration-400!,!line.duration-50!,1.5,\4c!gc(3)!)}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{=63}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{=2}---- TS
 Dialogue: 0,0:00:02.57,0:00:02.98,LightSigns (ED1),lightpink,0,0,0,,{\an7\pos(245,356)\c&HB486FE&\blur1\p1}m 86 82 l -85 82 -85 -82 86 -82
 Dialogue: 0,0:00:02.57,0:00:02.98,LightSigns (ED1),lightpink,0,0,0,,{\an7\pos(16,460)\c&HB486FE&\blur1\p1}m 16 23 l -15 23 -15 -22 16 -22
@@ -112,7 +112,7 @@ Dialogue: 2,0:00:02.57,0:00:02.98,LightSigns (ED1),text,0,0,0,,{\an5\fnAdvanced 
 Dialogue: 2,0:00:02.57,0:00:02.98,LightSigns (ED1),text,0,0,0,,{\an5\fnAdvanced Pixel-7\fs200\fscy110\pos(1757,661)\blur0.7\iclip(1294.48,594.22,1348.64,748.05)}Wha{\fsp-25\blur0.7}t {\fsp\blur0.7}i{\fsp-25\blur0.7}s {\fsp\blur0.7}it?
 Dialogue: 2,0:00:02.57,0:00:02.98,LightSigns (ED1),text,0,0,0,,{\an5\fnAdvanced Pixel-7\fs250\fscy110\c&HFFFFFF&\1a&HC8&\pos(210,852)\iclip(m 571 761 l 572 864 842 864 848 742)\blur0.7}Wha{\fsp-25\blur0.7}t {\fsp\blur0.7}i{\fsp-25\blur0.7}s {\fsp\blur0.7}it?
 Dialogue: 2,0:00:02.57,0:00:02.98,LightSigns (ED1),text,0,0,0,,{=3}{\an5\fnAdvanced Pixel-7\fs250\fscy110\c&HFFFFFF&\frz180\1a&HC8&\pos(1226,278)\blur0.7\iclip(m 1304 229 b 1343 300 1351 372 1350 440 1155 439 765 438 570 437 569 375 587 294 618 228 l 818 227 818 220 757 220 749 209 750 116 1136 117 1138 147 1191 147 1193 203 1228 204 1231 227)}Wha{\fsp-25\blur0.7}t {\fsp\blur0.7}i{\fsp-25\blur0.7}s {\fsp\blur0.7}it?
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{=28}-- Manual lines
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{=60}-- Manual lines
 Comment: 0,0:00:42.61,0:00:42.61,ED1,,0,0,0,,{=10}---- Bubble 1
 Dialogue: 0,0:00:42.61,0:00:43.19,ED1,bubble1,0,0,0,,{\an7\pos(765.33,580)\c&HFAFBFF&\blur1\p1\fscx100}m 25 -87 b -3 -83 -31 -77 -60 -76 l -147 -80 -196 5 -139 81 -128 85 -44 79 39 84 133 57 164 79 153 49 153 48 197 18 188 -42 136 -76 79 -70
 Dialogue: 0,0:00:42.61,0:00:43.19,ED1,bubble1,0,0,0,,{\an7\pos(765.33,580)\c&H1B2F51&\1a&H00&\blur1\p1\fscx100}m 25 -79 l 76 -62 77 -62 78 -62 79 -62 80 -62 133 -67 134 -67 179 -39 180 -37 187 13 186 14 147 42 146 43 145 44 145 45 144 47 144 50 140 50 b 137 50 134 49 131 49 l 38 76 37 76 -44 71 -126 77 -127 77 -133 75 -134 74 -185 5 -185 4 -143 -70 -141 -72 -60 -67 -59 -67 -58 -67 24 -79 m -58 -64 l -59 -64 -60 -64 -140 -67 -181 5 -131 71 -126 73 -45 68 -44 68 -43 68 37 72 130 45 131 45 133 45 134 45 137 45 137 46 138 46 140 47 140 46 141 43 142 42 143 41 144 40 183 13 176 -36 132 -64 80 -58 79 -58 b 78 -58 76 -58 75 -58 l 75 -59 24 -76
@@ -396,7 +396,7 @@ Dialogue: 0,0:00:56.24,0:00:56.29,ED1,bubble2,0,0,0,,{=21}{\an7\pos(380.08,-118.
 Dialogue: 0,0:00:56.24,0:00:56.29,ED1,bubble2,0,0,0,,{=20=25}{\an7\pos(381.06,-118.11)\fscx97.77\fscy97.77\c&H1B2F51&\blur0.7\p1\fscx100}m 54 -220 b 56 -219 56 -216 56 -214 56 -208 57 -202 58 -196 62 -177 67 -158 80 -143 83 -139 88 -135 93 -131 136 -100 190 -126 238 -126 l 237 -125 b 225 -106 206 -93 193 -75 185 -63 183 -48 191 -36 194 -32 197 -29 200 -27 206 -22 213 -18 219 -15 231 -10 244 -6 256 0 l 256 1 b 254 4 245 5 242 6 230 9 217 11 205 16 200 18 196 20 192 23 189 25 187 27 185 30 171 50 191 76 203 91 205 95 208 99 211 102 l 210 103 b 193 105 176 100 160 99 153 99 144 99 139 105 132 116 141 133 146 143 149 147 151 151 153 155 153 156 154 158 152 159 151 159 149 157 148 157 144 155 140 153 137 150 124 143 112 134 97 132 92 131 85 131 79 131 34 137 13 185 -8 220 l -8 219 b -17 204 -22 187 -29 172 -40 148 -58 124 -84 116 -93 113 -102 112 -111 112 -142 111 -172 119 -202 126 -211 128 -219 130 -229 131 -231 131 -235 132 -238 131 -240 130 -235 126 -234 125 -229 119 -223 113 -218 108 -204 93 -188 77 -185 56 -184 42 -191 31 -201 23 -218 10 -238 4 -256 -6 l -256 -7 b -240 -12 -223 -15 -208 -23 l -209 -24 b -218 -33 -229 -39 -240 -46 -243 -47 -246 -49 -248 -50 -249 -50 -250 -51 -250 -52 -249 -54 -244 -55 -242 -55 -233 -57 -224 -57 -215 -58 -202 -59 -189 -62 -177 -65 -161 -69 -145 -76 -135 -90 -119 -111 -120 -139 -122 -164 -122 -173 -123 -183 -124 -192 -124 -194 -125 -200 -123 -201 -121 -202 -117 -198 -115 -196 -109 -191 -103 -186 -97 -181 -85 -172 -72 -163 -58 -156 -48 -150 -38 -145 -26 -143 -10 -140 4 -148 14 -161 28 -179 38 -202 53 -220 m 50 -206 b 36 -183 24 -153 -2 -140 -16 -133 -32 -137 -46 -144 -73 -156 -96 -174 -119 -192 l -118 -191 b -117 -172 -115 -152 -116 -133 -116 -123 -118 -113 -121 -104 -123 -99 -126 -94 -129 -89 -151 -55 -199 -54 -235 -50 l -234 -49 b -226 -45 -217 -41 -211 -34 -208 -31 -205 -27 -205 -23 -206 -18 -210 -15 -214 -13 -222 -8 -231 -7 -240 -5 l -239 -4 b -234 1 -227 2 -221 5 -209 11 -198 19 -189 29 -187 31 -184 34 -183 38 -171 61 -191 86 -205 102 -208 106 -211 109 -214 112 -218 117 -222 121 -226 125 l -225 125 b -191 117 -158 106 -123 105 -100 105 -75 110 -57 125 -48 133 -41 141 -35 151 -23 169 -15 189 -7 208 l -7 207 b 5 183 20 158 43 142 56 132 71 126 88 126 108 128 126 138 143 147 l 143 146 b 140 140 137 134 135 127 134 123 133 120 133 116 133 113 133 110 133 108 135 99 142 95 150 95 162 94 175 96 188 97 192 97 197 98 202 98 l 201 97 b 195 89 188 80 183 71 181 66 178 60 177 54 176 50 176 46 176 42 178 16 209 8 230 3 234 2 238 1 243 0 l 242 0 b 231 -5 220 -9 210 -15 204 -18 198 -23 193 -27 190 -31 187 -34 184 -39 170 -66 198 -92 216 -109 219 -113 223 -116 226 -120 l 225 -120 b 206 -119 187 -114 167 -112 136 -108 99 -113 77 -138 71 -145 67 -153 63 -161 57 -176 54 -192 50 -207
 Comment: 0,0:01:16.85,0:01:16.85,ED1,,0,0,0,,{=8}---- Other
 Dialogue: 9,0:01:16.64,0:01:17.14,ED1,chest,0,0,0,,{=9}{\an7\pos(960,954)\blur2\c&H235476&\1a&HFF&\t(150, 400,\1a&H00&)\p1\fscx100}m -980 -70 l 980 -70 980 72 -980 72
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{=29}-- Manual lines
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{=61}-- Manual lines
 Comment: 0,0:00:01.61,0:00:01.61,Default,,0,0,0,sync,{EDSync — First frame of "YES" zoom}
 Comment: 0,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,kara,mado no soto wa aoi sora
 Comment: 0,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,kara,to natsu no taiyou
@@ -450,214 +450,214 @@ Comment: 0,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,kara,At the end of the road
 Comment: 0,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,kara,Will another begin
 Comment: 0,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,kara,Leave your doubts behind and sail the open seas
 Comment: 0,0:01:17.66,0:01:22.44,ED1,eng fade,0,0,0,kara,And keep your eyes on all your wildest of dreams!
-Dialogue: 4,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}mado no soto wa aoi sora
-Dialogue: 5,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}mado no soto wa aoi sora
-Dialogue: 6,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}mado no soto wa aoi sora
-Dialogue: 7,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}mado no soto wa aoi sora
-Dialogue: 4,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}to natsu no taiyou
-Dialogue: 5,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}to natsu no taiyou
-Dialogue: 6,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}to natsu no taiyou
-Dialogue: 7,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}to natsu no taiyou
-Dialogue: 4,0:00:18.44,0:00:20.63,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}juugyouchuu no kyoushitsu wa
-Dialogue: 5,0:00:18.44,0:00:20.63,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}juugyouchuu no kyoushitsu wa
-Dialogue: 6,0:00:18.44,0:00:20.63,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}juugyouchuu no kyoushitsu wa
-Dialogue: 7,0:00:18.44,0:00:20.63,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}juugyouchuu no kyoushitsu wa
-Dialogue: 4,0:00:20.63,0:00:23.00,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}yodonda kuuki de
-Dialogue: 5,0:00:20.63,0:00:23.00,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}yodonda kuuki de
-Dialogue: 6,0:00:20.63,0:00:23.00,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}yodonda kuuki de
-Dialogue: 7,0:00:20.63,0:00:23.00,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}yodonda kuuki de
-Dialogue: 4,0:00:23.65,0:00:26.13,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}ima no boku ga yaranakereba
-Dialogue: 5,0:00:23.65,0:00:26.13,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}ima no boku ga yaranakereba
-Dialogue: 6,0:00:23.65,0:00:26.13,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}ima no boku ga yaranakereba
-Dialogue: 7,0:00:23.65,0:00:26.13,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}ima no boku ga yaranakereba
-Dialogue: 4,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}ikenai koto wa
-Dialogue: 5,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}ikenai koto wa
-Dialogue: 6,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}ikenai koto wa
-Dialogue: 7,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}ikenai koto wa
-Dialogue: 4,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}chigau sekai no kaze
-Dialogue: 5,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}chigau sekai no kaze
-Dialogue: 6,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}chigau sekai no kaze
-Dialogue: 7,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}chigau sekai no kaze
-Dialogue: 4,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}wo ireru koto darou
-Dialogue: 5,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}wo ireru koto darou
-Dialogue: 6,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}wo ireru koto darou
-Dialogue: 7,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}wo ireru koto darou
-Dialogue: 4,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}kotae wa wakaranai
-Dialogue: 5,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}kotae wa wakaranai
-Dialogue: 6,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}kotae wa wakaranai
-Dialogue: 7,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}kotae wa wakaranai
-Dialogue: 4,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}jibun ga
-Dialogue: 5,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}jibun ga
-Dialogue: 6,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}jibun ga
-Dialogue: 7,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}jibun ga
-Dialogue: 4,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}shinjiru mono tegakari
-Dialogue: 5,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}shinjiru mono tegakari
-Dialogue: 6,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}shinjiru mono tegakari
-Dialogue: 7,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}shinjiru mono tegakari
-Dialogue: 4,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}suki na you ni ikitai yo
-Dialogue: 5,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}suki na you ni ikitai yo
-Dialogue: 6,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}suki na you ni ikitai yo
-Dialogue: 7,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}suki na you ni ikitai yo
-Dialogue: 4,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}sou da ima
-Dialogue: 5,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}sou da ima
-Dialogue: 6,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}sou da ima
-Dialogue: 7,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}sou da ima
-Dialogue: 4,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}kara nanika hajimeyou
-Dialogue: 5,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}kara nanika hajimeyou
-Dialogue: 6,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}kara nanika hajimeyou
-Dialogue: 7,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}kara nanika hajimeyou
-Dialogue: 4,0:00:56.89,0:00:58.25,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}ie-su no-o no
-Dialogue: 5,0:00:56.89,0:00:58.25,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}ie-su no-o no
-Dialogue: 6,0:00:56.89,0:00:58.25,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}ie-su no-o no
-Dialogue: 7,0:00:56.89,0:00:58.25,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}ie-su no-o no
-Dialogue: 4,0:00:58.25,0:00:59.50,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}sentakushi ja
-Dialogue: 5,0:00:58.25,0:00:59.50,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}sentakushi ja
-Dialogue: 6,0:00:58.25,0:00:59.50,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}sentakushi ja
-Dialogue: 7,0:00:58.25,0:00:59.50,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}sentakushi ja
-Dialogue: 4,0:00:59.50,0:01:00.87,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}susumenai yo
-Dialogue: 5,0:00:59.50,0:01:00.87,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}susumenai yo
-Dialogue: 6,0:00:59.50,0:01:00.87,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}susumenai yo
-Dialogue: 7,0:00:59.50,0:01:00.87,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}susumenai yo
-Dialogue: 4,0:01:00.87,0:01:02.21,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}hontou no michi
-Dialogue: 5,0:01:00.87,0:01:02.21,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}hontou no michi
-Dialogue: 6,0:01:00.87,0:01:02.21,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}hontou no michi
-Dialogue: 7,0:01:00.87,0:01:02.21,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}hontou no michi
-Dialogue: 4,0:01:02.21,0:01:04.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}dareka ni ataerareta
-Dialogue: 5,0:01:02.21,0:01:04.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}dareka ni ataerareta
-Dialogue: 6,0:01:02.21,0:01:04.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}dareka ni ataerareta
-Dialogue: 7,0:01:02.21,0:01:04.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}dareka ni ataerareta
-Dialogue: 4,0:01:04.75,0:01:07.34,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}chizu wa jama ni naru
-Dialogue: 5,0:01:04.75,0:01:07.34,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}chizu wa jama ni naru
-Dialogue: 6,0:01:04.75,0:01:07.34,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}chizu wa jama ni naru
-Dialogue: 7,0:01:04.75,0:01:07.34,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}chizu wa jama ni naru
-Dialogue: 4,0:01:07.34,0:01:08.59,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}i-e-su no-o no
-Dialogue: 5,0:01:07.34,0:01:08.59,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}i-e-su no-o no
-Dialogue: 6,0:01:07.34,0:01:08.59,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}i-e-su no-o no
-Dialogue: 7,0:01:07.34,0:01:08.59,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}i-e-su no-o no
-Dialogue: 4,0:01:08.59,0:01:09.97,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}sono aida ni
-Dialogue: 5,0:01:08.59,0:01:09.97,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}sono aida ni
-Dialogue: 6,0:01:08.59,0:01:09.97,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}sono aida ni
-Dialogue: 7,0:01:08.59,0:01:09.97,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}sono aida ni
-Dialogue: 4,0:01:09.97,0:01:11.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}tsugi no michi ga
-Dialogue: 5,0:01:09.97,0:01:11.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}tsugi no michi ga
-Dialogue: 6,0:01:09.97,0:01:11.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}tsugi no michi ga
-Dialogue: 7,0:01:09.97,0:01:11.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}tsugi no michi ga
-Dialogue: 4,0:01:11.26,0:01:12.55,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}umarerun da
-Dialogue: 5,0:01:11.26,0:01:12.55,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}umarerun da
-Dialogue: 6,0:01:11.26,0:01:12.55,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}umarerun da
-Dialogue: 7,0:01:11.26,0:01:12.55,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}umarerun da
-Dialogue: 4,0:01:12.55,0:01:17.14,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}kangaeru yori tachiagare
-Dialogue: 5,0:01:12.55,0:01:17.14,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}kangaeru yori tachiagare
-Dialogue: 6,0:01:12.55,0:01:17.14,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}kangaeru yori tachiagare
-Dialogue: 7,0:01:12.55,0:01:17.14,ED1,rom,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2}kangaeru yori tachiagare
-Dialogue: 4,0:01:17.66,0:01:22.40,ED1,rom fade,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}yume ni mukatte hashiridase
-Dialogue: 5,0:01:17.66,0:01:22.40,ED1,rom fade,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&HFFFFFF&\bord8\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}yume ni mukatte hashiridase
-Dialogue: 6,0:01:17.66,0:01:22.40,ED1,rom fade,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}yume ni mukatte hashiridase
-Dialogue: 7,0:01:17.66,0:01:22.40,ED1,rom fade,0,0,0,fx,{\an5\pos(960.00,917.50)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\blur0.7\xshad0.01\4c&H5C59EB&\bord0.2\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}yume ni mukatte hashiridase
-Dialogue: 4,0:00:13.27,0:00:15.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}How do you try when you’re stuck here inside
-Dialogue: 5,0:00:13.27,0:00:15.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}How do you try when you’re stuck here inside
-Dialogue: 6,0:00:13.27,0:00:15.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}How do you try when you’re stuck here inside
-Dialogue: 7,0:00:13.27,0:00:15.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}How do you try when you’re stuck here inside
-Dialogue: 4,0:00:15.75,0:00:17.85,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}On a cheery and bright summer day?
-Dialogue: 5,0:00:15.75,0:00:17.85,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}On a cheery and bright summer day?
-Dialogue: 6,0:00:15.75,0:00:17.85,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}On a cheery and bright summer day?
-Dialogue: 7,0:00:15.75,0:00:17.85,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}On a cheery and bright summer day?
-Dialogue: 4,0:00:18.44,0:00:20.63,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Wasting your youth with your nose in a book
-Dialogue: 5,0:00:18.44,0:00:20.63,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Wasting your youth with your nose in a book
-Dialogue: 6,0:00:18.44,0:00:20.63,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Wasting your youth with your nose in a book
-Dialogue: 7,0:00:18.44,0:00:20.63,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Wasting your youth with your nose in a book
-Dialogue: 4,0:00:20.63,0:00:23.00,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Is so lonesome and dreary and grey
-Dialogue: 5,0:00:20.63,0:00:23.00,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Is so lonesome and dreary and grey
-Dialogue: 6,0:00:20.63,0:00:23.00,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Is so lonesome and dreary and grey
-Dialogue: 7,0:00:20.63,0:00:23.00,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Is so lonesome and dreary and grey
-Dialogue: 4,0:00:23.65,0:00:26.13,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}This is my reason, the time and the season
-Dialogue: 5,0:00:23.65,0:00:26.13,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}This is my reason, the time and the season
-Dialogue: 6,0:00:23.65,0:00:26.13,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}This is my reason, the time and the season
-Dialogue: 7,0:00:23.65,0:00:26.13,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}This is my reason, the time and the season
-Dialogue: 4,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}To throw all the rules out the door
-Dialogue: 5,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}To throw all the rules out the door
-Dialogue: 6,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}To throw all the rules out the door
-Dialogue: 7,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}To throw all the rules out the door
-Dialogue: 4,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}And let in a whole whirlwind of change
-Dialogue: 5,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}And let in a whole whirlwind of change
-Dialogue: 6,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}And let in a whole whirlwind of change
-Dialogue: 7,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}And let in a whole whirlwind of change
-Dialogue: 4,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}That we needed so desperately
-Dialogue: 5,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}That we needed so desperately
-Dialogue: 6,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}That we needed so desperately
-Dialogue: 7,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}That we needed so desperately
-Dialogue: 4,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}But who can say where we’ll land one day?
-Dialogue: 5,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}But who can say where we’ll land one day?
-Dialogue: 6,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}But who can say where we’ll land one day?
-Dialogue: 7,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}But who can say where we’ll land one day?
-Dialogue: 4,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Just keep it up
-Dialogue: 5,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Just keep it up
-Dialogue: 6,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Just keep it up
-Dialogue: 7,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Just keep it up
-Dialogue: 4,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Put your trust and faith in your heart beat
-Dialogue: 5,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Put your trust and faith in your heart beat
-Dialogue: 6,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Put your trust and faith in your heart beat
-Dialogue: 7,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Put your trust and faith in your heart beat
-Dialogue: 4,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}I would say, you have eyes for something more
-Dialogue: 5,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}I would say, you have eyes for something more
-Dialogue: 6,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}I would say, you have eyes for something more
-Dialogue: 7,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}I would say, you have eyes for something more
-Dialogue: 4,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Take it step by step
-Dialogue: 5,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Take it step by step
-Dialogue: 6,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Take it step by step
-Dialogue: 7,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Take it step by step
-Dialogue: 4,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}And we’ll find just what we’ve been searching for
-Dialogue: 5,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}And we’ll find just what we’ve been searching for
-Dialogue: 6,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}And we’ll find just what we’ve been searching for
-Dialogue: 7,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}And we’ll find just what we’ve been searching for
-Dialogue: 4,0:00:56.89,0:00:58.25,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}“Is it yes? Is it no?”
-Dialogue: 5,0:00:56.89,0:00:58.25,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}“Is it yes? Is it no?”
-Dialogue: 6,0:00:56.89,0:00:58.25,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}“Is it yes? Is it no?”
-Dialogue: 7,0:00:56.89,0:00:58.25,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}“Is it yes? Is it no?”
-Dialogue: 4,0:00:58.25,0:00:59.50,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}“Make a choice, make it clear”
-Dialogue: 5,0:00:58.25,0:00:59.50,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}“Make a choice, make it clear”
-Dialogue: 6,0:00:58.25,0:00:59.50,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}“Make a choice, make it clear”
-Dialogue: 7,0:00:58.25,0:00:59.50,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}“Make a choice, make it clear”
-Dialogue: 4,0:00:59.50,0:01:00.87,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}So they say, so I hear
-Dialogue: 5,0:00:59.50,0:01:00.87,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}So they say, so I hear
-Dialogue: 6,0:00:59.50,0:01:00.87,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}So they say, so I hear
-Dialogue: 7,0:00:59.50,0:01:00.87,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}So they say, so I hear
-Dialogue: 4,0:01:00.87,0:01:02.21,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Every year after year
-Dialogue: 5,0:01:00.87,0:01:02.21,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Every year after year
-Dialogue: 6,0:01:00.87,0:01:02.21,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Every year after year
-Dialogue: 7,0:01:00.87,0:01:02.21,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Every year after year
-Dialogue: 4,0:01:02.21,0:01:04.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Why would I use their rigid binary?
-Dialogue: 5,0:01:02.21,0:01:04.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Why would I use their rigid binary?
-Dialogue: 6,0:01:02.21,0:01:04.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Why would I use their rigid binary?
-Dialogue: 7,0:01:02.21,0:01:04.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Why would I use their rigid binary?
-Dialogue: 4,0:01:04.75,0:01:07.34,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}I’ll draw a map that’s just for me!
-Dialogue: 5,0:01:04.75,0:01:07.34,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}I’ll draw a map that’s just for me!
-Dialogue: 6,0:01:04.75,0:01:07.34,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}I’ll draw a map that’s just for me!
-Dialogue: 7,0:01:04.75,0:01:07.34,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}I’ll draw a map that’s just for me!
-Dialogue: 4,0:01:07.34,0:01:08.59,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Neither yes, nor a no
-Dialogue: 5,0:01:07.34,0:01:08.59,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Neither yes, nor a no
-Dialogue: 6,0:01:07.34,0:01:08.59,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Neither yes, nor a no
-Dialogue: 7,0:01:07.34,0:01:08.59,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Neither yes, nor a no
-Dialogue: 4,0:01:08.59,0:01:09.97,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}I’ll be here in between
-Dialogue: 5,0:01:08.59,0:01:09.97,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}I’ll be here in between
-Dialogue: 6,0:01:08.59,0:01:09.97,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}I’ll be here in between
-Dialogue: 7,0:01:08.59,0:01:09.97,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}I’ll be here in between
-Dialogue: 4,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}At the end of the road
-Dialogue: 5,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}At the end of the road
-Dialogue: 6,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}At the end of the road
-Dialogue: 7,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}At the end of the road
-Dialogue: 4,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Will another begin
-Dialogue: 5,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Will another begin
-Dialogue: 6,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Will another begin
-Dialogue: 7,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Will another begin
-Dialogue: 4,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Leave your doubts behind and sail the open seas
-Dialogue: 5,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8}Leave your doubts behind and sail the open seas
-Dialogue: 6,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6}Leave your doubts behind and sail the open seas
-Dialogue: 7,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&}Leave your doubts behind and sail the open seas
-Dialogue: 4,0:01:17.66,0:01:22.40,ED1,eng fade,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}And keep your eyes on all your wildest of dreams!
-Dialogue: 5,0:01:17.66,0:01:22.40,ED1,eng fade,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&HFFFFFF&\bord8\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}And keep your eyes on all your wildest of dreams!
-Dialogue: 6,0:01:17.66,0:01:22.40,ED1,eng fade,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H0D1F9B&\bord1.6\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}And keep your eyes on all your wildest of dreams!
-Dialogue: 7,0:01:17.66,0:01:22.40,ED1,eng fade,0,0,0,fx,{\an5\pos(960.00,977.50)\1a&HFF&\3a&HFF&\ko0\blur0.7\xshad0.01\4c&H5C59EB&\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}And keep your eyes on all your wildest of dreams!
+Dialogue: 4,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}mado no soto wa aoi sora
+Dialogue: 5,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}mado no soto wa aoi sora
+Dialogue: 6,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}mado no soto wa aoi sora
+Dialogue: 7,0:00:13.27,0:00:15.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}mado no soto wa aoi sora
+Dialogue: 4,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}to natsu no taiyou
+Dialogue: 5,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}to natsu no taiyou
+Dialogue: 6,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}to natsu no taiyou
+Dialogue: 7,0:00:15.75,0:00:17.85,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}to natsu no taiyou
+Dialogue: 4,0:00:18.44,0:00:20.63,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}juugyouchuu no kyoushitsu wa
+Dialogue: 5,0:00:18.44,0:00:20.63,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}juugyouchuu no kyoushitsu wa
+Dialogue: 6,0:00:18.44,0:00:20.63,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}juugyouchuu no kyoushitsu wa
+Dialogue: 7,0:00:18.44,0:00:20.63,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}juugyouchuu no kyoushitsu wa
+Dialogue: 4,0:00:20.63,0:00:23.00,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}yodonda kuuki de
+Dialogue: 5,0:00:20.63,0:00:23.00,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}yodonda kuuki de
+Dialogue: 6,0:00:20.63,0:00:23.00,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}yodonda kuuki de
+Dialogue: 7,0:00:20.63,0:00:23.00,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}yodonda kuuki de
+Dialogue: 4,0:00:23.65,0:00:26.13,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}ima no boku ga yaranakereba
+Dialogue: 5,0:00:23.65,0:00:26.13,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}ima no boku ga yaranakereba
+Dialogue: 6,0:00:23.65,0:00:26.13,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}ima no boku ga yaranakereba
+Dialogue: 7,0:00:23.65,0:00:26.13,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}ima no boku ga yaranakereba
+Dialogue: 4,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}ikenai koto wa
+Dialogue: 5,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}ikenai koto wa
+Dialogue: 6,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}ikenai koto wa
+Dialogue: 7,0:00:26.13,0:00:28.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}ikenai koto wa
+Dialogue: 4,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}chigau sekai no kaze
+Dialogue: 5,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}chigau sekai no kaze
+Dialogue: 6,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}chigau sekai no kaze
+Dialogue: 7,0:00:28.26,0:00:30.51,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}chigau sekai no kaze
+Dialogue: 4,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}wo ireru koto darou
+Dialogue: 5,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}wo ireru koto darou
+Dialogue: 6,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}wo ireru koto darou
+Dialogue: 7,0:00:30.51,0:00:33.72,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}wo ireru koto darou
+Dialogue: 4,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}kotae wa wakaranai
+Dialogue: 5,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}kotae wa wakaranai
+Dialogue: 6,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}kotae wa wakaranai
+Dialogue: 7,0:00:33.72,0:00:38.94,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}kotae wa wakaranai
+Dialogue: 4,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}jibun ga
+Dialogue: 5,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}jibun ga
+Dialogue: 6,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}jibun ga
+Dialogue: 7,0:00:38.94,0:00:40.02,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}jibun ga
+Dialogue: 4,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}shinjiru mono tegakari
+Dialogue: 5,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}shinjiru mono tegakari
+Dialogue: 6,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}shinjiru mono tegakari
+Dialogue: 7,0:00:40.02,0:00:42.61,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}shinjiru mono tegakari
+Dialogue: 4,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}suki na you ni ikitai yo
+Dialogue: 5,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}suki na you ni ikitai yo
+Dialogue: 6,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}suki na you ni ikitai yo
+Dialogue: 7,0:00:44.30,0:00:48.82,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}suki na you ni ikitai yo
+Dialogue: 4,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}sou da ima
+Dialogue: 5,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}sou da ima
+Dialogue: 6,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}sou da ima
+Dialogue: 7,0:00:48.82,0:00:50.49,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}sou da ima
+Dialogue: 4,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}kara nanika hajimeyou
+Dialogue: 5,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}kara nanika hajimeyou
+Dialogue: 6,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}kara nanika hajimeyou
+Dialogue: 7,0:00:50.49,0:00:54.93,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}kara nanika hajimeyou
+Dialogue: 4,0:00:56.89,0:00:58.25,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}ie-su no-o no
+Dialogue: 5,0:00:56.89,0:00:58.25,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}ie-su no-o no
+Dialogue: 6,0:00:56.89,0:00:58.25,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}ie-su no-o no
+Dialogue: 7,0:00:56.89,0:00:58.25,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}ie-su no-o no
+Dialogue: 4,0:00:58.25,0:00:59.50,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}sentakushi ja
+Dialogue: 5,0:00:58.25,0:00:59.50,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}sentakushi ja
+Dialogue: 6,0:00:58.25,0:00:59.50,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}sentakushi ja
+Dialogue: 7,0:00:58.25,0:00:59.50,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}sentakushi ja
+Dialogue: 4,0:00:59.50,0:01:00.87,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}susumenai yo
+Dialogue: 5,0:00:59.50,0:01:00.87,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}susumenai yo
+Dialogue: 6,0:00:59.50,0:01:00.87,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}susumenai yo
+Dialogue: 7,0:00:59.50,0:01:00.87,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}susumenai yo
+Dialogue: 4,0:01:00.87,0:01:02.21,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}hontou no michi
+Dialogue: 5,0:01:00.87,0:01:02.21,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}hontou no michi
+Dialogue: 6,0:01:00.87,0:01:02.21,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}hontou no michi
+Dialogue: 7,0:01:00.87,0:01:02.21,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}hontou no michi
+Dialogue: 4,0:01:02.21,0:01:04.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}dareka ni ataerareta
+Dialogue: 5,0:01:02.21,0:01:04.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}dareka ni ataerareta
+Dialogue: 6,0:01:02.21,0:01:04.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}dareka ni ataerareta
+Dialogue: 7,0:01:02.21,0:01:04.75,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}dareka ni ataerareta
+Dialogue: 4,0:01:04.75,0:01:07.34,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}chizu wa jama ni naru
+Dialogue: 5,0:01:04.75,0:01:07.34,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}chizu wa jama ni naru
+Dialogue: 6,0:01:04.75,0:01:07.34,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}chizu wa jama ni naru
+Dialogue: 7,0:01:04.75,0:01:07.34,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}chizu wa jama ni naru
+Dialogue: 4,0:01:07.34,0:01:08.59,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}i-e-su no-o no
+Dialogue: 5,0:01:07.34,0:01:08.59,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}i-e-su no-o no
+Dialogue: 6,0:01:07.34,0:01:08.59,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}i-e-su no-o no
+Dialogue: 7,0:01:07.34,0:01:08.59,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}i-e-su no-o no
+Dialogue: 4,0:01:08.59,0:01:09.97,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}sono aida ni
+Dialogue: 5,0:01:08.59,0:01:09.97,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}sono aida ni
+Dialogue: 6,0:01:08.59,0:01:09.97,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}sono aida ni
+Dialogue: 7,0:01:08.59,0:01:09.97,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}sono aida ni
+Dialogue: 4,0:01:09.97,0:01:11.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}tsugi no michi ga
+Dialogue: 5,0:01:09.97,0:01:11.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}tsugi no michi ga
+Dialogue: 6,0:01:09.97,0:01:11.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}tsugi no michi ga
+Dialogue: 7,0:01:09.97,0:01:11.26,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}tsugi no michi ga
+Dialogue: 4,0:01:11.26,0:01:12.55,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}umarerun da
+Dialogue: 5,0:01:11.26,0:01:12.55,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}umarerun da
+Dialogue: 6,0:01:11.26,0:01:12.55,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}umarerun da
+Dialogue: 7,0:01:11.26,0:01:12.55,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}umarerun da
+Dialogue: 4,0:01:12.55,0:01:17.14,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14}kangaeru yori tachiagare
+Dialogue: 5,0:01:12.55,0:01:17.14,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8}kangaeru yori tachiagare
+Dialogue: 6,0:01:12.55,0:01:17.14,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6}kangaeru yori tachiagare
+Dialogue: 7,0:01:12.55,0:01:17.14,ED1,rom,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2}kangaeru yori tachiagare
+Dialogue: 4,0:01:17.66,0:01:22.40,ED1,rom fade,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\4a&HB4&\shad4\bord12\blur14\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}yume ni mukatte hashiridase
+Dialogue: 5,0:01:17.66,0:01:22.40,ED1,rom fade,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&HFFFFFF&\bord8\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}yume ni mukatte hashiridase
+Dialogue: 6,0:01:17.66,0:01:22.40,ED1,rom fade,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H0D1F9B&\bord1.6\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}yume ni mukatte hashiridase
+Dialogue: 7,0:01:17.66,0:01:22.40,ED1,rom fade,0,0,0,fx,{\an5\pos(960.00,919.00)\1a&HFF&\3a&HFF&\ko0\fscx80\fscy80\xshad0.01\4c&H5C59EB&\bord0.2\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}yume ni mukatte hashiridase
+Dialogue: 4,0:00:13.27,0:00:15.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}How do you try when you’re stuck here inside
+Dialogue: 5,0:00:13.27,0:00:15.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}How do you try when you’re stuck here inside
+Dialogue: 6,0:00:13.27,0:00:15.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}How do you try when you’re stuck here inside
+Dialogue: 7,0:00:13.27,0:00:15.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}How do you try when you’re stuck here inside
+Dialogue: 4,0:00:15.75,0:00:17.85,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}On a cheery and bright summer day?
+Dialogue: 5,0:00:15.75,0:00:17.85,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}On a cheery and bright summer day?
+Dialogue: 6,0:00:15.75,0:00:17.85,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}On a cheery and bright summer day?
+Dialogue: 7,0:00:15.75,0:00:17.85,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}On a cheery and bright summer day?
+Dialogue: 4,0:00:18.44,0:00:20.63,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Wasting your youth with your nose in a book
+Dialogue: 5,0:00:18.44,0:00:20.63,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Wasting your youth with your nose in a book
+Dialogue: 6,0:00:18.44,0:00:20.63,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Wasting your youth with your nose in a book
+Dialogue: 7,0:00:18.44,0:00:20.63,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Wasting your youth with your nose in a book
+Dialogue: 4,0:00:20.63,0:00:23.00,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Is so lonesome and dreary and grey
+Dialogue: 5,0:00:20.63,0:00:23.00,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Is so lonesome and dreary and grey
+Dialogue: 6,0:00:20.63,0:00:23.00,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Is so lonesome and dreary and grey
+Dialogue: 7,0:00:20.63,0:00:23.00,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Is so lonesome and dreary and grey
+Dialogue: 4,0:00:23.65,0:00:26.13,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}This is my reason, the time and the season
+Dialogue: 5,0:00:23.65,0:00:26.13,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}This is my reason, the time and the season
+Dialogue: 6,0:00:23.65,0:00:26.13,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}This is my reason, the time and the season
+Dialogue: 7,0:00:23.65,0:00:26.13,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}This is my reason, the time and the season
+Dialogue: 4,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}To throw all the rules out the door
+Dialogue: 5,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}To throw all the rules out the door
+Dialogue: 6,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}To throw all the rules out the door
+Dialogue: 7,0:00:26.13,0:00:28.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}To throw all the rules out the door
+Dialogue: 4,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}And let in a whole whirlwind of change
+Dialogue: 5,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}And let in a whole whirlwind of change
+Dialogue: 6,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}And let in a whole whirlwind of change
+Dialogue: 7,0:00:28.26,0:00:30.51,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}And let in a whole whirlwind of change
+Dialogue: 4,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}That we needed so desperately
+Dialogue: 5,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}That we needed so desperately
+Dialogue: 6,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}That we needed so desperately
+Dialogue: 7,0:00:30.51,0:00:33.72,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}That we needed so desperately
+Dialogue: 4,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}But who can say where we’ll land one day?
+Dialogue: 5,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}But who can say where we’ll land one day?
+Dialogue: 6,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}But who can say where we’ll land one day?
+Dialogue: 7,0:00:33.72,0:00:38.94,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}But who can say where we’ll land one day?
+Dialogue: 4,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Just keep it up
+Dialogue: 5,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Just keep it up
+Dialogue: 6,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Just keep it up
+Dialogue: 7,0:00:38.94,0:00:40.02,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Just keep it up
+Dialogue: 4,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Put your trust and faith in your heart beat
+Dialogue: 5,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Put your trust and faith in your heart beat
+Dialogue: 6,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Put your trust and faith in your heart beat
+Dialogue: 7,0:00:40.02,0:00:42.61,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Put your trust and faith in your heart beat
+Dialogue: 4,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}I would say, you have eyes for something more
+Dialogue: 5,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}I would say, you have eyes for something more
+Dialogue: 6,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}I would say, you have eyes for something more
+Dialogue: 7,0:00:44.30,0:00:48.82,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}I would say, you have eyes for something more
+Dialogue: 4,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Take it step by step
+Dialogue: 5,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Take it step by step
+Dialogue: 6,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Take it step by step
+Dialogue: 7,0:00:48.82,0:00:50.49,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Take it step by step
+Dialogue: 4,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}And we’ll find just what we’ve been searching for
+Dialogue: 5,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}And we’ll find just what we’ve been searching for
+Dialogue: 6,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}And we’ll find just what we’ve been searching for
+Dialogue: 7,0:00:50.49,0:00:54.93,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}And we’ll find just what we’ve been searching for
+Dialogue: 4,0:00:56.89,0:00:58.25,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}“Is it yes? Is it no?”
+Dialogue: 5,0:00:56.89,0:00:58.25,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}“Is it yes? Is it no?”
+Dialogue: 6,0:00:56.89,0:00:58.25,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}“Is it yes? Is it no?”
+Dialogue: 7,0:00:56.89,0:00:58.25,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}“Is it yes? Is it no?”
+Dialogue: 4,0:00:58.25,0:00:59.50,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}“Make a choice, make it clear”
+Dialogue: 5,0:00:58.25,0:00:59.50,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}“Make a choice, make it clear”
+Dialogue: 6,0:00:58.25,0:00:59.50,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}“Make a choice, make it clear”
+Dialogue: 7,0:00:58.25,0:00:59.50,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}“Make a choice, make it clear”
+Dialogue: 4,0:00:59.50,0:01:00.87,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}So they say, so I hear
+Dialogue: 5,0:00:59.50,0:01:00.87,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}So they say, so I hear
+Dialogue: 6,0:00:59.50,0:01:00.87,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}So they say, so I hear
+Dialogue: 7,0:00:59.50,0:01:00.87,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}So they say, so I hear
+Dialogue: 4,0:01:00.87,0:01:02.21,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Every year after year
+Dialogue: 5,0:01:00.87,0:01:02.21,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Every year after year
+Dialogue: 6,0:01:00.87,0:01:02.21,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Every year after year
+Dialogue: 7,0:01:00.87,0:01:02.21,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Every year after year
+Dialogue: 4,0:01:02.21,0:01:04.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Why would I use their rigid binary?
+Dialogue: 5,0:01:02.21,0:01:04.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Why would I use their rigid binary?
+Dialogue: 6,0:01:02.21,0:01:04.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Why would I use their rigid binary?
+Dialogue: 7,0:01:02.21,0:01:04.75,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Why would I use their rigid binary?
+Dialogue: 4,0:01:04.75,0:01:07.34,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}I’ll draw a map that’s just for me!
+Dialogue: 5,0:01:04.75,0:01:07.34,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}I’ll draw a map that’s just for me!
+Dialogue: 6,0:01:04.75,0:01:07.34,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}I’ll draw a map that’s just for me!
+Dialogue: 7,0:01:04.75,0:01:07.34,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}I’ll draw a map that’s just for me!
+Dialogue: 4,0:01:07.34,0:01:08.59,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Neither yes, nor a no
+Dialogue: 5,0:01:07.34,0:01:08.59,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Neither yes, nor a no
+Dialogue: 6,0:01:07.34,0:01:08.59,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Neither yes, nor a no
+Dialogue: 7,0:01:07.34,0:01:08.59,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Neither yes, nor a no
+Dialogue: 4,0:01:08.59,0:01:09.97,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}I’ll be here in between
+Dialogue: 5,0:01:08.59,0:01:09.97,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}I’ll be here in between
+Dialogue: 6,0:01:08.59,0:01:09.97,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}I’ll be here in between
+Dialogue: 7,0:01:08.59,0:01:09.97,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}I’ll be here in between
+Dialogue: 4,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}At the end of the road
+Dialogue: 5,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}At the end of the road
+Dialogue: 6,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}At the end of the road
+Dialogue: 7,0:01:09.97,0:01:11.26,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}At the end of the road
+Dialogue: 4,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Will another begin
+Dialogue: 5,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Will another begin
+Dialogue: 6,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Will another begin
+Dialogue: 7,0:01:11.26,0:01:12.55,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Will another begin
+Dialogue: 4,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14}Leave your doubts behind and sail the open seas
+Dialogue: 5,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8}Leave your doubts behind and sail the open seas
+Dialogue: 6,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6}Leave your doubts behind and sail the open seas
+Dialogue: 7,0:01:12.55,0:01:17.14,ED1,eng,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&}Leave your doubts behind and sail the open seas
+Dialogue: 4,0:01:17.66,0:01:22.40,ED1,eng fade,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\4a&HB4&\shad4\bord12\blur14\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}And keep your eyes on all your wildest of dreams!
+Dialogue: 5,0:01:17.66,0:01:22.40,ED1,eng fade,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&HFFFFFF&\bord8\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}And keep your eyes on all your wildest of dreams!
+Dialogue: 6,0:01:17.66,0:01:22.40,ED1,eng fade,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H0D1F9B&\bord1.6\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}And keep your eyes on all your wildest of dreams!
+Dialogue: 7,0:01:17.66,0:01:22.40,ED1,eng fade,0,0,0,fx,{\an5\pos(960.00,979.00)\1a&HFF&\3a&HFF&\ko0\xshad0.01\4c&H5C59EB&\fad(0,200)\t(4338,4688,1.5,\4c&HFFFFFF&)}And keep your eyes on all your wildest of dreams!
 
 [Aegisub Extradata]
 Data: 2,_aegi_folddata,e0;1;1
@@ -674,15 +674,13 @@ Data: 20,a-mo,e{"uuid"#3A"faa3d8fa-5d1a-4de9-afdf-a3b719f0ebf4"#2C"originalText"
 Data: 21,a-mo,e{"uuid"#3A"0a67a948-3f4a-40e2-a239-8f0bbd79d3fc"#2C"originalText"#3A"{\\an7\\c&HFFFFFF&\\blur0.7\\pos(360#2C541.25)\\p1}m 146 108 b 147 120 152 132 157 144 160 149 163 156 160 162 154 171 140 161 134 157 113 144 87 132 63 145 38 157 20 181 9 206 6 214 2 229 -9 226 -14 224 -17 219 -19 215 -24 205 -25 194 -30 184 -42 156 -62 127 -93 120 -112 116 -131 118 -150 122 -167 125 -185 129 -203 133 -212 135 -221 139 -231 139 -235 139 -240 139 -243 135 -250 127 -238 117 -232 111 -219 100 -206 87 -198 71 -195 65 -192 57 -192 50 -193 41 -199 34 -206 29 -216 21 -226 15 -237 10 -243 8 -248 7 -253 4 -260 0 -266 -9 -257 -14 -253 -17 -248 -17 -243 -18 -235 -19 -226 -21 -219 -25 l -219 -26 b -228 -31 -238 -36 -247 -41 -251 -43 -256 -46 -256 -51 -257 -56 -253 -60 -249 -61 -242 -64 -234 -63 -227 -63 -207 -65 -187 -68 -167 -75 -157 -79 -147 -84 -140 -93 -134 -100 -131 -110 -130 -120 -127 -139 -129 -158 -131 -177 -131 -184 -132 -192 -130 -200 -129 -203 -127 -207 -123 -208 -119 -209 -115 -207 -112 -205 -105 -200 -100 -194 -94 -189 -76 -175 -57 -164 -37 -155 -29 -151 -20 -146 -11 -149 -3 -152 2 -159 7 -165 17 -178 28 -191 35 -206 39 -213 44 -229 55 -227 60 -227 62 -223 64 -220 66 -213 67 -205 68 -198 71 -175 78 -151 99 -137 128 -118 165 -123 197 -129 208 -131 219 -133 231 -133 235 -133 241 -134 244 -130 246 -128 245 -125 244 -122 242 -117 238 -112 234 -108 223 -96 211 -86 202 -73 198 -67 194 -60 195 -52 195 -45 200 -40 204 -36 214 -25 228 -19 242 -14 249 -12 263 -10 264 -1 266 8 255 12 248 13 236 16 223 18 211 23 204 25 198 29 193 34 188 41 189 50 193 57 199 68 207 77 213 88 216 93 219 99 218 104 216 112 207 112 201 112 195 111 189 110 184 109 171 108 158 107 146 108 m 51 -207 b 55 -192 58 -176 64 -161 68 -153 72 -145 78 -138 100 -113 137 -108 169 -112 189 -114 208 -119 227 -120 l 227 -119 b 223 -115 220 -112 216 -108 198 -91 171 -66 185 -39 188 -34 191 -31 194 -27 199 -22 205 -18 211 -15 221 -9 233 -4 244 0 l 243 1 b 238 2 234 3 230 4 209 8 179 16 177 42 177 46 177 50 178 54 179 60 182 66 185 72 190 81 196 90 203 98 l 202 98 b 197 98 192 97 188 97 175 96 162 93 150 95 142 96 135 100 134 108 134 110 134 113 134 116 134 120 135 124 137 128 139 134 141 141 144 147 l 143 146 b 126 137 109 128 89 126 50 124 21 160 3 191 0 197 -3 202 -6 208 l -7 207 b -14 188 -22 168 -34 151 -40 142 -47 133 -56 125 -96 92 -154 107 -199 119 -208 121 -216 123 -225 125 l -224 124 b -221 120 -217 116 -213 112 -201 99 -188 85 -182 68 -178 58 -177 47 -182 37 -184 33 -187 30 -189 27 -198 18 -210 10 -221 5 -227 2 -235 1 -239 -5 l -238 -5 b -229 -7 -219 -9 -212 -14 -208 -16 -204 -20 -204 -25 -205 -29 -208 -33 -211 -36 -218 -42 -226 -45 -234 -50 l -233 -50 b -215 -52 -196 -54 -178 -58 -168 -60 -159 -64 -150 -69 -145 -72 -140 -75 -136 -79 -106 -108 -115 -155 -118 -192 l -117 -191 b -94 -174 -71 -156 -45 -144 -30 -137 -14 -133 1 -141 26 -155 37 -184 51 -207"}
 Data: 24,_aegi_folddata,e0;1;4
 Data: 25,_aegi_folddata,e1;1;4
-Data: 28,_aegi_folddata,e0;0;5
-Data: 29,_aegi_folddata,e1;0;5
 Data: 42,_aegi_folddata,e0;0;8
 Data: 43,_aegi_folddata,e1;0;8
 Data: 44,_aegi_folddata,e0;0;7
 Data: 45,_aegi_folddata,e1;0;7
 Data: 50,_aegi_folddata,e0;1;6
 Data: 51,_aegi_folddata,e1;1;6
-Data: 54,_aegi_folddata,e0;1;7
-Data: 55,_aegi_folddata,e1;1;7
-Data: 56,_aegi_folddata,e0;1;8
-Data: 57,_aegi_folddata,e1;1;8
+Data: 60,_aegi_folddata,e0;1;5
+Data: 61,_aegi_folddata,e1;1;5
+Data: 62,_aegi_folddata,e0;1;8
+Data: 63,_aegi_folddata,e1;1;8

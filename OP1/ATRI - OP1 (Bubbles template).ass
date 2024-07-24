@@ -12,7 +12,7 @@ Last Style Storage: Default
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP1,FOT-UDMincho Pro B Str,58,&H00FFFFFF,&H00DEA856,&H00BC7A17,&HC86A1C03,0,0,0,0,105,100,1.5,0,1,0,0,2,100,100,44,1
+Style: OP1,FOT-UDMincho Pro B Str,58,&H00FFFFFF,&H00DEA856,&H00BC7A17,&HC86A1C03,-1,0,0,0,105,100,1.5,0,1,0,0,2,100,100,44,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

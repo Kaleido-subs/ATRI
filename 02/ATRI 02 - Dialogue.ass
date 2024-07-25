@@ -35,7 +35,7 @@ Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,{=4}---- Dialogue
 Dialogue: 10,0:00:00.98,0:00:04.65,Default,Atri,0,0,0,,I'll be your leg, Master!
 Dialogue: 10,0:00:05.15,0:00:07.57,Default,Natsuki,0,0,0,,What are you...
 Dialogue: 10,0:00:07.57,0:00:11.16,Default,Atri,0,0,0,,It's a Humanoid's job to serve her master!
-Dialogue: 10,0:00:11.53,0:00:15.04,Default,Atri,0,0,0,,You can't run or jump well, right?
+Dialogue: 10,0:00:11.53,0:00:15.04,Default,Atri,0,0,0,,You can't run or jump well, right?{of course he can't, he's white -p}
 Dialogue: 10,0:00:15.04,0:00:16.79,Default,Atri,0,0,0,,You can just leave all that to me!
 Dialogue: 10,0:00:16.79,0:00:18.16,Default,Natsuki,0,0,0,,How are you supposed to—
 Dialogue: 10,0:00:20.50,0:00:21.00,Default,Natsuki,0,0,0,,Uh—
@@ -47,18 +47,18 @@ Dialogue: 10,0:00:28.72,0:00:29.97,Default,Natsuki,0,0,0,,What are you doing?
 Dialogue: 10,0:00:32.55,0:00:33.39,Default,Natsuki,0,0,0,,Wait!
 Dialogue: 10,0:00:33.39,0:00:37.23,Default,Atri,0,0,0,,Watch this! I can jump to the boat\nat the end of the pier with ease!
 Dialogue: 10,0:00:34.18,0:00:35.89,Alt,Natsuki,0,0,0,,{\an8}Atri! Put me down!
-Dialogue: 10,0:00:37.23,0:00:41.27,Default,Atri,0,0,0,,{\fad(0,500)}Witness the power of my high specs!
+Dialogue: 10,0:00:37.23,0:00:41.27,Default,Atri,0,0,0,TM,{\fad(0,500)}Witness the power of my high specs!{@TM not a fan of the fade, but the other options aren't too good either. mainly i think this draws extra attention to itself -p}
 Comment: 10,0:00:37.23,0:00:41.56,Default,Atri,0,0,0,,Witness the power of my high specs!{TM: Better without fade?}
 Dialogue: 10,0:00:45.90,0:00:46.28,Default,Atri,0,0,0,,Huh? {necessary to do something with the styling here? to differentiate atri and natsuki's dialogue}
 Dialogue: 10,0:00:46.65,0:00:47.15,Default,Natsuki,0,0,0,,Huh?
 Dialogue: 10,0:00:47.65,0:00:48.57,Default,Atri,0,0,0,,
 Dialogue: 10,0:02:27.71,0:02:28.96,Default,Natsuki,0,0,0,,What is {\i1}wrong{\i0} with you?
 Dialogue: 10,0:02:28.96,0:02:33.05,Default,Natsuki,0,0,0,,I did {\i1}not{\i0} need to get dumped\nin the ocean twice in one day...
-Dialogue: 10,0:02:33.05,0:02:34.72,Default,Atri,0,0,0,,Now this is curious.
-Dialogue: 10,0:02:34.72,0:02:37.47,Default,Atri,0,0,0,,Even accounting for your approximate body weight,
-Dialogue: 10,0:02:37.47,0:02:40.39,Default,Atri,0,0,0,NN,I should have been able to clear that distance easily.{NN: Overlaps episode title an8 or line break to the left.}
-Dialogue: 10,0:02:40.39,0:02:42.18,Default,Atri,0,0,0,,Oh, I know!
-Dialogue: 10,0:02:42.18,0:02:43.23,Default,Atri,0,0,0,,Have you gained weight?
+Dialogue: 10,0:02:33.05,0:02:34.72,Default,Atri,0,0,0,,{\an8}Now this is curious.
+Dialogue: 10,0:02:34.72,0:02:37.47,Default,Atri,0,0,0,,{\an8}Even accounting for your approximate body weight,
+Dialogue: 10,0:02:37.47,0:02:40.39,Default,Atri,0,0,0,NN,{\an8}I should have been able to clear that distance easily.{NN: Overlaps episode title an8 or line break to the left.}{an8 for sure -p}
+Dialogue: 10,0:02:40.39,0:02:42.18,Default,Atri,0,0,0,,{\an8}Oh, I know!
+Dialogue: 10,0:02:42.18,0:02:43.23,Default,Atri,0,0,0,,{\an8}Have you gained weight?
 Dialogue: 10,0:02:43.23,0:02:44.94,Default,Natsuki,0,0,0,,Okay, you.
 Dialogue: 10,0:02:44.94,0:02:47.94,Default,Atri,0,0,0,,Then why don't we give it one more try?
 Dialogue: 10,0:02:48.27,0:02:48.90,Default,Natsuki,0,0,0,,Like hell!
@@ -71,7 +71,7 @@ Dialogue: 10,0:02:57.32,0:02:58.53,Default,Natsuki,0,0,0,,What, so you ran away?
 Dialogue: 10,0:02:58.53,0:03:01.49,Default,Atri,0,0,0,,No, Catherine did.
 Dialogue: 10,0:03:01.49,0:03:02.54,Default,Natsuki,0,0,0,,What?
 Dialogue: 10,0:03:02.83,0:03:06.75,Default,Atri,0,0,0,,I rode with Catherine for a while after we parted, but...
-Dialogue: 10,0:03:06.75,0:03:07.54,Default,Catherine,0,0,0,,
+Dialogue: 10,0:03:06.75,0:03:07.54,Default,Catherine,0,0,0,ED,{@ED intentionally skipped? -p}
 Dialogue: 10,0:03:10.34,0:03:13.55,Default,Catherine,0,0,0,,Ugh, why does this place have to be such a shithole?
 Dialogue: 10,0:03:13.55,0:03:14.97,Default,Atri,0,0,0,,Who is that?
 Dialogue: 10,0:03:14.97,0:03:16.59,Default,Catherine,0,0,0,,Debt collectors.
@@ -101,7 +101,7 @@ Dialogue: 10,0:04:23.58,0:04:26.79,Default,Minamo,0,0,0,,Yeah, no way. He'll jus
 Dialogue: 10,0:04:26.79,0:04:27.87,Default,Minamo,0,0,0,,
 Dialogue: 10,0:04:29.04,0:04:31.50,Default,Minamo,0,0,0,,Huh?! Oh no!
 Dialogue: 10,0:04:33.04,0:04:34.55,Default,Minamo,0,0,0,,Natsu{**-kun}! Are you okay?
-Dialogue: 10,0:04:35.05,0:04:36.88,Default,Natsuki,0,0,0,,Yeah. Just barely...
+Dialogue: 10,0:04:35.05,0:04:36.88,Default,Natsuki,0,0,0,ED,Yeah. Just barely...{@ED "just barely" doesn't exactly work as an answer to "are you okay" nor really fit the tone here IMO -p}
 Dialogue: 10,0:04:36.88,0:04:37.55,Default,Natsuki,0,0,0,,Hey!
 Dialogue: 10,0:04:37.97,0:04:39.30,Default,Atri,0,0,0,,
 Dialogue: 10,0:04:39.30,0:04:40.55,Default,Atri,0,0,0,,Fire extinguished, sir!
@@ -137,7 +137,7 @@ Dialogue: 10,0:05:50.75,0:05:52.42,Default,Natsuki,0,0,0,,Just you!
 Dialogue: 10,0:05:52.42,0:05:55.46,Default,Atri,0,0,0,,I refuse to tolerate this behavior, not even from my master!
 Dialogue: 10,0:05:55.46,0:05:57.38,Default,Atri,0,0,0,,Taste the power of my rocket punch!
 Dialogue: 10,0:05:57.38,0:06:00.05,Default,Natsuki,0,0,0,,Robots can't attack humans, dingus.
-Dialogue: 10,0:06:00.05,0:06:00.67,Default,Natsuki,0,0,0,,
+Dialogue: 10,0:06:00.05,0:06:00.67,Default,Natsuki,0,0,0,ED,{@ED missing line (possibly just extend prev. line to this end) -p}
 Dialogue: 10,0:06:00.67,0:06:03.76,Default,Atri,0,0,0,,Wait! Don't sell me, please!
 Dialogue: 10,0:06:03.76,0:06:04.72,Default,Minamo,0,0,0,,Natsu{**-kun}!
 Dialogue: 10,0:06:04.72,0:06:05.43,Default,Natsuki,0,0,0,,What?
@@ -152,14 +152,14 @@ Dialogue: 10,0:06:27.49,0:06:28.70,Default,Minamo,0,0,0,,Natsu{**-kun}...
 Dialogue: 10,0:06:30.12,0:06:32.58,Default,Natsuki,0,0,0,,Whatever! Even my microwave\nhas a better memory than you!
 Dialogue: 10,0:06:32.58,0:06:34.42,Default,Atri,0,0,0,,Officers, arrest this man!
 Dialogue: 10,0:06:34.42,0:06:36.50,Default,Atri,0,0,0,,That statement was a clear criminal offense!
-Dialogue: 10,0:06:36.50,0:06:37.71,Default,Natsuki,0,0,0,,Nobody's listening!
-Dialogue: 10,0:06:41.84,0:06:43.22,Default,Minamo,0,0,0,,Are you sure you want to with this?
-Dialogue: 10,0:06:43.63,0:06:46.80,Default,Natsuki,0,0,0,,Weren't you the one who said I should \nthink about what my grandma wanted?
+Dialogue: 10,0:06:36.50,0:06:37.71,Default,Natsuki,0,0,0,TM,Nobody's listening!{@TM leadin feels kinda long -p}
+Dialogue: 10,0:06:41.84,0:06:43.22,Default,Minamo,0,0,0,ED,Are you sure you want to with this?{@ED typo? -p}
+Dialogue: 10,0:06:43.63,0:06:46.80,Default,Natsuki,0,0,0,ED,Weren't you the one who said I should \nthink about what my grandma wanted?{@ED maayyybe a bit fast? maybe "weren't you just saying" -p}
 Dialogue: 10,0:06:47.68,0:06:49.60,Default,Minamo,0,0,0,,Well, yeah, but...
 Dialogue: 10,0:06:49.60,0:06:52.89,Default,Natsuki,0,0,0,,If she really did leave her with important orders,
 Dialogue: 10,0:06:52.89,0:06:55.27,Default,Natsuki,0,0,0,,there must be some record of it.
 Dialogue: 10,0:06:55.27,0:06:56.94,Default,Natsuki,0,0,0,,I'll do some digging.
-Dialogue: 10,0:07:00.73,0:07:02.61,Default,Natsuki,0,0,0,,This isn't everything,
+Dialogue: 10,0:07:00.73,0:07:02.61,Default,Natsuki,0,0,0,ED,This isn't everything,{@ED "everything" feels... off, somehow; maybe "This isn't all of it" or "There's more stuff down there"? -p}
 Dialogue: 10,0:07:02.61,0:07:05.32,Default,Natsuki,0,0,0,,but it's at least the stuff that was preserved the best.
 Dialogue: 10,0:07:05.32,0:07:07.49,Default,Minamo,0,0,0,,Does this stuff remind you of anything?
 Dialogue: 10,0:07:07.49,0:07:08.28,Default,Atri,0,0,0,,Nope.
@@ -247,7 +247,7 @@ Dialogue: 10,0:11:23.25,0:11:28.33,Default,Minamo,0,0,0,,and he was even a candi
 Dialogue: 10,0:11:29.17,0:11:33.59,Default,Minamo,0,0,0,,but they told him he didn't make the cut\nbecause of that prosthetic leg of his.
 Dialogue: 10,0:11:34.55,0:11:36.84,Default,Minamo,0,0,0,,Even still, he still kept trying his best,
 Dialogue: 10,0:11:36.84,0:11:41.85,Default,Minamo,0,0,0,,but the sea levels kept rising and\nthe rocket launch was postponed indefinitely.
-Dialogue: 10,0:11:41.85,0:11:44.52,Default,Minamo,0,0,0,,After that, all his motivation just went up in smoke.
+Dialogue: 10,0:11:41.85,0:11:44.52,Default,Minamo,0,0,0,TM,After that, all his motivation just went up in smoke.{@TM entire syl past kf, consider extending -p}
 Dialogue: 10,0:11:45.31,0:11:49.90,Default,Atri,0,0,0,,So Master wants to get on the rocket and go to space?
 Dialogue: 10,0:11:49.90,0:11:54.07,Default,Atri,0,0,0,,With me as his new high-spec leg,\nI can definitely make his dream come true!
 Dialogue: 10,0:11:55.07,0:11:58.74,Default,Minamo,0,0,0,,Oh, even the highest specs\nin the world won't help with that.
@@ -268,7 +268,7 @@ Dialogue: 10,0:12:54.59,0:12:56.34,Default,Atri,0,0,0,,I'm home, Master!
 Dialogue: 10,0:12:56.34,0:12:56.92,Default,Atri,0,0,0,,
 Dialogue: 10,0:13:04.35,0:13:05.77,Default,Natsuki,0,0,0,,Help...
 Dialogue: 10,0:13:10.48,0:13:15.15,Default,Atri,0,0,0,,Shouting in your sleep is quite an impressive feat.
-Dialogue: 10,0:13:15.15,0:13:17.69,Default,Atri,0,0,0,,Are your central nervous functions experiencing an error?
+Dialogue: 10,0:13:15.15,0:13:17.69,Default,Atri,0,0,0,ED,Are your central nervous functions experiencing an error?{@ED love me some technobabble but the imbalance in cps between prev and this line feels a bit weird -p}
 Dialogue: 10,0:13:26.70,0:13:28.25,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:13:29.08,0:13:32.25,Default,Atri,0,0,0,,Your brain might be in need of repairs, Master.
 Dialogue: 10,0:13:32.96,0:13:35.67,Default,Natsuki,0,0,0,,If you can do that, go for it.
@@ -393,12 +393,12 @@ Dialogue: 10,0:20:22.70,0:20:26.50,Default,Atri,0,0,0,,I'm sure there are still 
 Dialogue: 10,0:20:27.50,0:20:29.50,Default,Atri,0,0,0,,Maybe Nonko was one of them...
 Dialogue: 10,0:20:30.21,0:20:32.42,Default,Atri,0,0,0,,Her heart was so set on saving this town...
 Dialogue: 10,0:20:35.05,0:20:36.59,Default,Atri,0,0,0,,Natsuki{**-san}!
-Dialogue: 10,0:20:36.59,0:20:40.80,Default,Atri,0,0,0,,Is that thing over there the rocket?
+Dialogue: 10,0:20:36.59,0:20:40.80,Default,Atri,0,0,0,TM,Is that thing over there the rocket?{@TM leadout feels long -p}
 Dialogue: 10,0:20:40.80,0:20:41.89,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:20:42.39,0:20:43.68,Default,Atri,0,0,0,,Can it fly?
 Dialogue: 10,0:20:44.22,0:20:45.18,Default,Natsuki,0,0,0,,Sure.
 Dialogue: 10,0:20:45.18,0:20:45.98,Default,Atri,0,0,0,,
-Dialogue: 10,0:20:46.31,0:20:48.31,Default,Natsuki,0,0,0,,It will. {\i1}One day.{\i0}
+Dialogue: 10,0:20:46.31,0:20:48.31,Default,Natsuki,0,0,0,ED,It will. {\i1}One day.{\i0}{@ED not sure about the italics here -p}
 Dialogue: 10,0:20:52.23,0:20:54.94,Default,Atri,0,0,0,,Huh? Isn't home this way?
 Dialogue: 10,0:21:01.91,0:21:02.91,Default,Atri,0,0,0,,Where are we?
 Dialogue: 10,0:21:03.20,0:21:05.83,Default,Natsuki,0,0,0,,Beats me. Must've taken a wrong turn.

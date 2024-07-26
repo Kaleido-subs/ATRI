@@ -10,8 +10,8 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: D:/Downloads/[Erai-raws] Atri - My Dear Moments - 02 [1080p][Multiple Subtitle][08683FAA].mkv
-Video File: D:/Downloads/[Erai-raws] Atri - My Dear Moments - 02 [1080p][Multiple Subtitle][08683FAA].mkv
+Audio File: ATRI - S01E02 (Premux) [338B362B].mkv
+Video File: ATRI - S01E02 (Premux) [338B362B].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -68,7 +68,7 @@ Dialogue: 10,0:02:57.32,0:02:58.53,Default,Natsuki,0,0,0,,What, so you ran away?
 Dialogue: 10,0:02:58.53,0:03:01.49,Default,Atri,0,0,0,,No, Catherine did.
 Dialogue: 10,0:03:01.49,0:03:02.54,Default,Natsuki,0,0,0,,What?
 Dialogue: 10,0:03:02.83,0:03:06.75,Default,Atri,0,0,0,,I rode with Catherine for a while after we parted, but...
-Dialogue: 10,0:03:06.75,0:03:07.54,Default,Catherine,0,0,0,ED,{@ED intentionally skipped? -p}{yeah feel like these sorta groans/exclaimations aren't really worth it? if you feel otherwise totally fine to add a "Huuuh?" in i guess}
+Dialogue: 10,0:03:06.75,0:03:07.54,Default,Catherine,0,0,0,,Huh?
 Dialogue: 10,0:03:10.34,0:03:13.55,Default,Catherine,0,0,0,,Ugh, why does this place have to be such a shithole?
 Dialogue: 10,0:03:13.55,0:03:14.97,Default,Atri,0,0,0,,Who is that?
 Dialogue: 10,0:03:14.97,0:03:16.59,Default,Catherine,0,0,0,,Debt collectors.
@@ -96,8 +96,8 @@ Dialogue: 10,0:04:18.36,0:04:21.16,Default,Minamo,0,0,0,,Natsu{**-kun}, let's go
 Dialogue: 10,0:04:21.16,0:04:22.83,Default,Minamo,0,0,0,,It'll be tons of fun!
 Dialogue: 10,0:04:23.58,0:04:26.79,Default,Minamo,0,0,0,,Yeah, no way. He'll just laugh in my face...
 Dialogue: 10,0:04:29.04,0:04:31.50,Default,Minamo,0,0,0,,Huh?! Oh no!
-Dialogue: 10,0:04:33.04,0:04:34.55,Default,Minamo,0,0,0,,Natsu{**-kun}! Are you all right?
-Dialogue: 10,0:04:35.05,0:04:36.88,Default,Natsuki,0,0,0,ED,Yeah. Just barely...{i think this works slightly better? what other options are there considering the word economy constraint? "I swear..."? "That stupid..."? smth like that? Feel like those aren't as good}
+Dialogue: 10,0:04:33.04,0:04:34.55,Default,Minamo,0,0,0,,Natsu{**-kun}! Are you okay?
+Dialogue: 10,0:04:35.05,0:04:36.88,Default,Natsuki,0,0,0,,Yeah. By some miracle...
 Dialogue: 10,0:04:36.88,0:04:37.55,Default,Natsuki,0,0,0,,Hey!
 Dialogue: 10,0:04:39.30,0:04:40.55,Default,Atri,0,0,0,,Fire extinguished, sir!
 Dialogue: 10,0:04:42.55,0:04:43.72,Default,Minamo,0,0,0,,Atri{**-chan}!

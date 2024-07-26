@@ -49,7 +49,6 @@ Dialogue: 10,0:00:34.18,0:00:35.89,Alt,Natsuki,0,0,0,,{\an8}Atri! Put me down!
 Dialogue: 10,0:00:37.23,0:00:41.56,Default,Atri,0,0,0,,Witness the power of my high specs!
 Dialogue: 10,0:00:45.90,0:00:46.28,Default,Atri,0,0,0,,Huh? {necessary to do something with the styling here? to differentiate atri and natsuki's dialogue}
 Dialogue: 10,0:00:46.65,0:00:47.15,Default,Natsuki,0,0,0,,Huh?
-Dialogue: 10,0:00:47.65,0:00:48.57,Default,Atri,0,0,0,,
 Dialogue: 10,0:02:27.71,0:02:28.96,Default,Natsuki,0,0,0,,What is {\i1}wrong{\i0} with you?
 Dialogue: 10,0:02:28.96,0:02:33.05,Default,Natsuki,0,0,0,,I did {\i1}not{\i0} need to get dumped\nin the ocean twice in one day...
 Dialogue: 10,0:02:33.05,0:02:34.72,Default,Atri,0,0,0,,{\an8}Now this is curious.
@@ -96,12 +95,10 @@ Dialogue: 10,0:04:15.65,0:04:18.03,Default,Atri,0,0,0,,Master, help!
 Dialogue: 10,0:04:18.36,0:04:21.16,Default,Minamo,0,0,0,,Natsu{**-kun}, let's go to school today...
 Dialogue: 10,0:04:21.16,0:04:22.83,Default,Minamo,0,0,0,,It'll be tons of fun!
 Dialogue: 10,0:04:23.58,0:04:26.79,Default,Minamo,0,0,0,,Yeah, no way. He'll just laugh in my face...
-Dialogue: 10,0:04:26.79,0:04:27.87,Default,Minamo,0,0,0,,
 Dialogue: 10,0:04:29.04,0:04:31.50,Default,Minamo,0,0,0,,Huh?! Oh no!
 Dialogue: 10,0:04:33.04,0:04:34.55,Default,Minamo,0,0,0,,Natsu{**-kun}! Are you all right?
 Dialogue: 10,0:04:35.05,0:04:36.88,Default,Natsuki,0,0,0,ED,Yeah. Just barely...{i think this works slightly better? what other options are there considering the word economy constraint? "I swear..."? "That stupid..."? smth like that? Feel like those aren't as good}
 Dialogue: 10,0:04:36.88,0:04:37.55,Default,Natsuki,0,0,0,,Hey!
-Dialogue: 10,0:04:37.97,0:04:39.30,Default,Atri,0,0,0,,
 Dialogue: 10,0:04:39.30,0:04:40.55,Default,Atri,0,0,0,,Fire extinguished, sir!
 Dialogue: 10,0:04:42.55,0:04:43.72,Default,Minamo,0,0,0,,Atri{**-chan}!
 Dialogue: 10,0:04:43.72,0:04:45.14,Default,Atri,0,0,0,,Minamo!
@@ -109,7 +106,6 @@ Dialogue: 10,0:04:45.14,0:04:46.60,Default,Minamo,0,0,0,,You found your way back
 Dialogue: 10,0:04:46.60,0:04:48.31,Default,Minamo,0,0,0,,Is everything okay? Was there a fire?
 Dialogue: 10,0:04:48.31,0:04:49.35,Default,Atri,0,0,0,,Yes!
 Dialogue: 10,0:04:49.35,0:04:52.02,Default,Atri,0,0,0,,But I handled the disaster perfectly!
-Dialogue: 10,0:04:52.02,0:04:52.90,Default,Atri,0,0,0,,
 Dialogue: 10,0:04:52.90,0:04:54.36,Default,Natsuki,0,0,0,,The disaster {\i1}you{\i0} caused.
 Dialogue: 10,0:04:54.90,0:05:02.32,Default,Atri,0,0,0,,It's all because my specs are so high that I'm able to\nproperly emulate human behavior, errors and all...
 Dialogue: 10,0:05:02.32,0:05:06.04,Default,Atri,0,0,0,,I'll have you know most Humanoids\ncouldn't make mistakes, even if they tried!
@@ -225,7 +221,6 @@ Dialogue: 10,0:10:25.15,0:10:27.19,Default,Atri,0,0,0,,You didn't go?
 Dialogue: 10,0:10:27.19,0:10:28.11,Default,Minamo,0,0,0,,Yeah.
 Dialogue: 10,0:10:28.11,0:10:30.57,Default,Minamo,0,0,0,,Natsu{**-kun} came back, you know.
 Dialogue: 10,0:10:30.57,0:10:34.49,Default,Minamo,0,0,0,,And I'd be leaving so many other people behind...
-Dialogue: 10,0:10:35.49,0:10:35.95,Default,Minamo,0,0,0,,
 Dialogue: 10,0:10:36.37,0:10:38.08,Default,Minamo,0,0,0,,Atri{**-chan}, can you drink tea?
 Dialogue: 10,0:10:38.08,0:10:41.29,Default,Atri,0,0,0,,I don't need to, but I do possess the required functionality.
 Dialogue: 10,0:10:41.29,0:10:43.33,Default,Atri,0,0,0,,I'm high-spec!
@@ -262,7 +257,6 @@ Dialogue: 10,0:12:39.66,0:12:42.49,Default,Atri,0,0,0,,Just being there for him 
 Dialogue: 10,0:12:44.37,0:12:46.00,Default,Atri,0,0,0,,I don't get it...
 Dialogue: 10,0:12:48.54,0:12:52.00,Default,Atri,0,0,0,,Humans are such incomprehensible creatures.
 Dialogue: 10,0:12:54.59,0:12:56.34,Default,Atri,0,0,0,,I'm home, Master!
-Dialogue: 10,0:12:56.34,0:12:56.92,Default,Atri,0,0,0,,
 Dialogue: 10,0:13:04.35,0:13:05.77,Default,Natsuki,0,0,0,,Help...
 Dialogue: 10,0:13:10.48,0:13:15.15,Default,Atri,0,0,0,,Shouting in your sleep is quite an impressive feat.
 Dialogue: 10,0:13:15.15,0:13:17.69,Default,Atri,0,0,0,,Are your central nervous functions experiencing an error?
@@ -295,7 +289,6 @@ Dialogue: 10,0:15:01.63,0:15:06.59,Default,Atri,0,0,0,,Disturbing a robot's peac
 Dialogue: 10,0:15:06.93,0:15:08.72,Default,Natsuki,0,0,0,,Wake up already, you insufferable toaster!
 Dialogue: 10,0:15:08.72,0:15:12.39,Default,Atri,0,0,0,,That's another legally recognized epithet against robots...
 Dialogue: 10,0:15:13.35,0:15:14.52,Default,Natsuki,0,0,0,,Forget everything!
-Dialogue: 10,0:15:14.52,0:15:15.44,Default,Atri,0,0,0,,
 Dialogue: 10,0:15:15.44,0:15:18.65,Default,Natsuki,0,0,0,,Erase everything that happened yesterday\nfrom your memory!
 Dialogue: 10,0:15:18.94,0:15:20.40,Default,Natsuki,0,0,0,,Master's orders!
 Dialogue: 10,0:15:20.40,0:15:22.74,Default,Atri,0,0,0,,Yesterday?
@@ -394,7 +387,6 @@ Dialogue: 10,0:20:36.59,0:20:40.26,Default,Atri,0,0,0,,Is that thing over there 
 Dialogue: 10,0:20:40.80,0:20:41.89,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:20:42.39,0:20:43.68,Default,Atri,0,0,0,,Can it fly?
 Dialogue: 10,0:20:44.22,0:20:45.18,Default,Natsuki,0,0,0,,Sure.
-Dialogue: 10,0:20:45.18,0:20:45.98,Default,Atri,0,0,0,,
 Dialogue: 10,0:20:46.31,0:20:48.31,Default,Natsuki,0,0,0,,It will. One day.
 Dialogue: 10,0:20:52.23,0:20:54.94,Default,Atri,0,0,0,,Huh? Isn't home this way?
 Dialogue: 10,0:21:01.91,0:21:02.91,Default,Atri,0,0,0,,Where are we?

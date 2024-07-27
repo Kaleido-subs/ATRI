@@ -22,7 +22,7 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,{=6}---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=6}---- Chapters
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:00:57.04,0:00:57.04,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:01:12.68,0:01:12.68,Default,,0,0,0,opsync,{OPSync — First frame of Natsuki}
@@ -30,7 +30,7 @@ Comment: 0,0:02:27.00,0:02:27.00,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:14:30.02,0:14:30.02,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:10.02,0:22:10.02,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:11.64,0:22:11.64,Default,,0,0,0,edsync,{=7}{EDSync — First frame of "YES" zoom}
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,{=4}---- Dialogue
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
 Dialogue: 10,0:00:00.98,0:00:04.65,Default,Atri,0,0,0,,I'll be your leg, Master!
 Dialogue: 10,0:00:05.15,0:00:07.57,Default,Natsuki,0,0,0,,What are you...
 Dialogue: 10,0:00:07.57,0:00:11.16,Default,Atri,0,0,0,,It's a Humanoid's job to serve her master!

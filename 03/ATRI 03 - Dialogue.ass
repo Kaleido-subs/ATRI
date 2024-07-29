@@ -80,7 +80,7 @@ Dialogue: 10,0:02:59.61,0:03:02.16,Default,Natsuki,0,0,0,,Can't you just store t
 Dialogue: 10,0:03:02.16,0:03:03.66,Default,Atri,0,0,0,,I can.
 Dialogue: 10,0:03:03.66,0:03:07.45,Default,Atri,0,0,0,,But apparently this would help me develop more human-like memory storage faculties.
 Dialogue: 10,0:03:08.04,0:03:11.08,Default,Natsuki,0,0,0,,Maybe you losing your memories
-Dialogue: 10,0:03:11.08,0:03:14.75,Default,Natsuki,0,0,0,,was an intentional effort to make you feel more human. {feel like the sense here is a bit off, more like "the fact that you DID lose your memories is a sign that your brain structure is awfully human, TLC thoughts?}
+Dialogue: 10,0:03:11.08,0:03:14.75,Default,Natsuki,0,0,0,TLC,was an intentional effort to make you feel more human. {feel like the sense here is a bit off, more like "the fact that you DID lose your memories is a sign that your brain structure is awfully human, TLC thoughts?}{no, I think this is about how she is designed, current line seems fine to me -yon}
 Dialogue: 10,0:03:15.63,0:03:18.38,Default,Atri,0,0,0,,You're so smart, Natsuki-san! That's exactly it!
 Dialogue: 10,0:03:18.38,0:03:21.76,Default,Atri,0,0,0,,Clearly, my memory loss is proof positive of my astronomically high—
 Dialogue: 10,0:03:21.76,0:03:23.18,Default,Natsuki,0,0,0,,Yeah, let's not go that far. {you think you're soooo cute...}
@@ -105,7 +105,7 @@ Dialogue: 10,0:04:07.43,0:04:08.97,Default,Miyo,0,0,0,,We've heard the stories.
 Dialogue: 10,0:04:08.97,0:04:13.10,Default,Miyo,0,0,0,,You have a rifle hidden in your crutch, and you're not afraid to use it!
 Dialogue: 10,0:04:13.10,0:04:16.52,Default,Natsuki,0,0,0,,Oh. That's the game we're playing, huh?
 Dialogue: 10,0:04:16.98,0:04:20.53,Default,Atri,0,0,0,,If you wanna take on Natsuki-san, you'll have to get through me first!
-Dialogue: 10,0:04:20.53,0:04:21.74,Default,Ririka,0,0,0,,Back off, pipsqueak!
+Dialogue: 10,0:04:20.53,0:04:21.74,Default,Ririka,0,0,0,TLC,Back off, pipsqueak!{pipsqueak feels a bit weird coming from kids who look even smaller than her -yon}
 Dialogue: 10,0:04:21.74,0:04:22.74,Default,Atri,0,0,0,,Pipsqueak!?
 Dialogue: 10,0:04:22.74,0:04:24.15,Default,Natsuki,0,0,0,,You heard her, pipsqueak.
 Dialogue: 10,0:04:24.15,0:04:25.95,Default,Atri,0,0,0,,Et tu, Natsuki-san?!
@@ -151,7 +151,7 @@ Dialogue: 10,0:06:31.03,0:06:32.16,Default,Minamo,0,0,0,,Um...
 Dialogue: 10,0:06:32.49,0:06:34.41,Default,Ririka,0,0,0,,You're real clueless, huh?
 Dialogue: 10,0:06:34.41,0:06:36.29,Default,Ririka,0,0,0,,Minamo-chan's our teacher!
 Dialogue: 10,0:06:36.29,0:06:39.83,Default,Toru,0,0,0,,She teaches us language arts, math, science, social studies, everything!
-Dialogue: 10,0:06:40.17,0:06:40.96,Default,Natsuki,0,0,0,,{\i1}You're{\i0} their teacher?
+Dialogue: 10,0:06:40.17,0:06:40.96,Default,Natsuki,0,0,0,TLC,{\i1}You're{\i0} their teacher?{Feels like it's pushing the line length, maybe "You are?" -yon}
 Dialogue: 10,0:06:40.96,0:06:45.25,Default,Minamo,0,0,0,,Yeah. All our teachers already evacuated to the mainland.
 Dialogue: 10,0:06:45.25,0:06:47.88,Default,Minamo,0,0,0,,'Cause, you know, there's barely any students left...
 Dialogue: 10,0:06:50.01,0:06:53.18,Default,Minamo,0,0,0,,My dad wants me to shut everything down and do the paperwork
@@ -169,7 +169,7 @@ Dialogue: 10,0:07:22.17,0:07:26.88,Default,Ryuuji,0,0,0,,What would you even kno
 Dialogue: 10,0:07:26.88,0:07:29.17,Default,Natsuki,0,0,0,,I didn't abandon anything.
 Dialogue: 10,0:07:29.17,0:07:33.09,Default,Natsuki,0,0,0,,I studied hard and enrolled in the Academy so I could make a difference.
 Dialogue: 10,0:07:33.09,0:07:33.93,Default,Natsuki,0,0,0,,That's all.
-Dialogue: 10,0:07:33.93,0:07:35.55,Default,Ryuuji,0,0,0,,Then start making yourself useful.
+Dialogue: 10,0:07:33.93,0:07:35.55,Default,Ryuuji,0,0,0,TLC,Then start making yourself useful.{Consider matching wording to previous line (make a difference) -yon}
 Dialogue: 10,0:07:37.31,0:07:40.27,Default,Ryuuji,0,0,0,,Ever since you came back, you've just been moping around on your boat.
 Dialogue: 10,0:07:40.27,0:07:42.19,Default,Ryuuji,0,0,0,,At least we're making an honest effort here.
 Dialogue: 10,0:07:42.19,0:07:43.19,Default,Minamo,0,0,0,,Ryuu-chan!
@@ -178,7 +178,7 @@ Dialogue: 10,0:07:45.23,0:07:48.73,Default,Ryuuji,0,0,0,,You talk a big game abo
 Dialogue: 10,0:07:48.73,0:07:50.82,Default,Ryuuji,0,0,0,,while the rest of us go on suffering.
 Dialogue: 10,0:07:56.91,0:08:00.04,Default,Atri,0,0,0,,Heave-ho! Heave-ho!
 Dialogue: 10,0:08:00.04,0:08:03.25,Default,Ririka,0,0,0,,Bye-bye, Atri! See you tomorrow!
-Dialogue: 10,0:08:03.25,0:08:07.46,Default,Atri,0,0,0,,Bye! See you all tomorrow!
+Dialogue: 10,0:08:03.25,0:08:07.46,Default,Atri,0,0,0,TLC,Bye! See you all tomorrow!{We sure we wanna skip the names here? -yon}
 Dialogue: 10,0:08:07.88,0:08:09.92,Default,Minamo,0,0,0,,Looks like you've made some new friends, huh?
 Dialogue: 10,0:08:09.92,0:08:14.18,Default,Atri,0,0,0,,Yes. School is much more fun than I was expecting.
 Dialogue: 10,0:08:14.68,0:08:16.64,Default,Minamo,0,0,0,,What were you expecting?
@@ -199,7 +199,7 @@ Dialogue: 10,0:09:06.98,0:09:08.06,Default,Minamo,0,0,0,,You know, Natsu-kun,
 Dialogue: 10,0:09:08.61,0:09:13.07,Default,Minamo,0,0,0,,I'd really appreciate it if you came back tomorrow.
 Dialogue: 10,0:09:13.07,0:09:14.74,Default,Natsuki,0,0,0,,What's the point?
 Dialogue: 10,0:09:14.74,0:09:17.53,Default,Natsuki,0,0,0,,Not like there's anything for you to teach me.
-Dialogue: 10,0:09:17.53,0:09:21.20,Default,Minamo,0,0,0,,Yeah, but there's plenty for you to teach us.{Technically ambiguous. She could also be saying there's stuff she CAN teach him (contrasting with his "I don't NEED anything), but considering how the episode turns out, I think this interpretation is more likely.}{agree, I don't think she'd add the  omou if she was talking about HER doing the teaching}
+Dialogue: 10,0:09:17.53,0:09:21.20,Default,Minamo,0,0,0,,Yeah, but there's plenty for you to teach us.{Technically ambiguous. She could also be saying there's stuff she CAN teach him (contrasting with his "I don't NEED anything), but considering how the episode turns out, I think this interpretation is more likely.}{agree, I don't think she'd add the  omou if she was talking about HER doing the teaching}{I also think it's about him teaching -yon}
 Dialogue: 10,0:09:24.91,0:09:26.21,Default,Natsuki,0,0,0,,I'll think about it.
 Dialogue: 10,0:09:28.25,0:09:29.92,Default,Natsuki,0,0,0,,Hey, where'd Atri go?
 Dialogue: 10,0:09:29.92,0:09:33.51,Default,Natsuki,0,0,0,,She said she was going on ahead. You gave her you permission.
@@ -217,7 +217,7 @@ Dialogue: 10,0:10:06.58,0:10:07.66,Default,Natsuki,0,0,0,,Explain yourself.
 Dialogue: 10,0:10:07.66,0:10:14.21,Default,Atri,0,0,0,,I, uh, I thought it might cheer you up if I made you a tasty dinner...
 Dialogue: 10,0:10:14.21,0:10:17.13,Default,Minamo,0,0,0,,How does cooking lead to a mess like this?
 Dialogue: 10,0:10:17.13,0:10:21.39,Default,Atri,0,0,0,,W-Well, as I've said before, in a way, making human-like mistakes
-Dialogue: 10,0:10:21.39,0:10:24.47,Default,Atri,0,0,0,,is actually proof of my stupendously high—
+Dialogue: 10,0:10:21.39,0:10:24.47,Default,Atri,0,0,0,TLC,is actually proof of my stupendously high—{I don't think this one should be cut off in the middle like this -yon}
 Dialogue: 10,0:10:24.47,0:10:26.73,Default,Natsuki,0,0,0,,It's not humanly possible to screw up this badly.
 Dialogue: 10,0:10:26.73,0:10:28.85,Default,Minamo,0,0,0,,Maybe some part of her is malfunctioning?
 Dialogue: 10,0:10:28.85,0:10:29.60,Default,Atri,0,0,0,,Huh?
@@ -243,12 +243,12 @@ Dialogue: 10,0:11:33.04,0:11:36.96,Default,Atri,0,0,0,,Exactly. But as a special
 Dialogue: 10,0:11:36.96,0:11:38.59,Default,Atri,0,0,0,,controlling my strength is—
 Dialogue: 10,0:11:38.59,0:11:39.21,Default,Natsuki,0,0,0,,Atri.
 Dialogue: 10,0:11:39.21,0:11:39.80,Default,Atri,0,0,0,,Yes?
-Dialogue: 10,0:11:39.80,0:11:42.05,Default,Natsuki,0,0,0,,Do Humanoids feel no guilt lying to my face? {alt, "bullshit" which is rather more apt honestly}
+Dialogue: 10,0:11:39.80,0:11:42.05,Default,Natsuki,0,0,0,TLC,Do Humanoids feel no guilt lying to my face? {alt, "bullshit" which is rather more apt honestly}{I think this is about whether they are programmed to be capable of doing so -yon}
 Dialogue: 10,0:11:42.05,0:11:44.01,Default,Atri,0,0,0,,Yes! But of course! {feel like there's some cute stuff one can do with the timing here}
 Dialogue: 10,0:11:44.01,0:11:46.68,Default,Atri,0,0,0,,I'm high-spec, baby!
 Dialogue: 10,0:11:47.56,0:11:49.68,Default,Minamo,0,0,0,,All of that was a lie!?
 Dialogue: 10,0:11:52.35,0:11:56.02,Default,Minamo,0,0,0,,Don't you think this violates the Humanoid Anti-Abuse Act?
-Dialogue: 10,0:11:56.02,0:11:58.53,Default,Natsuki,0,0,0,,She'll survive. She doesn't even need food anyway. 
+Dialogue: 10,0:11:56.02,0:11:58.53,Default,Natsuki,0,0,0,,She'll survive. She doesn't even need food anyway.
 Dialogue: 10,0:11:58.53,0:12:02.74,Default,Natsuki,0,0,0,,If you ask me, a robot lying to its master is a {\i1}much{\i0} bigger problem.
 Dialogue: 10,0:12:02.74,0:12:04.41,Default,Atri,0,0,0,,Objection, Your Honor!
 Dialogue: 10,0:12:04.41,0:12:06.87,Default,Atri,0,0,0,,One, I am a robot.
@@ -284,7 +284,7 @@ Dialogue: 10,0:13:29.83,0:13:31.24,Default,Atri,0,0,0,,It's gone.
 Dialogue: 10,0:13:31.24,0:13:32.04,Default,Natsuki,0,0,0,,Huh?
 Dialogue: 10,0:13:32.04,0:13:37.00,Default,Atri,0,0,0,,I think I left my logbook at school! {originally this was her shoes, but anime-onlies apparently don't deserve feet pics lmao}
 Dialogue: 10,0:13:43.80,0:13:45.55,Default,Natsuki,0,0,0,,Can't this wait until tomorrow?
-Dialogue: 10,0:13:45.55,0:13:50.05,Default,Atri,0,0,0,,Absolutely not. Timely logs are of vital importance!
+Dialogue: 10,0:13:45.55,0:13:50.05,Default,Atri,0,0,0,TLC,Absolutely not. Timely logs are of vital importance!{"timely" makes it sound more like it's important that she be able to continue taking them tonight -yon}
 Dialogue: 10,0:13:50.05,0:13:52.31,Default,Natsuki,0,0,0,,You'd think you wouldn't forget it, then.
 Dialogue: 10,0:13:55.64,0:13:57.19,Default,Natsuki,0,0,0,,It sure is dark...
 Dialogue: 10,0:13:57.19,0:13:58.23,Default,Atri,0,0,0,,Nighttime generally is. {such a you line, l0l}

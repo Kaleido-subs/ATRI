@@ -184,7 +184,7 @@ Dialogue: 10,0:08:07.80,0:08:09.93,Default,Minamo,0,0,0,,Looks like you've made 
 Dialogue: 10,0:08:09.93,0:08:14.18,Default,Atri,0,0,0,,Yes. School is much more fun than I was expecting.
 Dialogue: 10,0:08:15.31,0:08:16.64,Default,Minamo,0,0,0,,What were you expecting?
 Dialogue: 10,0:08:17.27,0:08:21.15,Default,Atri,0,0,0,,I had this feeling that school was a very sad place.
-Dialogue: 10,0:08:21.48,0:08:24.03,Default,Minamo,0,0,0,,Oh, that's just silly. Right, Natsu{**-kun}?
+Dialogue: 10,0:08:21.48,0:08:24.02,Default,Minamo,0,0,0,,Oh, that's just silly. Right, Natsu{**-kun}?
 Dialogue: 10,0:08:26.28,0:08:29.36,Default,Natsuki,0,0,0,,Sorry. I should've just stayed home.
 Dialogue: 10,0:08:29.36,0:08:31.95,Default,Minamo,0,0,0,,No, you didn't do anything wrong.
 Dialogue: 10,0:08:32.45,0:08:34.66,Default,Minamo,0,0,0,,I'm sure Ryuu{**-chan} knows that, too.
@@ -372,8 +372,8 @@ Dialogue: 10,0:18:11.15,0:18:13.82,Default,Natsuki,0,0,0,,I have an idea I wanna
 Dialogue: 10,0:18:16.28,0:18:17.83,Default,Atri,0,0,0,,Here goes!
 Dialogue: 10,0:18:17.83,0:18:19.62,Default,Natsuki,0,0,0,,Yeah, go for it!
 Dialogue: 10,0:18:31.55,0:18:33.22,Default,Atri,0,0,0,,Should I keep going?
-Dialogue: 10,0:18:33.22,0:18:34.64,Default,Natsuki,0,0,0,,Yeah! Gimme more juice!
-Dialogue: 10,0:18:34.64,0:18:36.39,Default,Atri,0,0,0,,What?!
+Dialogue: 10,0:18:33.22,0:18:34.63,Default,Natsuki,0,0,0,,Yeah! Gimme more juice!
+Dialogue: 10,0:18:34.63,0:18:36.39,Default,Atri,0,0,0,,What?!
 Dialogue: 10,0:18:38.18,0:18:39.14,Default,Natsuki,0,0,0,,Put your back into it!
 Dialogue: 10,0:18:39.14,0:18:40.85,Default,Natsuki,0,0,0,,You're a combat robot, aren't you?
 Dialogue: 10,0:18:42.39,0:18:46.65,Default,Atri,0,0,0,,Ngh... this is borderline robot cruelty!

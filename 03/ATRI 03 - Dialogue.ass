@@ -85,7 +85,7 @@ Dialogue: 10,0:03:18.39,0:03:21.56,Default,Atri,0,0,0,,Clearly, my memory loss i
 Dialogue: 10,0:03:21.56,0:03:23.02,Default,Natsuki,0,0,0,,Yeah, let's not go that far.
 Dialogue: 10,0:03:24.31,0:03:26.14,Default,Natsuki,0,0,0,,"Going to school with Natsuki{**-san}."
 Dialogue: 10,0:03:26.14,0:03:27.27,Default,Natsuki,0,0,0,,That's all?
-Dialogue: 10,0:03:28.35,0:03:33.36,Default,Atri,0,0,0,,No peeking! That's a violation\nof the Robot Privacy Act!{NN: Can we have this be RAP? Robot Autonomous Privacy Act.}
+Dialogue: 10,0:03:28.35,0:03:33.36,Default,Atri,0,0,0,,No peeking! That's a violation\nof the Robot Autonomous Privacy Act!
 Dialogue: 10,0:03:36.74,0:03:38.24,Default,Natsuki,0,0,0,,Welp.
 Dialogue: 10,0:03:38.24,0:03:39.66,Default,Atri,0,0,0,,We just have to cross!
 Dialogue: 10,0:03:39.66,0:03:42.95,Default,Atri,0,0,0,,With my incredible long jump skills,\na gap like this isn't even a—
@@ -222,7 +222,7 @@ Dialogue: 10,0:10:07.67,0:10:14.22,Default,Atri,0,0,0,,I, uh, thought it might c
 Dialogue: 10,0:10:14.22,0:10:17.14,Default,Minamo,0,0,0,,How does cooking lead to a mess like this?
 Dialogue: 10,0:10:17.43,0:10:19.39,Default,Atri,0,0,0,,W-Well, as I've said before,
 Dialogue: 10,0:10:19.39,0:10:24.48,Default,Atri,0,0,0,,in a way, making human-like mistakes\nis actually proof of my stupendously high specs!
-Dialogue: 10,0:10:24.48,0:10:26.69,Default,Natsuki,0,0,0,,It's not even humanly {\i1}possible{\i0}\nto screw up this badly.{NN: I'm not sure I like the italics here? My first instinct was to move it to "humanly" to play off what Atri just said but I'm not sure I like that, either.}
+Dialogue: 10,0:10:24.48,0:10:26.69,Default,Natsuki,0,0,0,,It's not even {\i1}humanly{\i0} possible\nto screw up this badly.
 Dialogue: 10,0:10:26.69,0:10:28.73,Default,Minamo,0,0,0,,Maybe some part of her is malfunctioning?
 Dialogue: 10,0:10:28.73,0:10:29.61,Default,Atri,0,0,0,,Huh?
 Dialogue: 10,0:10:29.61,0:10:33.11,Default,Natsuki,0,0,0,,Could be. And I don't have any way\nto repair her, either.
@@ -248,7 +248,7 @@ Dialogue: 10,0:11:33.05,0:11:34.17,Default,Atri,0,0,0,,Exactly.
 Dialogue: 10,0:11:34.17,0:11:38.51,Default,Atri,0,0,0,,But as a specialized combat unit,\ncontrolling my strength is—
 Dialogue: 10,0:11:38.51,0:11:39.18,Default,Natsuki,0,0,0,,Atri.
 Dialogue: 10,0:11:39.18,0:11:39.80,Default,Atri,0,0,0,,Yes?
-Dialogue: 10,0:11:39.80,0:11:41.89,Default,Natsuki,0,0,0,ED/TLC,Humanoids can lie, can they?{@ED/TLC this feels flipped? is he asking if normal humanoids _can't_ lie, and atri boasts that she alone can? -p}{we workshopped this line to the best of our ability, considering the side constraints, but I wasn't especially satisfied with it}{NN: I see the problems with this and think they do exist but not to the same extent as QC1. Just food for thought.}
+Dialogue: 10,0:11:39.80,0:11:41.89,Default,Natsuki,0,0,0,,Humanoids can lie, can they?
 Dialogue: 10,0:11:41.89,0:11:43.93,Default,Atri,0,0,0,,Yes! But of course!
 Dialogue: 10,0:11:43.93,0:11:46.56,Default,Atri,0,0,0,,I'm high-spec, baby!
 Dialogue: 10,0:11:47.56,0:11:49.69,Default,Minamo,0,0,0,,All of that was a lie?!
@@ -376,7 +376,7 @@ Dialogue: 10,0:18:34.63,0:18:36.39,Default,Atri,0,0,0,,What?!
 Dialogue: 10,0:18:38.18,0:18:39.14,Default,Natsuki,0,0,0,,Put your back into it!
 Dialogue: 10,0:18:39.14,0:18:40.85,Default,Natsuki,0,0,0,,You're a combat robot, aren't you?
 Dialogue: 10,0:18:42.39,0:18:46.65,Default,Atri,0,0,0,,Ngh... this is borderline robot cruelty!
-Dialogue: 10,0:18:47.27,0:18:50.86,Default,Natsuki,0,0,0,ED/TLC,Looks like efficiency really does\nsuffer on such a small scale.{@ED/TLC efficiency or reliability? -p}{thats interesting... I thought for sure it was 効率 but 工率 also makes sense... I just went with [electrical] efficiency since it's the best equivalent in english for both}
+Dialogue: 10,0:18:47.27,0:18:50.86,Default,Natsuki,0,0,0,,Looks like efficiency really does\nsuffer on such a small scale.
 Dialogue: 10,0:18:50.86,0:18:54.07,Default,Natsuki,0,0,0,,But a bigger turbine would come\nwith its own problems...
 Dialogue: 10,0:18:58.24,0:18:59.53,Default,Natsuki,0,0,0,,That's it!
 Dialogue: 10,0:18:59.53,0:19:03.29,Default,Atri,0,0,0,,Natsuki{**-san}, can I stop yet?

@@ -74,7 +74,7 @@ Dialogue: 0,0:03:22.59,0:03:24.93,Default,Natsuki,0,0,0,,Don't scare me like tha
 Dialogue: 0,0:03:25.68,0:03:27.51,Default,Natsuki,0,0,0,,How's it look? Think you can do it?
 Dialogue: 0,0:03:28.77,0:03:31.89,Default,Natsuki,0,0,0,,Look, I told you I wouldn't be able to hear you.
 Dialogue: 0,0:03:43.91,0:03:44.62,Default,Minamo,0,0,0,,What is it?
-Dialogue: 0,0:03:45.20,0:03:48.20,Default,Natsuki,0,0,0,,I think that's the old Japanese bakery over there. {should discuss, interesting localization case study, I also considered "manjuu" as a slightly less domesticated variant}
+Dialogue: 0,0:03:45.20,0:03:48.20,Default,Natsuki,0,0,0,TLC,I think that's the old Japanese bakery over there. {should discuss, interesting localization case study, I also considered "manjuu" as a slightly less domesticated variant}{also consider like "confectionery" to narrow down the type of baking -yon}
 Dialogue: 0,0:03:48.20,0:03:51.71,Default,Ririka,0,0,0,,Oh, I remember that place! My mom bought me cakes from there all the time.
 Dialogue: 0,0:03:51.71,0:03:54.08,Default,Miyo,0,0,0,,Ryuu-chan, you liked yours with custard, right?
 Dialogue: 0,0:03:55.17,0:03:57.67,Default,Ryuuji,0,0,0,,You find my family's factory yet, or what?
@@ -155,7 +155,7 @@ Dialogue: 0,0:07:30.51,0:07:31.93,Default,Atri,0,0,0,,I don't know...
 Dialogue: 0,0:07:33.72,0:07:36.64,Default,Ryuuji,0,0,0,,How many times do I have to tell you? That's not gonna work!
 Dialogue: 0,0:07:36.64,0:07:38.52,Default,Natsuki,0,0,0,,It'll be fine as long as we follow the blueprint!
 Dialogue: 0,0:07:38.52,0:07:39.64,Default,Ririka,0,0,0,,Come quick!
-Dialogue: 0,0:07:39.64,0:07:42.64,Default,Ririka,0,0,0,,Natsuki-sensei and Ryuu-chan are fighting!
+Dialogue: 0,0:07:39.64,0:07:42.64,Default,Ririka,0,0,0,TLC,Natsuki-sensei and Ryuu-chan are fighting!{would have expected to keep the less common wording here somehow, "dueling" or otherwise -yon}
 Dialogue: 0,0:07:43.10,0:07:44.52,Default,Minamo and Atri,0,0,0,,
 Dialogue: 0,0:07:45.27,0:07:47.48,Default,Natsuki,0,0,0,,Unless you want to kill the electrical efficiency,
 Dialogue: 0,0:07:47.48,0:07:50.65,Default,Natsuki,0,0,0,,this part absolutely has to be made as light as possible.
@@ -235,7 +235,7 @@ Dialogue: 0,0:11:45.14,0:11:49.43,Default,Atri,0,0,0,,Did I put this on right?
 Dialogue: 0,0:11:51.06,0:11:52.23,Default,Natsuki,0,0,0,,What are you wearing?
 Dialogue: 0,0:11:52.23,0:11:53.69,Default,Atri,0,0,0,,I don't know...
 Dialogue: 0,0:11:53.69,0:11:55.77,Default,Atri,0,0,0,,Wait! I've heard of this!
-Dialogue: 0,0:11:55.77,0:11:59.40,Default,Atri,0,0,0,,Why, this is the sort of provocative nightwear that shows off just the right amount,
+Dialogue: 0,0:11:55.77,0:11:59.40,Default,Atri,0,0,0,TLC,Why, this is the sort of provocative nightwear that shows off just the right amount,{is this nightwear? I don't think that's implied from the dialogue -yon}
 Dialogue: 0,0:11:59.40,0:12:00.94,Default,Atri,0,0,0,,perfect for inflaming male passions!
 Dialogue: 0,0:12:00.94,0:12:02.70,Default,Atri,0,0,0,,Natsuki-san, does this mean you want to—
 Dialogue: 0,0:12:01.50,0:12:02.78,Default,Natsuki,0,0,0,,Absolutely not!
@@ -285,7 +285,7 @@ Dialogue: 0,0:14:31.26,0:14:33.26,Default,Catherine,0,0,0,,I hope you slip and f
 Dialogue: 0,0:14:33.26,0:14:35.84,Default,Catherine,0,0,0,,Stupid rust bucket! Scrap heap! Potato battery-for brains!
 Dialogue: 0,0:14:34.15,0:14:35.84,Default,Atri,0,0,0,,Harrumph! Harrumph!
 Dialogue: 0,0:14:35.84,0:14:37.89,Default,Atri,0,0,0,,Potato battery! Why, I never!
-Dialogue: 0,0:14:37.89,0:14:40.69,Default,Atri,0,0,0,,I've successfully taken out the trash, Natsuki-san! {sort of tricky line, should discuss}
+Dialogue: 0,0:14:37.89,0:14:40.69,Default,Atri,0,0,0,TLC,I've successfully taken out the trash, Natsuki-san! {sort of tricky line, should discuss}{line phrasing strike's me as more robot-like -yon}
 Dialogue: 0,0:14:41.40,0:14:44.61,Default,Atri,0,0,0,,Did I do good? Was I useful?
 Dialogue: 0,0:14:44.61,0:14:45.36,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 0,0:14:45.36,0:14:47.28,Default,Atri,0,0,0,,Then I demand headpats!
@@ -365,13 +365,13 @@ Dialogue: 0,0:18:43.81,0:18:45.93,Default,Junker,0,0,0,,Uh, yeah, sure.
 Dialogue: 0,0:18:45.93,0:18:48.14,Default,Atri,0,0,0,,These high specs don't come cheap, after all!
 Dialogue: 0,0:18:48.14,0:18:49.64,Default,Atri,0,0,0,,Now, go ahead and repeat after me,
 Dialogue: 0,0:18:49.64,0:18:51.56,Default,Atri,0,0,0,,"Atri, you're worth more than any toaster in the world!"
-Dialogue: 0,0:18:51.94,0:18:54.57,Default,Junker,0,0,0,,If that's what you're after, I'll throw in one of those, too!
+Dialogue: 0,0:18:51.94,0:18:54.57,Default,Junker,0,0,0,TLC,If that's what you're after, I'll throw in one of those, too!{Don't understand what you mean by "if that's what you're after" -yon}
 Dialogue: 0,0:18:54.57,0:18:55.28,Default,Junker,0,0,0,,Whaddaya say, kid?
 Dialogue: 0,0:18:56.19,0:18:59.78,Default,Natsuki,0,0,0,,Why's this specific model of Humanoid worth so much more?
 Dialogue: 0,0:18:59.78,0:19:02.78,Default,Junker,0,0,0,,Mmm, because it's rare, I guess?
 Dialogue: 0,0:19:02.78,0:19:04.08,Default,Natsuki,0,0,0,,Huh?
 Dialogue: 0,0:19:04.08,0:19:07.29,Default,Natsuki,0,0,0,,There's no way that rarity is enough to explain a price tag like {\i1}this.{\i0}
-Dialogue: 0,0:19:07.29,0:19:09.37,Default,Natsuki,0,0,0,,There has to be better reason.
+Dialogue: 0,0:19:07.29,0:19:09.37,Default,Natsuki,0,0,0,TLC,There has to be better reason.{"a" better reason -yon}
 Dialogue: 0,0:19:10.22,0:19:11.54,Default,Junker,0,0,0,,I dunno what to tell ya...
 Dialogue: 0,0:19:12.21,0:19:13.92,Default,Natsuki,0,0,0,,You have any documentation or something?
 Dialogue: 0,0:19:16.75,0:19:19.17,Default,Natsuki,0,0,0,,The fourth generation Yamasaki Factory model...

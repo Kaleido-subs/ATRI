@@ -72,7 +72,7 @@ Dialogue: 10,0:01:28.78,0:01:31.11,Default,Natsuki,0,0,0,,Okay, we're in positio
 Dialogue: 10,0:01:32.16,0:01:33.45,Default,Natsuki,0,0,0,,Now,
 Dialogue: 10,0:01:35.12,0:01:36.28,Default,Natsuki,0,0,0,,let's get this show on the road!
 Dialogue: 10,0:03:08.13,0:03:11.05,Default,Minamo,0,0,0,,Natsu-kun! Natsu-kun, can you hear me?
-Dialogue: 10,0:03:11.05,0:03:12.96,Default,Natsuki,0,0,0,,Yeah, I just got here.
+Dialogue: 10,0:03:11.05,0:03:12.96,Default,Natsuki,10,1000,0,,Yeah, I just got here.
 Dialogue: 10,0:03:12.96,0:03:14.59,Default,Minamo,0,0,0,,Where's that?
 Dialogue: 10,0:03:14.59,0:03:15.93,Default,Natsuki,0,0,0,,It's, uh...
 Dialogue: 10,0:03:16.72,0:03:19.10,Default,Natsuki,0,0,0,,The Kannon-mae intersection, it looks like.
@@ -91,7 +91,7 @@ Dialogue: 10,0:04:04.43,0:04:05.77,Default,Natsuki,0,0,0,,Your last name's Nojim
 Dialogue: 10,0:04:05.77,0:04:07.02,Default,Ryuuji,0,0,0,,Oh, shut up!
 Dialogue: 10,0:04:07.81,0:04:09.77,Default,Natsuki,0,0,0,,The resin's in the back warehouse, right?
 Dialogue: 10,0:04:13.65,0:04:15.57,Default,Natsuki,0,0,0,,I told you, I can't hear you!
-Dialogue: 10,0:04:15.57,0:04:17.07,Default,Atri,0,0,0,,[unintelligible robot noises]
+Comment: 10,0:04:15.57,0:04:17.07,Default,Atri,0,0,0,,[unintelligible robot noises]
 Dialogue: 10,0:04:17.07,0:04:19.07,Default,Natsuki,0,0,0,,No, we are {\i1}not{\i0} taking him home!
 Dialogue: 10,0:04:20.45,0:04:23.16,Default,Natsuki,0,0,0,,Look, if Ryuuji's right,
 Dialogue: 10,0:04:23.16,0:04:26.37,Default,Natsuki,0,0,0,,there should be drums of resin in that warehouse.
@@ -243,15 +243,15 @@ Dialogue: 10,0:11:45.23,0:11:49.48,Default,Atri,0,0,0,,Did I put this on right?
 Dialogue: 10,0:11:51.19,0:11:52.23,Default,Natsuki,0,0,0,,What are you wearing?
 Dialogue: 10,0:11:52.23,0:11:53.65,Default,Atri,0,0,0,,I don't know...
 Dialogue: 10,0:11:53.65,0:11:55.74,Default,Atri,0,0,0,,Wait! I've heard of this!
-Dialogue: 10,0:11:55.74,0:11:58.36,Default,Atri,0,0,0,TLC/ED,Why, this is the sort of provocative nightwear that shows off just the right amount, {### needs to be slimmed down because of timing}
-Dialogue: 10,0:11:58.32,0:12:00.78,Default,Atri,0,0,0,,perfect for inflaming male passions!
+Dialogue: 10,0:11:55.74,0:11:58.33,Default,Atri,0,0,0,TLC/ED,Why, this is the sort of provocative nightwear that shows off just the right amount, {### needs to be slimmed down because of timing}
+Dialogue: 10,0:11:58.33,0:12:00.78,Default,Atri,0,0,0,,perfect for inflaming male passions!
 Dialogue: 10,0:12:00.78,0:12:02.83,Default,Atri,0,0,0,,Natsuki-san, does this mean you want to—
 Dialogue: 10,0:12:01.70,0:12:02.83,Alt,Natsuki,0,0,0,,Absolutely not!
 Dialogue: 10,0:12:02.83,0:12:03.99,Default,Natsuki,0,0,0,,What the heck were you thinking?
 Dialogue: 10,0:12:03.99,0:12:06.21,Default,Minamo,0,0,0,,Huh? You asked for a change of clothes...
 Dialogue: 10,0:12:06.21,0:12:07.75,Default,Natsuki,0,0,0,,I was talking about pajamas!
 Dialogue: 10,0:12:08.04,0:12:10.00,Default,Natsuki,0,0,0,,Why'd you bring her freaking lingerie?
-Dialogue: 10,0:12:10.00,0:12:12.46,Default,Minamo,0,0,0,,Huh!? You wanted pajamas?!
+Dialogue: 10,0:12:10.00,0:12:12.46,Default,Minamo,0,0,0,,Huh?! You wanted pajamas?!
 Dialogue: 10,0:12:12.46,0:12:13.21,Default,Natsuki,0,0,0,,You can't be serious...
 Dialogue: 10,0:12:15.17,0:12:17.47,Default,Atri,0,0,0,,Say no more, Natsuki-san!
 Dialogue: 10,0:12:17.47,0:12:20.59,Default,Atri,0,0,0,,If this is how I can be of use to you, let's strike while the iron's hot!
@@ -260,7 +260,7 @@ Dialogue: 10,0:12:25.27,0:12:26.35,Default,Atri,0,0,0,,a night
 Dialogue: 10,0:12:27.02,0:12:28.35,Default,Atri,0,0,0,,you'll never forget...
 Dialogue: 10,0:12:28.77,0:12:29.90,Default,Natsuki,0,0,0,,That's enough out of you!
 Dialogue: 10,0:12:31.90,0:12:34.61,Default,Minamo,0,0,0,,Sorry! I'll go get some pajamas!
-Dialogue: 10,0:12:35.15,0:12:35.99,Default,Minamo,0,0,0,,Huh?
+Dialogue: 10,0:12:35.15,0:12:35.99,Default,Minamo,0,0,0,,Huh?!
 Dialogue: 10,0:12:41.74,0:12:43.99,Default,Catherine,0,0,0,,Ciao!
 Dialogue: 10,0:12:51.70,0:12:55.62,Default,Catherine,0,0,0,,No funny business, or the girl gets it.
 Dialogue: 10,0:12:56.17,0:12:57.75,Default,Natsuki,0,0,0,,What are you doing?
@@ -288,7 +288,7 @@ Dialogue: 10,0:14:18.08,0:14:19.92,Default,Atri,0,0,0,,I was holding back, too, 
 Dialogue: 10,0:14:21.42,0:14:22.63,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:14:23.17,0:14:26.55,Default,Catherine,0,0,0,,Y-You {\i1}seriously{\i0} attacked a human?!
 Dialogue: 10,0:14:26.55,0:14:27.92,Default,Catherine,0,0,0,,You glorified potato battery!
-Dialogue: 10,0:14:27.92,0:14:31.26,Default,Atri,0,0,0,,Hwuh!? P-P-Potato battery!?
+Dialogue: 10,0:14:27.92,0:14:31.26,Default,Atri,0,0,0,,Hwuh?! P-P-Potato battery?!
 Dialogue: 10,0:14:31.26,0:14:33.26,Default,Catherine,0,0,0,,I hope you slip and fall into an incinerator!
 Dialogue: 10,0:14:33.26,0:14:35.84,Default,Catherine,0,0,0,,Stupid rust bucket! Scrap heap! Potato battery-for brains!
 Dialogue: 10,0:14:34.15,0:14:35.84,Default,Atri,0,0,0,,Harrumph! Harrumph!

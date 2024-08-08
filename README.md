@@ -15,9 +15,10 @@
 | **Translation Check** | Yon            | **Editing**      | Bee       | Bee       |
 | **Editing**           | alonesome      | **Timing**       | BB        | BB        |
 | **Encode**            | BB             | **Typesetting**  | —         | BB        |
-| **Timing**            | Dae            |                  |           | Nyarthur  |
-| **Typesetting**       | Nyarthur       | **Song Styling** | BB        | BB        |
-| **Quality Control**   | petzku         |                  | petzku    |           |
+| **Timing**            | Dae (01-03)    |                  |           | Nyarthur  |
+|                       | BB (04)        | **Song Styling** | BB        | BB        |
+| **Typesetting**       | Nyarthur       |                  | petzku    |           |
+| **Quality Control**   | petzku         |                  |           |           |
 |                       | BB (01)        |                  |           |           |
 |                       | Nazaki (02-13) |                  |           |           |
 

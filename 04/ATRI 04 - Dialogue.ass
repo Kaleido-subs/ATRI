@@ -72,9 +72,9 @@ Dialogue: 10,0:01:22.65,0:01:26.61,Default,Atri,180,0,0,ST,Why does my chest fee
 Dialogue: 10,0:01:28.78,0:01:31.11,Default,Natsuki,0,0,0,,Okay, we're in position.
 Dialogue: 10,0:01:32.16,0:01:33.45,Default,Natsuki,0,0,0,,Now,
 Dialogue: 10,0:01:35.12,0:01:36.28,Default,Natsuki,0,0,0,,let's get this show on the road!
-Dialogue: 10,0:03:08.13,0:03:11.05,Default,Minamo,0,0,0,,Natsu{**-kun}! Natsu{**-kun}, can you hear me?
-Dialogue: 10,0:03:11.05,0:03:12.96,Default,Natsuki,10,1000,0,,Yeah, I just got here.
-Dialogue: 10,0:03:12.96,0:03:14.59,Default,Minamo,0,0,0,,Where's that?
+Dialogue: 10,0:03:08.13,0:03:11.05,Default,Minamo,0,0,0,,{\an8}Natsu{**-kun}! Natsu{**-kun}, can you hear me?
+Dialogue: 10,0:03:11.05,0:03:12.96,Default,Natsuki,0,0,0,,{\an8}Yeah, I just got here.
+Dialogue: 10,0:03:12.96,0:03:14.02,Default,Minamo,0,0,0,,{\an8}Where's that?
 Dialogue: 10,0:03:14.59,0:03:15.93,Default,Natsuki,0,0,0,,It's, uh...
 Dialogue: 10,0:03:16.72,0:03:19.10,Default,Natsuki,0,0,0,,The Kannon-mae intersection, it looks like.
 Dialogue: 10,0:03:19.68,0:03:21.60,Default,Natsuki,0,0,0,,Atri, you there?
@@ -193,7 +193,7 @@ Dialogue: 10,0:08:36.79,0:08:41.08,Default,Natsuki,0,0,0,,But, you know, stuff l
 Dialogue: 10,0:08:41.42,0:08:43.74,Default,Ryuuji,0,0,0,,A-Anyway, I've said my piece.
 Dialogue: 10,0:08:43.74,0:08:45.80,Default,Ryuuji,0,0,0,,You need to rethink your design.
 Dialogue: 10,0:08:45.80,0:08:46.46,Default,Ryuuji,0,0,0,,Later.
-Dialogue: 10,0:08:46.76,0:08:48.26,Default,Natsuki,0,0,0,,Wait.
+Dialogue: 10,0:08:46.76,0:08:47.21,Default,Natsuki,0,0,0,,Wait.
 Dialogue: 10,0:08:48.26,0:08:49.05,Default,Ryuuji,0,0,0,,Huh?
 Dialogue: 10,0:08:49.59,0:08:50.97,Default,Natsuki,0,0,0,,You don't want to help?
 Dialogue: 10,0:08:50.97,0:08:51.68,Default,Ryuuji,0,0,0,,Huh?
@@ -246,7 +246,7 @@ Dialogue: 10,0:11:31.55,0:11:32.88,Default,Natsuki,0,0,0,,What do you think?
 Dialogue: 10,0:11:35.47,0:11:36.84,Default,Minamo,0,0,0,,I...
 Dialogue: 10,0:11:38.51,0:11:40.30,Default,Atri,0,0,0,,Natsuki{**-san}!
 Dialogue: 10,0:11:40.30,0:11:41.31,Default,Natsuki,0,0,0,,Coming!
-Dialogue: 10,0:11:42.60,0:11:45.23,Default,Natsuki,0,0,0,,What's... Hm?
+Dialogue: 10,0:11:42.60,0:11:44.73,Default,Natsuki,0,0,0,,What's... Hm?
 Dialogue: 10,0:11:45.23,0:11:49.48,Default,Atri,0,0,0,,Did I put this on right?
 Dialogue: 10,0:11:51.19,0:11:52.23,Default,Natsuki,0,0,0,,What are you wearing?
 Dialogue: 10,0:11:52.23,0:11:53.65,Default,Atri,0,0,0,,I don't know...
@@ -403,7 +403,7 @@ Dialogue: 10,0:19:22.48,0:19:24.85,Default,Natsuki,0,0,0,,You said they got reca
 Dialogue: 10,0:19:24.85,0:19:27.69,Default,Natsuki,0,0,0,,Why was that? Because they looked too human?
 Dialogue: 10,0:19:28.15,0:19:30.03,Default,Junker,0,0,0,,That's the official line, anyway.
 Dialogue: 10,0:19:30.03,0:19:32.42,Default,Junker,0,0,0,,But who knows the real reason?
-Dialogue: 10,0:19:32.42,0:19:35.16,Default,Junker,0,0,0,,Manufacturers always keep that stuff under wraps.
+Dialogue: 10,0:19:32.42,0:19:34.69,Default,Junker,0,0,0,,Manufacturers always keep that stuff under wraps.
 Dialogue: 10,0:19:37.79,0:19:40.66,Default,Junker,0,0,0,,You'd be surprised how many\nHumanoid collectors there are.
 Dialogue: 10,0:19:40.66,0:19:43.70,Default,Junker,0,0,0,,They'll shell out the dough for anything rare.
 Dialogue: 10,0:19:44.06,0:19:45.71,Default,Junker,0,0,0,,That's just how it goes.

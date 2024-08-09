@@ -48,14 +48,14 @@ Dialogue: 10,0:00:20.75,0:00:21.75,Default,Natsuki,0,0,0,,Pull what off?
 Dialogue: 10,0:00:21.75,0:00:23.42,Default,Ryuuji,0,0,0,,Building a tidal power generator!
 Dialogue: 10,0:00:23.42,0:00:25.34,Default,Natsuki,0,0,0,,Nothing that says we can't, in theory.
 Dialogue: 10,0:00:25.80,0:00:28.80,Default,Natsuki,0,0,0,,To generate electricity,\nall you need to do is spin a turbine.
-Dialogue: 10,0:00:28.80,0:00:31.30,Default,Natsuki,0,0,0,,You can use wind power, nuclear power,\ntidal power, anything goes.
+Dialogue: 10,0:00:28.80,0:00:31.30,Default,Natsuki,0,0,0,ED,You can use wind power, nuclear power,\ntidal power, anything goes.{@ED repeating "power" sounds ehh. axe all but first? could fit on one line then -p}{@ED also technically a comma splice; consider period or semicolon before "anything goes" -p}
 Dialogue: 10,0:00:31.30,0:00:33.30,Default,Natsuki,0,0,0,,It's as simple as it sounds.
 Dialogue: 10,0:00:33.30,0:00:35.22,Default,Ryuuji,0,0,0,,We're just a bunch of kids!
 Dialogue: 10,0:00:35.22,0:00:37.56,Default,Ryuuji,0,0,0,,We've got no materials, no tools, no nothing.
 Dialogue: 10,0:00:37.56,0:00:39.77,Default,Natsuki,0,0,0,,That's why we're out here on this salvage mission.
 Dialogue: 10,0:00:40.77,0:00:43.06,Default,Ryuuji,0,0,0,,And what if it blows up in your face, huh?
-Dialogue: 10,0:00:43.06,0:00:45.02,Default,Natsuki,0,0,0,,Then we'd learn a valuable lesson,
-Dialogue: 10,0:00:45.02,0:00:47.07,Default,Natsuki,0,0,0,,and we'd start thinking about a plan B.
+Dialogue: 10,0:00:43.06,0:00:45.02,Default,Natsuki,0,0,0,ED,Then we'd learn a valuable lesson,{@ED "we'll have learned"? -p}
+Dialogue: 10,0:00:45.02,0:00:47.07,Default,Natsuki,0,0,0,ED,and we'd start thinking about a plan B.{@ED if prev, also possibly "we'll start" -p}
 Dialogue: 10,0:00:47.07,0:00:48.70,Default,Natsuki,0,0,0,,That's how you make progress.
 Dialogue: 10,0:00:52.03,0:00:52.91,Default,Ryuuji,0,0,0,,
 Dialogue: 10,0:00:57.16,0:00:58.33,Default,Minamo,0,0,0,,I'm back!
@@ -68,20 +68,21 @@ Dialogue: 10,0:01:08.01,0:01:10.72,Default,Ririka,0,0,0,,We're gonna make electr
 Dialogue: 10,0:01:10.72,0:01:12.51,Default,Atri,0,0,0,,All right, let's do this thing!
 Dialogue: 10,0:01:14.05,0:01:16.35,Default,Ririka,0,0,0,,Hey, it's a perfect fit!
 Dialogue: 10,0:01:16.35,0:01:20.60,Default,Miyo,0,0,0,,I knew Minamo{**-oneechan}'s middle school\nswimsuit would be the right size!
-Dialogue: 10,0:01:22.65,0:01:26.61,Default,Atri,180,0,0,ST,Why does my chest feel so empty                     all of a sudden?{youre welcome -kazoo}{### you're welcome-r :)}{### fr tho @petz do you like this or putting it in the corner instead?}
+Comment: 10,0:01:22.65,0:01:26.61,Default,Atri,180,0,0,ST,Why does my chest feel so empty                     all of a sudden?{youre welcome -kazoo}{### you're welcome-r :)}{### fr tho @petz do you like this or putting it in the corner instead?}{i think this sucks; the vertical margin was a bit better but either an8 or shunting to the left seem best to me -p}
+Dialogue: 10,0:01:22.65,0:01:26.61,Default,Atri,100,1000,0,ST,Why does my chest feel\nso empty all of a sudden?
 Dialogue: 10,0:01:28.78,0:01:31.11,Default,Natsuki,0,0,0,,Okay, we're in position.
 Dialogue: 10,0:01:32.16,0:01:33.45,Default,Natsuki,0,0,0,,Now,
 Dialogue: 10,0:01:35.12,0:01:36.28,Default,Natsuki,0,0,0,,let's get this show on the road!
-Dialogue: 10,0:03:08.13,0:03:11.05,Default,Minamo,0,0,0,,{\an8}Natsu{**-kun}! Natsu{**-kun}, can you hear me?
+Dialogue: 10,0:03:08.13,0:03:11.05,Default,Minamo,0,0,0,TM,{\an8}Natsu{**-kun}! Natsu{**-kun}, can you hear me?{@TM snap to kf? -p}
 Dialogue: 10,0:03:11.05,0:03:12.96,Default,Natsuki,0,0,0,,{\an8}Yeah, I just got here.
 Dialogue: 10,0:03:12.96,0:03:14.02,Default,Minamo,0,0,0,,{\an8}Where's that?
 Dialogue: 10,0:03:14.59,0:03:15.93,Default,Natsuki,0,0,0,,It's, uh...
-Dialogue: 10,0:03:16.72,0:03:19.10,Default,Natsuki,0,0,0,,The Kannon-mae intersection, it looks like.
+Dialogue: 10,0:03:16.72,0:03:19.10,Default,Natsuki,0,0,0,ED,The Kannon-mae intersection, it looks like.{@ED consider "The intersection by the (old) temple." -p}{https://discord.com/channels/992394632812048444/1260598507379753001/1271518486870495355}
 Dialogue: 10,0:03:19.68,0:03:21.60,Default,Natsuki,0,0,0,,Atri, you there?
 Dialogue: 10,0:03:22.85,0:03:24.98,Default,Natsuki,0,0,0,,Don't scare me like that!
 Dialogue: 10,0:03:25.69,0:03:27.10,Default,Natsuki,0,0,0,,How's it look? Think you can do it?
 Dialogue: 10,0:03:28.90,0:03:32.36,Default,Natsuki,0,0,0,,Look, I told you I wouldn't be able to hear you.
-Dialogue: 10,0:03:44.00,0:03:44.62,Default,Minamo,0,0,0,,What is it?
+Dialogue: 10,0:03:44.00,0:03:44.62,Default,Minamo,0,0,0,TM,What is it?{@TM/ED this feels a bit too fast. could consider bleeding past kf or shortening the line -p}
 Dialogue: 10,0:03:45.33,0:03:48.21,Default,Natsuki,0,0,0,TLC,I think that's the old Japanese bakery over there.
 Dialogue: 10,0:03:48.21,0:03:49.59,Default,Ririka,0,0,0,,Oh, I remember that place!
 Dialogue: 10,0:03:49.59,0:03:51.67,Default,Ririka,0,0,0,,My mom bought me cakes from there all the time.
@@ -95,15 +96,15 @@ Dialogue: 10,0:04:07.81,0:04:09.77,Default,Natsuki,0,0,0,,The resin's in the bac
 Dialogue: 10,0:04:13.65,0:04:15.57,Default,Natsuki,0,0,0,,I told you, I can't hear you!
 Comment: 10,0:04:15.57,0:04:17.07,Default,Atri,0,0,0,,[unintelligible robot noises]
 Dialogue: 10,0:04:17.07,0:04:19.07,Default,Natsuki,0,0,0,,No, we are {\i1}not{\i0} taking him home!
-Dialogue: 10,0:04:20.45,0:04:23.16,Default,Natsuki,0,0,0,,Look, if Ryuuji's right,
-Dialogue: 10,0:04:23.16,0:04:26.37,Default,Natsuki,0,0,0,,there should be drums of resin in that warehouse.
+Dialogue: 10,0:04:20.45,0:04:23.16,Default,Natsuki,0,0,0,TM,Look, if Ryuuji's right,{@TM join these lines? -p}
+Dialogue: 10,0:04:23.16,0:04:26.37,Default,Natsuki,0,0,0,TM,there should be drums of resin in that warehouse.
 Dialogue: 10,0:04:29.08,0:04:30.25,Default,Natsuki,0,0,0,,I swear...
 Dialogue: 10,0:04:30.92,0:04:33.29,Default,Natsuki,0,0,0,,Still, I never expected that.
 Dialogue: 10,0:04:33.88,0:04:36.59,Default,Natsuki,0,0,0,,She vaulted the uncanny valley like it was nothing.
 Dialogue: 10,0:04:36.59,0:04:38.01,Default,Minamo,0,0,0,,The uncanny valley?
-Dialogue: 10,0:04:38.30,0:04:42.51,Default,Natsuki,0,0,0,,It's a phenomenon where robots\nthat imperfectly mimic human expressions,
+Dialogue: 10,0:04:38.30,0:04:42.51,Default,Natsuki,0,0,0,ED,It's a phenomenon where robots\nthat imperfectly mimic human expressions,{@ED remove comma? -p}
 Dialogue: 10,0:04:42.51,0:04:45.60,Default,Natsuki,0,0,0,,actually cause people to feel revulsion instead.
-Dialogue: 10,0:04:45.60,0:04:49.27,Default,Natsuki,0,0,0,,It's considered one of the biggest challenges\nin Humanoid research and development.
+Dialogue: 10,0:04:45.60,0:04:49.27,Default,Natsuki,0,0,0,ED,It's considered one of the biggest challenges\nin Humanoid research and development.{@ED is it _still_ such? if not, possibly "it was considered" or "it has (long) been one of"? -p}
 Dialogue: 10,0:04:49.73,0:04:52.31,Default,Minamo,0,0,0,,But it's not a problem for Atri{**-chan}?
 Dialogue: 10,0:04:52.31,0:04:57.53,Default,Natsuki,0,0,0,,Well... guess that goes to show\njust how lifelike she is.
 Dialogue: 10,0:05:05.58,0:05:07.50,Default,Ririka; Miyo; Toru,0,0,0,,Crabs!
@@ -156,7 +157,7 @@ Dialogue: 10,0:07:04.95,0:07:07.45,Default,Minamo,0,0,0,,You can perform a play,
 Dialogue: 10,0:07:07.45,0:07:10.16,Default,Minamo,0,0,0,,Or run a café or a haunted house!
 Dialogue: 10,0:07:10.87,0:07:12.20,Default,Atri,0,0,0,,Really?
 Dialogue: 10,0:07:12.20,0:07:12.91,Default,Minamo,0,0,0,,I know!
-Dialogue: 10,0:07:13.29,0:07:15.67,Default,Minamo,0,0,0,,Let's put on a culture festival\nwith everyone! It'll be fun!
+Dialogue: 10,0:07:13.29,0:07:15.67,Default,Minamo,0,0,0,ED,Let's put on a culture festival\nwith everyone! It'll be fun!{@ED was "cultural" a few lines ago, now "culture" -p}
 Dialogue: 10,0:07:16.04,0:07:17.63,Default,Atri,0,0,0,,At school?
 Dialogue: 10,0:07:17.63,0:07:18.38,Default,Minamo,0,0,0,,Yeah!
 Dialogue: 10,0:07:20.42,0:07:22.17,Default,Atri,0,0,0,,Am I...
@@ -169,7 +170,7 @@ Dialogue: 10,0:07:38.56,0:07:39.27,Default,Ririka,0,0,0,,Come quick!
 Dialogue: 10,0:07:39.65,0:07:42.65,Default,Ririka,0,0,0,TLC,{*}Mr. Natsuki{*Natsuki-sensei} and Ryuu{**-chan}\nare about to start hitting each other!
 Dialogue: 10,0:07:43.15,0:07:44.57,Default,Minamo and Atri,0,0,0,,What?!
 Dialogue: 10,0:07:45.28,0:07:47.45,Default,Natsuki,0,0,0,,Unless you want to kill the electrical efficiency,
-Dialogue: 10,0:07:47.45,0:07:50.66,Default,Natsuki,0,0,0,,this part absolutely {\i1}has{\i0}\nto be made as light as possible.
+Dialogue: 10,0:07:47.45,0:07:50.66,Default,Natsuki,0,0,0,ED,this part absolutely {\i1}has{\i0}\nto be made as light as possible.{@ED i feel like you'd be more specific in english than "part". looks like it might be a rotor? -p}
 Dialogue: 10,0:07:50.66,0:07:54.37,Default,Ryuuji,0,0,0,,You're talking like a brainless idiot\nwho's never held a wrench in his life!
 Dialogue: 10,0:07:54.37,0:07:57.21,Default,Ryuuji,0,0,0,,This axle's gonna be under constant stress.
 Dialogue: 10,0:07:57.21,0:07:59.58,Default,Ryuuji,0,0,0,,If it breaks, efficiency'll be the least of our concerns!
@@ -251,12 +252,14 @@ Dialogue: 10,0:11:45.23,0:11:49.48,Default,Atri,0,0,0,,Did I put this on right?
 Dialogue: 10,0:11:51.19,0:11:52.23,Default,Natsuki,0,0,0,,What are you wearing?
 Dialogue: 10,0:11:52.23,0:11:53.65,Default,Atri,0,0,0,,I don't know...
 Dialogue: 10,0:11:53.65,0:11:55.74,Default,Atri,0,0,0,,Wait! I've heard of this!
-Dialogue: 10,0:11:55.74,0:11:58.33,Default,Atri,0,0,0,TLC/ED,Why, this is the sort of provocative nightwear\nthat shows off just the right amount, {### needs to be slimmed down because of timing}
-Dialogue: 10,0:11:58.33,0:12:00.78,Default,Atri,0,0,0,,perfect for inflaming male passions!
+Dialogue: 10,0:11:55.74,0:12:00.78,Default,Atri,0,0,0,ED,The sort of provocative nightwear that shows off\njust the right amount to inflame male passions?!{@ED possible alt ideas below -p}
+Comment: 10,0:11:55.74,0:11:58.33,Default,Atri,0,0,0,,Why, isn't this the sort of provocative nightwear that shows off
+Comment: 10,0:11:58.33,0:12:00.78,Default,Atri,0,0,0,,just the right amount to inflame male passions?!
+Comment: 10,0:11:55.74,0:12:00.78,Default,Atri,0,0,0,,The sort of provocative nightwear that shows off\njust enough to inflame male passions, and not a bit more?!
 Dialogue: 10,0:12:00.78,0:12:02.83,Default,Atri,0,0,0,,Natsuki{**-san}, does this mean you want to—
 Dialogue: 10,0:12:01.70,0:12:02.83,Alt,Natsuki,0,0,0,,Absolutely not!
 Dialogue: 10,0:12:02.83,0:12:03.99,Default,Natsuki,0,0,0,,What the heck were you thinking?
-Dialogue: 10,0:12:03.99,0:12:06.21,Default,Minamo,0,0,0,,Huh? You asked for a change of clothes...
+Dialogue: 10,0:12:03.99,0:12:06.21,Default,Minamo,0,0,0,TM,Huh? You asked for a change of clothes...{@TM would probably start this at the keyframe instead -p}
 Dialogue: 10,0:12:06.21,0:12:07.75,Default,Natsuki,0,0,0,,I was talking about pajamas!
 Dialogue: 10,0:12:08.04,0:12:10.00,Default,Natsuki,0,0,0,,Why'd you bring her freaking lingerie?
 Dialogue: 10,0:12:10.00,0:12:12.46,Default,Minamo,0,0,0,,Huh?! You wanted pajamas?!
@@ -317,11 +320,11 @@ Dialogue: 10,0:14:59.05,0:15:00.15,Default,Natsuki,0,0,0,,Atri.
 Dialogue: 10,0:15:00.15,0:15:00.67,Default,Atri,0,0,0,,Hm?
 Dialogue: 10,0:15:01.43,0:15:02.17,Default,Natsuki,0,0,0,,Are you happy?
 Dialogue: 10,0:15:04.48,0:15:06.17,Default,Atri,0,0,0,,Yes! I've never been happier!
-Dialogue: 10,0:15:16.18,0:15:17.27,Default,Minamo,0,0,0,,What's this...?
+Dialogue: 10,0:15:16.18,0:15:17.27,Default,Minamo,0,0,0,ED,What's this...?{@ED would yeet ellipsis -p}
 Dialogue: 10,0:15:20.77,0:15:22.44,Default,Natsuki,0,0,0,,A teacher? {\i1}Her?{\i0}
 Dialogue: 10,0:15:22.81,0:15:25.70,Default,Minamo,0,0,0,,Yeah. Her real name's Osada Hanako.
 Dialogue: 10,0:15:26.22,0:15:27.24,Default,Natsuki,0,0,0,,Hanako?
-Dialogue: 10,0:15:27.24,0:15:33.33,Default,Minamo,0,0,0,,Ririka{**-chan} says until a few years ago,\nthey had a Hana{**-chan-sensei} around here.
+Dialogue: 10,0:15:27.24,0:15:33.33,Default,Minamo,0,0,0,ED,Ririka{**-chan} says until a few years ago,\nthey had a Hana{**-chan-sensei} around here.{@ED loc track line feels a bit empty to me -p}
 Dialogue: 10,0:15:33.33,0:15:36.75,Default,Natsuki,0,0,0,,So she taught in this school?
 Dialogue: 10,0:15:36.75,0:15:37.49,Default,Minamo,0,0,0,,Probably.
 Dialogue: 10,0:15:37.91,0:15:40.21,Default,Natsuki,0,0,0,,How'd she go from that to this?
@@ -341,10 +344,10 @@ Dialogue: 10,0:16:18.52,0:16:19.08,Default,Natsuki,0,0,0,,Remember this?
 Dialogue: 10,0:16:19.82,0:16:20.89,Default,Minamo,0,0,0,,The motor?
 Dialogue: 10,0:16:20.89,0:16:24.50,Default,Natsuki,0,0,0,,Yup. And the battery to store\nthe energy it generates.
 Dialogue: 10,0:16:24.74,0:16:25.88,Default,Minamo,0,0,0,,Oh, right.
-Dialogue: 10,0:16:25.88,0:16:29.92,Default,Minamo,0,0,0,,Without a battery, you can't store any electricity,\nno matter how much of it you generate.
+Dialogue: 10,0:16:25.88,0:16:29.92,Default,Minamo,0,0,0,,Without a battery, you can't store any electricity,\nno matter how much of it you generate.{smh just use a flywheel -p}
 Dialogue: 10,0:16:29.93,0:16:33.64,Default,Natsuki,0,0,0,,Exactly. The motor will probably be easy to find.
 Dialogue: 10,0:16:33.64,0:16:37.31,Default,Natsuki,0,0,0,,This island's got tons of\nabandoned factories, after all.
-Dialogue: 10,0:16:37.31,0:16:38.97,Default,Natsuki,0,0,0,,The real problem is the battery.
+Dialogue: 10,0:16:37.31,0:16:38.97,Default,Natsuki,0,0,0,ED,The real problem is the battery.{@ED this and later lines: i'm not sure if "battery" is the applicable word for this, as they're talking about building-scale power storage units. if it's applicable, fine; could maybe consider stuff like "storage unit" or "power storage" etc if there's not a better term? -p}
 Dialogue: 10,0:16:39.46,0:16:41.71,Default,Minamo,0,0,0,,Yeah, everybody wants them.
 Dialogue: 10,0:16:41.71,0:16:44.86,Default,Natsuki,0,0,0,,The school used to have some for emergencies,
 Dialogue: 10,0:16:44.86,0:16:47.82,Default,Natsuki,0,0,0,,but I checked earlier,\nand they're long gone already.
@@ -355,7 +358,7 @@ Dialogue: 10,0:17:00.39,0:17:02.62,Default,Ririka,0,0,0,,This one's got the batt
 Dialogue: 10,0:17:02.63,0:17:06.43,Default,Minamo,0,0,0,,Wow, you really can't\nfind batteries anywhere, huh?
 Dialogue: 10,0:17:06.43,0:17:09.62,Default,Natsuki,0,0,0,,Well, the rising sea levels\nshut down all the power plants.
 Dialogue: 10,0:17:09.62,0:17:12.14,Default,Natsuki,0,0,0,,And as the global blackout went on and on,
-Dialogue: 10,0:17:12.14,0:17:15.63,Default,Natsuki,0,0,0,,anything even resembling a battery\nstarted selling for an absolute fortune.
+Dialogue: 10,0:17:12.14,0:17:15.63,Default,Natsuki,0,0,0,ED,anything even resembling a battery\nstarted selling for an absolute fortune.{@ED maybe "anything even vaguely battery-shaped"? -p}
 Dialogue: 10,0:17:15.64,0:17:17.93,Default,Minamo,0,0,0,,So there's nothing left for us?
 Dialogue: 10,0:17:20.16,0:17:22.14,Default,Natsuki,0,0,0,,It's anyone's guess if we'll find anything usable,
 Dialogue: 10,0:17:24.88,0:17:26.91,Default,Natsuki,0,0,0,,but how about we look in the ocean?
@@ -366,7 +369,7 @@ Dialogue: 10,0:17:39.76,0:17:41.99,Default,Natsuki,0,0,0,,Everything's had the b
 Dialogue: 10,0:17:42.43,0:17:44.37,Default,Minamo,0,0,0,,Even at the bottom of the ocean?
 Dialogue: 10,0:17:44.37,0:17:47.97,Default,Natsuki,0,0,0,,Guess salvage subs from\nthe mainland got there before us.
 Dialogue: 10,0:17:48.62,0:17:51.05,Default,Minamo,0,0,0,,That's a little sad, huh?
-Dialogue: 10,0:17:52.55,0:17:56.26,Default,Junker,0,0,0,,Let's see... For that amount of cash,\nthis is the best I can offer you.
+Dialogue: 10,0:17:52.55,0:17:56.26,Default,Junker,0,0,0,ED,Let's see... For that amount of cash,\nthis is the best I can offer you.{@ED consider "For three thousand," (at least, that's how much he looks to be handling) or "For that much/little," -p}
 Dialogue: 10,0:17:56.86,0:17:58.03,Default,Natsuki,0,0,0,,What?
 Dialogue: 10,0:17:58.03,0:17:59.22,Default,Minamo,0,0,0,,That's it?
 Dialogue: 10,0:17:59.22,0:18:00.99,Default,Natsuki,0,0,0,,What kind of racket are you running here?
@@ -431,7 +434,7 @@ Dialogue: 10,0:20:55.03,0:20:57.35,Default,Natsuki,0,0,0,,Weren't you gonna be m
 Dialogue: 10,0:20:58.86,0:21:01.28,Default,Atri,0,0,0,,You said you didn't need me for that.
 Dialogue: 10,0:21:01.74,0:21:03.53,Default,Natsuki,0,0,0,,And what about Grandma's order?
 Dialogue: 10,0:21:04.29,0:21:05.85,Default,Atri,0,0,0,,I told you before.
-Dialogue: 10,0:21:05.85,0:21:10.03,Default,Atri,0,0,0,,Humanoids are born\nto fulfill their masters' desires.
+Dialogue: 10,0:21:05.85,0:21:10.03,Default,Atri,0,0,0,ED,Humanoids are born\nto fulfill their masters' desires.{@ED "their master's" in singular instead, to stress that Grandma _isn't_ her Master anymore? -p}
 Dialogue: 10,0:21:11.99,0:21:13.54,Default,Natsuki,0,0,0,,And you're okay with this?
 Dialogue: 10,0:21:18.02,0:21:20.01,Default,Natsuki,0,0,0,,You'd never see me again.
 Dialogue: 10,0:21:27.86,0:21:29.39,Default,Atri,0,0,0,,No, I'm not.

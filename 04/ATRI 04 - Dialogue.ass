@@ -57,7 +57,7 @@ Dialogue: 10,0:00:40.77,0:00:43.06,Default,Ryuuji,0,0,0,,And what if it blows up
 Dialogue: 10,0:00:43.06,0:00:45.02,Default,Natsuki,0,0,0,ED,Then we'd learn a valuable lesson,{@ED "we'll have learned"? -p}
 Dialogue: 10,0:00:45.02,0:00:47.07,Default,Natsuki,0,0,0,ED,and we'd start thinking about a plan B.{@ED if prev, also possibly "we'll start" -p}
 Dialogue: 10,0:00:47.07,0:00:48.70,Default,Natsuki,0,0,0,,That's how you make progress.
-Dialogue: 10,0:00:52.03,0:00:52.91,Default,Ryuuji,0,0,0,,
+Comment: 10,0:00:52.03,0:00:52.91,Default,Ryuuji,0,0,0,,
 Dialogue: 10,0:00:57.16,0:00:58.33,Default,Minamo,0,0,0,,I'm back!
 Dialogue: 10,0:00:58.33,0:01:00.25,Default,Natsuki,0,0,0,,What're you wearing a swimsuit for?
 Dialogue: 10,0:01:00.58,0:01:02.13,Default,Minamo,0,0,0,,Huh? Why shouldn't I?
@@ -68,13 +68,12 @@ Dialogue: 10,0:01:08.01,0:01:10.72,Default,Ririka,0,0,0,,We're gonna make electr
 Dialogue: 10,0:01:10.72,0:01:12.51,Default,Atri,0,0,0,,All right, let's do this thing!
 Dialogue: 10,0:01:14.05,0:01:16.35,Default,Ririka,0,0,0,,Hey, it's a perfect fit!
 Dialogue: 10,0:01:16.35,0:01:20.60,Default,Miyo,0,0,0,,I knew Minamo{**-oneechan}'s middle school\nswimsuit would be the right size!
-Comment: 10,0:01:22.65,0:01:26.61,Default,Atri,180,0,0,ST,Why does my chest feel so empty                     all of a sudden?{youre welcome -kazoo}{### you're welcome-r :)}{### fr tho @petz do you like this or putting it in the corner instead?}{i think this sucks; the vertical margin was a bit better but either an8 or shunting to the left seem best to me -p}
-Dialogue: 10,0:01:22.65,0:01:26.61,Default,Atri,100,1000,0,ST,Why does my chest feel\nso empty all of a sudden?
+Dialogue: 10,0:01:22.65,0:01:26.61,Default,Atri,100,1000,0,,Why does my chest feel\nso empty all of a sudden?
 Dialogue: 10,0:01:28.78,0:01:31.11,Default,Natsuki,0,0,0,,Okay, we're in position.
 Dialogue: 10,0:01:32.16,0:01:33.45,Default,Natsuki,0,0,0,,Now,
 Dialogue: 10,0:01:35.12,0:01:36.28,Default,Natsuki,0,0,0,,let's get this show on the road!
-Dialogue: 10,0:03:08.13,0:03:11.05,Default,Minamo,0,0,0,TM,{\an8}Natsu{**-kun}! Natsu{**-kun}, can you hear me?{@TM snap to kf? -p}
-Dialogue: 10,0:03:11.05,0:03:12.96,Default,Natsuki,0,0,0,,{\an8}Yeah, I just got here.
+Dialogue: 10,0:03:08.13,0:03:10.50,Default,Minamo,0,0,0,,{\an8}Natsu{**-kun}! Natsu{**-kun}, can you hear me?
+Dialogue: 10,0:03:11.04,0:03:12.96,Default,Natsuki,0,0,0,,{\an8}Yeah, I just got here.
 Dialogue: 10,0:03:12.96,0:03:14.02,Default,Minamo,0,0,0,,{\an8}Where's that?
 Dialogue: 10,0:03:14.59,0:03:15.93,Default,Natsuki,0,0,0,,It's, uh...
 Dialogue: 10,0:03:16.72,0:03:19.10,Default,Natsuki,0,0,0,ED,The Kannon-mae intersection, it looks like.{@ED consider "The intersection by the (old) temple." -p}{https://discord.com/channels/992394632812048444/1260598507379753001/1271518486870495355}
@@ -82,7 +81,7 @@ Dialogue: 10,0:03:19.68,0:03:21.60,Default,Natsuki,0,0,0,,Atri, you there?
 Dialogue: 10,0:03:22.85,0:03:24.98,Default,Natsuki,0,0,0,,Don't scare me like that!
 Dialogue: 10,0:03:25.69,0:03:27.10,Default,Natsuki,0,0,0,,How's it look? Think you can do it?
 Dialogue: 10,0:03:28.90,0:03:32.36,Default,Natsuki,0,0,0,,Look, I told you I wouldn't be able to hear you.
-Dialogue: 10,0:03:44.00,0:03:44.62,Default,Minamo,0,0,0,TM,What is it?{@TM/ED this feels a bit too fast. could consider bleeding past kf or shortening the line -p}
+Dialogue: 10,0:03:44.00,0:03:44.62,Default,Minamo,0,0,0,,What is it?
 Dialogue: 10,0:03:45.33,0:03:48.21,Default,Natsuki,0,0,0,TLC,I think that's the old Japanese bakery over there.
 Dialogue: 10,0:03:48.21,0:03:49.59,Default,Ririka,0,0,0,,Oh, I remember that place!
 Dialogue: 10,0:03:49.59,0:03:51.67,Default,Ririka,0,0,0,,My mom bought me cakes from there all the time.
@@ -96,8 +95,7 @@ Dialogue: 10,0:04:07.81,0:04:09.77,Default,Natsuki,0,0,0,,The resin's in the bac
 Dialogue: 10,0:04:13.65,0:04:15.57,Default,Natsuki,0,0,0,,I told you, I can't hear you!
 Comment: 10,0:04:15.57,0:04:17.07,Default,Atri,0,0,0,,[unintelligible robot noises]
 Dialogue: 10,0:04:17.07,0:04:19.07,Default,Natsuki,0,0,0,,No, we are {\i1}not{\i0} taking him home!
-Dialogue: 10,0:04:20.45,0:04:23.16,Default,Natsuki,0,0,0,TM,Look, if Ryuuji's right,{@TM join these lines? -p}
-Dialogue: 10,0:04:23.16,0:04:26.37,Default,Natsuki,0,0,0,TM,there should be drums of resin in that warehouse.
+Dialogue: 10,0:04:20.45,0:04:26.37,Default,Natsuki,0,0,0,,Look, if Ryuuji's right, there should be\ndrums of resin in that warehouse.
 Dialogue: 10,0:04:29.08,0:04:30.25,Default,Natsuki,0,0,0,,I swear...
 Dialogue: 10,0:04:30.92,0:04:33.29,Default,Natsuki,0,0,0,,Still, I never expected that.
 Dialogue: 10,0:04:33.88,0:04:36.59,Default,Natsuki,0,0,0,,She vaulted the uncanny valley like it was nothing.
@@ -259,7 +257,7 @@ Comment: 10,0:11:55.74,0:12:00.78,Default,Atri,0,0,0,,The sort of provocative ni
 Dialogue: 10,0:12:00.78,0:12:02.83,Default,Atri,0,0,0,,Natsuki{**-san}, does this mean you want to—
 Dialogue: 10,0:12:01.70,0:12:02.83,Alt,Natsuki,0,0,0,,Absolutely not!
 Dialogue: 10,0:12:02.83,0:12:03.99,Default,Natsuki,0,0,0,,What the heck were you thinking?
-Dialogue: 10,0:12:03.99,0:12:06.21,Default,Minamo,0,0,0,TM,Huh? You asked for a change of clothes...{@TM would probably start this at the keyframe instead -p}
+Dialogue: 10,0:12:04.61,0:12:06.21,Default,Minamo,0,0,0,,You asked for a change of clothes...
 Dialogue: 10,0:12:06.21,0:12:07.75,Default,Natsuki,0,0,0,,I was talking about pajamas!
 Dialogue: 10,0:12:08.04,0:12:10.00,Default,Natsuki,0,0,0,,Why'd you bring her freaking lingerie?
 Dialogue: 10,0:12:10.00,0:12:12.46,Default,Minamo,0,0,0,,Huh?! You wanted pajamas?!

@@ -22,7 +22,6 @@ Video AR Value: 1.777778
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ED1,Mario Party Hudson,78,&H005C59EB,&H000D1F9B,&H00FFFFFF,&H0033333A,0,0,0,0,98,100,0.75,0,1,0,0,2,100,100,62,1
 Style: LightSigns (ED1),Advanced Pixel-7,56,&H00FFFFFF,&H00FF7E6E,&H00DD9D3D,&H506A1C03,0,0,0,0,100,100,1.5,0,1,0,0,2,100,100,44,1
-Style: Default,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

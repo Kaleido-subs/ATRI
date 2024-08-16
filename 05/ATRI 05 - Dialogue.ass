@@ -199,7 +199,7 @@ Dialogue: 10,0:09:43.80,0:09:45.23,Default,Minamo,0,0,0,,Okay, Ririka-chan!
 Dialogue: 10,0:09:45.23,0:09:47.31,Default,Minamo,0,0,0,,Why don't you start from where we left off yesterday?
 Dialogue: 10,0:09:47.31,0:09:48.53,Default,Ririka,0,0,0,,Mmkay.
 Dialogue: 10,0:09:49.02,0:09:53.16,Default,Ririka,0,0,0,,"Gon! So you were the one giving me chestnuts!"
-Dialogue: 10,0:09:53.63,0:09:57.95,Default,Ririka,0,0,0,,Gon nodded, his eyes still closed. {any special formatting to indicate that this is still a quotation necessary?}
+Dialogue: 10,0:09:53.63,0:09:57.95,Default,Ririka,0,0,0,,Gon nodded, his eyes still closed. {any special formatting to indicate that this is still a quotation necessary?}{should match formatting with previous line imo? -yon}
 Dialogue: 10,0:09:57.95,0:09:59.20,Default,Ririka,0,0,0,,Hyouju...
 Dialogue: 10,0:10:00.81,0:10:02.29,Default,Ririka,0,0,0,,Hana-chan-sensei? {Missus Hana in the non-hono script imo}
 Dialogue: 10,0:10:03.78,0:10:05.55,Default,Toru,0,0,0,,It's Hana-chan-sensei!
@@ -376,7 +376,7 @@ Dialogue: 10,0:18:16.14,0:18:20.12,Default,Atri,0,0,0,,No way! I even made a not
 Dialogue: 10,0:18:20.50,0:18:22.62,Default,Atri,0,0,0,,And... it made me really happy.
 Dialogue: 10,0:18:25.07,0:18:27.69,Default,Atri,0,0,0,,It made me feel like you needed me.
 Dialogue: 10,0:18:30.66,0:18:31.84,Default,Natsuki,0,0,0,,N-{\alpha&HFF&}Now you're just making stuff up.
-Dialogue: 10,0:18:31.84,0:18:33.88,Default,Natsuki,0,0,0,,N-Now you're just making stuff up.
+Dialogue: 10,0:18:31.84,0:18:33.88,Default,Natsuki,0,0,0,TLC,N-Now you're just making stuff up.{ehh, this feels a bit off vibe. I think it's more in the direction "Don't just say random shit like that" or "You're just talking out of your ass now" (these don't quite fit either) -yon}
 Dialogue: 10,0:18:33.88,0:18:35.02,Default,Natsuki,0,0,0,,Stupid uppity Roomba.
 Dialogue: 10,0:18:36.89,0:18:38.43,Default,Atri,0,0,0,,Officer, we have a serial offender!
 Dialogue: 10,0:18:38.43,0:18:39.51,Default,Atri,0,0,0,,You know what you just did!
@@ -400,7 +400,7 @@ Dialogue: 10,0:19:56.91,0:19:58.11,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:19:58.11,0:20:00.85,Default,Natsuki,0,0,0,,Minamo, can you flip the switch?
 Dialogue: 10,0:20:03.46,0:20:04.88,Default,Minamo,0,0,0,,You should do the honors, Natsu-kun.
 Dialogue: 10,0:20:04.88,0:20:05.85,Default,Natsuki,0,0,0,,Huh?
-Dialogue: 10,0:20:07.85,0:20:09.29,Default,Ririka,0,0,0,,{\an8}Come on, do it already!
+Dialogue: 10,0:20:07.85,0:20:09.29,Default,Ririka,0,0,0,TLC,{\an8}Come on, do it already!{I get the idea, but this an8 distracts even further imo -yon}
 Dialogue: 10,0:20:09.29,0:20:10.34,Default,,0,0,0,,{\an8}Yeah!
 Dialogue: 10,0:20:28.37,0:20:29.92,Default,Ririka,0,0,0,,We did it!
 Dialogue: 10,0:20:29.92,0:20:30.80,Default,Natsuki,0,0,0,,Ryuuji!

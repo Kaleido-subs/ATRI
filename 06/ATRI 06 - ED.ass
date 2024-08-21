@@ -58,7 +58,7 @@ Comment: 0,0:22:58.95,0:23:05.28,Ep06 ED,eng,0,0,0,kara,{\k15}{\k40}You {\k35}an
 Comment: 0,0:23:05.33,0:23:11.33,Ep06 ED,eng,0,0,0,kara,{\k15}{\k35}This {\k62}al{\k164}bum {\k31}{\k46}sees {\k37}tears {\k21}I’ve {\k55}ne{\k18}ver {\k93}shown{\k23}
 Comment: 0,0:23:11.39,0:23:16.96,Ep06 ED,eng,0,0,0,kara,{\k11}{\k37}This {\k56}lost {\k56}girl {\k35}you {\k61}saved {\k54}wants {\k36}her {\k37}heart {\k19}to {\k56}be {\k73}known{\k26}
 Comment: 0,0:23:16.98,0:23:22.09,Ep06 ED,eng,0,0,0,kara,{\k12}{\k39}E{\k20}ver {\k53}grate{\k113}ful, {\k39}{\k32}and {\k43}e{\k36}ven {\k113}when...{\k11}
-Comment: 0,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,kara,{\k12}{\k46}This {\k38}all {\k37}has {\k18}to {\k308}end{\k37}
+Comment: 0,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,kara,{\k12}{\k46}Our {\k38}time {\k37}has {\k18}to {\k308}end{\k37}
 Comment: 0,0:22:07.97,0:22:07.97,Ep06 ED,,0,0,0,sync,{EDSync — First black frame}
 Dialogue: 0,0:22:07.97,0:22:17.98,Ep06 ED,top,0,0,0,,{\an7\pos(960,60)\c&H000000&\blur20\p1}m -989 -96 l 989 -96 989 97 -989 97
 Dialogue: 0,0:22:17.98,0:22:27.99,Ep06 ED,top,0,0,0,,{\an7\pos(960,60)\c&H000000&\blur20\p1}m -989 -96 l 989 -96 989 97 -989 97
@@ -460,13 +460,13 @@ Dialogue: 1,0:23:16.98,0:23:22.09,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1114.63,1004.00
 Dialogue: 2,0:23:16.98,0:23:22.09,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1114.63,1004.00)\fad(200,200)}ven
 Dialogue: 1,0:23:16.98,0:23:22.09,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1257.81,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(3870,3950,0.5,\c&HF4A727&\3c&HF4A727&)\t(3950,5000,5,\c&HFF6116&\3c&HFF6116&)}when...
 Dialogue: 2,0:23:16.98,0:23:22.09,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1257.81,1004.00)\fad(200,200)}when...
-Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(782.16,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(120,200,0.5,\c&HF4A727&\3c&HF4A727&)\t(200,580,5,\c&HFF6116&\3c&HFF6116&)}This
-Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(782.16,1004.00)\fad(200,200)}This
-Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(880.27,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(580,660,0.5,\c&HF4A727&\3c&HF4A727&)\t(660,960,5,\c&HFF6116&\3c&HFF6116&)}all
-Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(880.27,1004.00)\fad(200,200)}all
-Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(971.66,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(960,1040,0.5,\c&HF4A727&\3c&HF4A727&)\t(1040,1330,5,\c&HFF6116&\3c&HFF6116&)}has
-Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(971.66,1004.00)\fad(200,200)}has
-Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1056.30,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(1330,1410,0.5,\c&HF4A727&\3c&HF4A727&)\t(1410,1510,5,\c&HFF6116&\3c&HFF6116&)}to
-Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1056.30,1004.00)\fad(200,200)}to
-Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1142.76,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(1510,1590,0.5,\c&HF4A727&\3c&HF4A727&)\t(1590,4590,5,\c&HFF6116&\3c&HFF6116&)}end
-Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1142.76,1004.00)\fad(200,200)}end
+Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(758.69,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(120,200,0.5,\c&HF4A727&\3c&HF4A727&)\t(200,580,5,\c&HFF6116&\3c&HFF6116&)}Our
+Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(758.69,1004.00)\fad(200,200)}Our
+Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(876.99,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(580,660,0.5,\c&HF4A727&\3c&HF4A727&)\t(660,960,5,\c&HFF6116&\3c&HFF6116&)}time
+Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(876.99,1004.00)\fad(200,200)}time
+Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(991.84,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(960,1040,0.5,\c&HF4A727&\3c&HF4A727&)\t(1040,1330,5,\c&HFF6116&\3c&HFF6116&)}has
+Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(991.84,1004.00)\fad(200,200)}has
+Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1076.48,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(1330,1410,0.5,\c&HF4A727&\3c&HF4A727&)\t(1410,1510,5,\c&HFF6116&\3c&HFF6116&)}to
+Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1076.48,1004.00)\fad(200,200)}to
+Dialogue: 1,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1162.95,1004.00)\fad(200,200)\xbord10\ybord8\blur12\c&HFF6116&\t(1510,1590,0.5,\c&HF4A727&\3c&HF4A727&)\t(1590,4590,5,\c&HFF6116&\3c&HFF6116&)}end
+Dialogue: 2,0:23:22.15,0:23:27.11,Ep06 ED,eng,0,0,0,fx,{\an5\pos(1162.95,1004.00)\fad(200,200)}end

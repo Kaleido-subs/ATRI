@@ -269,7 +269,9 @@ Dialogue: 10,0:12:38.19,0:12:40.32,Default,Yoko,0,0,0,,But if anyone knows...
 Dialogue: 10,0:12:40.32,0:12:42.45,Default,Catherine,0,0,0,,That kiddo's love life?!
 Dialogue: 10,0:12:42.45,0:12:43.55,Default,Ryuuji,0,0,0,,Yeah.
 Dialogue: 10,0:12:43.55,0:12:45.88,Default,Ryuuji,0,0,0,,We wanted to hear an adult woman's perspective.
-Dialogue: 10,0:12:45.88,0:12:51.51,Default,Catherine,0,0,0,,Well, kid's got plenty of book smarts, but he seems like a total late bloomer when it comes to romance... {help how do you put this onto two lines?}
+Comment: 10,0:12:45.88,0:12:51.51,Default,Catherine,0,0,0,,Well, kid's got plenty of book smarts, but he seems like a total late bloomer when it comes to romance... {help how do you put this onto two lines?}{added tentative split, poke timer if this is acceptable -yon}
+Dialogue: 10,0:12:45.88,0:12:48.75,Default,Catherine,0,0,0,TM,Well, kid's got plenty of book smarts,
+Dialogue: 10,0:12:48.75,0:12:51.51,Default,Catherine,0,0,0,TM,but he seems like a total late bloomer when it comes to romance...
 Dialogue: 10,0:12:51.51,0:12:55.34,Default,Yoko,0,0,0,,So you think Minamo's right about him not being interested in that stuff?
 Dialogue: 10,0:12:55.34,0:12:57.24,Default,Catherine,0,0,0,,I wouldn't be so sure.
 Dialogue: 10,0:12:57.24,0:12:58.05,Default,Ryuuji,0,0,0,,Huh?
@@ -392,7 +394,7 @@ Dialogue: 10,0:18:31.57,0:18:32.57,Default,Ryuuji,0,0,0,,Piano?
 Dialogue: 10,0:18:33.96,0:18:35.25,Default,Minamo,0,0,0,,Atri-chan?!
 Dialogue: 10,0:18:59.45,0:19:00.82,Default,Minamo,0,0,0,,Atri-chan?
 Dialogue: 10,0:19:06.10,0:19:07.60,Default,Catherine,0,0,0,,Thanks, kiddo.
-Dialogue: 10,0:19:07.60,0:19:10.58,Default,Catherine,0,0,0,,My piano playing isn't worth a whistle compared to yours.
+Dialogue: 10,0:19:07.60,0:19:10.58,Default,Catherine,0,0,0,TLC,My piano playing isn't worth a whistle compared to yours.{hm, I feel like the point is more that she can't play well enough for the music class she's trying to teach -yon}
 Dialogue: 10,0:19:10.58,0:19:13.84,Default,Natsuki,0,0,0,,Nah. This is the only song I even know how to play. {piece instead of song?}
 Dialogue: 10,0:19:14.13,0:19:15.22,Default,Catherine,0,0,0,,Well, it's a good one.
 Dialogue: 10,0:19:16.89,0:19:20.51,Default,Natsuki,0,0,0,,Thanks. Someone really important to me always loved it.

@@ -35,6 +35,15 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=2}---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:01:33.99,0:01:33.99,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:01:49.63,0:01:49.63,Default,,0,0,0,opsync,{OPSync — First frame of Natsuki}
+Comment: 0,0:03:03.96,0:03:03.96,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:12:08.96,0:12:08.96,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:22:11.60,0:22:11.60,Default,,0,0,0,edsync,{=3}{EDSync — First frame of "YES" zoom}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=0}---- Dialogue
 Dialogue: 10,0:00:09.14,0:00:10.34,Default,Natsuki,0,0,0,,{\i1}Someone...
 Dialogue: 10,0:00:11.54,0:00:12.59,Default,Natsuki,0,0,0,,{\i1}Anyone...
 Dialogue: 10,0:00:13.70,0:00:14.93,Default,Natsuki,0,0,0,,{\i1}Save me...
@@ -434,4 +443,10 @@ Dialogue: 10,0:21:57.31,0:21:59.00,Default,Natsuki,0,0,0,,{\i1}...to fill my lif
 Dialogue: 10,0:21:59.00,0:22:01.03,Default,Natsuki,0,0,0,,Then you can just smile instead.
 Dialogue: 10,0:22:01.84,0:22:02.97,Default,Atri,0,0,0,,Smile?
 Dialogue: 10,0:22:04.18,0:22:05.47,Default,Natsuki,0,0,0,,Like this!
-Dialogue: 10,0:22:07.70,0:22:08.77,Default,Atri,0,0,0,,Yeah!
+Dialogue: 10,0:22:07.70,0:22:08.77,Default,Atri,0,0,0,,{=1}Yeah!
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;0;3
+Data: 1,_aegi_folddata,e1;0;3
+Data: 2,_aegi_folddata,e0;0;2
+Data: 3,_aegi_folddata,e1;0;2

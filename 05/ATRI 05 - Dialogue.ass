@@ -56,7 +56,7 @@ Dialogue: 10,0:00:30.09,0:00:31.01,Default,Natsuki,0,0,0,,{\i1}No.
 Dialogue: 10,0:00:31.68,0:00:32.76,Default,Natsuki,0,0,0,,{\i1}Stop it.
 Dialogue: 10,0:00:36.77,0:00:37.60,Default,Natsuki,0,0,0,,Atri!
 Dialogue: 10,0:00:42.31,0:00:44.11,Default,Atri,0,0,0,,What is it?
-Dialogue: 10,0:00:45.61,0:00:49.24,Default,Atri,0,0,0,,If you wanna cuddle with me,\N Natsuki-san, I won't mind...
+Dialogue: 10,0:00:45.61,0:00:49.24,Default,Atri,0,0,0,,If you wanna cuddle with me,\N Natsuki{**-san}, I won't mind...
 Dialogue: 10,0:00:58.91,0:01:03.79,Default,Natsuki,0,0,0,,{\i1}As a Humanoid, serving her master\N is her prime directive.
 Dialogue: 10,0:01:03.79,0:01:04.38,Default,Natsuki,0,0,0,,{\i1}But...
 Dialogue: 10,0:01:05.00,0:01:06.55,Default,Atri,0,0,0,,Of course not.
@@ -69,12 +69,12 @@ Dialogue: 10,0:01:23.52,0:01:24.23,Default,Natsuki,0,0,0,,Huh?
 Dialogue: 10,0:01:32.41,0:01:33.28,Default,Natsuki,0,0,0,,Seriously?
 Dialogue: 10,0:03:05.92,0:03:08.25,Default,Catherine,0,0,0,,Phew...
 Dialogue: 10,0:03:08.54,0:03:10.46,Default,Catherine,0,0,0,,{\an8}Serve it a bit cooler next time though, 'kay?
-Dialogue: 10,0:03:10.46,0:03:14.09,Default,Atri,0,0,0,,I would've thrown you out on your butt\N if Natsuki-san didn't stop me.
+Dialogue: 10,0:03:10.46,0:03:14.09,Default,Atri,0,0,0,,I would've thrown you out on your butt\N if Natsuki{**-san} didn't stop me.
 Dialogue: 10,0:03:14.09,0:03:15.97,Default,Atri,0,0,0,,You should be more grateful.
 Dialogue: 10,0:03:16.34,0:03:18.76,Default,Natsuki,0,0,0,,So what happened?
 Dialogue: 10,0:03:18.76,0:03:20.51,Default,Natsuki,0,0,0,,Someone attack you?
 Dialogue: 10,0:03:20.51,0:03:21.56,Default,Catherine,0,0,0,,Don't wanna talk about it.
-Dialogue: 10,0:03:22.31,0:03:25.27,Default,Atri,0,0,0,,Natsuki-san! My sensors are detecting alcohol!
+Dialogue: 10,0:03:22.31,0:03:25.27,Default,Atri,0,0,0,,Natsuki{**-san}! My sensors are detecting alcohol!
 Dialogue: 10,0:03:25.27,0:03:26.48,Default,Natsuki,0,0,0,,Oh, come on.
 Dialogue: 10,0:03:26.48,0:03:28.90,Default,Natsuki,0,0,0,,Don't tell me you fell \Ninto the ocean in a drunken stupor...
 Dialogue: 10,0:03:28.90,0:03:32.98,Default,Catherine,0,0,0,,Oh, shaddup! You expect me to\N rawdog life out here without even a little booze?!
@@ -108,7 +108,7 @@ Dialogue: 10,0:04:38.93,0:04:41.59,Default,Catherine,0,0,0,,I was wondering wher
 Dialogue: 10,0:04:41.59,0:04:43.43,Default,Natsuki,0,0,0,,Could you be any more ungrateful?
 Dialogue: 10,0:04:43.72,0:04:46.31,Default,Natsuki,0,0,0,,You're lucky I didn't loot it \Nand chuck it into the ocean!
 Dialogue: 10,0:04:46.31,0:04:47.52,Default,Natsuki,0,0,0,,Wouldn't mind a thank y—
-Dialogue: 10,0:04:47.52,0:04:48.31,Default,Atri,0,0,0,,Natsuki-san!
+Dialogue: 10,0:04:47.52,0:04:48.31,Default,Atri,0,0,0,,Natsuki{**-san}!
 Dialogue: 10,0:04:51.23,0:04:52.48,Default,Natsuki,0,0,0,,Are those the people after you?!
 Dialogue: 10,0:04:52.48,0:04:54.02,Default,Catherine,0,0,0,,How should I know?!
 Dialogue: 10,0:04:54.02,0:04:56.73,Default,Catherine,0,0,0,,I never thought they'd resort to something like—
@@ -122,7 +122,7 @@ Dialogue: 10,0:05:16.63,0:05:18.59,Default,Atri,0,0,0,,I absolutely must stay by
 Dialogue: 10,0:05:18.59,0:05:19.42,Default,Natsuki,0,0,0,,That's an order.
 Dialogue: 10,0:05:19.72,0:05:22.59,Default,Natsuki,0,0,0,,You won't be able to maneuver properly\N if you're stuck protecting me.
 Dialogue: 10,0:05:22.59,0:05:25.89,Default,Natsuki,0,0,0,,Go with Catherine and eliminate the threat!
-Dialogue: 10,0:05:26.18,0:05:27.64,Default,Atri,0,0,0,,Natsuki-san...
+Dialogue: 10,0:05:26.18,0:05:27.64,Default,Atri,0,0,0,,Natsuki{**-san}...
 Dialogue: 10,0:05:30.31,0:05:31.27,Default,Atri,0,0,0,,Yes sir!
 Dialogue: 10,0:05:31.27,0:05:33.90,Default,Man B,0,0,0,,Right, let's finish up this little smash and grab.
 Dialogue: 10,0:05:33.90,0:05:35.86,Default,Man A,0,0,0,,All we're after is the Humanoid.
@@ -139,7 +139,7 @@ Dialogue: 10,0:06:13.02,0:06:14.44,Default,Catherine,0,0,0,,Hop on!
 Dialogue: 10,0:06:14.90,0:06:17.69,Default,Catherine,0,0,0,,They're after you! We have to get out of here!
 Dialogue: 10,0:06:17.69,0:06:18.73,Default,Atri,0,0,0,,No!
 Dialogue: 10,0:06:18.73,0:06:19.32,Default,Catherine,0,0,0,,Huh?
-Dialogue: 10,0:06:19.32,0:06:23.24,Default,Atri,0,0,0,,Natsuki-san told me to eliminate the threat!
+Dialogue: 10,0:06:19.32,0:06:23.24,Default,Atri,0,0,0,,Natsuki{**-san} told me to eliminate the threat!
 Dialogue: 10,0:06:25.66,0:06:26.24,Default,Man C,0,0,0,,Shit!
 Dialogue: 10,0:06:26.24,0:06:27.41,Default,Man C,0,0,0,,We lost 'em!
 Dialogue: 10,0:06:27.41,0:06:30.45,Default,Junker,0,0,0,,Let's at least loot all the spare parts we can—
@@ -167,7 +167,7 @@ Dialogue: 10,0:07:44.99,0:07:46.99,Default,Catherine,0,0,0,,{\frz344.6\pos(995.2
 Dialogue: 10,0:07:47.74,0:07:50.83,Default,Catherine,0,0,0,,And don't come back, you hear?
 Dialogue: 10,0:07:53.87,0:07:57.46,Default,Catherine,0,0,0,,Sure wasn't expecting {\i1}that{\i0}\N to be the way I settle my debt.
 Dialogue: 10,0:07:57.46,0:07:59.96,Default,Catherine,0,0,0,,Life sure works in mysterious ways, huh?
-Dialogue: 10,0:07:59.96,0:08:03.63,Default,Atri,0,0,0,,Are you sure you didn't want \Nany of his money, Natsuki-san?
+Dialogue: 10,0:07:59.96,0:08:03.63,Default,Atri,0,0,0,,Are you sure you didn't want \Nany of his money, Natsuki{**-san}?
 Dialogue: 10,0:08:03.63,0:08:07.13,Default,Atri,0,0,0,,That junkman said he'd pay any price.
 Dialogue: 10,0:08:07.13,0:08:10.22,Default,Natsuki,0,0,0,,Nothing good comes of getting too greedy.
 Dialogue: 10,0:08:11.22,0:08:12.35,Default,Natsuki,0,0,0,,Besides,
@@ -204,17 +204,17 @@ Dialogue: 10,0:09:31.30,0:09:33.84,Default,Natsuki,0,0,0,,Yep. They never stoppe
 Dialogue: 10,0:09:33.84,0:09:36.64,Default,Natsuki,0,0,0,,Not while there's still\N kids who want to learn, at least.
 Dialogue: 10,0:09:36.64,0:09:39.02,Default,Natsuki,0,0,0,,Though I can't say the teacher's all that qualified.
 Dialogue: 10,0:09:40.27,0:09:41.69,Default,Catherine,0,0,0,,This old place, huh...
-Dialogue: 10,0:09:43.81,0:09:45.23,Default,Minamo,0,0,0,,Okay, Ririka-chan!
+Dialogue: 10,0:09:43.81,0:09:45.23,Default,Minamo,0,0,0,,Okay, Ririka{**-chan}!
 Dialogue: 10,0:09:45.23,0:09:47.32,Default,Minamo,0,0,0,,Why don't you start from \Nwhere we left off yesterday?
 Dialogue: 10,0:09:47.32,0:09:48.53,Default,Ririka,0,0,0,,Mmkay.
 Dialogue: 10,0:09:49.03,0:09:53.16,Default,Ririka,0,0,0,,"Gon! So you were the one giving me chestnuts!"
 Dialogue: 10,0:09:53.61,0:09:57.95,Default,Ririka,0,0,0,,Gon nodded, his eyes still closed.
 Dialogue: 10,0:09:57.95,0:09:59.20,Default,Ririka,0,0,0,,Hyouju...
-Dialogue: 10,0:10:00.83,0:10:02.29,Default,Ririka,0,0,0,,Hana-chan-sensei? {Missus Hana in the non-hono script imo}
+Dialogue: 10,0:10:00.83,0:10:02.29,Default,Ririka,0,0,0,,{*}Missus Hana{*Hana-chan-sensei}?
 Dialogue: 10,0:10:03.79,0:10:05.54,Default,Toru,0,0,0,,It's Hana-chan-sensei!
 Dialogue: 10,0:10:06.67,0:10:08.59,Default,Miyo,0,0,0,,What are you doing back here?
 Dialogue: 10,0:10:08.59,0:10:09.76,Default,Catherine,0,0,0,,You kiddos...
-Dialogue: 10,0:10:09.76,0:10:11.22,Default,Minamo,0,0,0,,Hana-chan-sensei!
+Dialogue: 10,0:10:09.76,0:10:11.22,Default,Minamo,0,0,0,,{*}Missus Hana{*Hana-chan-sensei}!
 Dialogue: 10,0:10:11.22,0:10:14.22,Default,Catherine,0,0,0,,S-Stop calling me that!
 Dialogue: 10,0:10:14.22,0:10:16.35,Default,Catherine,0,0,0,,My name's Catherine now.
 Dialogue: 10,0:10:16.35,0:10:17.01,Default,Ririka,0,0,0,,Catherine?
@@ -222,7 +222,7 @@ Dialogue: 10,0:10:17.30,0:10:18.35,Default,Natsuki,0,0,0,,Doesn't suit her one b
 Dialogue: 10,0:10:18.35,0:10:21.31,Default,Catherine,0,0,0,,N-Nobody asked! It's a way cooler name, okay!?
 Dialogue: 10,0:10:21.31,0:10:22.56,Default,Ryuuji,0,0,0,,Really?
 Dialogue: 10,0:10:22.56,0:10:25.48,Default,Ryuuji,0,0,0,,I really gotta question your taste there.
-Dialogue: 10,0:10:26.81,0:10:30.94,Default,Minamo,0,0,0,,I know it's none of my business, Hana-chan-sensei,\N but I did some digging into your past.
+Dialogue: 10,0:10:26.81,0:10:30.94,Default,Minamo,0,0,0,,I know it's none of my business, {*}Ms. Hana{*Hana-chan-sensei},\N but I did some digging into your past.
 Dialogue: 10,0:10:30.94,0:10:34.41,Default,Minamo,0,0,0,,Everyone I asked told me\N you were an incredible teacher,
 Dialogue: 10,0:10:34.41,0:10:36.37,Default,Minamo,0,0,0,,and only had great things to say about you.
 Dialogue: 10,0:10:38.12,0:10:40.04,Default,Catherine,0,0,0,,Well, your info's dead wrong.
@@ -233,14 +233,14 @@ Dialogue: 10,0:10:46.79,0:10:48.67,Default,Minamo,0,0,0,,But you came back.
 Dialogue: 10,0:10:50.88,0:10:53.97,Default,Minamo,0,0,0,,I love this town too much to give up on it.
 Dialogue: 10,0:10:53.97,0:10:59.05,Default,Minamo,0,0,0,,I want to make it every bit as lively\N and bustling as it used to be.
 Dialogue: 10,0:11:00.10,0:11:02.43,Default,Minamo,0,0,0,,I know we're a long ways away\N from that right now...
-Dialogue: 10,0:11:04.14,0:11:05.44,Default,Minamo,0,0,0,,But, please, Hana-chan-sensei, {Ms. Hana for non-hono track?}
+Dialogue: 10,0:11:04.14,0:11:05.44,Default,Minamo,0,0,0,,But, please, {*}Ms. Hana{*Hana-chan-sensei},
 Dialogue: 10,0:11:06.10,0:11:09.73,Default,Minamo,0,0,0,,won't you come back and be our teacher again?
 Dialogue: 10,0:11:10.07,0:11:11.07,Default,Minamo,0,0,0,,We need you here.
-Dialogue: 10,0:11:15.74,0:11:17.45,Default,Ririka,0,0,0,,Hana-chan-sensei!
-Dialogue: 10,0:11:17.45,0:11:18.20,Default,Miyo,0,0,0,,Sensei! {fuck, figure something out for the non-hono track lmao}
+Dialogue: 10,0:11:15.74,0:11:17.45,Default,Ririka,0,0,0,,{*}Missus Hana{*Hana-chan-sensei}!
+Dialogue: 10,0:11:17.45,0:11:18.20,Default,Miyo,0,0,0,,{*}Miss{*Sensei}!
 Dialogue: 10,0:11:18.20,0:11:18.99,Default,Catherine,0,0,0,,Back off!
 Dialogue: 10,0:11:20.45,0:11:23.33,Default,Catherine,0,0,0,,Please... don't come any closer...
-Dialogue: 10,0:11:27.42,0:11:29.21,Default,Toru,0,0,0,,Sensei? Are you okay?
+Dialogue: 10,0:11:27.42,0:11:29.21,Default,Toru,0,0,0,,{*}Miss{*Sensei}? Are you okay?
 Dialogue: 10,0:11:29.21,0:11:30.67,Default,Miyo,0,0,0,,Please don't cry.
 Dialogue: 10,0:11:31.25,0:11:33.13,Default,Natsuki,0,0,0,,That a manly tear I see?
 Dialogue: 10,0:11:33.13,0:11:35.47,Default,Ryuuji,0,0,0,,Oh, shut up!
@@ -251,7 +251,7 @@ Dialogue: 10,0:11:44.85,0:11:47.69,Default,Ryuuji,0,0,0,,Only thing standing in 
 Dialogue: 10,0:11:47.69,0:11:49.94,Default,Ryuuji,0,0,0,,We've gotta find a way to scrounge up {\i1}something...{\i0}
 Dialogue: 10,0:11:49.94,0:11:51.44,Default,Natsuki,0,0,0,,Oh, I took care of that already.
 Dialogue: 10,0:11:51.44,0:11:52.65,Default,Ryuuji,0,0,0,,Huh?!
-Dialogue: 10,0:11:52.65,0:11:55.44,Default,Natsuki,0,0,0,,Though we should really be \Nthanking Hana-chan-sensei and Atri.
+Dialogue: 10,0:11:52.65,0:11:55.44,Default,Natsuki,0,0,0,,Though we should really be \Nthanking {*}Missus Hana{*Hana-chan-sensei} and Atri.
 Dialogue: 10,0:11:55.44,0:11:56.28,Default,Minamo,0,0,0,,Does that mean...
 Dialogue: 10,0:11:56.65,0:12:00.03,Default,Natsuki,0,0,0,,Sure does. We're gonna restore\N this school to its former glory.
 Dialogue: 10,0:12:13.50,0:12:16.13,Default,Ryuuji,0,0,0,,Damn, this ain't gonna be easy.
@@ -269,13 +269,13 @@ Dialogue: 10,0:12:38.74,0:12:40.86,Default,Ryuuji,0,0,0,,H-Holy shit!
 Dialogue: 10,0:12:42.12,0:12:44.66,Default,Atri,0,0,0,,All in a day's work for a killer robot!
 Dialogue: 10,0:12:44.66,0:12:47.50,Default,Ryuuji,0,0,0,,Huh? You're a killer robot?
 Dialogue: 10,0:12:47.50,0:12:49.12,Default,Natsuki,0,0,0,,Source: her ass.
-Dialogue: 10,0:12:50.12,0:12:51.75,Default,Miyo,0,0,0,,Natsuki-sensei!
+Dialogue: 10,0:12:50.12,0:12:51.75,Default,Miyo,0,0,0,,{*}Mr. Natsuki{*Natsuki-sensei}!
 Dialogue: 10,0:12:50.79,0:12:51.75,Alt,Ryuuji,0,0,0,,{\an8}Well, give us more where that came from!
 Dialogue: 10,0:12:51.75,0:12:53.00,Alt,Atri,0,0,0,,{\an8}You got it!
 Dialogue: 10,0:12:52.13,0:12:53.67,Default,Natsuki,0,0,0,,Ooh, you're done?
 Dialogue: 10,0:12:53.67,0:12:58.51,Default,Ririka,0,0,0,,When we carved the styrofoam, \Nit went everywhere just like a confetti shower!
 Dialogue: 10,0:12:59.30,0:13:01.47,Default,Natsuki,0,0,0,,Wow, that came out pretty good.
-Dialogue: 10,0:13:01.47,0:13:05.72,Default,Miyo,0,0,0,,Yeah! Hana-chan-sensei helped\N with the finishing touches!
+Dialogue: 10,0:13:01.47,0:13:05.72,Default,Miyo,0,0,0,,Yeah! {*}Missus Hana{*Hana-chan-sensei} helped\N with the finishing touches!
 Dialogue: 10,0:13:04.14,0:13:05.72,Alt,Catherine,0,0,0,,{\an8}Stop pushing me!
 Dialogue: 10,0:13:05.72,0:13:06.85,Default,Natsuki,0,0,0,,Did she, now?
 Dialogue: 10,0:13:07.68,0:13:08.31,Default,Natsuki,0,0,0,,Thanks.
@@ -338,12 +338,12 @@ Dialogue: 10,0:15:50.85,0:15:52.93,Default,Natsuki,0,0,0,,{\i1}is less a Humanoi
 Dialogue: 10,0:15:53.56,0:15:55.23,Default,All,0,0,0,,Thanks for the food!
 Dialogue: 10,0:15:57.69,0:15:59.52,Default,Ririka and Ryuuji,0,0,0,,Yummy!
 Dialogue: 10,0:15:59.52,0:16:03.90,Default,Catherine,0,0,0,,It's been a while since I've eaten from\N a mess kit like this, but this ain't half bad!
-Dialogue: 10,0:16:04.86,0:16:07.95,Default,Minamo,0,0,0,,You hear that, Tooru-kun? \NYou were working so hard earlier, too.
+Dialogue: 10,0:16:04.86,0:16:07.95,Default,Minamo,0,0,0,,You hear that, Tooru{**-kun}? \NYou were working so hard earlier, too.
 Dialogue: 10,0:16:08.45,0:16:09.53,Default,Toru,0,0,0,,Yeah!
 Dialogue: 10,0:16:09.53,0:16:12.12,Default,Minamo,0,0,0,,Here we go! There's \Nplenty of miso soup to go around!
 Dialogue: 10,0:16:12.12,0:16:13.99,Default,Ririka,0,0,0,,Yippee! Look at all the fixings!
 Dialogue: 10,0:16:13.99,0:16:15.58,Default,Miyo,0,0,0,,Today's our lucky day!
-Dialogue: 10,0:16:18.79,0:16:20.33,Default,Minamo,0,0,0,,And here's one for you, Atri-chan.
+Dialogue: 10,0:16:18.79,0:16:20.33,Default,Minamo,0,0,0,,And here's one for you, Atri{**-chan}.
 Dialogue: 10,0:16:20.33,0:16:21.21,Default,Atri,0,0,0,,Huh?
 Dialogue: 10,0:16:21.79,0:16:22.96,Default,Atri,0,0,0,,Can I really have this?
 Dialogue: 10,0:16:22.96,0:16:25.21,Default,Minamo,0,0,0,,Hey, everyone else is eating.
@@ -366,10 +366,10 @@ Dialogue: 10,0:17:24.69,0:17:26.36,Default,Atri,0,0,0,,I can't reach it very wel
 Dialogue: 10,0:17:26.36,0:17:27.28,Default,Natsuki,0,0,0,,No chance.
 Dialogue: 10,0:17:27.28,0:17:30.61,Default,Atri,0,0,0,,Awww! Why not?!
 Dialogue: 10,0:17:30.61,0:17:31.57,Default,Natsuki,0,0,0,,Because I said so!
-Dialogue: 10,0:17:32.53,0:17:34.62,Default,Atri,0,0,0,,You're such a meanie, Natsuki-san!
+Dialogue: 10,0:17:32.53,0:17:34.62,Default,Atri,0,0,0,,You're such a meanie, Natsuki{**-san}!
 Dialogue: 10,0:17:34.62,0:17:37.58,Default,Natsuki,0,0,0,,So she has no sense of shame, huh?
 Dialogue: 10,0:17:37.58,0:17:40.79,Default,Natsuki,0,0,0,,Guess she's not {\i1}entirely{\i0} human...
-Dialogue: 10,0:17:38.25,0:17:41.50,Alt,Atri,0,0,0,,{\an8}Natsuki-san! I'm turning off the lights!
+Dialogue: 10,0:17:38.25,0:17:41.50,Alt,Atri,0,0,0,,{\an8}Natsuki{**-san}! I'm turning off the lights!
 Dialogue: 10,0:17:45.42,0:17:46.80,Default,Natsuki,0,0,0,,Damn, I'm beat...
 Dialogue: 10,0:17:46.80,0:17:49.59,Default,Natsuki,0,0,0,,I'll leave thinking about this stuff till tomorrow...
 Dialogue: 10,0:17:53.09,0:17:55.47,Default,Natsuki,0,0,0,,Wha—why are you wearing that thing again?!
@@ -390,7 +390,7 @@ Dialogue: 10,0:18:33.88,0:18:35.01,Default,Natsuki,0,0,0,,Stupid uppity Roomba.
 Dialogue: 10,0:18:36.89,0:18:38.43,Default,Atri,0,0,0,,Officer, we have a serial offender!
 Dialogue: 10,0:18:38.43,0:18:39.51,Default,Atri,0,0,0,,You know what you just did!
 Dialogue: 10,0:18:39.51,0:18:42.85,Default,Atri,0,0,0,,Didn't I warn you there'd be a rocket punch \Nwith your name on it if you kept it up?!
-Dialogue: 10,0:18:47.69,0:18:49.02,Default,Atri,0,0,0,,Natsuki-san?
+Dialogue: 10,0:18:47.69,0:18:49.02,Default,Atri,0,0,0,,Natsuki{**-san}?
 Dialogue: 10,0:18:53.70,0:18:55.28,Default,Atri,0,0,0,,Sweet dreams.
 Dialogue: 10,0:19:24.98,0:19:27.23,Default,Ryuuji,0,0,0,,I checked the wiring. It's all good to go.
 Dialogue: 10,0:19:27.23,0:19:28.40,Default,Natsuki,0,0,0,,Great.
@@ -407,7 +407,7 @@ Dialogue: 10,0:19:52.00,0:19:55.30,Default,Ryuuji,0,0,0,,Wow... It's getting fas
 Dialogue: 10,0:19:55.30,0:19:56.93,Default,Toru,0,0,0,,Is this gonna turn on the lights?
 Dialogue: 10,0:19:56.93,0:19:58.09,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:19:58.09,0:20:00.85,Default,Natsuki,0,0,0,,Minamo, can you flip the switch?
-Dialogue: 10,0:20:03.47,0:20:04.89,Default,Minamo,0,0,0,,You should do the honors, Natsu-kun.
+Dialogue: 10,0:20:03.47,0:20:04.89,Default,Minamo,0,0,0,,You should do the honors, Natsu{**-kun}.
 Dialogue: 10,0:20:04.89,0:20:05.85,Default,Natsuki,0,0,0,,Huh?
 Dialogue: 10,0:20:07.85,0:20:09.27,Default,Ririka,0,0,0,TLC,{\an8}Come on, do it already!{I get the idea, but this an8 distracts even further imo -yon}
 Dialogue: 10,0:20:09.27,0:20:10.36,Default,,0,0,0,,{\an8}Yeah!
@@ -424,7 +424,7 @@ Dialogue: 10,0:20:58.90,0:21:00.78,Default,Ririka,0,0,0,,Can I go get a book to 
 Dialogue: 10,0:21:00.78,0:21:02.49,Default,Toru,0,0,0,,I'll go grab an electric fan!
 Dialogue: 10,0:21:02.49,0:21:03.83,Default,Ryuuji,0,0,0,,Don't run in the hallways!
 Dialogue: 10,0:21:03.83,0:21:07.29,Default,Catherine,0,0,0,,I can't believe you really pulled it off.
-Dialogue: 10,0:21:07.29,0:21:08.79,Default,Minamo,0,0,0,,Natsu-kun...
+Dialogue: 10,0:21:07.29,0:21:08.79,Default,Minamo,0,0,0,,Natsu{**-kun}...
 Dialogue: 10,0:21:11.08,0:21:14.59,Default,Minamo,0,0,0,,Thank you... Thank you for coming back...
 Dialogue: 10,0:21:15.00,0:21:16.63,Default,Ryuuji,0,0,0,,Oh, don't cry...
 Dialogue: 10,0:21:16.63,0:21:18.05,Default,Ryuuji,0,0,0,,You're such a baby.

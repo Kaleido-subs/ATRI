@@ -237,10 +237,10 @@ Dialogue: 10,0:11:04.14,0:11:05.44,Default,Minamo,0,0,0,,But, please, {*}Ms. Han
 Dialogue: 10,0:11:06.10,0:11:09.73,Default,Minamo,0,0,0,,won't you come back and be our teacher again?
 Dialogue: 10,0:11:10.07,0:11:11.07,Default,Minamo,0,0,0,,We need you here.
 Dialogue: 10,0:11:15.74,0:11:17.45,Default,Ririka,0,0,0,,{*}Missus Hana{*Hana-chan-sensei}!
-Dialogue: 10,0:11:17.45,0:11:18.20,Default,Miyo,0,0,0,,{*}Miss{*Sensei}!
+Dialogue: 10,0:11:17.45,0:11:18.20,Default,Miyo,0,0,0,,{*}What's wrong?{*Sensei!}
 Dialogue: 10,0:11:18.20,0:11:18.99,Default,Catherine,0,0,0,,Back off!
 Dialogue: 10,0:11:20.45,0:11:23.33,Default,Catherine,0,0,0,,Please... don't come any closer...
-Dialogue: 10,0:11:27.42,0:11:29.21,Default,Toru,0,0,0,,{*}Miss{*Sensei}? Are you okay?
+Dialogue: 10,0:11:27.42,0:11:29.21,Default,Toru,0,0,0,,{**Sensei? }Are you okay?
 Dialogue: 10,0:11:29.21,0:11:30.67,Default,Miyo,0,0,0,,Please don't cry.
 Dialogue: 10,0:11:31.25,0:11:33.13,Default,Natsuki,0,0,0,,That a manly tear I see?
 Dialogue: 10,0:11:33.13,0:11:35.47,Default,Ryuuji,0,0,0,,Oh, shut up!
@@ -251,7 +251,7 @@ Dialogue: 10,0:11:44.85,0:11:47.69,Default,Ryuuji,0,0,0,,Only thing standing in 
 Dialogue: 10,0:11:47.69,0:11:49.94,Default,Ryuuji,0,0,0,,We've gotta find a way to scrounge up {\i1}something...{\i0}
 Dialogue: 10,0:11:49.94,0:11:51.44,Default,Natsuki,0,0,0,,Oh, I took care of that already.
 Dialogue: 10,0:11:51.44,0:11:52.65,Default,Ryuuji,0,0,0,,Huh?!
-Dialogue: 10,0:11:52.65,0:11:55.44,Default,Natsuki,0,0,0,,Though we should really be\nthanking {*}Missus Hana{*Hana-chan-sensei} and Atri.
+Dialogue: 10,0:11:52.65,0:11:55.44,Default,Natsuki,0,0,0,,Though we should really be\nthanking {*}Ms. Hana{*Hana-chan-sensei} and Atri.
 Dialogue: 10,0:11:55.44,0:11:56.28,Default,Minamo,0,0,0,,Does that mean...
 Dialogue: 10,0:11:56.65,0:12:00.03,Default,Natsuki,0,0,0,,Sure does. We're gonna restore\nthis school to its former glory.
 Dialogue: 10,0:12:13.50,0:12:16.13,Default,Ryuuji,0,0,0,,Damn, this ain't gonna be easy.

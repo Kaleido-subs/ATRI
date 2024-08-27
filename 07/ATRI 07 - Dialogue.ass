@@ -199,7 +199,7 @@ Dialogue: 0,0:10:28.81,0:10:30.46,Default,Natsuki,0,0,0,,What should I do?
 Dialogue: 0,0:10:30.46,0:10:35.69,Default,Catherine,0,0,0,,Well, I think you've got the right approach, but she might be lacking in understanding.
 Dialogue: 0,0:10:35.69,0:10:36.66,Default,Natsuki,0,0,0,,In understanding?
 Dialogue: 0,0:10:37.03,0:10:42.66,Default,Catherine,0,0,0,,Even if she has emotions, she's not gonna be able to respond properly until she understands what she's feeling.
-Dialogue: 0,0:10:43.66,0:10:44.71,Default,Catherine,0,0,0,,Let me handle this.
+Dialogue: 0,0:10:43.66,0:10:44.71,Default,Catherine,0,0,0,TLC,Let me handle this.{This text is the previous line, this timestamp should have the "Okay, class" -yon}
 Dialogue: 0,0:10:44.71,0:10:46.79,Default,Catherine,0,0,0,,Okay, class, time to get started!
 Dialogue: 0,0:10:47.14,0:10:51.30,Default,Catherine,0,0,0,,Today, we're gonna forget about math and have a special health class instead.
 Dialogue: 0,0:10:51.30,0:10:53.94,Default,Catherine,0,0,0,,Boys, you go to the roof. Girls, you're staying here.
@@ -262,7 +262,7 @@ Dialogue: 0,0:13:45.32,0:13:46.31,Default,Atri,0,0,0,,That's a secret.
 Dialogue: 0,0:13:46.31,0:13:48.23,Default,Natsuki,0,0,0,,Whatever, keep your secrets.
 Dialogue: 0,0:13:48.23,0:13:50.14,Default,Natsuki,0,0,0,,So where are we going?
 Dialogue: 0,0:13:50.14,0:13:51.55,Default,Atri,0,0,0,,Let's see,
-Dialogue: 0,0:13:51.55,0:13:54.31,Default,Atri,0,0,0,,apparently shopping is an absolute must-do...
+Dialogue: 0,0:13:51.55,0:13:54.31,Default,Atri,0,0,0,,apparently shopping is an absolute must-do...{where did she even take that paper from?? -yon}
 Dialogue: 0,0:13:55.40,0:13:57.07,Default,Natsuki,0,0,0,,What's with that paper?
 Dialogue: 0,0:13:58.00,0:13:59.82,Default,Atri,0,0,0,,Another secret!
 Dialogue: 0,0:13:59.82,0:14:01.64,Default,Natsuki,0,0,0,,Aren't you full of secrets today...
@@ -375,7 +375,7 @@ Dialogue: 0,0:19:48.08,0:19:48.92,Default,Natsuki,0,0,0,,Really?
 Dialogue: 0,0:19:49.31,0:19:53.86,Default,Atri,0,0,0,,I don't know what it's like to have a real human heart, so I can't say for sure,
 Dialogue: 0,0:19:53.86,0:19:58.00,Default,Atri,0,0,0,,but these feelings inside me, all this happiness and sadness,
 Dialogue: 0,0:19:58.00,0:20:00.42,Default,Atri,0,0,0,,all these things I like and dislike, {very possible that this passage can fuck us over later lmao}
-Dialogue: 0,0:20:00.42,0:20:06.46,Default,Atri,0,0,0,,I feel them as something so much more than the sort of knowledge you can read or learn about.
+Dialogue: 0,0:20:00.42,0:20:06.46,Default,Atri,0,0,0,TLC,I feel them as something so much more than the sort of knowledge you can read or learn about.{this isn't really a callback, but the mention of impulses does make me think of the earlier conversation about them "those impulses will trump any amount of logic" -yon}
 Dialogue: 0,0:20:06.46,0:20:08.44,Default,Natsuki,0,0,0,,Really? You really think so?!
 Dialogue: 0,0:20:12.00,0:20:13.11,Default,Atri,0,0,0,,Yes!
 Dialogue: 0,0:20:19.70,0:20:21.58,Default,Atri,0,0,0,,It feels so nice and cool!

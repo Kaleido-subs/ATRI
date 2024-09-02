@@ -74,7 +74,7 @@ Dialogue: 10,0:01:33.57,0:01:37.37,Default,Yoko,0,0,0,,I heard you were working 
 Dialogue: 10,0:01:37.37,0:01:41.13,Default,Yoko,0,0,0,,You have any problems, you come to me.\nI'll be a lot more useful than this bozo.
 Dialogue: 10,0:01:41.13,0:01:45.62,Default,Ryuuji,0,0,0,,Just to set the record straight,\nme and Natsu built that generator {\i1}together,{\i0} got it?
 Dialogue: 10,0:01:46.33,0:01:47.83,Default,Yoko,0,0,0,,Oh, please.
-Dialogue: 10,0:01:47.83,0:01:50.34,Default,Yoko,0,0,0,ED,We all know you were just Natsuki{**-sensei}'s gofer.{@ED alt: "the teacher's" -- possibly on both tracks -p}
+Dialogue: 10,0:01:47.83,0:01:50.34,Default,Yoko,0,0,0,,We all know you were just his gofer.
 Dialogue: 10,0:01:50.34,0:01:51.67,Default,Ryuuji,0,0,0,,Like hell I was!
 Dialogue: 10,0:01:51.67,0:01:52.96,Default,Yoko,0,0,0,,You {\i1}suuure{\i0} about that?
 Dialogue: 10,0:01:52.96,0:01:54.59,Default,Ryuuji,0,0,0,,What, you think I'm stupid, too?
@@ -82,13 +82,14 @@ Dialogue: 10,0:01:54.59,0:01:56.28,Default,Yoko,0,0,0,,Oops, did I say that part
 Dialogue: 10,0:03:28.86,0:03:30.36,Default,Natsuki,0,0,0,,{\an8}Just a little farther...
 Dialogue: 10,0:03:32.61,0:03:35.45,Default,Natsuki,0,0,0,,{\an8}For the millionth time, don't talk underwater.
 Dialogue: 10,0:03:40.34,0:03:41.95,Default,Natsuki,0,0,0,,A cable...
-Dialogue: 10,0:03:41.95,0:03:45.42,Default,Natsuki,0,0,0,ED,Must be a TV or internet cable\nor something from before.{@ED the phrasing/bracketing here feels a bit weird, though sufficiently natural (the linebreak doesn't help that much, though--maybe should make it one line?). this is basically "(((TV or internet) cable) or something) -p}
+Dialogue: 10,0:03:41.95,0:03:45.42,Default,Natsuki,0,0,0,,Probably just some old TV or internet infrastructure, though.
 Dialogue: 10,0:03:45.42,0:03:46.75,Default,Natsuki,0,0,0,,Let's move on.
 Dialogue: 10,0:03:47.13,0:03:50.77,Default,Ryuuji,0,0,0,,One more block, and you should see\na house with a chimney.
 Dialogue: 10,0:03:50.77,0:03:51.79,Default,Natsuki,0,0,0,,Gotcha.
 Dialogue: 10,0:03:53.25,0:03:57.52,Default,Minamo,0,0,0,,I never thought we'd be able to\nstart up a salvaging service.
-Dialogue: 10,0:03:57.52,0:03:58.74,Default,Ryuuji,0,0,0,ED,Plenty of folks out there{@ED bit iffy on this split tbh. would feel better with these lines joined, but the second one is a bit too long for that -- at least respecting our current 300px margins. not against just forcing those on two lines as they are, though -p}
-Dialogue: 10,0:03:58.74,0:04:03.10,Default,Ryuuji,0,0,0,ED,who want someone to find their sunken houses\nand dig up stuff with sentimental value.
+Comment: 10,0:03:57.52,0:03:58.74,Default,Ryuuji,0,0,0,ED,Plenty of folks out there{@ED bit iffy on this split tbh. would feel better with these lines joined, but the second one is a bit too long for that -- at least respecting our current 300px margins. not against just forcing those on two lines as they are, though -p}
+Comment: 10,0:03:58.74,0:04:03.10,Default,Ryuuji,0,0,0,ED,who want someone to find their sunken houses\nand dig up stuff with sentimental value.
+Dialogue: 10,0:03:57.52,0:04:03.10,Default,Ryuuji,0,0,0,ED,Plenty of islanders have sentimental items \nthey left behind in their old sunken homes. {would you prefer this better as a solution?}
 Dialogue: 10,0:04:03.68,0:04:05.98,Default,Ryuuji,0,0,0,,More importantly, shouldn't you\nshoot your shot soon?
 Dialogue: 10,0:04:05.98,0:04:07.03,Default,Minamo,0,0,0,,For what?
 Dialogue: 10,0:04:07.03,0:04:08.14,Default,Ryuuji,0,0,0,,For Natsu!
@@ -129,8 +130,8 @@ Dialogue: 10,0:05:36.69,0:05:40.57,Default,Atri,0,0,0,,A little while ago, nothi
 Comment: 10,0:05:40.57,0:05:43.21,Default,Ryuuji,0,0,0,ED,Hey, a lot's changed.\nNow our strapping young teacher here{@ED line split makes for really weird pair of lines. should generally try to avoid these (especially the short-full-sentence + half-a-clause ones), either by phrasing or by timing -p}{potential alt below -p}
 Comment: 10,0:05:43.21,0:05:45.55,Default,Ryuuji,0,0,0,ED,has got every girl in town\nmaking googly-eyes at him.
 Comment: 10,0:05:45.55,0:05:48.11,Default,Ryuuji,0,0,0,ED,Who can blame him for feeling a little giddy?
-Dialogue: 10,0:05:40.57,0:05:43.21,Default,Ryuuji,0,0,0,ED,Hey, I mean, can you blame the guy?
-Dialogue: 10,0:05:43.21,0:05:48.11,Default,Ryuuji,0,0,0,ED,Our strapping young teacher's got\nevery girl in town making googly-eyes at him.
+Dialogue: 10,0:05:40.57,0:05:43.21,Default,Ryuuji,0,0,0,,Hey, I mean, can you blame the guy?
+Dialogue: 10,0:05:43.21,0:05:48.11,Default,Ryuuji,0,0,0,,Our strapping young teacher's got\nevery girl in town making googly-eyes at him.
 Dialogue: 10,0:05:48.11,0:05:50.15,Default,Ryuuji,0,0,0,,It's like he's got his own personal harem.
 Dialogue: 10,0:05:50.15,0:05:51.41,Default,Minamo,0,0,0,,Harem...
 Dialogue: 10,0:05:52.75,0:05:57.46,Default,Atri,0,0,0,,Searching, searching...
@@ -174,7 +175,7 @@ Dialogue: 10,0:07:43.10,0:07:45.82,Default,Minamo,0,0,0,,I'm teaching her everyt
 Dialogue: 10,0:07:46.45,0:07:47.28,Default,Natsuki,0,0,0,,Who, Atri?
 Dialogue: 10,0:07:47.28,0:07:48.23,Default,Minamo,0,0,0,,Yeah.
 Dialogue: 10,0:07:48.23,0:07:51.25,Default,Minamo,0,0,0,,She really wants your approval.
-Dialogue: 10,0:07:51.25,0:07:53.70,Default,Minamo,0,0,0,ED,Just the other day,\nI taught her how to make nikujaga.{@ED is "nikujaga" a commonly known food? consider at least adding "stew" here, or just calling it "beef stew" -p}
+Dialogue: 10,0:07:51.25,0:07:53.70,Default,Minamo,0,0,0,ED,Just the other day, I taught her how to make nikujaga.{@ED is "nikujaga" a commonly known food? consider at least adding "stew" here, or just calling it "beef stew" -p}{I did strongly consider rendering it as beef stew, but that is a totally different food and I disliked the accuracy lol, also a dish with very homey, "mom's recipe" sorta connotations}
 Dialogue: 10,0:07:53.70,0:07:55.72,Default,Natsuki,0,0,0,,Atri can make nikujaga...
 Dialogue: 10,0:07:57.42,0:07:58.06,Default,Natsuki,0,0,0,,Hey.
 Dialogue: 10,0:07:58.06,0:07:58.83,Default,,0,0,0,,Hm?
@@ -187,8 +188,8 @@ Dialogue: 10,0:08:11.67,0:08:13.72,Default,Natsuki,0,0,0,,How she doesn't feel l
 Dialogue: 10,0:08:14.25,0:08:16.06,Default,Minamo,0,0,0,,Oh, yeah.
 Dialogue: 10,0:08:16.06,0:08:18.92,Default,Minamo,0,0,0,,I mean, I don't think a robot could smile like that.
 Dialogue: 10,0:08:18.92,0:08:21.98,Default,Minamo,0,0,0,,Her happiness looks like it\nreally comes from the heart!
-Dialogue: 10,0:08:24.61,0:08:26.56,Default,Natsuki,0,0,0,ED,Maybe she really does have one...{@ED consider removing ellipsis (esp. with next line's note) -p}{alt: "Maybe she really does... / have a heart." -p}
-Dialogue: 10,0:08:27.14,0:08:27.99,Default,Natsuki,0,0,0,ED,a heart.{@ED would capitalize this line; "does have one a heart" is obviously not one sentence -> this can't be a direct continuation -p}
+Dialogue: 10,0:08:24.61,0:08:26.56,Default,Natsuki,0,0,0,,Maybe she really does have one...{@ED consider removing ellipsis (esp. with next line's note) -p}{alt: "Maybe she really does... / have a heart." -p}
+Dialogue: 10,0:08:27.14,0:08:27.99,Default,Natsuki,0,0,0,,A heart.{@ED would capitalize this line; "does have one a heart" is obviously not one sentence -> this can't be a direct continuation -p}
 Dialogue: 10,0:08:29.21,0:08:35.24,Default,Natsuki,0,0,0,,The first-ever Humanoid running an AI\ncapable of real human emotions...
 Dialogue: 10,0:08:35.97,0:08:37.50,Default,Minamo,0,0,0,,You think that's what she is?
 Dialogue: 10,0:08:39.70,0:08:41.19,Default,Natsuki,0,0,0,,I don't know.
@@ -221,10 +222,9 @@ Dialogue: 10,0:10:13.38,0:10:15.11,Default,Natsuki,0,0,0,,I'm {\i1}expecting{\i0
 Dialogue: 10,0:10:15.11,0:10:16.60,Default,Atri,0,0,0,,Hwuh?!
 Dialogue: 10,0:10:17.46,0:10:18.47,Default,Ryuuji,0,0,0,,He's not?
 Dialogue: 10,0:10:18.86,0:10:19.74,Default,Minamo,0,0,0,,Yeah.
-Dialogue: 10,0:10:19.74,0:10:22.88,Default,Minamo,0,0,0,TM/ED,Natsu{**-kun}'s recent good mood{@TM/ED join these? -p}
-Dialogue: 10,0:10:22.88,0:10:25.75,Default,Minamo,0,0,0,TM/ED,doesn't have anything to do with girls.
+Dialogue: 10,0:10:19.74,0:10:25.75,Default,Minamo,0,0,0,TM/ED,Natsu{**-kun}'s recent good mood \ndoesn't have anything to do with girls.
 Dialogue: 10,0:10:25.75,0:10:27.48,Default,Ryuuji,0,0,0,,Then what gives?
-Dialogue: 10,0:10:28.54,0:10:31.36,Default,Minamo,0,0,0,ED,Apparently... it's all because of Atri{**-chan}.{@ED consider comma instead of ellipsis -p}
+Dialogue: 10,0:10:28.54,0:10:31.36,Default,Minamo,0,0,0,ED,Apparently... it's all because of Atri{**-chan}.{@ED consider comma instead of ellipsis -p}{just a general aversion to excessive ellipses use in orthographically representations of spoken dialogue? I thought it was useful to capture the deliberate pause/hesitation for example, but if you don't like it then feel free to get rid of it}
 Dialogue: 10,0:10:31.36,0:10:32.78,Default,Ryuuji,0,0,0,,Atri?
 Dialogue: 10,0:10:32.78,0:10:35.96,Default,Ryuuji,0,0,0,,Wait, is that guy into—
 Dialogue: 10,0:10:35.96,0:10:38.68,Default,Ryuuji,0,0,0,,You're kidding! She's a Humanoid!
@@ -233,7 +233,7 @@ Dialogue: 10,0:10:40.45,0:10:41.62,Default,Minamo,0,0,0,,No!
 Dialogue: 10,0:10:41.62,0:10:44.41,Default,Minamo,0,0,0,,I'm sure he doesn't think about her like {\i1}that!{\i0}
 Dialogue: 10,0:10:44.41,0:10:46.58,Default,Ryuuji,0,0,0,,Then what {\i1}is{\i0} he thinking about?
 Dialogue: 10,0:10:46.58,0:10:49.38,Default,Minamo,0,0,0,,Hmm, how do I put this...
-Dialogue: 10,0:10:51.40,0:10:56.80,Default,Minamo,0,0,0,ED,I don't think Natsu{**-kun}'s interested\nin romance right now... Not with anyone.{@ED linebreak might look better after "in"? your call -p}
+Dialogue: 10,0:10:51.40,0:10:56.80,Default,Minamo,0,0,0,,I don't think Natsu{**-kun}'s interested in \nromance right now... Not with anyone.{@ED linebreak might look better after "in"? your call -p}
 Dialogue: 10,0:11:05.52,0:11:06.76,Default,Natsuki,0,0,0,,What're you writing?
 Dialogue: 10,0:11:07.46,0:11:08.94,Default,Atri,0,0,0,,No looking!
 Dialogue: 10,0:11:08.94,0:11:10.90,Default,Natsuki,0,0,0,,What, your logs?
@@ -256,7 +256,7 @@ Dialogue: 10,0:11:48.86,0:11:50.61,Default,Atri,0,0,0,,I see. I've updated my me
 Dialogue: 10,0:11:51.40,0:11:55.63,Default,Natsuki,0,0,0,,I swear... Maybe she really\ndoesn't have emotions after all?
 Dialogue: 10,0:11:55.63,0:12:01.10,Default,Natsuki,0,0,0,,No, even humans have to learn to develop\na sense of shame as they grow up.
 Dialogue: 10,0:12:02.11,0:12:04.13,Default,Natsuki,0,0,0,,Maybe she just has the mind of a chi—
-Dialogue: 10,0:12:08.55,0:12:09.29,Default,Natsuki,0,0,0,ED,...What are you doing?{@ED would say to axe ellipsis -p}
+Dialogue: 10,0:12:08.55,0:12:09.29,Default,Natsuki,0,0,0,ED,...What are you doing?{@ED would say to axe ellipsis -p}{same thing, if you're more principally opposed to ellipses then go ahead and nix them~}
 Dialogue: 10,0:12:09.67,0:12:12.88,Default,Atri,0,0,0,,Nothing. I just thought I'd like to\nsee more of your cute blushing.
 Dialogue: 10,0:12:13.67,0:12:16.33,Default,Natsuki,0,0,0,,That's it! You get your ass\ninto the bath right this minute!
 Dialogue: 10,0:12:16.33,0:12:18.97,Default,Atri,0,0,0,,Stop it! Robot harassment!\nRobot harassment, I say!
@@ -310,7 +310,7 @@ Dialogue: 10,0:14:18.17,0:14:20.01,Default,Minamo,0,0,0,,Don't say that!
 Dialogue: 10,0:14:20.01,0:14:22.05,Default,Minamo,0,0,0,,We're so sorry!
 Dialogue: 10,0:14:22.48,0:14:25.87,Default,Ryuuji,0,0,0,,Ain't easy being a salvager, huh? {salvagin' ain't easy, huh?}
 Dialogue: 10,0:14:25.87,0:14:28.97,Default,Natsuki,0,0,0,,Can't expect everything we recover\nto still be in good condition.
-Dialogue: 10,0:14:29.60,0:14:30.72,Default,Ryuuji,0,0,0,ED,Think we should hike our rates?{@ED consider "Should we" to trim cps -p}
+Dialogue: 10,0:14:29.60,0:14:30.72,Default,Ryuuji,0,0,0,,Should we hike our rates?{@ED consider "Should we" to trim cps -p}
 Dialogue: 10,0:14:30.72,0:14:34.72,Default,Ryuuji,0,0,0,,Considering how much labor we're putting in,\nwe'll be making a loss at our current prices.
 Dialogue: 10,0:14:34.72,0:14:36.54,Default,Natsuki,0,0,0,,Nah, no need.
 Dialogue: 10,0:14:37.07,0:14:39.62,Default,Natsuki,0,0,0,,As long as we can make the islanders happy,
@@ -328,8 +328,8 @@ Dialogue: 10,0:15:13.99,0:15:16.42,Default,Yoko,0,0,0,,I hope I'm not bothering 
 Dialogue: 10,0:15:16.42,0:15:19.20,Default,Natsuki,0,0,0,,Oh, the formula we covered the other day?
 Dialogue: 10,0:15:19.20,0:15:21.15,Default,Natsuki,0,0,0,,You start by factoring the—
 Dialogue: 10,0:15:21.15,0:15:22.19,Default,Yoko,0,0,0,,No!
-Dialogue: 10,0:15:25.35,0:15:28.72,Default,Yoko,0,0,0,ED,Sensei, I... love you!{@ED oh whoops, missed these "Sensei"s. do we do "Mr. Natsuki" for these too? feels wrong -p}
-Dialogue: 10,0:15:34.81,0:15:37.75,Default,Yoko,0,0,0,,Sensei! Do you already have someone else?
+Dialogue: 10,0:15:25.35,0:15:28.72,Default,Yoko,0,0,0,ED,Sensei, I... love you! {"I... I love you!" for the non hono track imo}
+Dialogue: 10,0:15:34.81,0:15:37.75,Default,Yoko,0,0,0,,Sensei! Do you already have someone else? {"I meant it! Do you already have someone else?"}
 Dialogue: 10,0:15:37.75,0:15:39.81,Default,Yoko,0,0,0,,Is it Minamo{**-chan}? It is, isn't it?
 Dialogue: 10,0:15:39.81,0:15:40.54,Default,Natsuki,0,0,0,,Minamo?
 Dialogue: 10,0:15:40.54,0:15:42.10,Default,Yoko,0,0,0,,It's not her?
@@ -339,8 +339,8 @@ Dialogue: 10,0:15:47.54,0:15:49.09,Default,Yoko,0,0,0,,Then is it...
 Dialogue: 10,0:15:49.60,0:15:50.64,Default,Yoko,0,0,0,,Atri{**-chan}?
 Dialogue: 10,0:15:50.94,0:15:51.85,Default,Natsuki,0,0,0,,Huh?!
 Dialogue: 10,0:15:52.15,0:15:53.95,Default,Natsuki,0,0,0,,You've gotta be kidding me!
-Dialogue: 10,0:15:53.95,0:15:55.45,Default,Natsuki,0,0,0,ED,{@ED possibly "For one," -p}Atri's a Humanoid...
-Dialogue: 10,0:15:55.45,0:15:56.88,Default,Natsuki,0,0,0,ED,Plus she practically looks like a child! {the gaiken line, sort of tricky, not sure how to avoid overtranslation}{@ED pretty high on CPS too, maybe "And she looks like she's ten!" or "Plus, she barely looks ten years old!" -p}
+Dialogue: 10,0:15:53.95,0:15:55.45,Default,Natsuki,0,0,0,,For one, Atri's a Humanoid...
+Dialogue: 10,0:15:55.45,0:15:56.88,Default,Natsuki,0,0,0,,Plus she barely looks ten years old! {the gaiken line, sort of tricky, not sure how to avoid overtranslation}{@ED pretty high on CPS too, maybe "And she looks like she's ten!" or "Plus, she barely looks ten years old!" -p}
 Dialogue: 10,0:15:59.06,0:16:02.82,Default,Yoko,0,0,0,,But I've heard you can't sleep\nunless you're cuddling her...
 Dialogue: 10,0:16:03.77,0:16:04.80,Default,Natsuki,0,0,0,,She told you about that?!
 Dialogue: 10,0:16:04.80,0:16:06.78,Default,Yoko,0,0,0,,Wait wha—it's actually {\i1}true?!{\i0}
@@ -348,7 +348,7 @@ Dialogue: 10,0:16:06.78,0:16:08.90,Default,Natsuki,0,0,0,,N-No, wait!
 Dialogue: 10,0:16:08.90,0:16:11.07,Default,Natsuki,0,0,0,,O-Of course I'm not into—
 Dialogue: 10,0:16:11.07,0:16:12.20,Default,Yoko,0,0,0,,Oh my god.
 Dialogue: 10,0:16:12.20,0:16:13.95,Default,Yoko,0,0,0,,Then who is it?!
-Dialogue: 10,0:16:15.45,0:16:18.08,Default,Catherine,0,0,0,ED,Word of advice from someone who's\nbeen teaching a lot longer than you have.{@ED good line but kinda long -p}
+Dialogue: 10,0:16:15.45,0:16:18.08,Default,Catherine,0,0,0,,Word of advice from someone who's\ntaught a lot longer than you have.
 Dialogue: 10,0:16:19.22,0:16:22.34,Default,Catherine,0,0,0,,Times like this, you need to\ngrow a pair and tell it to 'em straight.
 Dialogue: 10,0:16:25.88,0:16:27.76,Default,Ryuuji,0,0,0,,An older girl from his childhood?{damn he has an adult woman fetish? -p}
 Dialogue: 10,0:16:27.76,0:16:30.22,Default,Minamo,0,0,0,,That's who Natsu{**-kun} likes?
@@ -395,8 +395,8 @@ Dialogue: 10,0:18:31.57,0:18:32.57,Default,Ryuuji,0,0,0,,Piano?
 Dialogue: 10,0:18:33.96,0:18:35.25,Default,Minamo,0,0,0,,Atri{**-chan}?!
 Dialogue: 10,0:18:59.45,0:19:00.82,Default,Minamo,0,0,0,,Atri{**-chan}?
 Dialogue: 10,0:19:06.10,0:19:07.60,Default,Catherine,0,0,0,,Thanks for the help, kiddo.
-Dialogue: 10,0:19:07.60,0:19:10.58,Default,Catherine,0,0,0,ED,My piano playing isn't worth\na whistle compared to yours.{@ED consider "ain't" -p}
-Dialogue: 10,0:19:10.58,0:19:13.84,Default,Natsuki,0,0,0,,Nah. This is the only song I even know how to play. {piece instead of song?}{@ED yeah, would use "piece". "song" (in musical terms) has vocals; then again a layman probably wouldn't really know the difference? but it's kyoku rather than uta -p}
+Dialogue: 10,0:19:07.60,0:19:10.58,Default,Catherine,0,0,0,,My piano playing ain't worth\na whistle compared to yours.{@ED consider "ain't" -p}
+Dialogue: 10,0:19:10.58,0:19:13.84,Default,Natsuki,0,0,0,,Nah. This is the only piece I even know how to play. {piece instead of song?}{@ED yeah, would use "piece". "song" (in musical terms) has vocals; then again a layman probably wouldn't really know the difference? but it's kyoku rather than uta -p}
 Dialogue: 10,0:19:14.13,0:19:15.22,Default,Catherine,0,0,0,,Well, it's a good one.
 Dialogue: 10,0:19:16.89,0:19:17.88,Default,Natsuki,0,0,0,,Thanks.
 Dialogue: 10,0:19:17.88,0:19:20.51,Default,Natsuki,0,0,0,,Someone really important to me always loved it.
@@ -424,7 +424,7 @@ Dialogue: 10,0:20:21.41,0:20:22.62,Default,Ririka,0,0,0,,Bye!
 Dialogue: 10,0:20:23.29,0:20:25.16,Default,Ryuuji,0,0,0,,I'll be back with dinner later!
 Dialogue: 10,0:20:26.26,0:20:29.38,Default,Minamo,0,0,0,,Ririka{**-chan} stays up reading\ninto the night every day, doesn't she?
 Dialogue: 10,0:20:29.38,0:20:31.38,Default,Ryuuji,0,0,0,,She says she wants to be just like Natsu.
-Dialogue: 10,0:20:31.67,0:20:33.53,Default,Ryuuji,0,0,0,ED,Says she wants to attend the Academy one day.{@ED consider "attend" -> "go to"? -p}
+Dialogue: 10,0:20:31.67,0:20:33.53,Default,Ryuuji,0,0,0,,Says she wants to go to the Academy one day.{@ED consider "attend" -> "go to"? -p}
 Dialogue: 10,0:20:33.53,0:20:35.59,Default,Natsuki,0,0,0,,Not like I managed to actually graduate, though.
 Dialogue: 10,0:20:35.59,0:20:36.72,Default,Ryuuji,0,0,0,,That doesn't matter!
 Dialogue: 10,0:20:37.03,0:20:39.18,Default,Ryuuji,0,0,0,,Be the sort of role model she can look up to.
@@ -435,7 +435,7 @@ Dialogue: 10,0:20:55.96,0:20:58.53,Default,Natsuki,0,0,0,,You okay? You didn't e
 Dialogue: 10,0:20:58.53,0:20:59.75,Default,Atri,0,0,0,,It's nothing...
 Dialogue: 10,0:21:02.68,0:21:04.03,Default,Atri,0,0,0,,Natsuki{**-san}.
 Dialogue: 10,0:21:04.51,0:21:06.04,Default,Atri,0,0,0,,I...
-Dialogue: 10,0:21:07.01,0:21:08.16,Default,Atri,0,0,0,ED,I—!{@ED i'm the world's #2 hater of em-dash-then-punct (light's #1); would just remove the exclamation mark here -p}
+Dialogue: 10,0:21:07.01,0:21:08.16,Default,Atri,0,0,0,,I—
 Dialogue: 10,0:21:12.83,0:21:14.04,Default,Natsuki,0,0,0,,Atri!
 Dialogue: 10,0:21:24.67,0:21:33.21,Default,Atri,0,0,0,,{\i1}I sit on the sill to feel the rain
 Dialogue: 10,0:21:35.64,0:21:44.90,Default,Atri,0,0,0,,{\i1}And out comes the song I haven't sang in ages

@@ -16,9 +16,9 @@ Video File: ../../../../Downloads/ATRI - S01E08 (Premux) [23E6D586].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 239
-Active Line: 252
-Video Position: 23544
+Scroll Position: 333
+Active Line: 347
+Video Position: 31739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -95,18 +95,18 @@ Dialogue: 0,0:05:07.03,0:05:08.49,Default,Ryuji,0,0,0,,C'mon, don't be shy!
 Dialogue: 0,0:05:08.49,0:05:11.95,Default,Ryuji,0,0,0,,Getting together with your first love? That's every guy's dream, dude!
 Dialogue: 0,0:05:11.95,0:05:14.50,Default,Natsuki,0,0,0,,I told you not to get the wrong idea!
 Dialogue: 0,0:05:14.50,0:05:15.99,Default,Ryuji,0,0,0,,What's the big deal?
-Dialogue: 0,0:05:15.04,0:05:16.94,Default,Yoko,0,0,0,,Bruhhhhh...
+Dialogue: 0,0:05:15.04,0:05:16.94,Default,Yoko,0,0,0,,Bruhhhhh... {! he's so sickkk}
 Dialogue: 0,0:05:16.94,0:05:17.71,Default,Ryuji,0,0,0,,Hm?
-Dialogue: 0,0:05:18.13,0:05:19.71,Default,Yoko,0,0,0,,Holy cringe...
+Dialogue: 0,0:05:18.13,0:05:19.71,Default,Yoko,0,0,0,,Holy cringe... {?! idk about this one though}
 Dialogue: 0,0:05:20.04,0:05:21.05,Default,Ryuji,0,0,0,,Huh?
 Dialogue: 0,0:05:21.05,0:05:24.67,Default,Yoko,0,0,0,,You heard me! How old do you think this guy is, anyway?
 Dialogue: 0,0:05:24.67,0:05:26.63,Default,Yoko,0,0,0,,Dude's {\i1}seventeen!{\i0}
-Dialogue: 0,0:05:26.63,0:05:31.39,Default,Yoko,0,0,0,,And he's in love with {\i1}Atri-chan?{\i0} That's gotta be statutor—
+Dialogue: 0,0:05:26.63,0:05:31.39,Default,Yoko,0,0,0,,And he wants to get with {\i1}Atri-chan?{\i0} That's gotta be statutor—
 Dialogue: 0,0:05:30.35,0:05:32.39,Default,Natsuki,0,0,0,,What part of "it's not like that" do you not understand?!
 Dialogue: 0,0:05:32.64,0:05:34.14,Default,Ryuji,0,0,0,,But you kissed her, didn't you?
 Dialogue: 0,0:05:34.14,0:05:37.14,Default,Natsuki,0,0,0,,That was, uh... a coincidence?
 Dialogue: 0,0:05:37.14,0:05:39.44,Default,Natsuki,0,0,0,,Or maybe a case of temporary insanity...
-Dialogue: 0,0:05:39.44,0:05:42.11,Default,Yoko,0,0,0,,Yeah, buddy. I'm sure the judge is gonna love those excuses. {not sure what to do here either}
+Dialogue: 0,0:05:39.44,0:05:42.11,Default,Yoko,0,0,0,,Yeah, buddy. I'm sure the judge is gonna looove those excuses. {not sure what to do here either}
 Dialogue: 0,0:05:42.11,0:05:43.94,Default,Natsuki,0,0,0,,What do you even want from me?
 Dialogue: 0,0:05:43.94,0:05:46.86,Default,Natsuki,0,0,0,,Stop overreacting and just think about it!
 Dialogue: 0,0:05:46.86,0:05:50.28,Default,Natsuki,0,0,0,,Atri's a Humanoid. You shouldn't think of her like an ordinary human.
@@ -130,8 +130,8 @@ Dialogue: 0,0:06:46.84,0:06:47.59,Default,Natsuki,0,0,0,,What?
 Dialogue: 0,0:06:47.88,0:06:52.09,Default,Atri,0,0,0,,Catherine said sneaking out of class is bad!
 Dialogue: 0,0:06:52.09,0:06:54.39,Default,Atri,0,0,0,,We're all supposed to be swimming right now!
 Dialogue: 0,0:06:54.39,0:06:56.39,Default,Natsuki,0,0,0,,You know I can't swim.
-Dialogue: 0,0:06:56.89,0:07:01.69,Default,Atri,0,0,0,,Catherine said there's ways to practice swimming, even with a prosthetic!
-Dialogue: 0,0:07:01.69,0:07:04.36,Default,Atri,0,0,0,,Leave it to me and my high specs!
+Dialogue: 0,0:06:56.89,0:07:01.69,Default,Atri,0,0,0,,Catherine said there are ways to practice swimming, even with a prosthetic!
+Dialogue: 0,0:07:01.69,0:07:04.36,Default,Atri,0,0,0,,My high specs will be all the assistance you need!
 Dialogue: 0,0:07:04.36,0:07:06.40,Default,Natsuki,0,0,0,,Taking a dip with a toaster like you? Count me out. {!}
 Dialogue: 0,0:07:06.40,0:07:08.19,Default,Natsuki,0,0,0,,I value my life far too highly.
 Dialogue: 0,0:07:08.19,0:07:10.49,Default,Atri,0,0,0,,Officers! Take this man away!
@@ -314,64 +314,62 @@ Dialogue: 0,0:18:10.23,0:18:13.48,Default,Yoko,0,0,0,,This is how Catherine-sens
 Dialogue: 0,0:18:13.48,0:18:15.03,Default,Minamo,0,0,0,,Yeah, I forgot...
 Dialogue: 0,0:18:15.03,0:18:18.07,Default,Yoko,0,0,0,,You know, I've been wondering, actually.
 Dialogue: 0,0:18:18.07,0:18:20.99,Default,Yoko,0,0,0,,What country is she from, anyway?
-Dialogue: 0,0:18:20.99,0:18:22.83,Default,Minamo,0,0,0,,Japan.
-Dialogue: 0,0:18:22.83,0:18:24.93,Default,Minamo,0,0,0,,Her real name's Hana-chan-sens-
-Dialogue: 0,0:18:24.10,0:18:26.33,Default,Catherine,0,0,0,,Don't call me Hana-chan!
+Dialogue: 0,0:18:20.99,0:18:22.83,Default,Minamo,0,0,0,,Oh, she's Japanese.
+Dialogue: 0,0:18:22.83,0:18:24.93,Default,Minamo,0,0,0,,Her real name's Hana-chan-sens— {Her real name is Hanako—}
+Dialogue: 0,0:18:24.10,0:18:26.33,Default,Catherine,0,0,0,,Don't call me Hana-chan! {Don't call me that!}
 Dialogue: 0,0:18:27.41,0:18:30.92,Default,Minamo,0,0,0,,Don't push yourself too hard, okay, Ririka-chan?
 Dialogue: 0,0:18:30.92,0:18:32.88,Default,Ririka,0,0,0,,Push myself?
 Dialogue: 0,0:18:32.88,0:18:35.71,Default,Ririka,0,0,0,,Nah, I'm just doing it 'cause it's fun.
-Dialogue: 0,0:18:35.71,0:18:36.92,Default,Minamo,0,0,0,,Fun?
+Dialogue: 0,0:18:35.71,0:18:36.92,Default,Minamo,0,0,0,,Is it?
 Dialogue: 0,0:18:36.92,0:18:40.01,Default,Ririka,0,0,0,,Yeah. Everyone calls me a hard worker,
-Dialogue: 0,0:18:40.01,0:18:42.30,Default,Ririka,0,0,0,,but I just do it 'cause I like it.
-Dialogue: 0,0:18:42.64,0:18:47.02,Default,Yoko,0,0,0,,Wow, you don't say. Guess it's all about the mindset, huh?
+Dialogue: 0,0:18:40.01,0:18:42.30,Default,Ririka,0,0,0,,but I'm only doing it 'cause I wanna.
+Dialogue: 0,0:18:42.64,0:18:47.02,Default,Yoko,0,0,0,,Huh, you don't say. Guess it's all about the mindset, huh?
 Dialogue: 0,0:18:47.02,0:18:48.10,Default,Minamo,0,0,0,,Mm-hmm.
 Dialogue: 0,0:18:48.10,0:18:50.98,Default,Catherine,0,0,0,,'Swhat makes the heart so hard to understand.
 Dialogue: 0,0:18:51.56,0:18:52.73,Default,Catherine,0,0,0,,This right here...
 Dialogue: 0,0:18:53.36,0:18:56.32,Default,Catherine,0,0,0,,is gonna take some serious thought.
 Dialogue: 0,0:18:58.99,0:19:01.36,Default,Atri,0,0,0,,This feels strange.
-Dialogue: 0,0:19:01.70,0:19:04.83,Default,Atri,0,0,0,,Is this how everybody sleeps?
+Dialogue: 0,0:19:01.70,0:19:04.83,Default,Atri,0,0,0,,Is this how people usually sleep?
 Dialogue: 0,0:19:04.83,0:19:05.95,Default,Natsuki,0,0,0,,I dunno.
-Dialogue: 0,0:19:05.95,0:19:09.04,Default,Natsuki,0,0,0,,Some people are like this, some aren't.
+Dialogue: 0,0:19:05.95,0:19:09.04,Default,Natsuki,0,0,0,,Some people do, others probably don't.
 Dialogue: 0,0:19:09.04,0:19:10.17,Default,Natsuki,0,0,0,,It's complicated.
 Dialogue: 0,0:19:10.17,0:19:11.37,Default,Atri,0,0,0,,Complicated.
 Dialogue: 0,0:19:11.62,0:19:15.00,Default,Natsuki,0,0,0,,Yeah. The human heart is complicated.
-Dialogue: 0,0:19:15.00,0:19:19.51,Default,Natsuki,0,0,0,,It's not just good and bad, and it's not just right and wrong, either.
-Dialogue: 0,0:19:20.55,0:19:22.72,Default,Natsuki,0,0,0,,Sometimes, we do the wrong thing.
-Dialogue: 0,0:19:23.89,0:19:25.43,Default,Atri,0,0,0,,The wrong thing...
+Dialogue: 0,0:19:15.00,0:19:19.51,Default,Natsuki,0,0,0,,It's not as simple as just deciding to always do the right thing.
+Dialogue: 0,0:19:20.55,0:19:22.72,Default,Natsuki,0,0,0,,We all make mistakes whether we want to or not.
+Dialogue: 0,0:19:23.89,0:19:25.43,Default,Atri,0,0,0,,Making mistakes...
 Dialogue: 0,0:19:28.52,0:19:32.56,Default,Atri,0,0,0,,Do I really have a heart?
-Dialogue: 0,0:19:33.77,0:19:35.94,Default,Natsuki,0,0,0,,I think so.
-Dialogue: 0,0:19:38.90,0:19:39.99,Default,Natsuki,0,0,0,,Let's go to sleep already.
+Dialogue: 0,0:19:33.77,0:19:35.94,Default,Natsuki,0,0,0,,I honestly think so.
+Dialogue: 0,0:19:38.90,0:19:39.99,Default,Natsuki,0,0,0,,C'mon. Let's sleep. {? tricky; "that's enough talking."?}
 Dialogue: 0,0:19:41.15,0:19:43.07,Default,Atri,0,0,0,,Thank you.
 Dialogue: 0,0:19:44.28,0:19:46.62,Default,Atri,0,0,0,,When you said you treasure me,
 Dialogue: 0,0:19:46.62,0:19:48.87,Default,Atri,0,0,0,,it made me really happy.
 Dialogue: 0,0:19:49.50,0:19:51.50,Default,Natsuki,0,0,0,,Right back at you.
-Dialogue: 0,0:19:51.50,0:19:54.79,Default,Natsuki,0,0,0,,You saved my life.
-Dialogue: 0,0:19:57.63,0:20:03.30,Default,Natsuki,0,0,0,,That day, eight years ago, why were you so nice to me?
-Dialogue: 0,0:20:03.30,0:20:06.39,Default,Atri,0,0,0,,There, there. It's okay.
+Dialogue: 0,0:19:51.50,0:19:54.79,Default,Natsuki,0,0,0,,The only reason I'm alive right now is because of you.
+Dialogue: 0,0:19:57.63,0:20:03.30,Default,Natsuki,0,0,0,,Back then, how were you able to say exactly what I needed to hear?
+Dialogue: 0,0:20:03.30,0:20:06.39,Default,Atri,0,0,0,,There, there. It'll be all right. {can we change this to "everything'll be all right"? if it's not too late from episode 7?}
 Dialogue: 0,0:20:06.85,0:20:11.02,Default,Atri,0,0,0,,Because... Because...
-Dialogue: 0,0:20:12.77,0:20:14.81,Default,Atri,0,0,0,,That's what I learned...
-Dialogue: 0,0:20:21.74,0:20:24.45,Default,Atri,0,0,0,,There, there. It's okay.
+Dialogue: 0,0:20:12.77,0:20:14.81,Default,Atri,0,0,0,,It's what I learned to do...
+Dialogue: 0,0:20:21.74,0:20:24.45,Default,Atri,0,0,0,,There, there. It'll be all right.
 Dialogue: 0,0:20:26.87,0:20:29.91,Default,Natsuki,0,0,0,,It hurts... It hurts...
 Dialogue: 0,0:20:30.37,0:20:31.62,Default,Atri,0,0,0,,It's okay.
-Dialogue: 0,0:20:32.25,0:20:33.87,Default,Atri,0,0,0,,Everything's okay.
+Dialogue: 0,0:20:32.25,0:20:33.87,Default,Atri,0,0,0,,Everything'll be all right.
 Dialogue: 0,0:20:35.50,0:20:39.00,Default,Atri,0,0,0,,You aren't alone.
-Dialogue: 0,0:20:43.59,0:20:44.63,Default,Natsuki,0,0,0,,
 Dialogue: 0,0:20:49.81,0:20:50.77,Default,Natsuki,0,0,0,,Atri...
-Dialogue: 0,0:20:59.15,0:21:00.23,Default,Natsuki,0,0,0,,Kiss...
-Dialogue: 0,0:21:00.90,0:21:01.94,Default,Natsuki,0,0,0,,
-Dialogue: 0,0:21:03.78,0:21:05.70,Default,Atri,0,0,0,,Struggled to react,
-Dialogue: 0,0:21:05.70,0:21:09.99,Default,Atri,0,0,0,,but got through the situation by imitating previously-seen reference material.
-Dialogue: 0,0:21:09.99,0:21:14.04,Default,Atri,0,0,0,,Natsuki-san seemed to sense nothing amiss.
-Dialogue: 0,0:21:14.04,0:21:17.88,Default,Atri,0,0,0,,Natsuki-san said he loves me, so I returned the sentiment.
-Dialogue: 0,0:21:17.88,0:21:22.67,Default,Atri,0,0,0,,However, his "love" differed from my hypothesis.
-Dialogue: 0,0:21:22.67,0:21:24.63,Default,Atri,0,0,0,,Learned about romantic love.
-Dialogue: 0,0:21:24.63,0:21:26.68,Default,Atri,0,0,0,,Searched for relevant material.
+Dialogue: 0,0:20:59.15,0:21:00.23,Default,Natsuki,0,0,0,,We kissed...
+Dialogue: 0,0:21:03.78,0:21:07.88,Default,Atri,0,0,0,,Failed to generate naturalistic affect, but compensated by imitating
+Dialogue: 0,0:21:07.88,0:21:09.99,Default,Atri,0,0,0,,previously-seen reference materials.
+Dialogue: 0,0:21:09.99,0:21:14.04,Default,Atri,0,0,0,,Natsuki-san displayed no signs of having detected any abnormality.
+Dialogue: 0,0:21:14.04,0:21:17.88,Default,Atri,0,0,0,,Natsuki-san said he loves me, so I reciprocated the sentiment.
+Dialogue: 0,0:21:17.88,0:21:22.67,Default,Atri,0,0,0,,However, his conception of "love" differed substantially from my mental model.
+Dialogue: 0,0:21:22.67,0:21:24.63,Default,Atri,0,0,0,,Learned about romantic love. {feel like the nuance/usage of gakushu is a bit different from "learned" but really couldn't come up with anything better}
+Dialogue: 0,0:21:24.63,0:21:26.68,Default,Atri,0,0,0,,Retrieved relevant reference materials.
 Dialogue: 0,0:21:26.68,0:21:27.64,Default,Natsuki,0,0,0,,What the...
 Dialogue: 0,0:21:27.64,0:21:29.47,Default,Atri,0,0,0,,Learned about kissing.
 Dialogue: 0,0:21:29.47,0:21:31.22,Default,Atri,0,0,0,,Learned about sexual intercourse.
-Dialogue: 0,0:21:31.22,0:21:35.48,Default,Atri,0,0,0,,Learned about courtship rituals and methods to lead into intercourse.
-Dialogue: 0,0:21:35.48,0:21:38.60,Default,Atri,0,0,0,,Natsuki-san suspects nothing.
-Dialogue: 0,0:21:39.52,0:21:41.57,Default,Atri,0,0,0,,Replied that I have a heart.
+Dialogue: 0,0:21:31.22,0:21:35.48,Default,Atri,0,0,0,,Learned about courtship displays and mating rituals for initiating intercourse.
+Dialogue: 0,0:21:35.48,0:21:38.60,Default,Atri,0,0,0,,Natsuki-san continues to suspect nothing.
+Dialogue: 0,0:21:39.52,0:21:41.57,Default,Atri,0,0,0,,Asserted that I do have a heart.
 Dialogue: 0,0:21:55.71,0:21:57.58,Default,Atri,0,0,0,,Natsuki-san...
 Dialogue: 0,0:21:58.37,0:21:59.29,Default,Natsuki,0,0,0,,Stay away.
 Dialogue: 0,0:21:59.75,0:22:00.54,Default,Atri,0,0,0,,Huh?

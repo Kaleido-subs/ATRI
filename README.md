@@ -9,18 +9,19 @@
 
 ### Staff
 
-| Episode Staff         |                      | Song Staff       |           |
-| --------------------- | -------------------- | ---------------- | --------- |
-| **Translation**       | DubstepKazoo         | **Translation**  | alonesome |
-| **Translation Check** | Yon                  | **Editing**      | Bee       |
-| **Editing**           | alonesome            | **Timing**       | BB        |
-| **Encode**            | BB                   | **Typesetting**  | Nyarthur  |
-| **Timing**            | Dae (01-03)          |                  | BB        |
-|                       | BB (04)              | **Song Styling** | BB        |
-| **Typesetting**       | Nyarthur             |                  | petzku    |
-| **Quality Control**   | petzku               |                  |           |
-|                       | BB (01, 04-06)       |                  |           |
-|                       | Nazaki (02-03 07-13) |                  |           |
+| Episode Staff         |                      | Song Staff       |                      |
+| --------------------- | -------------------- | ---------------- | -------------------- |
+| **Translation**       | DubstepKazoo         | **Translation**  | alonesome            |
+| **Translation Check** | Yon                  | **Editing**      | Bee                  |
+| **Editing**           | alonesome            | **Timing**       | BB                   |
+| **Encode**            | BB                   | **Typesetting**  | Nyarthur             |
+| **Timing**            | Dae (01-03)          |                  | BB                   |
+|                       | BB (04)              | **Song Styling** | BB (OP1, ED1, 06 ED) |
+|                       | Pikminiman (05-13)   |                  | Petzku (OP1, ED1)    |
+| **Typesetting**       | Nyarthur             |                  |                      |
+| **Quality Control**   | petzku               |                  |                      |
+|                       | BB (01, 04-06)       |                  |                      |
+|                       | Nazaki (02-03 07-13) |                  |                      |
 
 ### Video
 

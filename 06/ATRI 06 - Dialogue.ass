@@ -10,8 +10,8 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: D:/Downloads/[SubsPlease] Atri - My Dear Moments - 06 (1080p) [2D2C6EC0].mkv
-Video File: D:/Downloads/[SubsPlease] Atri - My Dear Moments - 06 (1080p) [2D2C6EC0].mkv
+Audio File: ATRI - S01E06 (Premux) [5F690D61].mkv
+Video File: ATRI - S01E06 (Premux) [5F690D61].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -439,11 +439,11 @@ Dialogue: 10,0:21:02.68,0:21:04.03,Default,Atri,0,0,0,,Natsuki{**-san}.
 Dialogue: 10,0:21:04.51,0:21:06.04,Default,Atri,0,0,0,,I...
 Dialogue: 10,0:21:07.01,0:21:08.16,Default,Atri,0,0,0,,I—
 Dialogue: 10,0:21:12.83,0:21:14.04,Default,Natsuki,0,0,0,,Atri!
-Dialogue: 10,0:21:24.67,0:21:33.21,Default,Atri,0,0,0,,{\i1}I sit on the sill to feel the rain
-Dialogue: 10,0:21:35.64,0:21:45.53,Default,Atri,0,0,0,,{\i1\t(8121,9914,0.8,\3c&HFFFFFF&\4c&HFFFFFF&)}And out comes the song I haven't sang in ages
-Dialogue: 10,0:21:46.58,0:21:52.08,Default,Atri,0,0,0,,{\i1}This lost girl you saved wants\nher heart to be known
-Dialogue: 10,0:21:52.08,0:21:57.17,Default,Atri,0,0,0,,{\i1}Ever grateful, and even when...
-Dialogue: 10,0:21:57.17,0:22:00.72,Default,Atri,0,0,0,,{\i1}Our time has to end
+Dialogue: 10,0:21:24.67,0:21:33.21,Default,Atri,0,0,0,,I sit on the sill to feel the rain.
+Dialogue: 10,0:21:35.64,0:21:45.53,Default,Atri,0,0,0,,{\t(8121,9914,0.8,\3c&HFFFFFF&\4c&HFFFFFF&)}And out comes the song I haven't sang in ages.
+Dialogue: 10,0:21:46.58,0:21:52.08,Default,Atri,0,0,0,,This lost girl you saved wants\nher heart to be known.
+Dialogue: 10,0:21:52.08,0:21:57.17,Default,Atri,0,0,0,,Ever grateful, and even when...
+Dialogue: 10,0:21:57.17,0:22:00.72,Default,Atri,0,0,0,,Our time has to end.
 Dialogue: 10,0:22:03.29,0:22:06.34,Default,Atri,0,0,0,,{=11}It's been so long, Natsuki{**-san}!
 
 [Aegisub Extradata]

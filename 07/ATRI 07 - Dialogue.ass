@@ -85,7 +85,7 @@ Dialogue: 0,0:03:34.98,0:03:37.82,Default,Natsuki,0,0,0,,Atri can't be that girl
 Dialogue: 0,0:03:38.17,0:03:40.46,Default,Atri,0,0,0,,Natsuki-san! How could you?!
 Dialogue: 0,0:03:40.46,0:03:42.67,Default,Atri,0,0,0,,I can't believe you left for school without me!
 Dialogue: 0,0:03:42.67,0:03:45.08,Default,Natsuki,0,0,0,,I tried waking you up, but you weren't having it.
-Dialogue: 0,0:03:45.08,0:03:50.70,Default,Atri,0,0,0,TM,A proper wake-up involves taking responsibility for ensuring the other person is well and truly awake! {can we split this line please~}
+Dialogue: 0,0:03:45.08,0:03:50.70,Default,Atri,0,0,0,,A proper wake-up involves taking responsibility for ensuring the other person is well and truly awake!
 Dialogue: 0,0:03:50.70,0:03:54.06,Default,Atri,0,0,0,,If they go back to sleep, that clearly means you failed to do your job!
 Dialogue: 0,0:03:54.06,0:03:55.33,Default,Natsuki,0,0,0,,Right, {\i1}my{\i0} job.
 Dialogue: 0,0:03:55.88,0:04:00.01,Default,Atri,0,0,0,,Not to mention, I was only sleepy because you woke me up in the middle of the night!
@@ -208,8 +208,8 @@ Dialogue: 0,0:10:26.90,0:10:28.81,Default,Catherine,0,0,0,,So that's your angle,
 Dialogue: 0,0:10:28.81,0:10:30.46,Default,Natsuki,0,0,0,,What should I do?
 Dialogue: 0,0:10:30.46,0:10:35.69,Default,Catherine,0,0,0,,Well, I think you've got the right approach, but she might be lacking in understanding.
 Dialogue: 0,0:10:35.69,0:10:36.66,Default,Natsuki,0,0,0,,In understanding?
-Dialogue: 0,0:10:37.03,0:10:42.66,Default,Catherine,0,0,0,TM,Even if she has emotions, she's not gonna be able to respond properly until she understands what she's feeling.
-Comment: 0,0:10:43.66,0:10:44.71,Default,Catherine,0,0,0,TM,Let me handle this. {can we retime these lines? split 167 into two, and match 168 with her last remark to natsuki before entering the classroom}
+Dialogue: 0,0:10:37.03,0:10:41.58,Default,Catherine,0,0,0,,Even if she has emotions, she's not gonna be able to respond properly until she understands what she's feeling.
+Dialogue: 0,0:10:41.58,0:10:42.66,Default,Catherine,0,0,0,,Let me handle this.
 Dialogue: 0,0:10:43.66,0:10:46.79,Default,Catherine,0,0,0,,Okay, class, time to get started!
 Dialogue: 0,0:10:47.14,0:10:51.30,Default,Catherine,0,0,0,,Today, we're gonna forget about math and have a special health class instead.
 Dialogue: 0,0:10:51.30,0:10:53.94,Default,Catherine,0,0,0,,Boys, you go to the roof. Girls, you're staying here.
@@ -385,7 +385,7 @@ Dialogue: 0,0:19:48.08,0:19:48.92,Default,Natsuki,0,0,0,,Really?
 Dialogue: 0,0:19:49.31,0:19:53.86,Default,Atri,0,0,0,,I don't know what it's like to have a real human heart, so I can't say for sure,
 Dialogue: 0,0:19:53.86,0:19:58.00,Default,Atri,0,0,0,,but all these things inside me, \Nall this happiness and sadness,
 Dialogue: 0,0:19:58.00,0:20:00.42,Default,Atri,0,0,0,,all these likes and dislikes, {very possible that this passage can fuck us over later lmao}
-Dialogue: 0,0:20:00.42,0:20:06.46,Default,Atri,0,0,0,TLC,I can feel them moving me so much more strongly than the way it seemed when I read about them. {this isn't really a callback, but the mention of impulses does make me think of the earlier conversation about them "those impulses will trump any amount of logic" -yon} {i do think this is relevant, also I think it's important that she doesn't use words like feelings/emotions to describe her own phenomenology} {also I think this is timed for longer than it should be?}
+Dialogue: 0,0:20:00.42,0:20:06.46,Default,Atri,0,0,0,TLC,I can feel them moving me so much more strongly than the way it seemed when I read about them. {this isn't really a callback, but the mention of impulses does make me think of the earlier conversation about them "those impulses will trump any amount of logic" -yon} {i do think this is relevant, also I think it's important that she doesn't use words like feelings/emotions to describe her own phenomenology}
 Dialogue: 0,0:20:06.46,0:20:08.44,Default,Natsuki,0,0,0,,Really? You really think so?!
 Dialogue: 0,0:20:12.00,0:20:13.11,Default,Atri,0,0,0,,Yes!
 Dialogue: 0,0:20:19.70,0:20:21.58,Default,Atri,0,0,0,,It feels so nice and cool!

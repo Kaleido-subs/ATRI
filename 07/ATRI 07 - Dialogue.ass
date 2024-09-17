@@ -75,14 +75,14 @@ Dialogue: 0,0:03:06.80,0:03:11.92,Default,Natsuki,0,0,0,,Plenty of Humanoids are
 Dialogue: 0,0:03:11.92,0:03:13.22,Default,Ryuuji,0,0,0,,Third of all,
 Dialogue: 0,0:03:13.22,0:03:15.97,Default,Ryuuji,0,0,0,,she was being kept with Granny Nonko's stuff,
 Dialogue: 0,0:03:15.97,0:03:18.43,Default,Ryuuji,0,0,0,,she remembered the song she sang when you first met,
-Dialogue: 0,0:03:18.86,0:03:21.78,Default,Ryuuji,0,0,0,,and to top it all off, she hits you with the "It's been so long, Natsuki-san."
+Dialogue: 0,0:03:18.86,0:03:21.78,Default,Ryuuji,0,0,0,,and to top it all off, she hits you with the "It's been so long, Natsuki{**-san}."
 Dialogue: 0,0:03:21.78,0:03:24.31,Default,Ryuuji,0,0,0,,You got a rebuttal for all that as well?
-Dialogue: 0,0:03:26.31,0:03:28.34,Default,Minamo,0,0,0,,Natsu-kun actually lost an argument...
+Dialogue: 0,0:03:26.31,0:03:28.34,Default,Minamo,0,0,0,,Natsu{**-kun} actually lost an argument...
 Dialogue: 0,0:03:28.34,0:03:30.65,Default,Yoko,0,0,0,,And to freakin' Ryuuji of all people.
 Dialogue: 0,0:03:30.65,0:03:32.03,Default,Natsuki,0,0,0,,Shut it!
 Dialogue: 0,0:03:33.42,0:03:34.98,Default,Natsuki,0,0,0,,It's just not possible.
 Dialogue: 0,0:03:34.98,0:03:37.82,Default,Natsuki,0,0,0,,Atri can't be that girl!
-Dialogue: 0,0:03:38.17,0:03:40.46,Default,Atri,0,0,0,,Natsuki-san! How could you?!
+Dialogue: 0,0:03:38.17,0:03:40.46,Default,Atri,0,0,0,,Natsuki{**-san}! How could you?!
 Dialogue: 0,0:03:40.46,0:03:42.67,Default,Atri,0,0,0,,I can't believe you left for school without me!
 Dialogue: 0,0:03:42.67,0:03:45.08,Default,Natsuki,0,0,0,,I tried waking you up, but you weren't having it.
 Dialogue: 0,0:03:45.08,0:03:50.70,Default,Atri,0,0,0,,A proper wake-up involves taking responsibility for ensuring the other person is well and truly awake!
@@ -101,10 +101,10 @@ Dialogue: 0,0:04:27.70,0:04:28.71,Default,Natsuki,0,0,0,,Touching?
 Dialogue: 0,0:04:29.09,0:04:30.32,Default,Minamo,0,0,0,,Isn't it?
 Dialogue: 0,0:04:30.32,0:04:35.09,Default,Minamo,0,0,0,,You've been apart for so long, but look at you now! You've never been closer!
 Dialogue: 0,0:04:35.39,0:04:38.47,Default,Natsuki,0,0,0,,Look, I'm telling you, it's nothing but wishful speculation...
-Dialogue: 0,0:04:38.47,0:04:42.39,Default,Yoko,0,0,0,,But she was like, "It's been so long, Natsuki-san," right?
+Dialogue: 0,0:04:38.47,0:04:42.39,Default,Yoko,0,0,0,,But she was like, "It's been so long, Natsuki{**-san}," right?
 Dialogue: 0,0:04:42.39,0:04:45.31,Default,Atri,0,0,0,,S-So it seems...
 Dialogue: 0,0:04:46.23,0:04:47.52,Default,Minamo,0,0,0,,Oh yeah!
-Dialogue: 0,0:04:47.52,0:04:51.79,Default,Minamo,0,0,0,,This has to mean you've remembered Natsu-kun's grandma's orders, right?
+Dialogue: 0,0:04:47.52,0:04:51.79,Default,Minamo,0,0,0,,This has to mean you've remembered Natsu{**-kun}'s grandma's orders, right?
 Dialogue: 0,0:04:51.79,0:04:55.15,Default,Minamo,0,0,0,,As well as how you ended up in that capsule.
 Dialogue: 0,0:04:55.63,0:04:58.26,Default,Natsuki,0,0,0,,That's right... I forgot all about that!
 Dialogue: 0,0:04:58.26,0:05:02.81,Default,Natsuki,0,0,0,,If you remember everything, there'll definitely be {\i1}something{\i0} to prove that girl back then wasn't you!
@@ -188,11 +188,11 @@ Dialogue: 0,0:09:35.12,0:09:37.02,Default,Atri,0,0,0,,Yes? What is it?
 Dialogue: 0,0:09:37.02,0:09:38.49,Default,Natsuki,0,0,0,,Look me in the eye.
 Dialogue: 0,0:09:38.49,0:09:39.48,Default,Atri,0,0,0,,Aye aye.{This is the best joke I've ever written.}{xD  -Pik}
 Dialogue: 0,0:09:40.82,0:09:43.23,Default,Natsuki,0,0,0,,I love you.
-Dialogue: 0,0:09:43.23,0:09:44.92,Default,Atri,0,0,0,,Natsuki-san?
+Dialogue: 0,0:09:43.23,0:09:44.92,Default,Atri,0,0,0,,Natsuki{**-san}?
 Dialogue: 0,0:09:44.92,0:09:46.13,Default,Natsuki,0,0,0,,I mean it.
 Dialogue: 0,0:09:46.13,0:09:47.74,Default,Natsuki,0,0,0,,Or rather, if I did, what would you think? {? clunky but idk how else to handle this}
 Dialogue: 0,0:09:47.74,0:09:49.12,Default,Atri,0,0,0,,I...
-Dialogue: 0,0:09:54.66,0:09:57.24,Default,Atri,0,0,0,,I love you too, Natsuki-san!
+Dialogue: 0,0:09:54.66,0:09:57.24,Default,Atri,0,0,0,,I love you too, Natsuki{**-san}!
 Dialogue: 0,0:09:57.80,0:09:58.68,Default,Natsuki,0,0,0,,You do?
 Dialogue: 0,0:09:58.68,0:09:59.57,Default,Atri,0,0,0,,Yes!
 Dialogue: 0,0:09:59.57,0:10:02.06,Default,Atri,0,0,0,,I love you veeery much!
@@ -215,7 +215,7 @@ Dialogue: 0,0:10:47.14,0:10:51.30,Default,Catherine,0,0,0,,Today, we're gonna fo
 Dialogue: 0,0:10:51.30,0:10:53.94,Default,Catherine,0,0,0,,Boys, you go to the roof. Girls, you're staying here.
 Dialogue: 0,0:10:53.94,0:10:56.01,Default,Toru,0,0,0,,What? We're splitting up?
 Dialogue: 0,0:10:56.01,0:11:00.41,Default,Catherine,0,0,0,,Sorry, kiddo. It's a real important class for the girls.
-Dialogue: 0,0:11:00.41,0:11:03.27,Default,Catherine,0,0,0,,Go hang out with Natsuki-sensei, and I'll come get you when we're done.
+Dialogue: 0,0:11:00.41,0:11:03.27,Default,Catherine,0,0,0,,Go hang out with Natsuki{**-sensei}, and I'll come get you when we're done.
 Dialogue: 0,0:11:04.43,0:11:05.60,Default,Natsuki,0,0,0,,Let's go.
 Dialogue: 0,0:11:05.60,0:11:07.27,Default,Toru,0,0,0,,Fine...
 Dialogue: 0,0:11:08.75,0:11:10.27,Default,Catherine,0,0,0,,Okay, let's get started.
@@ -232,7 +232,7 @@ Dialogue: 0,0:11:40.94,0:11:42.26,Default,Atri,0,0,0,,So this is...
 Dialogue: 0,0:11:42.62,0:11:43.97,Default,Atri,0,0,0,,Love...
 Dialogue: 0,0:11:44.31,0:11:48.72,Default,Ririka,0,0,0,,Yeah. Says here the big difference is whether your heart is in it.
 Dialogue: 0,0:11:48.72,0:11:51.92,Default,Ririka,0,0,0,,And how you can show that through your actions even more than words.
-Dialogue: 0,0:11:51.92,0:11:54.65,Default,Ririka,0,0,0,,Like, what do you want Natsuki-sensei to do for you?
+Dialogue: 0,0:11:51.92,0:11:54.65,Default,Ririka,0,0,0,,Like, what do you want Natsuki{**-sensei} to do for you?
 Dialogue: 0,0:11:56.06,0:11:57.62,Default,Ririka,0,0,0,,Hmm...
 Dialogue: 0,0:11:59.53,0:12:01.39,Default,Ririka,0,0,0,,I want him to be happy!
 Dialogue: 0,0:12:01.39,0:12:03.85,Default,Ririka,0,0,0,,And to feel like I'm being useful to him!
@@ -248,17 +248,17 @@ Dialogue: 0,0:12:26.96,0:12:29.48,Default,Atri,0,0,0,,Have you ever known me to 
 Dialogue: 0,0:12:29.48,0:12:33.69,Default,Natsuki,0,0,0,,Do I have to add {\i1}short-term{\i0} memory loss to your list of defects now?
 Dialogue: 0,0:12:36.42,0:12:37.53,Default,Natsuki,0,0,0,,It's good!
 Dialogue: 0,0:12:41.07,0:12:43.28,Default,Atri,0,0,0,,What was that? Say it again, won't you?!
-Dialogue: 0,0:12:43.28,0:12:45.79,Default,Atri,0,0,0,,Tell me just how much tasty things make you happy, won't you, Natsuki-san?!
+Dialogue: 0,0:12:43.28,0:12:45.79,Default,Atri,0,0,0,,Tell me just how much tasty things make you happy, won't you, Natsuki{**-san}?!
 Dialogue: 0,0:12:46.23,0:12:51.08,Default,Natsuki,0,0,0,,Can't say that annoyingly smug grin on your face is doing much for my happiness levels,
 Dialogue: 0,0:12:51.08,0:12:52.29,Default,Natsuki,0,0,0,,but I'll admit, it's pretty good.
 Dialogue: 0,0:12:52.61,0:12:54.20,Default,Atri,0,0,0,,As if there was ever any doubt!
 Dialogue: 0,0:12:55.15,0:12:58.46,Default,Natsuki,0,0,0,,Still, what's gotten into her recently?
-Dialogue: 0,0:12:59.00,0:13:00.24,Default,Atri,0,0,0,,Natsuki-san!
+Dialogue: 0,0:12:59.00,0:13:00.24,Default,Atri,0,0,0,,Natsuki{**-san}!
 Dialogue: 0,0:13:00.90,0:13:03.97,Default,Atri,0,0,0,,Do you have any plans tomorrow?
 Dialogue: 0,0:13:04.41,0:13:06.28,Default,Natsuki,0,0,0,,Not really, no.
 Dialogue: 0,0:13:06.28,0:13:07.47,Default,Natsuki,0,0,0,,Why do you ask?
 Dialogue: 0,0:13:09.89,0:13:12.98,Default,Atri,0,0,0,,What do you say to going out together with me then?
-Dialogue: 0,0:13:21.84,0:13:24.66,Default,Atri,0,0,0,,Natsuki-san! Time's a-wasting!
+Dialogue: 0,0:13:21.84,0:13:24.66,Default,Atri,0,0,0,,Natsuki{**-san}! Time's a-wasting!
 Dialogue: 0,0:13:24.66,0:13:26.42,Default,Natsuki,0,0,0,,Don't run off like that.
 Dialogue: 0,0:13:26.42,0:13:28.12,Default,Natsuki,0,0,0,,It isn't easy for me to keep up.
 Dialogue: 0,0:13:28.41,0:13:30.40,Default,Atri,0,0,0,,Oh, that's right!
@@ -351,11 +351,11 @@ Dialogue: 0,0:17:58.60,0:18:00.85,Default,Natsuki,0,0,0,,Oh, that's okay.
 Dialogue: 0,0:18:00.85,0:18:05.52,Default,Natsuki,0,0,0,,I'm impressed you got them looking this good with such little practice.
 Dialogue: 0,0:18:05.52,0:18:07.85,Default,Atri,0,0,0,,Your happiness is a big motivator!
 Dialogue: 0,0:18:07.85,0:18:08.75,Default,Atri,0,0,0,,I know!
-Dialogue: 0,0:18:08.75,0:18:11.86,Default,Atri,0,0,0,,I hereby dub these sandwiches The Miracle of Natsuki-san!
+Dialogue: 0,0:18:08.75,0:18:11.86,Default,Atri,0,0,0,,I hereby dub these sandwiches The Miracle of Natsuki{**-san}!
 Dialogue: 0,0:18:12.16,0:18:13.93,Default,Natsuki,0,0,0,,What kind of a name is that?
 Dialogue: 0,0:18:13.93,0:18:15.63,Default,Natsuki,0,0,0,,Eh, whatever.
 Dialogue: 0,0:18:15.63,0:18:17.08,Default,Natsuki,0,0,0,,Don't mind if I do.
-Dialogue: 0,0:18:20.00,0:18:22.75,Default,Atri,0,0,0,,Are you okay, Natsuki-san?
+Dialogue: 0,0:18:20.00,0:18:22.75,Default,Atri,0,0,0,,Are you okay, Natsuki{**-san}?
 Dialogue: 0,0:18:22.75,0:18:24.14,Default,Natsuki,0,0,0,,I-It's nothing.
 Dialogue: 0,0:18:24.14,0:18:27.68,Default,Atri,0,0,0,,That doesn't look like nothing! You're crying!
 Dialogue: 0,0:18:27.68,0:18:30.59,Default,Natsuki,0,0,0,,It's, uh, so good that I'm just having a moment is all...
@@ -370,7 +370,7 @@ Dialogue: 0,0:18:58.36,0:18:59.12,Default,Atri,0,0,0,,Huh?
 Dialogue: 0,0:19:00.11,0:19:02.12,Default,Natsuki,0,0,0,,Makes it easier to feel the heart that went into it.
 Dialogue: 0,0:19:03.36,0:19:05.87,Default,Atri,0,0,0,,My heart, you mean?
 Dialogue: 0,0:19:06.79,0:19:07.38,Default,Natsuki,0,0,0,,Yeah.
-Dialogue: 0,0:19:10.76,0:19:13.20,Default,Atri,0,0,0,,You're saying such strange things again, Natsuki-san.
+Dialogue: 0,0:19:10.76,0:19:13.20,Default,Atri,0,0,0,,You're saying such strange things again, Natsuki{**-san}.
 Dialogue: 0,0:19:13.20,0:19:16.49,Default,Natsuki,0,0,0,,I was kinda hoping for a happier response.
 Dialogue: 0,0:19:16.49,0:19:17.64,Default,Atri,0,0,0,,Happy?
 Dialogue: 0,0:19:17.94,0:19:18.91,Default,Natsuki,0,0,0,,Yeah.

@@ -42,14 +42,14 @@ Comment: 0,0:13:17.99,0:13:17.99,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:11.60,0:22:11.60,Default,,0,0,0,edsync,{=1}{EDSync — First frame of "YES" zoom}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---- Dialogue
-Dialogue: 0,0:00:06.10,0:00:07.20,Default,Natsuki,0,0,0,,It can't be.
-Dialogue: 0,0:00:07.75,0:00:09.91,Default,Natsuki,0,0,0,,Atri's that girl from eight years ago? {josei, would be nice to compensate for this somewhere else, though obviously girl is the best word choice here}
-Dialogue: 0,0:00:12.82,0:00:15.02,Default,Natsuki,0,0,0,,No! She can't be!
-Dialogue: 0,0:00:15.02,0:00:19.17,Default,Natsuki,0,0,0,,That girl back then was so graceful, so mature!
-Dialogue: 0,0:00:19.17,0:00:21.99,Default,Natsuki,0,0,0,,She was nothing like... {\i1}this thing!{\i0}
+Dialogue: 0,0:00:06.10,0:00:07.20,Default,Natsuki,0,0,0,,{\i1}It can't be.
+Dialogue: 0,0:00:07.75,0:00:09.91,Default,Natsuki,0,0,0,,{\i1}Atri's that girl from eight years ago? {josei, would be nice to compensate for this somewhere else, though obviously girl is the best word choice here}
+Dialogue: 0,0:00:12.82,0:00:15.02,Default,Natsuki,0,0,0,,{\i1}No! She can't be!
+Dialogue: 0,0:00:15.02,0:00:19.17,Default,Natsuki,0,0,0,,{\i1}That girl back then was so graceful, so mature!
+Dialogue: 0,0:00:19.17,0:00:21.99,Default,Natsuki,0,0,0,,{\i1}She was nothing like... {\i0}this thing!
 Dialogue: 0,0:00:22.95,0:00:25.30,Default,Atri,0,0,0,,There, there. It'll be all right.
-Dialogue: 0,0:00:25.87,0:00:28.45,Default,Natsuki,0,0,0,,Crap. She's already invading my memories.
-Dialogue: 0,0:00:29.35,0:00:32.54,Default,Natsuki,0,0,0,,All because she had to go and spout that nonsense!
+Dialogue: 0,0:00:25.87,0:00:28.45,Default,Natsuki,0,0,0,,{\i1}Crap. She's already invading my memories.
+Dialogue: 0,0:00:29.35,0:00:32.54,Default,Natsuki,0,0,0,,{\i1}All because she had to go and spout that nonsense!
 Dialogue: 0,0:00:33.09,0:00:34.97,Default,Natsuki,0,0,0,,Hey. Atri.
 Dialogue: 0,0:00:34.97,0:00:36.47,Default,Atri,0,0,0,,What is it?
 Dialogue: 0,0:00:36.87,0:00:38.97,Default,Natsuki,0,0,0,,Wake up. We need to talk.
@@ -158,8 +158,8 @@ Dialogue: 0,0:07:55.40,0:07:59.17,Default,Catherine,0,0,0,,is that no amount of 
 Dialogue: 0,0:07:59.58,0:08:03.17,Default,Natsuki,0,0,0,,Hence why Humanoids with emotions\nare considered dangerous.
 Dialogue: 0,0:08:03.53,0:08:07.17,Default,Catherine,0,0,0,,You'd better determine whether\nshe really does have emotions.{I'm not clear on what underlying difference between human emotion and simulated emotion... -Pik}
 Dialogue: 0,0:08:07.78,0:08:09.11,Default,Catherine,0,0,0,,For your own good.
-Dialogue: 0,0:08:16.27,0:08:17.94,Default,Natsuki,0,0,0,,That said, though...
-Dialogue: 0,0:08:17.94,0:08:21.96,Default,Natsuki,0,0,0,,How am I even supposed\nto check for something like that?
+Dialogue: 0,0:08:16.27,0:08:17.94,Default,Natsuki,0,0,0,,{\i1}That said, though...
+Dialogue: 0,0:08:17.94,0:08:21.96,Default,Natsuki,0,0,0,,{\i1}How am I even supposed\nto check for something like that?
 Dialogue: 0,0:08:22.55,0:08:25.44,Default,Atri,0,0,0,,Today, Minamo taught me\nhow to make hamburg steak!
 Dialogue: 0,0:08:25.44,0:08:26.32,Default,Natsuki,0,0,0,,She did?
 Dialogue: 0,0:08:26.67,0:08:27.59,Default,Atri,0,0,0,,Yes!
@@ -178,10 +178,10 @@ Dialogue: 0,0:09:04.58,0:09:05.36,Default,Atri,0,0,0,,Yes!
 Dialogue: 0,0:09:11.64,0:09:13.43,Default,Atri,0,0,0,,What was that for?!
 Dialogue: 0,0:09:13.43,0:09:14.49,Default,Natsuki,0,0,0,,Are you mad?
 Dialogue: 0,0:09:14.49,0:09:16.74,Default,Atri,0,0,0,,I can't believe you! Harrumph!
-Dialogue: 0,0:09:17.65,0:09:19.66,Default,Natsuki,0,0,0,,You could call that emotion, I guess,
-Dialogue: 0,0:09:19.95,0:09:22.19,Default,Natsuki,0,0,0,,but it's entirely possible this is just her AI
-Dialogue: 0,0:09:22.19,0:09:26.79,Default,Natsuki,0,0,0,,serving up believable reactions\nto pre-programmed situations...
-Dialogue: 0,0:09:26.79,0:09:28.00,Default,Natsuki,0,0,0,,In which case...
+Dialogue: 0,0:09:17.65,0:09:19.66,Default,Natsuki,0,0,0,,{\i1}You could call that emotion, I guess,
+Dialogue: 0,0:09:19.95,0:09:22.19,Default,Natsuki,0,0,0,,{\i1}but it's entirely possible this is just her AI
+Dialogue: 0,0:09:22.19,0:09:26.79,Default,Natsuki,0,0,0,,{\i1}serving up believable reactions\nto pre-programmed situations...
+Dialogue: 0,0:09:26.79,0:09:28.00,Default,Natsuki,0,0,0,,{\i1}In which case...
 Dialogue: 0,0:09:28.50,0:09:31.72,Default,Atri,0,0,0,,What's gotten into you?\nYou're acting even stranger than usual.
 Dialogue: 0,0:09:33.78,0:09:34.70,Default,Natsuki,0,0,0,,Atri.
 Dialogue: 0,0:09:35.12,0:09:37.02,Default,Atri,0,0,0,,Yes? What is it?
@@ -282,9 +282,9 @@ Dialogue: 0,0:14:06.50,0:14:08.90,Default,Natsuki,0,0,0,,Is there something you 
 Dialogue: 0,0:14:08.90,0:14:11.54,Default,Atri,0,0,0,,No, nothing in particular.
 Dialogue: 0,0:14:11.54,0:14:13.34,Default,Natsuki,0,0,0,,What are we even doing here then?
 Dialogue: 0,0:14:13.34,0:14:17.21,Default,Atri,0,0,0,,It says here that it's fine to not buy anything,\nas long as you spend some quality time together.
-Dialogue: 0,0:14:18.05,0:14:19.21,Default,Natsuki,0,0,0,,Gotcha...
-Dialogue: 0,0:14:19.87,0:14:22.45,Default,Natsuki,0,0,0,,Catherine or Minamo must've put her up to this.
-Dialogue: 0,0:14:22.45,0:14:24.53,Default,Natsuki,0,0,0,,It's just the sorta thing they'd come up with...
+Dialogue: 0,0:14:18.05,0:14:19.21,Default,Natsuki,0,0,0,,{\i1}Gotcha...
+Dialogue: 0,0:14:19.87,0:14:22.45,Default,Natsuki,0,0,0,,{\i1}Catherine or Minamo must've put her up to this.
+Dialogue: 0,0:14:22.45,0:14:24.53,Default,Natsuki,0,0,0,,{\i1}It's just the sorta thing they'd come up with...
 Dialogue: 0,0:14:27.75,0:14:29.72,Default,Natsuki,0,0,0,,He packed up and skipped town, huh?
 Dialogue: 0,0:14:39.85,0:14:41.70,Default,Atri,0,0,0,,Is something in there?
 Dialogue: 0,0:14:42.68,0:14:43.70,Default,Natsuki,0,0,0,,No.

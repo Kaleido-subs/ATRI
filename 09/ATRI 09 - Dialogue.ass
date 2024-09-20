@@ -60,7 +60,7 @@ Dialogue: 0,0:01:23.99,0:01:25.36,Default,Atri,0,0,0,,I hate you.
 Dialogue: 0,0:01:37.87,0:01:38.95,Default,Natsuki,0,0,0,,Don't follow me!
 Dialogue: 0,0:03:28.65,0:03:30.44,Default,Atri,0,0,0,,I'm a super high-spec model!
 Dialogue: 0,0:03:32.22,0:03:33.81,Default,Natsuki,0,0,0,,Was it all a lie?
-Dialogue: 0,0:03:34.40,0:03:36.45,Default,Natsuki,0,0,0,,All of it...
+Dialogue: 0,0:03:34.40,0:03:36.45,Default,Natsuki,0,0,0,TLC,All of it...{this feels kinda bad to only have one "line" considering the pause imo -yon}
 Dialogue: 0,0:03:37.11,0:03:40.41,Default,Natsuki,0,0,0,,Everything we went through... Everything she showed me...
 Dialogue: 0,0:03:40.78,0:03:42.03,Default,Natsuki,0,0,0,,Was it all a lie?
 Dialogue: 0,0:04:16.52,0:04:18.48,Default,Ryuuji,0,0,0,,You sure he's okay?
@@ -82,7 +82,7 @@ Dialogue: 0,0:05:11.98,0:05:13.83,Default,Natsuki,0,0,0,,She's nothing but a Hum
 Dialogue: 0,0:05:15.29,0:05:18.58,Default,Natsuki,0,0,0,,There's no way {\i1}a thing like that{\i0} could possibly have a heart.
 Dialogue: 0,0:05:20.21,0:05:22.93,Default,Natsuki,0,0,0,,All she was ever doing was analyzing vast amounts of data;
 Dialogue: 0,0:05:22.93,0:05:26.47,Default,Natsuki,0,0,0,,processing contextual information, responding to external stimuli,
-Dialogue: 0,0:05:27.24,0:05:29.73,Default,Natsuki,0,0,0,,all to output the most optimal solution.
+Dialogue: 0,0:05:27.24,0:05:29.73,Default,Natsuki,0,0,0,TLC,all to output the most optimal solution.{"most optimal" bothers me, ngl -yon}
 Dialogue: 0,0:05:30.26,0:05:33.77,Default,Natsuki,0,0,0,,She laughed when she was supposed to, got angry when she was supposed to,
 Dialogue: 0,0:05:34.52,0:05:36.92,Default,Natsuki,0,0,0,,faithfully executing her programming
 Dialogue: 0,0:05:36.92,0:05:40.06,Default,Natsuki,0,0,0,,to perfectly tailor her words and manufacture her expressions.
@@ -142,7 +142,7 @@ Dialogue: 0,0:08:44.86,0:08:49.68,Default,Catherine,0,0,0,,But her model only ev
 Dialogue: 0,0:08:49.68,0:08:52.13,Default,Catherine,0,0,0,,They were all immediately recalled,
 Dialogue: 0,0:08:52.13,0:08:57.18,Default,Catherine,0,0,0,,but a single unit, the one responsible for the incident, broke out and went missing.
 Dialogue: 0,0:08:57.84,0:09:01.48,Default,Catherine,0,0,0,,Naturally, Yamasaki Factory covered that up,
-Dialogue: 0,0:09:01.48,0:09:06.88,Default,Catherine,0,0,0,,but all the bad press surrounding the recall tanked the demand for Humanoids, and the company went under.
+Dialogue: 0,0:09:01.48,0:09:06.88,Default,Catherine,0,0,0,TLC,but all the bad press surrounding the recall tanked the demand for Humanoids, and the company went under.{three liner -yon}
 Dialogue: 0,0:09:06.88,0:09:09.34,Default,Catherine,0,0,0,,The missing unit never did get recovered either.
 Dialogue: 0,0:09:09.92,0:09:12.24,Default,Natsuki,0,0,0,,And you're saying that unit was Atri?
 Dialogue: 0,0:09:12.24,0:09:13.91,Default,Catherine,0,0,0,,There's no proof.
@@ -203,7 +203,7 @@ Dialogue: 0,0:13:15.29,0:13:19.25,Default,Yasuda,0,0,0,,But they have {\i1}absol
 Dialogue: 0,0:13:21.07,0:13:23.61,Default,Yasuda,0,0,0,,Surely you must have realized this too.
 Dialogue: 0,0:13:23.61,0:13:27.47,Default,Yasuda,0,0,0,,That no matter how strong or sincere, \Nyour feelings will never be able to reach it. {?}
 Dialogue: 0,0:13:27.47,0:13:29.83,Default,Yasuda,0,0,0,,I assure you, your current path
-Dialogue: 0,0:13:30.48,0:13:32.79,Default,Yasuda,0,0,0,,is a long road that leads only to heartbreak. {these two lines, the heart metaphor ofc, but "the only heart to break will be your own" sort of makes no sense...?}
+Dialogue: 0,0:13:30.48,0:13:32.79,Default,Yasuda,0,0,0,,is a long road that leads only to heartbreak. {these two lines, the heart metaphor ofc, but "the only heart to break will be your own" sort of makes no sense...?}{I read it as "Only one of you two has a heart, and it's going to break" -yon}
 Dialogue: 0,0:13:38.25,0:13:42.15,Default,Natsuki,0,0,0,,I... need some time to think.
 Dialogue: 0,0:14:04.25,0:14:05.32,Default,Natsuki,0,0,0,,I'm home.
 Dialogue: 0,0:14:05.85,0:14:07.49,Default,Atri,0,0,0,,Welcome home.
@@ -241,7 +241,7 @@ Dialogue: 0,0:16:05.05,0:16:06.90,Default,Atri,0,0,0,,I am a Humanoid.
 Dialogue: 0,0:16:08.30,0:16:09.64,Default,Atri,0,0,0,,I apologize.
 Dialogue: 0,0:16:11.15,0:16:12.49,Default,Natsuki,0,0,0,,No...
 Dialogue: 0,0:16:13.16,0:16:14.78,Default,Natsuki,0,0,0,,I'm the one who should apologize.
-Dialogue: 0,0:16:15.41,0:16:19.21,Default,Natsuki,0,0,0,,Of course you wouldn't know how to react to my nonsense. {?? really don't like but nothing obviously better}
+Dialogue: 0,0:16:15.41,0:16:19.21,Default,Natsuki,0,0,0,TLC,Of course you wouldn't know how to react to my nonsense. {?? really don't like but nothing obviously better}{throwing out a different take "Knowing how to react to this kind of behavior has got to be impossible." -yon}
 Dialogue: 0,0:16:19.21,0:16:20.11,Default,Atri,0,0,0,,Yes.
 Dialogue: 0,0:16:22.39,0:16:24.06,Default,Atri,0,0,0,,Are you going out?
 Dialogue: 0,0:16:24.06,0:16:25.67,Default,Natsuki,0,0,0,,I want to be alone.
@@ -286,7 +286,7 @@ Dialogue: 0,0:20:25.30,0:20:28.17,Default,Yasuda,0,0,0,,Oh, the show's just gett
 Dialogue: 0,0:20:28.17,0:20:32.15,Default,Yasuda,0,0,0,,I encourage all gathered here today to bear witness!
 Dialogue: 0,0:20:32.15,0:20:35.01,Default,Yasuda,0,0,0,,To just how dangerous this Humanoid is...{He better have robot augmentations to his legs, core, shoulder, pectorals, and arms. Because if it's just his hand that's robotic, the strength of this punch makes no sense. -Pik}
 Dialogue: 0,0:20:40.61,0:20:41.80,Default,Yoko,0,0,0,,Atri-chan!
-Dialogue: 0,0:20:42.18,0:20:43.31,Default,Ryuuji,0,0,0,,You son of a— 
+Dialogue: 0,0:20:42.18,0:20:43.31,Default,Ryuuji,0,0,0,,You son of a—
 Dialogue: 0,0:20:46.88,0:20:48.48,Default,Subordinate,0,0,0,,Shut up and watch.
 Dialogue: 0,0:20:51.01,0:20:52.48,Default,Yasuda,0,0,0,,Honestly...
 Dialogue: 0,0:20:54.38,0:20:58.02,Default,Yasuda,0,0,0,,You disgrace the professor by attacking an innocent student

@@ -55,7 +55,7 @@ Dialogue: 0,0:00:36.87,0:00:38.97,Default,Natsuki,0,0,0,,Wake up. We need to tal
 Dialogue: 0,0:00:38.97,0:00:41.17,Default,Atri,0,0,0,,It's the middle of the night.
 Dialogue: 0,0:00:41.17,0:00:45.61,Default,Atri,0,0,0,,I told you, I'm a low-voltage model...
 Dialogue: 0,0:00:46.14,0:00:47.40,Default,Natsuki,0,0,0,,Hey! Atri!
-Dialogue: 0,0:00:47.77,0:00:51.16,Default,Atri,0,0,0,,Having a bad dream?\nThere, there. It'll be all right.{@ED i like the line but might want to consider the long-short pacing of the ja line -p}
+Dialogue: 0,0:00:47.77,0:00:51.16,Default,Atri,0,0,0,,Having a bad dream?\nThere, there. It'll be all right.
 Dialogue: 0,0:00:55.01,0:00:56.04,Default,Natsuki,0,0,0,,No...
 Dialogue: 0,0:00:56.63,0:00:59.04,Default,Natsuki,0,0,0,,Nooooo!
 Dialogue: 0,0:02:30.33,0:02:32.05,Default,Ryuuji,0,0,0,,{\an8}Stop running from the truth, dude.
@@ -203,7 +203,7 @@ Dialogue: 0,0:10:13.45,0:10:14.84,Default,Ririka,0,0,0,,He was disappointed?
 Dialogue: 0,0:10:15.43,0:10:16.35,Default,Atri,0,0,0,,Yes...
 Dialogue: 0,0:10:16.80,0:10:19.79,Default,Miyo,0,0,0,,You sure you didn't\ndo something to make him mad?
 Dialogue: 0,0:10:19.79,0:10:23.39,Default,Atri,0,0,0,,He asked me if I loved him, and I said I did...
-Dialogue: 0,0:10:24.07,0:10:26.90,Default,Atri,0,0,0,ED,I never can tell{@ED not sure about "never can" vs "can never". the former doesn't feel appropriate here to me? dunno why -p} what's going through his head... {felt more apt here because atri's syntax is also inverted? can't explain why either but the energy feels better imo, but change it if you feel strongly}
+Dialogue: 0,0:10:24.07,0:10:26.90,Default,Atri,0,0,0,,I never can tell what's going through his head...
 Dialogue: 0,0:10:26.90,0:10:28.81,Default,Catherine,0,0,0,,So that's your angle, huh?
 Dialogue: 0,0:10:28.81,0:10:30.46,Default,Natsuki,0,0,0,,What should I do?
 Dialogue: 0,0:10:30.46,0:10:35.69,Default,Catherine,0,0,0,,Well, I think you've got the right approach,\nbut she might be lacking in understanding.

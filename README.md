@@ -21,7 +21,7 @@
 | **Typesetting**       | Nyarthur                                           |                  |                      |
 | **Quality Control**   | petzku                                             |                  |                      |
 |                       | BB (01, 04-07)                                     |                  |                      |
-|                       | Nazaki (02-03, 08-13)                               |                  |                      |
+|                       | Nazaki (02-03, 08-13)                              |                  |                      |
 | **Special Thanks**    | TheRoosterPL (Moral Support, Signspotting (06-13)) |                  |                      |
 
 ### Video
@@ -54,12 +54,10 @@ Spot an issue, want to chat, or want to check out the project's progress? Join o
 
 We only support [mpv][]! Please try out a recent mpv build if you run into any playback issues.
 
-You are free to re-use any part of our release,
-provided you are not redistributing for the purpose of monetary gain.
+You are free to re-use any part of our release, provided you are not redistributing for the purpose of monetary gain.
 Credit for our work is appreciated, but not required.
 
-If you're a foreign fansub group or want to do your own lyrics,
-you can ask us to render out our song styling for you in our [Discord server][discord].
+If you're a foreign fansub group or want to do your own lyrics, you can ask us to render out our song styling for you in our [Discord server][discord].
 
 [//]: <> (Info)
 [cover-art]: https://cdn-eu.anidb.net/images/main/304775.jpg

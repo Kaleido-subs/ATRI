@@ -162,10 +162,10 @@ Dialogue: 10,0:09:25.37,0:09:29.28,Default,Catherine,0,0,0,,I told her I couldn'
 Dialogue: 10,0:09:32.28,0:09:35.75,Default,Catherine,0,0,0,,You should get going too.\nI can handle things here on my own.
 Dialogue: 10,0:09:35.75,0:09:38.34,Default,Catherine,0,0,0,,I still owe you one, after all.
 Dialogue: 10,0:09:40.06,0:09:41.14,Default,Natsuki,0,0,0,,Thanks.
-Dialogue: 10,0:09:50.84,0:09:53.64,Default,Natsuki,0,0,0,,Atri turned violent?
-Dialogue: 10,0:09:54.77,0:09:57.10,Default,Natsuki,0,0,0,,Is that why her memory was wiped?
-Dialogue: 10,0:09:57.66,0:10:00.54,Default,Natsuki,0,0,0,,Or maybe she's just been putting on an act,
-Dialogue: 10,0:10:01.17,0:10:02.37,Default,Natsuki,0,0,0,,and she really...
+Dialogue: 10,0:09:50.84,0:09:53.64,Default,Natsuki,0,0,0,,{\i1}Atri turned violent?
+Dialogue: 10,0:09:54.77,0:09:57.10,Default,Natsuki,0,0,0,,{\i1}Is that why her memory was wiped?
+Dialogue: 10,0:09:57.66,0:10:00.54,Default,Natsuki,0,0,0,,{\i1}Or maybe she's just been putting on an act,
+Dialogue: 10,0:10:01.17,0:10:02.37,Default,Natsuki,0,0,0,,{\i1}and she really...
 Dialogue: 10,0:10:19.43,0:10:20.43,Default,Natsuki,0,0,0,,Who are you?
 Dialogue: 10,0:10:20.43,0:10:22.14,Default,Yasuda,0,0,0,,My name is Yasuda.
 Dialogue: 10,0:10:22.14,0:10:26.42,Default,Yasuda,0,0,0,,I was the head of Yamasaki Factory's\nresearch and development department.

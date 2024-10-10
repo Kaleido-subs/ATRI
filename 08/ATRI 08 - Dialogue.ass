@@ -68,7 +68,8 @@ Dialogue: 10,0:03:35.62,0:03:36.78,Default,Atri,0,0,0,,I found a crab!
 Dialogue: 10,0:03:37.90,0:03:39.28,Default,Miyo,0,0,0,,That's a hermit crab...
 Dialogue: 10,0:03:44.08,0:03:47.42,Default,Ryuji,0,0,0,,Man, he's really got it bad.
 Dialogue: 10,0:03:47.90,0:03:49.13,Default,Ryuji,0,0,0,,Whoa, whoa, whoa!
-Dialogue: 10,0:03:50.18,0:03:53.72,Default,Yoko,0,0,0,,Something happen, buddy?\nWith a certain Atri{**-chan}, perhaps?
+Dialogue: 10,0:03:50.18,0:03:51.64,Default,Yoko,0,0,0,,Something happen, buddy?
+Dialogue: 10,0:03:51.64,0:03:53.72,Default,Yoko,0,0,0,,With a certain Atri{**-chan}, perhaps?
 Dialogue: 10,0:03:53.72,0:03:54.76,Default,Natsuki,0,0,0,,N-No.
 Dialogue: 10,0:03:55.92,0:03:58.89,Default,Yoko,0,0,0,,Whoa, your ears are burning up!\nAren't you just too precious!
 Dialogue: 10,0:04:00.80,0:04:02.11,Default,Ryuji,0,0,0,,For real?
@@ -99,7 +100,8 @@ Dialogue: 10,0:05:00.11,0:05:02.32,Default,Yoko,0,0,0,,I mean, yeah, but still..
 Dialogue: 10,0:05:02.32,0:05:05.77,Default,Ryuji,0,0,0,,Hell yeah, Natsu! I always knew you had it in you!
 Dialogue: 10,0:05:05.77,0:05:06.90,Default,Natsuki,0,0,0,,Knock it off!
 Dialogue: 10,0:05:06.90,0:05:08.35,Default,Ryuji,0,0,0,,C'mon, don't be shy!
-Dialogue: 10,0:05:08.35,0:05:11.91,Default,Ryuji,0,0,0,TM,Getting together with your first love?\nThat's every guy's dream, dude!{might split -p}
+Dialogue: 10,0:05:08.35,0:05:10.26,Default,Ryuji,0,0,0,,Getting together with your first love?
+Dialogue: 10,0:05:10.26,0:05:11.91,Default,Ryuji,0,0,0,,That's every guy's dream, dude!
 Dialogue: 10,0:05:11.91,0:05:14.50,Default,Natsuki,0,0,0,,I told you not to get the wrong idea!
 Dialogue: 10,0:05:14.50,0:05:15.96,Default,Ryuji,0,0,0,,What's the big deal?
 Dialogue: 10,0:05:15.16,0:05:16.98,Alt,Yoko,0,0,0,,Bruhhhhh...
@@ -109,8 +111,9 @@ Dialogue: 10,0:05:20.17,0:05:20.59,Default,Ryuji,0,0,0,,Huh?
 Dialogue: 10,0:05:21.00,0:05:22.48,Default,Yoko,0,0,0,,You heard me!
 Dialogue: 10,0:05:22.48,0:05:24.63,Default,Yoko,0,0,0,,How old do you think this guy is, anyway?
 Dialogue: 10,0:05:24.63,0:05:26.56,Default,Yoko,0,0,0,,Dude's {\i1}seventeen!{\i0}
-Dialogue: 10,0:05:26.56,0:05:31.52,Default,Yoko,0,0,0,TLC,And he wants to get with {\i1}Atri{**-chan}?{\i0}\nThat's gotta be statutor—
-Dialogue: 10,0:05:30.49,0:05:32.40,Alt,Natsuki,0,0,0,,{\an8}What part of "it's not like that" do you not understand?!
+Dialogue: 10,0:05:26.56,0:05:28.92,Default,Yoko,0,0,0,TLC,And he wants to get with {\i1}Atri{**-chan}?{\i0}
+Dialogue: 10,0:05:28.92,0:05:31.52,Default,Yoko,0,0,0,TLC,That's gotta be statutor—
+Dialogue: 10,0:05:30.49,0:05:32.40,Alt,Natsuki,0,0,0,,What part of "it's not like that" do you not understand?!
 Dialogue: 10,0:05:32.40,0:05:33.77,Default,Ryuji,0,0,0,,But you kissed her, didn't you?
 Dialogue: 10,0:05:34.13,0:05:37.11,Default,Natsuki,0,0,0,,That was, uh... a coincidence?
 Dialogue: 10,0:05:37.11,0:05:39.44,Default,Natsuki,0,0,0,,Or maybe a case of temporary insanity...
@@ -124,7 +127,8 @@ Dialogue: 10,0:05:59.55,0:06:01.88,Default,Natsuki,0,0,0,,Well... yeah.
 Dialogue: 10,0:06:01.88,0:06:06.25,Default,Yoko,0,0,0,,Either way, the elephant in the room you've\nbeen avoiding is how you actually feel about her!
 Dialogue: 10,0:06:06.25,0:06:07.81,Default,Yoko,0,0,0,,Well? You love her or not?
 Dialogue: 10,0:06:09.72,0:06:12.85,Default,Yoko,0,0,0,,I ain't hearing a "no" from you.
-Dialogue: 10,0:06:13.30,0:06:16.61,Default,Natsuki,0,0,0,,To be honest... I'm not sure.
+Dialogue: 10,0:06:13.30,0:06:14.89,Default,Natsuki,0,0,0,,To be honest...
+Dialogue: 10,0:06:15.51,0:06:16.61,Default,Natsuki,0,0,0,,I'm not sure.
 Dialogue: 10,0:06:16.95,0:06:18.36,Default,Yoko,0,0,0,,You're not sure?
 Dialogue: 10,0:06:20.62,0:06:24.15,Default,Natsuki,0,0,0,,In my mind, Atri's a Humanoid...
 Dialogue: 10,0:06:24.15,0:06:27.17,Default,Natsuki,0,0,0,,but she's also my first love...
@@ -213,7 +217,7 @@ Dialogue: 10,0:11:01.36,0:11:03.73,Default,Minamo,0,0,0,,Yeah. I'd love to!
 Dialogue: 10,0:11:04.17,0:11:06.09,Default,Ryuji,0,0,0,,Oh, count me in too!
 Dialogue: 10,0:11:06.09,0:11:09.03,Default,Yoko,0,0,0,,I don't think so, pal. No boys allowed!
 Dialogue: 10,0:11:09.03,0:11:09.73,Default,Yoko,0,0,0,,Right?
-Dialogue: 10,0:11:12.19,0:11:12.93,Default,Minamo,0,0,0,,Yeah!
+Dialogue: 10,0:11:12.19,0:11:13.01,Default,Minamo,0,0,0,,Yeah!
 Dialogue: 10,0:11:15.24,0:11:16.57,Default,Atri,0,0,0,,Mom's cooking is served!
 Dialogue: 10,0:11:16.57,0:11:18.16,Default,Natsuki,0,0,0,,It's just regular nikujaga.
 Dialogue: 10,0:11:18.16,0:11:21.25,Default,Atri,0,0,0,,Minamo told me it tastes\njust like her mom used to make!
@@ -324,8 +328,7 @@ Dialogue: 10,0:17:17.60,0:17:22.17,Default,Natsuki,0,0,0,,So for now, I just wan
 Dialogue: 10,0:17:22.17,0:17:24.52,Default,Natsuki,0,0,0,,so that your heart has time to grow.
 Dialogue: 10,0:17:24.94,0:17:26.65,Default,Atri,0,0,0,,Natsuki{**-san}...
 Dialogue: 10,0:17:27.36,0:17:28.28,Default,Natsuki,0,0,0,,And maybe then,
-Dialogue: 10,0:17:28.74,0:17:30.46,Default,Natsuki,0,0,0,,once you finally understand love
-Dialogue: 10,0:17:30.46,0:17:33.67,Default,Natsuki,0,0,0,,and we can both honestly face our feelings,
+Dialogue: 10,0:17:28.74,0:17:33.67,Default,Natsuki,0,0,0,,once you finally understand love and we can both honestly face our feelings,
 Dialogue: 10,0:17:33.67,0:17:36.12,Default,Natsuki,0,0,0,,then we can decide what comes next for us.
 Dialogue: 10,0:17:37.29,0:17:41.21,Default,Atri,0,0,0,,Um, I'm not sure I understand...
 Dialogue: 10,0:17:41.21,0:17:45.09,Default,Atri,0,0,0,,What exactly are we supposed to do from now on?
@@ -339,8 +342,8 @@ Dialogue: 10,0:18:13.49,0:18:15.03,Default,Minamo,0,0,0,,Yeah, I forgot...
 Dialogue: 10,0:18:15.03,0:18:18.03,Default,Yoko,0,0,0,,You know, I've been wondering, actually.
 Dialogue: 10,0:18:18.03,0:18:20.95,Default,Yoko,0,0,0,,What country is she from, anyway?
 Dialogue: 10,0:18:20.95,0:18:22.89,Default,Minamo,0,0,0,,Oh, she's Japanese.
-Dialogue: 10,0:18:22.89,0:18:25.58,Default,Minamo,0,0,0,,Her real name{*}Hanako{*'s Missus Ha}— {Her real name is Hanako—}
-Dialogue: 10,0:18:23.92,0:18:26.36,Alt,Catherine,0,0,0,,Don't call me {*}that!{*Hana-chan}! {Don't call me that!}{### "Don't tell them!"?}
+Dialogue: 10,0:18:22.89,0:18:25.58,Default,Minamo,0,0,0,,Her real name is {*}Hanako{*'s Missus Ha}— {Her real name is Hanako—}
+Dialogue: 10,0:18:23.92,0:18:25.58,Alt,Catherine,0,0,0,,Don't call me {*}that!{*Hana-chan}! {Don't call me that!}{### "Don't tell them!"?}
 Dialogue: 10,0:18:27.49,0:18:30.92,Default,Minamo,0,0,0,,Don't push yourself too hard, okay, Ririka{**-chan}?
 Dialogue: 10,0:18:31.72,0:18:32.84,Default,Ririka,0,0,0,,Push myself?
 Dialogue: 10,0:18:32.84,0:18:35.72,Default,Ririka,0,0,0,,Nah, I'm just doing it 'cause it's fun.

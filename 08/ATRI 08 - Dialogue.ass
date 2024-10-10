@@ -43,16 +43,16 @@ Dialogue: 10,0:00:38.16,0:00:41.10,Default,Atri,0,0,0,,My back teeth won't brush
 Dialogue: 10,0:00:41.47,0:00:44.86,Default,Natsuki,0,0,0,,It's temporary insanity. It's gotta be!
 Dialogue: 10,0:00:46.26,0:00:46.78,Default,Natsuki,0,0,0,,Hey.
 Dialogue: 10,0:00:47.16,0:00:49.65,Default,Natsuki,0,0,0,,Hey! Wake up, Atri!
-Dialogue: 10,0:00:49.65,0:00:53.24,Default,Atri,0,0,0,,You have to reach waaay back...
+Dialogue: 10,0:00:49.65,0:00:53.24,Default,Atri,0,0,0,,You hafta reash waaay back...
 Dialogue: 10,0:00:53.24,0:00:55.98,Default,,0,0,0,,What the heck kind of dream are you having?
 Dialogue: 10,0:00:55.98,0:00:56.79,Default,Natsuki,0,0,0,,Actually, wait...
 Dialogue: 10,0:00:57.60,0:00:58.79,Default,Natsuki,0,0,0,,You have dreams?
 Dialogue: 10,0:01:03.61,0:01:06.96,Default,Atri,0,0,0,,Natsuki{**-san}, you dirty boy...
-Dialogue: 10,0:02:45.94,0:02:48.31,Default,Saki,0,0,0,,Sensei, I solved it...
-Dialogue: 10,0:02:50.60,0:02:51.82,Default,Saki,0,0,0,,Sensei?
+Dialogue: 10,0:02:45.94,0:02:48.31,Default,Saki,0,0,0,,{*}Mr. Natsuki{*Sensei}, I solved it...
+Dialogue: 10,0:02:50.60,0:02:51.82,Default,Saki,0,0,0,,{*}Mr. Natsuki{*Sensei}?
 Dialogue: 10,0:02:51.82,0:02:53.74,Default,Minamo,0,0,0,,Well, it {\i1}is{\i0} awfully hot today.
 Dialogue: 10,0:02:53.74,0:02:55.25,Default,Yoko,0,0,0,,Yeah, totally...
-Dialogue: 10,0:02:55.25,0:02:56.79,Default,Yoko,0,0,0,,like that explains anything!
+Dialogue: 10,0:02:55.25,0:02:56.79,Default,Yoko,0,0,0,,Like that explains anything!
 Dialogue: 10,0:02:56.79,0:02:57.74,Default,Minamo,0,0,0,,It doesn't?
 Dialogue: 10,0:02:59.80,0:03:03.41,Default,Ryuji,0,0,0,,{\i1}Something{\i0} happened, that's for sure.
 Dialogue: 10,0:03:03.41,0:03:05.04,Default,Minamo,0,0,0,,You think so?
@@ -62,12 +62,12 @@ Dialogue: 10,0:03:10.92,0:03:13.51,Default,Yoko,0,0,0,,Yup. And don't you forget
 Dialogue: 10,0:03:13.51,0:03:17.55,Default,Yoko,0,0,0,,Ain't no guy in the world who can\npull the wool over a woman's eyes!
 Dialogue: 10,0:03:21.94,0:03:23.17,Default,Catherine,0,0,0,,Have fun, kiddos!
 Dialogue: 10,0:03:23.17,0:03:25.89,Default,Catherine,0,0,0,,But don't swim too far out, you hear?
-Dialogue: 10,0:03:26.37,0:03:30.52,Default,Ririka,0,0,0,,Sensei! Atrin went under and isn't coming back up!
+Dialogue: 10,0:03:26.37,0:03:30.52,Default,Ririka,0,0,0,,{*}Missus Hana{*Sensei}! Atrin went under and isn't coming back up!
 Dialogue: 10,0:03:30.83,0:03:31.73,Default,Catherine,0,0,0,,What?!
 Dialogue: 10,0:03:35.62,0:03:36.78,Default,Atri,0,0,0,,I found a crab!
 Dialogue: 10,0:03:37.90,0:03:39.28,Default,Miyo,0,0,0,,That's a hermit crab...
 Dialogue: 10,0:03:44.08,0:03:47.42,Default,Ryuji,0,0,0,,Man, he's really got it bad.
-Dialogue: 10,0:03:47.90,0:03:49.13,Default,Ryuji,0,0,0,,Whoa, whoa, whoa!
+Dialogue: 10,0:03:47.90,0:03:49.13,Default,Ryuji,0,0,0,,Yo! Get back her—
 Dialogue: 10,0:03:50.18,0:03:51.64,Default,Yoko,0,0,0,,Something happen, buddy?
 Dialogue: 10,0:03:51.64,0:03:53.72,Default,Yoko,0,0,0,,With a certain Atri{**-chan}, perhaps?
 Dialogue: 10,0:03:53.72,0:03:54.76,Default,Natsuki,0,0,0,,N-No.
@@ -77,7 +77,7 @@ Dialogue: 10,0:04:02.11,0:04:05.48,Default,Ryuji,0,0,0,,So you finally got over 
 Dialogue: 10,0:04:05.90,0:04:06.90,Default,Natsuki,0,0,0,,I...
 Dialogue: 10,0:04:06.90,0:04:07.91,Default,Yoko,0,0,0,,Well?
 Dialogue: 10,0:04:07.91,0:04:09.62,Default,Natsuki,0,0,0,,"Well" what?
-Dialogue: 10,0:04:09.62,0:04:12.69,Default,Yoko,0,0,0,,Did you maybe, just maybe,\ntake your relationship to the next level?
+Dialogue: 10,0:04:09.62,0:04:12.69,Default,Yoko,0,0,0,,Did you maybe, just maybe,\ntake your relationship to the next base?
 Dialogue: 10,0:04:16.69,0:04:17.99,Default,Ryuji,0,0,0,,Get back here, Natsu.
 Dialogue: 10,0:04:19.81,0:04:21.74,Default,Natsuki,0,0,0,,It's got nothing to do with you guys.
 Dialogue: 10,0:04:22.18,0:04:23.03,Default,Ryuji,0,0,0,,Sure it does, right?
@@ -95,7 +95,7 @@ Dialogue: 10,0:04:47.52,0:04:48.60,Default,Minamo,0,0,0,,Huh?
 Dialogue: 10,0:04:49.20,0:04:52.33,Default,Natsuki,0,0,0,,And here I was trying to forget all about it...
 Dialogue: 10,0:04:52.33,0:04:55.27,Default,Natsuki,0,0,0,,I'll tell you, but don't get the wrong idea about it.
 Dialogue: 10,0:04:56.78,0:04:58.69,Default,Yoko; Ryuji; Minamo,0,0,0,,You kissed?!
-Dialogue: 10,0:04:58.88,0:05:00.11,Default,Natsuki,0,0,0,TLC,You were the ones who asked!
+Dialogue: 10,0:04:58.88,0:05:00.11,Default,Natsuki,0,0,0,,You were the ones who asked!
 Dialogue: 10,0:05:00.11,0:05:02.32,Default,Yoko,0,0,0,,I mean, yeah, but still...
 Dialogue: 10,0:05:02.32,0:05:05.77,Default,Ryuji,0,0,0,,Hell yeah, Natsu! I always knew you had it in you!
 Dialogue: 10,0:05:05.77,0:05:06.90,Default,Natsuki,0,0,0,,Knock it off!
@@ -111,13 +111,13 @@ Dialogue: 10,0:05:20.17,0:05:20.59,Default,Ryuji,0,0,0,,Huh?
 Dialogue: 10,0:05:21.00,0:05:22.48,Default,Yoko,0,0,0,,You heard me!
 Dialogue: 10,0:05:22.48,0:05:24.63,Default,Yoko,0,0,0,,How old do you think this guy is, anyway?
 Dialogue: 10,0:05:24.63,0:05:26.56,Default,Yoko,0,0,0,,Dude's {\i1}seventeen!{\i0}
-Dialogue: 10,0:05:26.56,0:05:28.92,Default,Yoko,0,0,0,TLC,And he wants to get with {\i1}Atri{**-chan}?{\i0}
-Dialogue: 10,0:05:28.92,0:05:31.52,Default,Yoko,0,0,0,TLC,That's gotta be statutor—
-Dialogue: 10,0:05:30.49,0:05:32.40,Alt,Natsuki,0,0,0,,What part of "it's not like that" do you not understand?!
+Dialogue: 10,0:05:26.56,0:05:28.92,Default,Yoko,0,0,0,,And he wants to get with {\i1}Atri{**-chan}?!{\i0}
+Dialogue: 10,0:05:28.92,0:05:31.52,Default,Yoko,0,0,0,,That's gotta be statutor—
+Dialogue: 10,0:05:30.49,0:05:32.40,Alt,Natsuki,0,0,0,,What part of "it's not like that" don't you understand?!
 Dialogue: 10,0:05:32.40,0:05:33.77,Default,Ryuji,0,0,0,,But you kissed her, didn't you?
 Dialogue: 10,0:05:34.13,0:05:37.11,Default,Natsuki,0,0,0,,That was, uh... a coincidence?
 Dialogue: 10,0:05:37.11,0:05:39.44,Default,Natsuki,0,0,0,,Or maybe a case of temporary insanity...
-Dialogue: 10,0:05:39.44,0:05:41.65,Default,Yoko,0,0,0,TLC,Yeah, tell it to the judge, buddy.
+Dialogue: 10,0:05:39.44,0:05:41.65,Default,Yoko,0,0,0,,Yeah, yeah, tell it to the judge, buddy.
 Dialogue: 10,0:05:42.03,0:05:43.96,Default,Natsuki,0,0,0,,What do you even want from me?
 Dialogue: 10,0:05:43.96,0:05:46.82,Default,Natsuki,0,0,0,,Stop overreacting and just think about it!
 Dialogue: 10,0:05:46.82,0:05:50.29,Default,Natsuki,0,0,0,,Atri's a Humanoid. You shouldn't\nthink of her like an ordinary human.
@@ -180,7 +180,7 @@ Dialogue: 10,0:08:23.32,0:08:25.78,Default,Minamo,0,0,0,,She says that would mak
 Dialogue: 10,0:08:28.16,0:08:33.75,Default,Minamo,0,0,0,,You know, I think you were right all along.\nI think Atri{**-chan} really does have a heart.
 Dialogue: 10,0:08:33.75,0:08:38.54,Default,Minamo,0,0,0,,I don't think an AI could possibly say\nsomething with that much feeling behind it.{Bad news, Minamo.}
 Dialogue: 10,0:08:39.22,0:08:43.04,Default,Minamo,0,0,0,,So you should be true to your own heart...
-Dialogue: 10,0:08:45.12,0:08:48.02,Default,Minamo,0,0,0,TLC,And make sure you let her know how you feel, okay?
+Dialogue: 10,0:08:45.12,0:08:48.02,Default,Minamo,0,0,0,,And make sure you let her know how you feel, okay?
 Dialogue: 10,0:08:48.78,0:08:51.05,Default,Minamo,0,0,0,,I know you can do it!
 Dialogue: 10,0:08:52.10,0:08:53.55,Default,Natsuki,0,0,0,,Minamo...
 Dialogue: 10,0:08:54.33,0:08:58.05,Default,Minamo,0,0,0,,I'm rooting for you, Natsu{**-kun}.
@@ -234,7 +234,7 @@ Dialogue: 10,0:11:46.38,0:11:48.51,Default,Natsuki,0,0,0,,You screwed up {\i1}th
 Dialogue: 10,0:11:48.51,0:11:50.54,Default,Atri,0,0,0,,You have nothing to worry about!
 Dialogue: 10,0:11:50.54,0:11:53.46,Default,Atri,0,0,0,,Minamo worked her magic on my failures,
 Dialogue: 10,0:11:53.46,0:11:55.90,Default,Atri,0,0,0,,so they all went in our bellies instead of the trash!
-Dialogue: 10,0:11:56.54,0:11:59.08,Default,Natsuki,0,0,0,TLC,Was it worth all that just to cook for me?
+Dialogue: 10,0:11:56.54,0:11:59.08,Default,Natsuki,0,0,0,,Was it worth all that just to cook for me?
 Dialogue: 10,0:11:59.08,0:12:00.21,Default,Atri,0,0,0,,Yes!
 Dialogue: 10,0:12:00.21,0:12:02.91,Default,Atri,0,0,0,,Seeing you enjoy tasty things makes {\i1}me{\i0} happy!
 Dialogue: 10,0:12:03.53,0:12:05.29,Default,Natsuki,0,0,0,,Why's that?
@@ -249,8 +249,8 @@ Dialogue: 10,0:12:25.60,0:12:27.10,Default,Natsuki,0,0,0,,Huh? Uh...
 Dialogue: 10,0:12:27.10,0:12:30.25,Default,Atri,0,0,0,,I get it now. It's because I love you!
 Dialogue: 10,0:12:30.25,0:12:32.83,Default,Atri,0,0,0,,And not just garden-variety love.
 Dialogue: 10,0:12:32.83,0:12:34.78,Default,Atri,0,0,0,,It's the romantic kind of love!
-Dialogue: 10,0:12:35.33,0:12:36.94,Default,Natsuki,0,0,0,,Sheesh,
-Dialogue: 10,0:12:36.94,0:12:40.16,Default,Natsuki,0,0,0,,way to make it sound like I dragged it out of you...
+Dialogue: 10,0:12:35.33,0:12:36.94,Default,Natsuki,0,0,0,,Sheesh...
+Dialogue: 10,0:12:36.94,0:12:40.16,Default,Natsuki,0,0,0,,Way to make it sound like I dragged it out of you...
 Dialogue: 10,0:12:40.16,0:12:42.09,Default,Atri,0,0,0,,Is that a bad thing?
 Dialogue: 10,0:12:42.09,0:12:43.28,Default,Natsuki,0,0,0,,Well, no.
 Dialogue: 10,0:12:43.28,0:12:46.16,Default,Natsuki,0,0,0,,If you really meant it, at least...
@@ -269,7 +269,7 @@ Dialogue: 10,0:13:38.35,0:13:41.59,Default,Natsuki,0,0,0,,She {\i1}is{\i0} that 
 Dialogue: 10,0:13:41.59,0:13:43.36,Default,Natsuki,0,0,0,,So that means...
 Dialogue: 10,0:13:43.36,0:13:46.72,Default,Atri,0,0,0,,What are you muttering to yourself about?
 Dialogue: 10,0:13:49.22,0:13:52.06,Default,Natsuki,0,0,0,,Hey, what do you think you're...
-Dialogue: 10,0:13:52.54,0:13:56.36,Default,Atri,0,0,0,,You're the one who told me\nto go and get ready for my bath.
+Dialogue: 10,0:13:52.54,0:13:56.36,Default,Atri,0,0,0,,You're the one who told me to\ngo and get ready for my bath.
 Dialogue: 10,0:13:56.36,0:13:58.53,Default,Natsuki,0,0,0,,O-Oh, right.
 Dialogue: 10,0:14:04.06,0:14:05.29,Default,Atri,0,0,0,,What is the matter?
 Dialogue: 10,0:14:05.29,0:14:06.91,Default,Natsuki,0,0,0,,Wh-What're you doing?!
@@ -279,7 +279,7 @@ Dialogue: 10,0:14:16.16,0:14:19.05,Default,Natsuki,0,0,0,,Y-You'd better cut tha
 Dialogue: 10,0:14:19.05,0:14:20.19,Default,Atri,0,0,0,,Ooooops!
 Dialogue: 10,0:14:22.14,0:14:23.80,Default,Atri,0,0,0,,And now your face is all red!
 Dialogue: 10,0:14:23.80,0:14:27.12,Default,Atri,0,0,0,,You're giving me all the reactions that I wanted!
-Dialogue: 10,0:14:27.12,0:14:29.56,Default,Atri,0,0,0,,You're so cute that I can't\nhelp but want to tease you.
+Dialogue: 10,0:14:27.12,0:14:29.56,Default,Atri,0,0,0,,You're so cute, I can't help\nbut want to tease you.
 Dialogue: 10,0:14:31.18,0:14:34.39,Default,Natsuki,0,0,0,,Don't say... I didn't warn you...
 Dialogue: 10,0:14:41.56,0:14:43.05,Default,Atri,0,0,0,,Robot harassment, I say!
 Dialogue: 10,0:14:43.05,0:14:46.53,Default,Atri,0,0,0,,How dare you hit me,\nknowing full well that I can't hit you back?!
@@ -342,9 +342,9 @@ Dialogue: 10,0:18:13.49,0:18:15.03,Default,Minamo,0,0,0,,Yeah, I forgot...
 Dialogue: 10,0:18:15.03,0:18:18.03,Default,Yoko,0,0,0,,You know, I've been wondering, actually.
 Dialogue: 10,0:18:18.03,0:18:20.95,Default,Yoko,0,0,0,,What country is she from, anyway?
 Dialogue: 10,0:18:20.95,0:18:22.89,Default,Minamo,0,0,0,,Oh, she's Japanese.
-Dialogue: 10,0:18:22.89,0:18:25.58,Default,Minamo,0,0,0,,Her real name is {*}Hanako{*'s Missus Ha}— {Her real name is Hanako—}
-Dialogue: 10,0:18:23.92,0:18:25.58,Alt,Catherine,0,0,0,,Don't call me {*}that!{*Hana-chan}! {Don't call me that!}{### "Don't tell them!"?}
-Dialogue: 10,0:18:27.49,0:18:30.92,Default,Minamo,0,0,0,,Don't push yourself too hard, okay, Ririka{**-chan}?
+Dialogue: 10,0:18:22.89,0:18:25.58,Default,Minamo,0,0,0,,Her real name is Hanako—
+Dialogue: 10,0:18:23.92,0:18:25.58,Alt,Catherine,0,0,0,,Don't tell 'em!
+Dialogue: 10,0:18:27.49,0:18:30.92,Default,Minamo,0,0,0,,No need to push yourself too hard, okay, Ririka{**-chan}?
 Dialogue: 10,0:18:31.72,0:18:32.84,Default,Ririka,0,0,0,,Push myself?
 Dialogue: 10,0:18:32.84,0:18:35.72,Default,Ririka,0,0,0,,Nah, I'm just doing it 'cause it's fun.
 Dialogue: 10,0:18:35.72,0:18:36.93,Default,Minamo,0,0,0,,Is it?
@@ -389,13 +389,13 @@ Dialogue: 10,0:20:30.39,0:20:31.63,Default,Atri,0,0,0,,It's okay.
 Dialogue: 10,0:20:32.36,0:20:33.88,Default,Atri,0,0,0,,Everything'll be all right.
 Dialogue: 10,0:20:35.62,0:20:39.13,Default,Atri,0,0,0,,You aren't alone.
 Dialogue: 10,0:20:49.91,0:20:50.79,Default,Natsuki,0,0,0,,Atri...
-Dialogue: 10,0:20:59.23,0:21:00.57,Default,Natsuki,0,0,0,,We kissed...
+Dialogue: 10,0:20:59.23,0:21:00.57,Default,Natsuki,0,0,0,,Kissed...
 Dialogue: 10,0:21:03.87,0:21:05.66,Default,Atri,0,0,0,,Failed to generate naturalistic affect,
 Dialogue: 10,0:21:05.66,0:21:10.10,Default,Atri,0,0,0,,but compensated by imitating\npreviously-seen reference materials.
 Dialogue: 10,0:21:10.10,0:21:14.04,Default,Atri,0,0,0,,Natsuki{**-san} displayed no signs\nof having detected any abnormality.
 Dialogue: 10,0:21:14.04,0:21:17.93,Default,Atri,0,0,0,,Natsuki{**-san} said he loves me,\nso I reciprocated the sentiment.
 Dialogue: 10,0:21:17.93,0:21:22.72,Default,Atri,0,0,0,,However, his conception of "love"\ndiffered substantially from my mental model.
-Dialogue: 10,0:21:22.72,0:21:24.55,Default,Atri,0,0,0,TLC,Learned about romantic love.
+Dialogue: 10,0:21:22.72,0:21:24.55,Default,Atri,0,0,0,,Learned about romantic love.
 Dialogue: 10,0:21:24.55,0:21:26.68,Default,Atri,0,0,0,,Retrieved relevant reference materials.
 Dialogue: 10,0:21:26.68,0:21:27.64,Default,Natsuki,0,0,0,,What the...
 Dialogue: 10,0:21:27.64,0:21:29.43,Default,Atri,0,0,0,,Learned about kissing.

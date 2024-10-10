@@ -130,7 +130,7 @@ Dialogue: 10,0:07:44.68,0:07:46.79,Default,Minamo,0,0,0,,And so I brought your u
 Dialogue: 10,0:07:50.51,0:07:51.81,Default,Miyo,0,0,0,,Sure is coming down hard, huh?
 Dialogue: 10,0:07:51.81,0:07:52.82,Default,Ririka,0,0,0,,Yeah...
 Dialogue: 10,0:07:53.34,0:07:53.95,Default,Toru,0,0,0,,Oh!
-Dialogue: 10,0:07:54.41,0:07:56.16,Default,Toru,0,0,0,,Natsuki-sensei!
+Dialogue: 10,0:07:54.41,0:07:56.16,Default,Toru,0,0,0,,{*}Mr. Natsuki{*Natsuki-sensei}!
 Dialogue: 10,0:07:58.06,0:07:58.96,Default,Ririka,0,0,0,,Huh?
 Dialogue: 10,0:07:58.96,0:08:00.87,Default,Ririka,0,0,0,,Where's Atrin?
 Dialogue: 10,0:08:01.73,0:08:02.95,Default,Natsuki,0,0,0,,Is she not here?
@@ -274,7 +274,7 @@ Dialogue: 10,0:18:41.69,0:18:43.56,Default,Natsuki,0,0,0,,Why didn't I understan
 Dialogue: 10,0:18:43.95,0:18:45.12,Default,Natsuki,0,0,0,,something so...
 Dialogue: 10,0:18:49.11,0:18:49.86,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:18:50.98,0:18:52.36,Default,Natsuki,0,0,0,,Atri!
-Dialogue: 10,0:19:02.09,0:19:03.62,Default,Miyo,0,0,0,,{*}Ms. Hana{*Hana-chan-sensei}!
+Dialogue: 10,0:19:02.09,0:19:03.62,Default,Miyo,0,0,0,,{*}Missus Hana{*Hana-chan-sensei}!
 Dialogue: 10,0:19:03.62,0:19:06.12,Default,Catherine,0,0,0,,If you lay one finger on my kids, I swear...{Tricky... "Let my damn kids go!"?}
 Dialogue: 10,0:19:06.12,0:19:08.08,Default,Yasuda,0,0,0,,By all means, relax.
 Dialogue: 10,0:19:08.08,0:19:11.30,Default,Yasuda,0,0,0,,They will be free to go\nas soon as that Humanoid arrives.
@@ -288,7 +288,7 @@ Dialogue: 10,0:19:36.52,0:19:38.91,Default,Ririka,0,0,0,,That's the thing! I cou
 Dialogue: 10,0:19:40.24,0:19:41.49,Default,Minamo,0,0,0,,Natsu{**-kun}...
 Dialogue: 10,0:19:41.92,0:19:43.12,Default,Yasuda,0,0,0,,Well, no matter.
 Dialogue: 10,0:19:43.59,0:19:45.03,Default,Yasuda,0,0,0,,Come over here.
-Dialogue: 10,0:19:58.48,0:20:00.47,Default,Toru and Miyo,0,0,0,,{*}Ms. Hana{*Hana-chan-sensei}!
+Dialogue: 10,0:19:58.48,0:20:00.47,Default,Toru and Miyo,0,0,0,,{*}Missus Hana{*Hana-chan-sensei}!
 Dialogue: 10,0:20:01.87,0:20:05.38,Default,Catherine,0,0,0,,There, there. It's okay. Everything's okay now.
 Dialogue: 10,0:20:06.23,0:20:09.19,Default,Minamo,0,0,0,,What are you going to do with Atri{**-chan}?
 Dialogue: 10,0:20:19.66,0:20:21.17,Default,Minamo,0,0,0,,Atri{**-chan}!

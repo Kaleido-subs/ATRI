@@ -69,7 +69,7 @@ Dialogue: 10,0:01:23.99,0:01:25.36,Default,Atri,0,0,0,,I hate you.
 Dialogue: 10,0:01:37.87,0:01:38.95,Default,Natsuki,0,0,0,,Don't follow me!
 Dialogue: 10,0:03:28.65,0:03:30.44,Default,Atri,0,0,0,,I'm a super high-spec model!
 Dialogue: 10,0:03:32.22,0:03:33.81,Default,Natsuki,0,0,0,,Was it all a lie?
-Dialogue: 10,0:03:34.40,0:03:36.45,Default,Natsuki,0,0,0,,Her smiles... Her laughter...
+Dialogue: 10,0:03:34.40,0:03:37.11,Default,Natsuki,0,0,0,,Her smiles... Her laughter...
 Dialogue: 10,0:03:37.11,0:03:40.41,Default,Natsuki,0,0,0,,Everything we went through...\nEverything she showed me...
 Dialogue: 10,0:03:40.78,0:03:42.03,Default,Natsuki,0,0,0,,Was it all a lie?
 Dialogue: 10,0:04:16.52,0:04:18.48,Default,Ryuuji,0,0,0,,You sure he's okay?
@@ -95,6 +95,7 @@ Dialogue: 10,0:05:27.24,0:05:29.73,Default,Natsuki,0,0,0,,all to output the most
 Dialogue: 10,0:05:30.26,0:05:33.77,Default,Natsuki,0,0,0,,She laughed when she was supposed to,\ngot angry when she was supposed to,
 Dialogue: 10,0:05:34.52,0:05:36.92,Default,Natsuki,0,0,0,,faithfully executing her programming
 Dialogue: 10,0:05:36.92,0:05:40.06,Default,Natsuki,0,0,0,,to perfectly tailor her words\nand manufacture her expressions.
+Comment: 10,0:05:34.52,0:05:40.06,Default,Natsuki,0,0,0,,faithfully executing her programming to perfectly\ntailor her words and manufacture her expressions.{regarding QC note: I have made the change, but I personally prefer the split version, so I have left it commented-out above. -Pikminiman}
 Dialogue: 10,0:05:42.33,0:05:45.61,Default,Natsuki,0,0,0,,That's all Humanoids are.
 Dialogue: 10,0:05:56.17,0:05:57.47,Default,Minamo,0,0,0,,You know what I think?
 Dialogue: 10,0:05:58.03,0:06:02.63,Default,Minamo,0,0,0,,I think that's no different\nfrom what we humans do.

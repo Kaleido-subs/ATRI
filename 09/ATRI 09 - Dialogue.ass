@@ -44,7 +44,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
 Dialogue: 10,0:00:03.47,0:00:04.53,Default,Natsuki,0,0,0,,Was it all a lie?
 Dialogue: 10,0:00:05.40,0:00:06.97,Default,Atri,0,0,0,,What's the matter?
 Dialogue: 10,0:00:06.97,0:00:07.93,Default,Atri,0,0,0,,Ah!
-Dialogue: 10,0:00:07.93,0:00:10.20,Default,Atri,0,0,0,,Did you have a bad dream ag—
+Dialogue: 10,0:00:07.93,0:00:10.20,Default,Atri,0,0,0,,Did you have another bad drea—
 Dialogue: 10,0:00:10.20,0:00:11.07,Default,Natsuki,0,0,0,,Shut up!
 Dialogue: 10,0:00:16.41,0:00:18.75,Default,Natsuki,0,0,0,,Were you just pretending to have a heart?
 Dialogue: 10,0:00:19.40,0:00:20.45,Default,Atri,0,0,0,,Pretending?
@@ -54,8 +54,8 @@ Dialogue: 10,0:00:23.63,0:00:25.96,Default,Natsuki,0,0,0,,It means saying things
 Dialogue: 10,0:00:29.34,0:00:30.91,Default,Atri,0,0,0,,I don't know.
 Dialogue: 10,0:00:31.39,0:00:35.72,Default,Atri,0,0,0,,My job is to be useful to you and make you happy.
 Dialogue: 10,0:00:36.03,0:00:38.74,Default,Atri,0,0,0,,That's the motivation behind all my actions.
-Dialogue: 10,0:00:41.03,0:00:44.66,Default,Natsuki,0,0,0,,When you said you had a heart, did you mean it? {? the かも}
-Dialogue: 10,0:00:45.69,0:00:50.78,Default,Natsuki,0,0,0,,Did you say that only because you\ngenuinely believe you have one?
+Dialogue: 10,0:00:41.03,0:00:44.66,Default,Natsuki,0,0,0,,When you said you had a heart, did you mean it?
+Dialogue: 10,0:00:45.69,0:00:50.78,Default,Natsuki,0,0,0,,Did you say that because you\ngenuinely believe you have one?
 Dialogue: 10,0:00:55.28,0:00:55.79,Default,Atri,0,0,0,,No.
 Dialogue: 10,0:00:56.09,0:00:57.70,Default,Natsuki,0,0,0,,Then here's an order for you!
 Dialogue: 10,0:00:57.70,0:00:59.39,Default,Natsuki,0,0,0,,Stop pretending you have a heart!
@@ -69,7 +69,7 @@ Dialogue: 10,0:01:23.99,0:01:25.36,Default,Atri,0,0,0,,I hate you.
 Dialogue: 10,0:01:37.87,0:01:38.95,Default,Natsuki,0,0,0,,Don't follow me!
 Dialogue: 10,0:03:28.65,0:03:30.44,Default,Atri,0,0,0,,I'm a super high-spec model!
 Dialogue: 10,0:03:32.22,0:03:33.81,Default,Natsuki,0,0,0,,Was it all a lie?
-Dialogue: 10,0:03:34.40,0:03:36.45,Default,Natsuki,0,0,0,,Her smiles... Her laughter...
+Dialogue: 10,0:03:34.40,0:03:37.11,Default,Natsuki,0,0,0,,Her smiles... Her laughter...
 Dialogue: 10,0:03:37.11,0:03:40.41,Default,Natsuki,0,0,0,,Everything we went through...\nEverything she showed me...
 Dialogue: 10,0:03:40.78,0:03:42.03,Default,Natsuki,0,0,0,,Was it all a lie?
 Dialogue: 10,0:04:16.52,0:04:18.48,Default,Ryuuji,0,0,0,,You sure he's okay?
@@ -95,6 +95,7 @@ Dialogue: 10,0:05:27.24,0:05:29.73,Default,Natsuki,0,0,0,,all to output the most
 Dialogue: 10,0:05:30.26,0:05:33.77,Default,Natsuki,0,0,0,,She laughed when she was supposed to,\ngot angry when she was supposed to,
 Dialogue: 10,0:05:34.52,0:05:36.92,Default,Natsuki,0,0,0,,faithfully executing her programming
 Dialogue: 10,0:05:36.92,0:05:40.06,Default,Natsuki,0,0,0,,to perfectly tailor her words\nand manufacture her expressions.
+Comment: 10,0:05:34.52,0:05:40.06,Default,Natsuki,0,0,0,,faithfully executing her programming to perfectly\ntailor her words and manufacture her expressions.{regarding QC note: I have made the change, but I personally prefer the split version, so I have left it commented-out above. -Pikminiman}
 Dialogue: 10,0:05:42.33,0:05:45.61,Default,Natsuki,0,0,0,,That's all Humanoids are.
 Dialogue: 10,0:05:56.17,0:05:57.47,Default,Minamo,0,0,0,,You know what I think?
 Dialogue: 10,0:05:58.03,0:06:02.63,Default,Minamo,0,0,0,,I think that's no different\nfrom what we humans do.
@@ -106,9 +107,9 @@ Dialogue: 10,0:06:19.74,0:06:22.85,Default,Minamo,0,0,0,,But I think all of us s
 Dialogue: 10,0:06:22.85,0:06:25.51,Default,Minamo,0,0,0,,things we don't even understand ourselves,
 Dialogue: 10,0:06:25.51,0:06:28.95,Default,Minamo,0,0,0,,just because it's what our heart tells us is right.
 Dialogue: 10,0:06:30.92,0:06:34.08,Default,Minamo,0,0,0,,So if you ask me, I think you were right all along,
-Dialogue: 10,0:06:34.69,0:06:38.09,Default,Minamo,0,0,0,,and that Atri{**-chan} really does have a heart.
+Dialogue: 10,0:06:34.69,0:06:38.09,Default,Minamo,0,0,0,,that Atri{**-chan} really does have a heart.
 Dialogue: 10,0:06:38.81,0:06:43.09,Default,Minamo,0,0,0,,But I think she's doubting herself.
-Dialogue: 10,0:06:44.08,0:06:47.82,Default,Minamo,0,0,0,,It must be something really scary for her,\nrealizing she has a heart.
+Dialogue: 10,0:06:44.08,0:06:47.82,Default,Minamo,0,0,0,,Realizing that she has a heart\nmust be awfully scary for her.
 Dialogue: 10,0:06:52.74,0:06:53.55,Default,Natsuki,0,0,0,,Ow...
 Dialogue: 10,0:06:53.55,0:06:56.29,Default,Minamo,0,0,0,,Sorry! I figured you'd want something warm.
 Dialogue: 10,0:06:56.29,0:06:58.56,Default,Minamo,0,0,0,,Should I have let it cool a bit more?
@@ -125,19 +126,19 @@ Dialogue: 10,0:07:30.14,0:07:34.26,Default,Natsuki,0,0,0,,It'd be unfair to ever
 Dialogue: 10,0:07:34.26,0:07:35.32,Default,Minamo,0,0,0,,But...
 Dialogue: 10,0:07:35.32,0:07:36.44,Default,Natsuki,0,0,0,,Besides,
 Dialogue: 10,0:07:37.31,0:07:40.90,Default,Natsuki,0,0,0,,I can't exactly get away with avoiding Atri forever.
-Dialogue: 10,0:07:42.31,0:07:44.32,Default,Minamo,0,0,0,,I was hoping you'd say that.
-Dialogue: 10,0:07:44.68,0:07:46.79,Default,Minamo,0,0,0,,And so I brought your uniform!
+Dialogue: 10,0:07:42.31,0:07:44.32,Default,Minamo,0,0,0,,I was hoping you'd say that...
+Dialogue: 10,0:07:44.68,0:07:46.79,Default,Minamo,0,0,0,,So I brought your uniform for you!
 Dialogue: 10,0:07:50.51,0:07:51.81,Default,Miyo,0,0,0,,Sure is coming down hard, huh?
 Dialogue: 10,0:07:51.81,0:07:52.82,Default,Ririka,0,0,0,,Yeah...
 Dialogue: 10,0:07:53.34,0:07:53.95,Default,Toru,0,0,0,,Oh!
-Dialogue: 10,0:07:54.41,0:07:56.16,Default,Toru,0,0,0,,Natsuki-sensei!
+Dialogue: 10,0:07:54.41,0:07:56.16,Default,Toru,0,0,0,,{*}Mr. Natsuki{*Natsuki-sensei}!
 Dialogue: 10,0:07:58.06,0:07:58.96,Default,Ririka,0,0,0,,Huh?
 Dialogue: 10,0:07:58.96,0:08:00.87,Default,Ririka,0,0,0,,Where's Atrin?
 Dialogue: 10,0:08:01.73,0:08:02.95,Default,Natsuki,0,0,0,,Is she not here?
-Dialogue: 10,0:08:02.95,0:08:05.24,Default,Minamo,0,0,0,,She said she'd come though...
+Dialogue: 10,0:08:02.95,0:08:05.24,Default,Minamo,0,0,0,,She said she'd come, though...
 Dialogue: 10,0:08:11.13,0:08:12.33,Default,Natsuki,0,0,0,,What's this?
 Dialogue: 10,0:08:12.33,0:08:14.47,Default,Catherine,0,0,0,,No return address.
-Dialogue: 10,0:08:14.47,0:08:19.31,Default,Catherine,0,0,0,,It's a report on the recall of\nYamasaki Factory's fourth-generation models.
+Dialogue: 10,0:08:14.47,0:08:19.31,Default,Catherine,0,0,0,,It's a report on the recall of\nYamasaki Factory's fourth-gen models.
 Dialogue: 10,0:08:19.77,0:08:21.64,Default,Natsuki,0,0,0,,Yamasaki Factory...
 Dialogue: 10,0:08:22.73,0:08:23.98,Default,Natsuki,0,0,0,,So it's about Atri!
 Dialogue: 10,0:08:23.98,0:08:25.27,Default,Catherine,0,0,0,,Yeah.
@@ -162,10 +163,10 @@ Dialogue: 10,0:09:25.37,0:09:29.28,Default,Catherine,0,0,0,,I told her I couldn'
 Dialogue: 10,0:09:32.28,0:09:35.75,Default,Catherine,0,0,0,,You should get going too.\nI can handle things here on my own.
 Dialogue: 10,0:09:35.75,0:09:38.34,Default,Catherine,0,0,0,,I still owe you one, after all.
 Dialogue: 10,0:09:40.06,0:09:41.14,Default,Natsuki,0,0,0,,Thanks.
-Dialogue: 10,0:09:50.84,0:09:53.64,Default,Natsuki,0,0,0,,Atri turned violent?
-Dialogue: 10,0:09:54.77,0:09:57.10,Default,Natsuki,0,0,0,,Is that why her memory was wiped?
-Dialogue: 10,0:09:57.66,0:10:00.54,Default,Natsuki,0,0,0,,Or maybe she's just been putting on an act,
-Dialogue: 10,0:10:01.17,0:10:02.37,Default,Natsuki,0,0,0,,and she really...
+Dialogue: 10,0:09:50.84,0:09:53.64,Default,Natsuki,0,0,0,,{\i1}Atri turned violent?
+Dialogue: 10,0:09:54.77,0:09:57.10,Default,Natsuki,0,0,0,,{\i1}Is that why her memory was wiped?
+Dialogue: 10,0:09:57.66,0:10:00.54,Default,Natsuki,0,0,0,,{\i1}Or maybe she's just been putting on an act,
+Dialogue: 10,0:10:01.17,0:10:02.37,Default,Natsuki,0,0,0,,{\i1}and she really is...
 Dialogue: 10,0:10:19.43,0:10:20.43,Default,Natsuki,0,0,0,,Who are you?
 Dialogue: 10,0:10:20.43,0:10:22.14,Default,Yasuda,0,0,0,,My name is Yasuda.
 Dialogue: 10,0:10:22.14,0:10:26.42,Default,Yasuda,0,0,0,,I was the head of Yamasaki Factory's\nresearch and development department.
@@ -181,10 +182,10 @@ Dialogue: 10,0:11:13.34,0:11:17.24,Default,Natsuki,0,0,0,,I trust you recognize 
 Dialogue: 10,0:11:17.54,0:11:19.59,Default,Natsuki,0,0,0,,Atri's logbook...
 Dialogue: 10,0:11:22.62,0:11:25.72,Default,Yasuda,0,0,0,,YHN-04B-009. {period?}
 Dialogue: 10,0:11:25.72,0:11:28.95,Default,Yasuda,0,0,0,,That unit's official serial number.
-Dialogue: 10,0:11:29.72,0:11:35.36,Default,Yasuda,0,0,0,,The fourth generation was designed\nto record written logs in an effort to emulate
-Dialogue: 10,0:11:35.36,0:11:39.23,Default,Yasuda,0,0,0,,a more human-like approach to\nmemory formation and knowledge acquisition.
-Dialogue: 10,0:11:40.45,0:11:43.70,Default,Natsuki,0,0,0,,"Today, I met my first master.
-Dialogue: 10,0:11:44.68,0:11:46.35,Default,Natsuki,0,0,0,,Her name is—
+Dialogue: 10,0:11:29.72,0:11:35.36,Default,Yasuda,0,0,0,,The fourth generation was designed\nto record written logs with the aim of
+Dialogue: 10,0:11:35.36,0:11:39.23,Default,Yasuda,0,0,0,,emulating a more human-like approach to\nmemory formation and knowledge acquisition.
+Dialogue: 10,0:11:40.45,0:11:43.70,Default,Natsuki,0,0,0,,"Today, I met my new master."
+Dialogue: 10,0:11:44.68,0:11:46.35,Default,Natsuki,0,0,0,,"Her name is—
 Dialogue: 10,0:11:49.02,0:11:50.65,Default,Natsuki,0,0,0,,Shiina..."
 Dialogue: 10,0:11:51.23,0:11:52.64,Default,Yasuda,0,0,0,,A familiar name, I'm sure.
 Dialogue: 10,0:11:55.53,0:11:57.10,Default,Natsuki,0,0,0,,No...
@@ -209,7 +210,7 @@ Dialogue: 10,0:13:04.57,0:13:07.85,Default,Yasuda,0,0,0,,The fourth generation t
 Dialogue: 10,0:13:07.85,0:13:10.49,Default,Yasuda,0,0,0,,Their algorithms for\ncomprehending human emotion
 Dialogue: 10,0:13:10.49,0:13:14.74,Default,Yasuda,0,0,0,,are sophisticated enough to uphold\nthe deception that they are capable of empathy.
 Dialogue: 10,0:13:15.29,0:13:19.25,Default,Yasuda,0,0,0,,But they have {\i1}absolutely nothing{\i0}\nresembling a true human heart.
-Dialogue: 10,0:13:21.07,0:13:23.61,Default,Yasuda,0,0,0,,Surely you must have realized this too.
+Dialogue: 10,0:13:21.07,0:13:23.61,Default,Yasuda,0,0,0,,You must have realized this too.
 Dialogue: 10,0:13:23.61,0:13:27.47,Default,Yasuda,0,0,0,,That no matter how strong or sincere,\nyour feelings will never be able to reach it. {?}
 Dialogue: 10,0:13:27.47,0:13:29.83,Default,Yasuda,0,0,0,,I assure you, your current path
 Dialogue: 10,0:13:30.48,0:13:32.79,Default,Yasuda,0,0,0,,is a long road that leads only to heartbreak. {these two lines, the heart metaphor ofc, but "the only heart to break will be your own" sort of makes no sense...?}{I read it as "Only one of you two has a heart, and it's going to break" -yon}
@@ -227,7 +228,7 @@ Dialogue: 10,0:14:32.53,0:14:34.94,Default,Atri,0,0,0,,Did you work up a big app
 Dialogue: 10,0:14:36.70,0:14:39.36,Default,Natsuki,0,0,0,,Yeah. Come to think of it,\nI haven't eaten anything all day.
 Dialogue: 10,0:14:39.67,0:14:41.69,Default,Atri,0,0,0,,Oh dear, we can't have that now!
 Dialogue: 10,0:14:41.69,0:14:43.11,Default,Atri,0,0,0,,Just one moment please!
-Dialogue: 10,0:14:43.11,0:14:47.24,Default,Atri,0,0,0,,Allow me to heat up your\nsecond helping of mom's cooking!
+Dialogue: 10,0:14:43.11,0:14:47.24,Default,Atri,0,0,0,,Allow me to heat up your\nsecond serving of mom's cooking!
 Dialogue: 10,0:14:47.24,0:14:48.87,Default,Natsuki,0,0,0,,Curry, right?
 Dialogue: 10,0:14:48.87,0:14:51.54,Default,Atri,0,0,0,,H-How'd you know?!
 Dialogue: 10,0:14:51.54,0:14:54.67,Default,Natsuki,0,0,0,,Curry's the classic day-after-nikujaga meal.
@@ -270,11 +271,11 @@ Dialogue: 10,0:18:17.92,0:18:18.99,Default,Natsuki,0,0,0,,The notebook...
 Dialogue: 10,0:18:19.63,0:18:20.89,Default,Natsuki,0,0,0,,Shit!
 Dialogue: 10,0:18:36.86,0:18:37.80,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:18:38.52,0:18:40.59,Default,Natsuki,0,0,0,,Yeah, that's how it is, isn't it?
-Dialogue: 10,0:18:41.69,0:18:43.56,Default,Natsuki,0,0,0,,Why didn't I understand
+Dialogue: 10,0:18:41.69,0:18:43.56,Default,Natsuki,0,0,0,,Why didn't I understand...
 Dialogue: 10,0:18:43.95,0:18:45.12,Default,Natsuki,0,0,0,,something so...
 Dialogue: 10,0:18:49.11,0:18:49.86,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:18:50.98,0:18:52.36,Default,Natsuki,0,0,0,,Atri!
-Dialogue: 10,0:19:02.09,0:19:03.62,Default,Miyo,0,0,0,,{*}Ms. Hana{*Hana-chan-sensei}!
+Dialogue: 10,0:19:02.09,0:19:03.62,Default,Miyo,0,0,0,,{*}Missus Hana{*Hana-chan-sensei}!
 Dialogue: 10,0:19:03.62,0:19:06.12,Default,Catherine,0,0,0,,If you lay one finger on my kids, I swear...{Tricky... "Let my damn kids go!"?}
 Dialogue: 10,0:19:06.12,0:19:08.08,Default,Yasuda,0,0,0,,By all means, relax.
 Dialogue: 10,0:19:08.08,0:19:11.30,Default,Yasuda,0,0,0,,They will be free to go\nas soon as that Humanoid arrives.
@@ -288,7 +289,7 @@ Dialogue: 10,0:19:36.52,0:19:38.91,Default,Ririka,0,0,0,,That's the thing! I cou
 Dialogue: 10,0:19:40.24,0:19:41.49,Default,Minamo,0,0,0,,Natsu{**-kun}...
 Dialogue: 10,0:19:41.92,0:19:43.12,Default,Yasuda,0,0,0,,Well, no matter.
 Dialogue: 10,0:19:43.59,0:19:45.03,Default,Yasuda,0,0,0,,Come over here.
-Dialogue: 10,0:19:58.48,0:20:00.47,Default,Toru and Miyo,0,0,0,,{*}Ms. Hana{*Hana-chan-sensei}!
+Dialogue: 10,0:19:58.48,0:20:00.47,Default,Toru and Miyo,0,0,0,,{*}Missus Hana{*Hana-chan-sensei}!
 Dialogue: 10,0:20:01.87,0:20:05.38,Default,Catherine,0,0,0,,There, there. It's okay. Everything's okay now.
 Dialogue: 10,0:20:06.23,0:20:09.19,Default,Minamo,0,0,0,,What are you going to do with Atri{**-chan}?
 Dialogue: 10,0:20:19.66,0:20:21.17,Default,Minamo,0,0,0,,Atri{**-chan}!
@@ -301,13 +302,13 @@ Dialogue: 10,0:20:46.88,0:20:48.48,Default,Subordinate,0,0,0,,Shut up and watch.
 Dialogue: 10,0:20:51.01,0:20:52.48,Default,Yasuda,0,0,0,,Honestly...
 Dialogue: 10,0:20:54.38,0:20:58.02,Default,Yasuda,0,0,0,,You disgrace the professor\nby attacking an innocent student
 Dialogue: 10,0:20:58.02,0:21:00.20,Default,Yasuda,0,0,0,,and even manage to escape justice all this time.
-Dialogue: 10,0:21:00.20,0:21:04.50,Default,Yasuda,0,0,0,,Just how much suffering\nmust you cause before you're satisfied?
+Dialogue: 10,0:21:00.20,0:21:04.50,Default,Yasuda,0,0,0,,Just how much suffering must you cause\nbefore you can be satisfied?
 Dialogue: 10,0:21:07.43,0:21:09.96,Default,Yasuda,0,0,0,,The professor gave you life,\nbrought you into this world,
 Dialogue: 10,0:21:11.14,0:21:14.09,Default,Yasuda,0,0,0,,and {\i1}this{\i0} is how you chose to repay him?
 Dialogue: 10,0:21:20.51,0:21:21.34,Default,Minamo,0,0,0,,Atri{**-chan}!
 Dialogue: 10,0:21:30.96,0:21:31.99,Default,Natsuki,0,0,0,,Fuck...
-Dialogue: 10,0:21:44.93,0:21:46.33,Default,Natsuki,0,0,0,,God dammit...
-Dialogue: 10,0:21:46.99,0:21:48.08,Default,Natsuki,0,0,0,,God dammit!
+Dialogue: 10,0:21:44.93,0:21:46.33,Default,Natsuki,0,0,0,,Goddammit...
+Dialogue: 10,0:21:46.99,0:21:48.08,Default,Natsuki,0,0,0,,Goddammit!
 Dialogue: 10,0:21:48.79,0:21:51.34,Default,Natsuki,0,0,0,,I need to...
 Dialogue: 10,0:21:51.34,0:21:53.08,Default,Natsuki,0,0,0,,Need to go find...
 Dialogue: 10,0:21:53.53,0:21:58.09,Default,Natsuki,0,0,0,,I need to go find that stupid worthless robot! {two-bit?}
@@ -319,14 +320,14 @@ Dialogue: 10,0:22:19.75,0:22:22.61,Default,Natsuki,0,0,0,,And she's my piece-of-
 Dialogue: 10,0:22:27.53,0:22:30.04,Default,Yasuda,0,0,0,,You defective {\i1}wretch{\i0}.
 Dialogue: 10,0:22:30.04,0:22:32.57,Default,Yasuda,0,0,0,,If it weren't for you, the professor...
 Dialogue: 10,0:22:32.57,0:22:35.04,Default,Yasuda,0,0,0,,If not! For you!
-Dialogue: 10,0:22:35.04,0:22:37.25,Default,Yasuda,0,0,0,,He'd still be—!
+Dialogue: 10,0:22:35.04,0:22:37.25,Default,Yasuda,0,0,0,,He'd still be—
 Dialogue: 10,0:22:41.58,0:22:45.76,Default,Yasuda,0,0,0,,If only you'd never existed, everything would've...
 Dialogue: 10,0:22:54.98,0:22:55.77,Default,Natsuki,0,0,0,,Atri!
 Dialogue: 10,0:22:56.06,0:22:57.15,Default,Catherine,0,0,0,,That's enough.
 Dialogue: 10,0:22:58.10,0:22:59.61,Default,Catherine,0,0,0,,You've had your fun.
 Dialogue: 10,0:22:59.61,0:23:02.58,Default,Yasuda,0,0,0,,What? Surely you jest!
 Dialogue: 10,0:23:02.58,0:23:05.11,Default,Yasuda,0,0,0,,This is a {\i1}Humanoid{\i0}.
-Dialogue: 10,0:23:05.11,0:23:07.16,Default,Yasuda,0,0,0,,Nothing of any concern.
+Dialogue: 10,0:23:05.11,0:23:07.16,Default,Yasuda,0,0,0,,Nothing that merits your concern.
 Dialogue: 10,0:23:08.48,0:23:10.91,Default,Yasuda,0,0,0,,Isn't that right?{I don't get it. Does Atri need to breathe? -Pik}
 Dialogue: 10,0:23:10.91,0:23:11.87,Default,Catherine,0,0,0,,Stop it!
 Dialogue: 10,0:23:12.17,0:23:17.75,Default,Yasuda,0,0,0,,In the end, the only thing you were ever good for\nwas tricking humans to empathize with you...

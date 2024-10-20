@@ -95,7 +95,6 @@ Dialogue: 10,0:05:27.24,0:05:29.73,Default,Natsuki,0,0,0,,all to output the most
 Dialogue: 10,0:05:30.26,0:05:33.77,Default,Natsuki,0,0,0,,She laughed when she was supposed to,\ngot angry when she was supposed to,
 Dialogue: 10,0:05:34.52,0:05:36.92,Default,Natsuki,0,0,0,,faithfully executing her programming
 Dialogue: 10,0:05:36.92,0:05:40.06,Default,Natsuki,0,0,0,,to perfectly tailor her words\nand manufacture her expressions.
-Comment: 10,0:05:34.52,0:05:40.06,Default,Natsuki,0,0,0,,faithfully executing her programming to perfectly\ntailor her words and manufacture her expressions.{regarding QC note: I have made the change, but I personally prefer the split version, so I have left it commented-out above. -Pikminiman}
 Dialogue: 10,0:05:42.33,0:05:45.61,Default,Natsuki,0,0,0,,That's all Humanoids are.
 Dialogue: 10,0:05:56.17,0:05:57.47,Default,Minamo,0,0,0,,You know what I think?
 Dialogue: 10,0:05:58.03,0:06:02.63,Default,Minamo,0,0,0,,I think that's no different\nfrom what we humans do.

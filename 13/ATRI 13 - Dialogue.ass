@@ -21,8 +21,8 @@ Video File: D:/Downloads/[SubsPlease] Atri - My Dear Moments - 13 (1080p) [EBC4E
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 347
-Active Line: 272
+Scroll Position: 360
+Active Line: 384
 Video Position: 25846
 
 [V4+ Styles]
@@ -33,7 +33,7 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.65,0:00:01.85,Default,Atri,0,0,0,,I...
-Dialogue: 0,0:00:02.50,0:00:03.61,Default,Atri,0,0,0,TLC,cannot go with you.{match if applying suggestion from 12 -yon}
+Dialogue: 0,0:00:02.50,0:00:03.61,Default,Atri,0,0,0,,won't go with you.
 Dialogue: 0,0:00:03.94,0:00:04.83,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 0,0:00:05.68,0:00:08.50,Default,Atri,0,0,0,,Thank you for everything.
 Dialogue: 0,0:00:09.04,0:00:10.62,Default,Natsuki,0,0,0,,Don't let her fool you!
@@ -339,7 +339,7 @@ Dialogue: 0,0:21:24.13,0:21:27.22,Default,Announcer,0,0,0,,today's rocket launch
 Dialogue: 0,0:21:27.77,0:21:30.69,Default,Granddaughter Yoko,0,0,0,,Oh, Granny Youko says she's watching, too! Let's go!
 Dialogue: 0,0:21:30.69,0:21:32.23,Default,Robot Ryuuji,0,0,0,,Can I?
 Dialogue: 0,0:21:32.23,0:21:34.11,Default,Robot Ryuuji,0,0,0,,I'm just a Humanoid...
-Dialogue: 0,0:21:35.07,0:21:37.36,Default,Granddaughter Yoko,0,0,0,,Are you still living in last century or what?
+Dialogue: 0,0:21:35.07,0:21:37.36,Default,Granddaughter Yoko,0,0,0,,Are you still living in the last century or what?
 Dialogue: 0,0:21:37.36,0:21:40.71,Default,Granddaughter Yoko,0,0,0,,Granny Youko and Grandpa Ryuuji couldn't care less about that!
 Dialogue: 0,0:21:40.71,0:21:41.61,Default,Granddaughter Yoko,0,0,0,,Come on!
 Dialogue: 0,0:21:41.61,0:21:42.61,Default,Robot Ryuuji,0,0,0,,H-Hey!

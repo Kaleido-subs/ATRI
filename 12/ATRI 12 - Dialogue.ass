@@ -63,7 +63,7 @@ Dialogue: 0,0:01:24.01,0:01:25.06,Default,Atri,0,0,0,,It's thataway!
 Dialogue: 0,0:01:25.51,0:01:26.95,Default,Minamo,0,0,0,,That way?
 Dialogue: 0,0:01:26.95,0:01:28.10,Default,Yoko,0,0,0,,That's all?
 Dialogue: 0,0:01:28.77,0:01:29.71,Default,Atri,0,0,0,,Yes.
-Dialogue: 0,0:01:30.50,0:01:32.33,Default,Atri,0,0,0,,At least, it {\i1}should{\i0} be...
+Dialogue: 0,0:01:30.50,0:01:32.33,Default,Atri,0,0,0,TLC,At least, it {\i1}should{\i0} be...{I read this less as unsureness, and more as "That's what the capsule told me anyways" -yon}
 Dialogue: 0,0:01:34.86,0:01:37.74,Default,Ryuuji,0,0,0,,So what even is "Eden," anyway?
 Dialogue: 0,0:01:37.74,0:01:39.20,Default,Atri,0,0,0,,No idea.
 Dialogue: 0,0:01:39.20,0:01:41.58,Default,Catherine,0,0,0,,Do you know the exact coordinates?
@@ -126,7 +126,7 @@ Dialogue: 0,0:06:09.13,0:06:10.64,Default,Minamo,0,0,0,,Atri{**-chan}?
 Dialogue: 0,0:06:11.00,0:06:14.65,Default,Yoko,0,0,0,,Don't just say things like that, dude. I'm sure she's trying her best.
 Dialogue: 0,0:06:14.65,0:06:18.15,Default,Ryuuji,0,0,0,,No, uh, I didn't mean it like that...
 Dialogue: 0,0:06:18.50,0:06:21.99,Default,Minamo,0,0,0,,Do you think the professor was just sending her on a fool's errand? {?}
-Dialogue: 0,0:06:21.99,0:06:24.91,Default,Natsuki,0,0,0,,No. Wouldn't put something like that past her,
+Dialogue: 0,0:06:21.99,0:06:24.91,Default,Natsuki,0,0,0,TLC,No. Wouldn't put something like that past her,{isn't the point here that he *would* put something like this past her, even if she was kind of an ass -yon}
 Dialogue: 0,0:06:24.91,0:06:27.00,Default,Natsuki,0,0,0,,but she was always a scientist first.
 Dialogue: 0,0:06:27.00,0:06:29.04,Default,Natsuki,0,0,0,,She'd never leave us an unsolvable problem.
 Dialogue: 0,0:06:33.74,0:06:36.83,Default,Atri,0,0,0,,Natsuki{**-san}, you won't believe what I found!
@@ -222,7 +222,7 @@ Dialogue: 0,0:12:25.86,0:12:27.20,Default,Natsuki,0,0,0,,Is this...
 Dialogue: 0,0:12:45.87,0:12:47.66,Default,Natsuki,0,0,0,,Could this really be...
 Dialogue: 0,0:12:48.45,0:12:49.38,Default,Natsuki,0,0,0,,Eden?
 Dialogue: 0,0:12:57.08,0:13:00.21,Default,Natsuki,0,0,0,,All this... is Eden?
-Dialogue: 0,0:13:02.91,0:13:06.03,Default,Natsuki,0,0,0,,She build something {\i1}this{\i0} huge?
+Dialogue: 0,0:13:02.91,0:13:06.03,Default,Natsuki,0,0,0,,She built something {\i1}this{\i0} huge?
 Dialogue: 0,0:13:25.64,0:13:27.05,Default,Natsuki,0,0,0,,These are real trees...
 Dialogue: 0,0:13:28.96,0:13:30.16,Default,Natsuki,0,0,0,,Insects too? Wait, no...
 Dialogue: 0,0:13:30.96,0:13:33.17,Default,Natsuki,0,0,0,,this thing's a robot.
@@ -296,7 +296,7 @@ Dialogue: 0,0:17:32.96,0:17:34.41,Default,Atri,0,0,0,,Gosh...
 Dialogue: 0,0:17:36.14,0:17:37.41,Default,Natsuki,0,0,0,,Sorry.
 Dialogue: 0,0:17:37.83,0:17:41.16,Default,Atri,0,0,0,,I-It's fine. I'm just acting as your leg!
 Dialogue: 0,0:18:07.47,0:18:08.94,Default,Natsuki,0,0,0,,Whoa...
-Dialogue: 0,0:18:09.26,0:18:11.69,Default,Atri,0,0,0,,Are these all edible plants?
+Dialogue: 0,0:18:09.26,0:18:11.69,Default,Atri,0,0,0,TLC,Are these all edible plants?{Why specify edible here? -yon}
 Dialogue: 0,0:18:11.69,0:18:13.05,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 0,0:18:13.05,0:18:17.12,Default,Natsuki,0,0,0,,She's automated food production so nobody has to go hungry.
 Dialogue: 0,0:18:18.35,0:18:21.00,Default,Natsuki,0,0,0,,You know, they laughed her out of academia
@@ -363,4 +363,4 @@ Dialogue: 0,0:21:51.69,0:21:52.75,Default,Natsuki,0,0,0,,Let's go.
 Dialogue: 0,0:21:53.67,0:21:56.18,Default,Natsuki,0,0,0,,We're getting out of here, Atri! That's an order!
 Dialogue: 0,0:21:58.87,0:22:00.18,Default,Atri,0,0,0,,I'm sorry.
 Dialogue: 0,0:22:02.43,0:22:03.43,Default,Natsuki,0,0,0,,Atri...
-Dialogue: 0,0:22:05.80,0:22:08.97,Default,Atri,0,0,0,,I cannot go with you.
+Dialogue: 0,0:22:05.80,0:22:08.97,Default,Atri,0,0,0,TLC,I cannot go with you.{I think I would prefer "I won't go with you" to emphasize this being her choice -yon}

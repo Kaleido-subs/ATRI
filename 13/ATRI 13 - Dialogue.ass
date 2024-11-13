@@ -33,7 +33,7 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.65,0:00:01.85,Default,Atri,0,0,0,,I...
-Dialogue: 0,0:00:02.50,0:00:03.61,Default,Atri,0,0,0,,cannot go with you.
+Dialogue: 0,0:00:02.50,0:00:03.61,Default,Atri,0,0,0,TLC,cannot go with you.{match if applying suggestion from 12 -yon}
 Dialogue: 0,0:00:03.94,0:00:04.83,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 0,0:00:05.68,0:00:08.50,Default,Atri,0,0,0,,Thank you for everything.
 Dialogue: 0,0:00:09.04,0:00:10.62,Default,Natsuki,0,0,0,,Don't let her fool you!
@@ -220,7 +220,7 @@ Dialogue: 0,0:11:59.94,0:12:01.11,Default,Atri,0,0,0,,Yes!
 Dialogue: 0,0:12:01.11,0:12:02.09,Default,Yoko,0,0,0,,See ya!
 Dialogue: 0,0:12:02.09,0:12:03.03,Default,Ryuuji,0,0,0,,Later.
 Dialogue: 0,0:12:07.13,0:12:08.39,Default,Atri,0,0,0,,Natsuki{**-san}...{Audio peaks on this line. Sound engineer-kun must have missed it. -Pik}
-Dialogue: 0,0:12:08.39,0:12:09.46,Default,,0,0,0,,Hm?
+Dialogue: 0,0:12:08.39,0:12:09.46,Default,Natsuki,0,0,0,,Hm?
 Dialogue: 0,0:12:13.30,0:12:14.71,Default,Natsuki,0,0,0,,Say no more.
 Dialogue: 0,0:12:17.27,0:12:20.13,Default,Atri,0,0,0,,I have a favor to ask of you, Minamo.
 Dialogue: 0,0:12:20.84,0:12:25.10,Default,Atri,0,0,0,,Once I'm gone, I want you to look after Natsuki{**-san}.

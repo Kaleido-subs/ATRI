@@ -16,9 +16,9 @@ Video File: D:/Downloads/[SubsPlease] Atri - My Dear Moments - 11 (1080p) [A8746
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 299
-Active Line: 303
-Video Position: 28842
+Scroll Position: 293
+Active Line: 305
+Video Position: 29894
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,7 +71,7 @@ Dialogue: 0,0:03:48.73,0:03:50.05,Default,Ririka,0,0,0,,Sensei...
 Dialogue: 0,0:03:51.10,0:03:53.93,Default,Miyo,0,0,0,,What are you gonna study at the Academy?
 Dialogue: 0,0:03:53.93,0:03:57.57,Default,Natsuki,0,0,0,,Back in the day, I wanted to build a rocket and ride it into space.
 Dialogue: 0,0:03:57.57,0:04:00.22,Default,Natsuki,0,0,0,,I wanted to get this world moving again.
-Dialogue: 0,0:04:00.55,0:04:04.97,Default,Natsuki,0,0,0,TLC,But now I want to learn so much more about Humanoids.{I feel like cutting "so much" or at least "so" would fit tone better -yon}
+Dialogue: 0,0:04:00.55,0:04:04.97,Default,Natsuki,0,0,0,,But now I want to learn more and more about Humanoids.
 Dialogue: 0,0:04:05.52,0:04:10.08,Default,Natsuki,0,0,0,,Stuff like how humans and \NHumanoids can coexist together,
 Dialogue: 0,0:04:10.08,0:04:13.52,Default,Natsuki,0,0,0,,or what we can do to help each other live our best lives.
 Dialogue: 0,0:04:13.83,0:04:17.49,Default,Natsuki,0,0,0,,Those are the sorts of big questions I want to find the answer to someday.
@@ -119,7 +119,7 @@ Dialogue: 0,0:06:32.28,0:06:35.83,Default,Ryuuji,0,0,0,,Seeing their smiles made
 Dialogue: 0,0:06:36.38,0:06:38.34,Default,Yoko,0,0,0,,You can count on me and Minamo to help, too!
 Dialogue: 0,0:06:38.34,0:06:38.84,Default,Minamo,0,0,0,,Yeah!
 Dialogue: 0,0:06:39.45,0:06:40.57,Default,Natsuki,0,0,0,,That's great!
-Dialogue: 0,0:06:49.58,0:06:52.92,Default,Yoko,0,0,0,TLC,Gotta say, Natsuki{**-kun} really is a decent guy, huh? {?! tricky, the "obvious" solution is bad imo, but I feel like there's something better}{how about something like "altruistic" -yon}
+Dialogue: 0,0:06:49.58,0:06:52.92,Default,Yoko,0,0,0,,Gotta say, Natsuki{**-kun} really is an awfully decent guy, huh? {?! tricky, the "obvious" solution is bad imo, but I feel like there's something better}{how about something like "altruistic" -yon}
 Dialogue: 0,0:06:52.92,0:06:55.11,Default,Minamo,0,0,0,,I've always known it.
 Dialogue: 0,0:07:05.42,0:07:07.62,Default,Natsuki,0,0,0,,Atri, what're you doing?
 Dialogue: 0,0:07:09.00,0:07:11.56,Default,Atri,0,0,0,,Nothing! I'm coming!
@@ -239,7 +239,7 @@ Dialogue: 0,0:13:57.55,0:13:59.65,Default,Natsuki,0,0,0,,Come on, come on...
 Dialogue: 0,0:14:03.52,0:14:07.41,Default,Natsuki,0,0,0,,So it {\i1}is{\i0} the battery. Let's see, charging methods...
 Dialogue: 0,0:14:07.76,0:14:10.11,Default,Natsuki,0,0,0,,"Due to high power draw requirements,
 Dialogue: 0,0:14:10.11,0:14:12.47,Default,Natsuki,0,0,0,,household charging presents significant hazards.
-Dialogue: 0,0:14:12.47,0:14:14.49,Default,Natsuki,0,0,0,TLC,To prevent permanent battery damage,{I think this is about the battery running out, not getting damaged -yon}
+Dialogue: 0,0:14:12.47,0:14:14.49,Default,Natsuki,0,0,0,,To prevent irreversible battery degradation,
 Dialogue: 0,0:14:14.49,0:14:17.66,Default,Natsuki,0,0,0,,periodic maintenance with the retailer is strongly advised..." {thoughts on the use of quotation marks?}
 Dialogue: 0,0:14:17.66,0:14:18.46,Default,Natsuki,0,0,0,,Shit!
 Dialogue: 0,0:14:20.89,0:14:22.22,Default,Minamo,0,0,0,,She's low on battery?

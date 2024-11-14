@@ -201,7 +201,7 @@ Dialogue: 10,0:12:47.64,0:12:49.66,Default,Natsuki,0,0,0,,all the things that ma
 Dialogue: 10,0:12:50.35,0:12:54.84,Default,Natsuki,0,0,0,,and that caused all her memories\nto come flooding back.
 Dialogue: 10,0:12:54.84,0:12:57.13,Default,Natsuki,0,0,0,,A whole lifetime of joy and sorrow.
 Dialogue: 10,0:12:57.52,0:12:59.20,Default,Natsuki,0,0,0,,Hitting her all at once.
-Dialogue: 10,0:12:59.20,0:13:01.61,Default,Atri,0,0,0,,Shiina-sama... {feel like the timing her stretches on too long}{also Miss Shiina for the no hono track probably}
+Dialogue: 10,0:12:59.20,0:13:01.61,Default,Atri,0,0,0,,Shiina{**-sama}... {feel like the timing her stretches on too long}{also Miss Shiina for the no hono track probably}
 Dialogue: 10,0:13:05.85,0:13:07.17,Default,Atri,0,0,0,,Initialized visual sensors. {should these sorta lines be italicized? looks bad imo}
 Dialogue: 10,0:13:07.17,0:13:09.10,Default,Atri,0,0,0,,Received instructions from new owner.
 Dialogue: 10,0:13:09.56,0:13:11.64,Default,Nonko,0,0,0,,I'm a busy woman.
@@ -227,10 +227,10 @@ Dialogue: 10,0:14:03.53,0:14:04.91,Default,Atri,0,0,0,,Atri...
 Dialogue: 10,0:14:06.81,0:14:10.95,Default,Atri,0,0,0,,That was the name I was given.
 Dialogue: 10,0:14:17.18,0:14:18.65,Default,Atri,0,0,0,,"Atri."
 Dialogue: 10,0:14:18.65,0:14:20.76,Default,Atri,0,0,0,,Under my newfound name,
-Dialogue: 10,0:14:21.26,0:14:24.03,Default,Atri,0,0,0,,I began to live with Shiina-sama.
+Dialogue: 10,0:14:21.26,0:14:24.03,Default,Atri,0,0,0,,I began to live with Shiina{**-sama}.
 Dialogue: 10,0:14:24.76,0:14:26.00,Default,Atri,0,0,0,,Ah.
 Dialogue: 10,0:14:26.47,0:14:28.47,Default,Shiina,0,0,0,,Are you okay?
-Dialogue: 10,0:14:30.65,0:14:32.35,Default,Atri,0,0,0,,Shiina-sama...
+Dialogue: 10,0:14:30.65,0:14:32.35,Default,Atri,0,0,0,,Shiina{**-sama}...
 Dialogue: 10,0:14:33.83,0:14:35.69,Default,Shiina,0,0,0,,You'll get the hang of it.
 Dialogue: 10,0:14:35.69,0:14:37.52,Default,Shiina,0,0,0,,You're high-spec.
 Dialogue: 10,0:14:37.95,0:14:39.86,Default,Atri,0,0,0,,High-spec?
@@ -247,7 +247,7 @@ Dialogue: 10,0:15:12.85,0:15:14.76,Default,Shiina,0,0,0,,Yeah! One more time!
 Dialogue: 10,0:15:14.76,0:15:16.56,Default,Atri,0,0,0,,I'm high-spec!
 Dialogue: 10,0:15:16.56,0:15:17.52,Default,Shiina,0,0,0,,Yeah!
 Dialogue: 10,0:15:20.94,0:15:24.44,Default,Atri,0,0,0,,I'm high-spec, baby!
-Dialogue: 10,0:15:26.31,0:15:30.66,Default,Atri,0,0,0,,Life with Shiina-sama was almost always\nspent with just the two of us.
+Dialogue: 10,0:15:26.31,0:15:30.66,Default,Atri,0,0,0,,Life with Shiina{**-sama} was almost always\nspent with just the two of us.
 Dialogue: 10,0:15:31.78,0:15:35.27,Default,Shiina,0,0,0,,Aw, can't you let me win even once?!
 Dialogue: 10,0:15:35.27,0:15:39.01,Default,Atri,0,0,0,,Why are you so frightened by this particular insect?
 Dialogue: 10,0:15:39.01,0:15:40.94,Default,Shiina,0,0,0,,Just kill it already!
@@ -256,7 +256,7 @@ Dialogue: 10,0:15:45.11,0:15:46.93,Default,Atri,0,0,0,,It'd be more efficient to
 Dialogue: 10,0:15:46.93,0:15:50.47,Default,Shiina,0,0,0,,No, no, baking it together\nmakes for a better memory!
 Dialogue: 10,0:15:51.12,0:15:55.09,Default,Atri,0,0,0,,But she seems as content as ever.
 Dialogue: 10,0:15:55.09,0:15:56.42,Default,Atri,0,0,0,,All is well.
-Dialogue: 10,0:15:59.64,0:16:02.48,Default,Atri,0,0,0,,Today is Shiina-sama's first day of middle school.
+Dialogue: 10,0:15:59.64,0:16:02.48,Default,Atri,0,0,0,,Today is Shiina{**-sama}'s first day of middle school.
 Dialogue: 10,0:16:02.90,0:16:05.86,Default,Atri,0,0,0,,I've discerned several changes\nin her affect as a result.
 Dialogue: 10,0:16:06.57,0:16:08.15,Default,Shiina,0,0,0,,What do you think, Atri?
 Dialogue: 10,0:16:08.15,0:16:09.74,Default,Shiina,0,0,0,,How do I look?
@@ -272,9 +272,9 @@ Dialogue: 10,0:16:40.64,0:16:42.11,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:16:43.65,0:16:45.86,Default,Shiina,0,0,0,,I've grown just as tall as you are, huh?
 Dialogue: 10,0:16:47.08,0:16:48.36,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:16:48.81,0:16:53.99,Default,Shiina,0,0,0,,I guess I'm gonna have to be\nthe big sister from now on...
-Dialogue: 10,0:16:58.05,0:17:02.50,Default,Atri,0,0,0,,That was the very last time\nI saw Shiina-sama's smile.
+Dialogue: 10,0:16:58.05,0:17:02.50,Default,Atri,0,0,0,,That was the very last time\nI saw Shiina{**-sama}'s smile.
 Dialogue: 10,0:17:07.45,0:17:13.22,Default,Atri,0,0,0,,According to the report filed by the school,\nthe inciting incident was an trivial matter.
-Dialogue: 10,0:17:13.67,0:17:18.27,Default,Atri,0,0,0,,Shiina-sama reproached another girl\nfor talking during class.
+Dialogue: 10,0:17:13.67,0:17:18.27,Default,Atri,0,0,0,,Shiina{**-sama} reproached another girl\nfor talking during class.
 Dialogue: 10,0:17:18.27,0:17:22.02,Default,Atri,0,0,0,,But presumably, the girl in question\nnursed a grudge over this interaction.
 Dialogue: 10,0:17:22.69,0:17:24.86,Default,Atri,0,0,0,,Wielding the influence she held within her class,
 Dialogue: 10,0:17:24.86,0:17:30.64,Default,Atri,0,0,0,,the girl in question incited many other students\nto become complicit in her vendetta.
@@ -332,7 +332,7 @@ Dialogue: 10,0:20:28.92,0:20:29.71,Default,Female Student A,0,0,0,,Do it!
 Dialogue: 10,0:20:32.87,0:20:35.26,Default,Atri,0,0,0,,The next thing I knew...
 Dialogue: 10,0:20:53.57,0:20:54.01,Default,Atri,0,0,0,,Shii— {possibly better to just delete this line? Just Miss— for the non-hono version?}
 Dialogue: 10,0:20:54.01,0:20:55.90,Default,Shiina,0,0,0,,Did I ever ask you to do something like this?!
-Dialogue: 10,0:20:56.43,0:20:57.53,Default,Atri,0,0,0,,Shiina-sama—
+Dialogue: 10,0:20:56.43,0:20:57.53,Default,Atri,0,0,0,,Shiina{**-sama}—
 Dialogue: 10,0:21:04.15,0:21:05.25,Default,Shiina,0,0,0,,You...
 Dialogue: 10,0:21:07.29,0:21:08.61,Default,Shiina,0,0,0,,monster.
 Dialogue: 10,0:21:14.40,0:21:17.06,Default,Yoko,0,0,0,,I... I don't know what to say.
@@ -350,7 +350,7 @@ Dialogue: 10,0:22:04.59,0:22:05.86,Default,Natsuki,0,0,0,,right there beside her
 Dialogue: 10,0:22:06.47,0:22:10.14,Default,Natsuki,0,0,0,,And I'm guessing Grandma eventually found her,
 Dialogue: 10,0:22:10.72,0:22:12.98,Default,Natsuki,0,0,0,,erased her memories,
 Dialogue: 10,0:22:13.77,0:22:15.89,Default,Atri,0,0,0,,and put her to sleep.
-Dialogue: 10,0:22:19.72,0:22:21.40,Default,Atri,0,0,0,,Natsuki-san...
+Dialogue: 10,0:22:19.72,0:22:21.40,Default,Atri,0,0,0,,Natsuki{**-san}...
 Dialogue: 10,0:22:21.40,0:22:22.95,Default,Natsuki,0,0,0,,How are you feeling?
 Dialogue: 10,0:22:23.67,0:22:26.52,Default,Atri,0,0,0,,I had a dream.
 Dialogue: 10,0:22:27.37,0:22:28.87,Default,Natsuki,0,0,0,,Whew...
@@ -361,10 +361,10 @@ Dialogue: 10,0:22:49.11,0:22:52.39,Default,Atri,0,0,0,,That's the spot I was alw
 Dialogue: 10,0:22:53.02,0:22:54.52,Default,Natsuki,0,0,0,,You were, huh?
 Dialogue: 10,0:22:55.44,0:23:00.65,Default,Atri,0,0,0,,Back then, I was contemplating ending\nall my vital functions right here, in this spot.
 Dialogue: 10,0:23:01.19,0:23:03.20,Default,Atri,0,0,0,,Just like you were.
-Dialogue: 10,0:23:05.48,0:23:09.28,Default,Atri,0,0,0,,After all, I'd failed to save Shiina-sama,\nthe person I loved more than anyone else.
+Dialogue: 10,0:23:05.48,0:23:09.28,Default,Atri,0,0,0,,After all, I'd failed to save Shiina{**-sama},\nthe person I loved more than anyone else.
 Dialogue: 10,0:23:11.11,0:23:11.99,Default,Atri,0,0,0,,But...
 Dialogue: 10,0:23:12.93,0:23:17.98,Default,Atri,0,0,0,,I just couldn't stand seeing you\nlook so sad, never once smiling... {?! possibly too treacherous}
-Dialogue: 10,0:23:18.94,0:23:24.84,Default,Atri,0,0,0,,So I recalled the song and the words\nShiina-sama taught me all those years ago.
+Dialogue: 10,0:23:18.94,0:23:24.84,Default,Atri,0,0,0,,So I recalled the song and the words\nShiina{**-sama} taught me all those years ago.
 Dialogue: 10,0:23:24.84,0:23:26.31,Default,Atri,0,0,0,,There, there.
 Dialogue: 10,0:23:26.31,0:23:27.84,Default,Atri,0,0,0,,It'll be all right.
 Dialogue: 10,0:23:31.09,0:23:32.17,Default,Natsuki,0,0,0,,I never did thank you for that.
@@ -384,13 +384,13 @@ Dialogue: 10,0:24:08.72,0:24:10.72,Default,Shiina,0,0,0,,I miss her so much.
 Dialogue: 10,0:24:10.72,0:24:10.76,Default,Shiina,0,0,0,,{\iclip(m 812.8 985.6 l 844.8 982.4 876.8 984 910.4 979.2 931.2 974.4 948.8 980.8 953.6 992 950.4 1009.6 940.8 1035.2 923.2 1057.6 905.6 1078.4 761.6 1072 446.4 876.8)}I miss her so much.
 Dialogue: 10,0:24:10.76,0:24:10.80,Default,Shiina,0,0,0,,{\iclip(m 1019.2 953.6 l 1017.6 979.2 1009.6 1001.6 992 1028.8 969.6 1046.4 948.8 1059.2 936 1073.6 451.2 1065.6 574.4 846.4)}I miss her so much.
 Dialogue: 10,0:24:10.80,0:24:10.85,Default,Shiina,0,0,0,,{\clip(m 1081.6 953.6 l 1070.4 979.2 1049.6 1004.8 1019.2 1025.6 1009.6 1038.4 1044.8 1043.2 1065.6 1062.4 1870.4 1073.6 1740.8 840)}I miss her so much.
-Dialogue: 10,0:24:13.77,0:24:15.93,Default,Atri,0,0,0,,Shiina-sama really said that?
+Dialogue: 10,0:24:13.77,0:24:15.93,Default,Atri,0,0,0,,Shiina{**-sama} really said that?
 Dialogue: 10,0:24:16.73,0:24:17.77,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:24:18.41,0:24:22.32,Default,Natsuki,0,0,0,,For the longest time,\nI never knew who she was talking about,
 Dialogue: 10,0:24:22.32,0:24:25.34,Default,Natsuki,0,0,0,,but now I don't think there's any doubt it was you.
 Dialogue: 10,0:24:26.81,0:24:31.29,Default,Natsuki,0,0,0,,You were her best friend in the whole world.
-Dialogue: 10,0:24:34.61,0:24:36.65,Default,Atri,0,0,0,,Shiina-sama...
-Dialogue: 10,0:24:37.38,0:24:39.54,Default,Atri,0,0,0,,Shiina-sama...
+Dialogue: 10,0:24:34.61,0:24:36.65,Default,Atri,0,0,0,,Shiina{**-sama}...
+Dialogue: 10,0:24:37.38,0:24:39.54,Default,Atri,0,0,0,,Shiina{**-sama}...
 Dialogue: 10,0:24:49.56,0:24:50.75,Default,Natsuki,0,0,0,,{\i1}Oh, I see now...{\i0}
 Dialogue: 10,0:24:51.54,0:24:53.56,Default,Natsuki,0,0,0,,{\i1}It wasn't that I wanted to be comforted...{\i0}
 Dialogue: 10,0:24:55.04,0:24:58.05,Default,Natsuki,0,0,0,,{\i1}I always wanted to be someone\nwho can comfort others...{\i0}

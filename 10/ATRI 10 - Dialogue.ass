@@ -68,12 +68,11 @@ Dialogue: 10,0:02:01.23,0:02:02.60,Default,Yasuda,0,0,0,,You're a lost cause, to
 Dialogue: 10,0:02:02.60,0:02:04.06,Default,Atri,0,0,0,,Stop it!
 Dialogue: 10,0:02:05.64,0:02:09.32,Default,Atri,0,0,0,,Natsuki{**-san} has nothing to do with this!
 Dialogue: 10,0:02:10.85,0:02:14.12,Default,Yasuda,0,0,0,,Then what do you propose?
-Dialogue: 10,0:03:48.95,0:03:52.30,Default,Yasuda,0,0,0,,Then what do you propose?
+Dialogue: 10,0:03:48.95,0:03:52.30,Default,Yasuda,0,0,0,,{\an8}Then what do you propose?
 Dialogue: 10,0:04:12.77,0:04:15.13,Default,Yasuda,0,0,0,,Did you see that, friends?
 Dialogue: 10,0:04:15.13,0:04:17.11,Default,Yasuda,0,0,0,,That was a clear act of violence!
 Dialogue: 10,0:04:17.11,0:04:21.11,Default,Yasuda,0,0,0,,This Humanoid, in contravention\nto the Three Laws, struck me!
-Dialogue: 10,0:04:21.11,0:04:24.45,Default,Yasuda,0,0,0,,This lowly manmade tool
-Dialogue: 10,0:04:24.45,0:04:26.78,Default,Yasuda,0,0,0,,struck a human!
+Dialogue: 10,0:04:21.11,0:04:26.78,Default,Yasuda,0,0,0,ED,This lowly manmade tool struck a human!{@ED joined. consider emphasis on "tool", and maybe "human" too? -p}
 Dialogue: 10,0:04:28.67,0:04:30.33,Default,Yasuda,0,0,0,,And so the truth comes out!
 Dialogue: 10,0:04:30.33,0:04:32.54,Default,Yasuda,0,0,0,,This is more than I had even hoped for!
 Dialogue: 10,0:04:32.89,0:04:35.30,Default,Yasuda,0,0,0,,A robot has harmed a human!
@@ -84,7 +83,7 @@ Dialogue: 10,0:04:56.90,0:04:58.40,Default,Subordinate A,0,0,0,,Y-Yasuda{**-san}
 Dialogue: 10,0:05:00.54,0:05:01.57,Default,Subordinate A,0,0,0,,S-Stay back!
 Dialogue: 10,0:05:15.58,0:05:16.67,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:05:20.55,0:05:21.92,Default,Atri,0,0,0,,Natsuki{**-san}...
-Dialogue: 10,0:05:24.74,0:05:28.23,Default,Atri,0,0,0,,Please decomission me.
+Dialogue: 10,0:05:24.74,0:05:28.23,Default,Atri,0,0,0,,Please decommission me.
 Dialogue: 10,0:05:29.92,0:05:30.82,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:05:30.82,0:05:32.98,Default,Atri,0,0,0,,I'm defective.
 Dialogue: 10,0:05:33.35,0:05:36.87,Default,Atri,0,0,0,,I'm willing to hurt and injure people.
@@ -162,8 +161,8 @@ Dialogue: 10,0:10:39.72,0:10:41.86,Default,Natsuki,0,0,0,,Everyone makes mistake
 Dialogue: 10,0:10:42.45,0:10:45.01,Default,Natsuki,0,0,0,,We all do things we know are wrong,
 Dialogue: 10,0:10:45.61,0:10:48.45,Default,Natsuki,0,0,0,,or say things we really don't mean.
 Dialogue: 10,0:10:49.88,0:10:54.22,Default,Natsuki,0,0,0,,But because of that, we get to feel emotions\nlike joy, or sorrow, or anger.
-Dialogue: 10,0:10:56.22,0:10:59.51,Default,Natsuki,0,0,0,,And right now, I feel like\nI want to always be there for you
-Dialogue: 10,0:10:59.51,0:11:00.59,Default,Natsuki,0,0,0,,because {unsure about this splitting}
+Dialogue: 10,0:10:56.22,0:10:59.51,Default,Natsuki,0,0,0,,And right now, I feel like\nI want to always be there for you,
+Dialogue: 10,0:10:59.51,0:11:00.59,Default,Natsuki,0,0,0,ED,because...{unsure about this splitting}{@ED/TM spitting itself is _fine_; added punct to make it work better -p}
 Dialogue: 10,0:11:01.69,0:11:03.04,Default,Natsuki,0,0,0,,I love you.
 Dialogue: 10,0:11:04.49,0:11:06.10,Default,Atri,0,0,0,,Natsuki{**-san}...
 Dialogue: 10,0:11:06.10,0:11:08.23,Default,Natsuki,0,0,0,,Those are the feelings from my heart.
@@ -344,7 +343,8 @@ Dialogue: 10,0:21:32.97,0:21:35.32,Default,Natsuki,0,0,0,,And for years, she fol
 Dialogue: 10,0:21:35.62,0:21:37.32,Default,Natsuki,0,0,0,,always watching over her.
 Dialogue: 10,0:21:40.67,0:21:49.17,Default,Atri,0,0,0,,I sit on the sill... to feel the rain...
 Dialogue: 10,0:21:49.83,0:21:56.34,Default,Natsuki,0,0,0,,Even after Mom graduated,\ngot married, and had me...
-Dialogue: 10,0:21:57.51,0:22:01.88,Default,Natsuki,0,0,0,,Atri was always...
+Dialogue: 10,0:21:57.51,0:21:58.56,Default,Natsuki,0,0,0,TM,Atri was always...{@TM felt like this needed a split -p}
+Dialogue: 10,0:22:00.80,0:22:01.88,Default,Natsuki,0,0,0,,always...{@ED could consider alternatives to "always" here as well? -p}
 Dialogue: 10,0:22:02.70,0:22:03.92,Default,Natsuki,0,0,0,,always...
 Dialogue: 10,0:22:04.59,0:22:05.86,Default,Natsuki,0,0,0,,right there beside her.
 Dialogue: 10,0:22:06.47,0:22:10.14,Default,Natsuki,0,0,0,,And I'm guessing Grandma eventually found her,
@@ -384,6 +384,8 @@ Dialogue: 10,0:24:08.72,0:24:10.72,Default,Shiina,0,0,0,,I miss her so much.
 Dialogue: 10,0:24:10.72,0:24:10.76,Default,Shiina,0,0,0,,{\iclip(m 812.8 985.6 l 844.8 982.4 876.8 984 910.4 979.2 931.2 974.4 948.8 980.8 953.6 992 950.4 1009.6 940.8 1035.2 923.2 1057.6 905.6 1078.4 761.6 1072 446.4 876.8)}I miss her so much.
 Dialogue: 10,0:24:10.76,0:24:10.80,Default,Shiina,0,0,0,,{\iclip(m 1019.2 953.6 l 1017.6 979.2 1009.6 1001.6 992 1028.8 969.6 1046.4 948.8 1059.2 936 1073.6 451.2 1065.6 574.4 846.4)}I miss her so much.
 Dialogue: 10,0:24:10.80,0:24:10.85,Default,Shiina,0,0,0,,{\clip(m 1081.6 953.6 l 1070.4 979.2 1049.6 1004.8 1019.2 1025.6 1009.6 1038.4 1044.8 1043.2 1065.6 1062.4 1870.4 1073.6 1740.8 840)}I miss her so much.
+Dialogue: 10,0:24:10.85,0:24:10.89,Default,Shiina,0,0,0,,{\clip(m 1870.4 1073.6 l 1740.8 840 1141.09 933.82 b 1134.22 969.18 1083.32 988.39 1063.7 1011.36 1087.68 1011.28 1120.4 1031.28 1131.64 1048)}I miss her so much.
+Dialogue: 10,0:24:10.89,0:24:10.93,Default,Shiina,0,0,0,,{\clip(m 1870.4 1073.6 l 1740.8 840 1203.29 908.57 b 1197.52 938.27 1161.67 956.83 1137.41 975.29 1129.98 981.99 1125.45 985.47 1133.67 987.69 1152.41 992.62 1174.34 1011.27 1193.84 1022.75)}I miss her so much.
 Dialogue: 10,0:24:13.77,0:24:15.93,Default,Atri,0,0,0,,Shiina{**-sama} really said that?
 Dialogue: 10,0:24:16.73,0:24:17.77,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:24:18.41,0:24:22.32,Default,Natsuki,0,0,0,,For the longest time,\nI never knew who she was talking about,

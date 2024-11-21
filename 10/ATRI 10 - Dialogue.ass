@@ -201,8 +201,8 @@ Dialogue: 10,0:12:50.35,0:12:54.84,Default,Natsuki,0,0,0,,and that caused all he
 Dialogue: 10,0:12:54.84,0:12:57.13,Default,Natsuki,0,0,0,,A whole lifetime of joy and sorrow.
 Dialogue: 10,0:12:57.52,0:12:59.20,Default,Natsuki,0,0,0,,Hitting her all at once.
 Dialogue: 10,0:12:59.20,0:13:01.61,Default,Atri,0,0,0,,Shiina{**-sama}... {feel like the timing her stretches on too long}{also Miss Shiina for the no hono track probably}
-Dialogue: 10,0:13:05.85,0:13:07.17,Default,Atri,0,0,0,,Initializing visual sensors. {should these sorta lines be italicized? looks bad imo}
-Dialogue: 10,0:13:07.17,0:13:09.10,Default,Atri,0,0,0,,Awaiting instructions from new owner.
+Dialogue: 10,0:13:05.85,0:13:07.17,Default,Atri,0,0,0,,{\i1}Initializing visual sensors. {should these sorta lines be italicized? looks bad imo}
+Dialogue: 10,0:13:07.17,0:13:09.10,Default,Atri,0,0,0,,{\i1}Awaiting instructions from new owner.
 Dialogue: 10,0:13:09.56,0:13:11.64,Default,Nonko,0,0,0,,I'm a busy woman.
 Dialogue: 10,0:13:11.64,0:13:14.80,Default,Nonko,0,0,0,,Take care of this girl for me, got it?
 Dialogue: 10,0:13:15.83,0:13:18.49,Default,Shiina,0,0,0,,Wow! You're the Humanoid?
@@ -223,10 +223,10 @@ Dialogue: 10,0:13:54.75,0:13:57.90,Default,Shiina,0,0,0,,That little birdie is c
 Dialogue: 10,0:13:57.90,0:13:59.85,Default,Shiina,0,0,0,,So you can be Atri!
 Dialogue: 10,0:13:59.85,0:14:01.82,Default,Shiina,0,0,0,,Whaddya think? It's a pretty name, isn't it?
 Dialogue: 10,0:14:03.53,0:14:04.91,Default,Atri,0,0,0,,Atri...
-Dialogue: 10,0:14:06.81,0:14:10.95,Default,Atri,0,0,0,ST,That was the name I was given.{@ST italicize? some of these are future atri's internal thoughts; some (later) seem like they'd be present (flashback) atri's internal. labeled all ST -p}
+Dialogue: 10,0:14:06.81,0:14:10.95,Default,Atri,0,0,0,,{\i1}That was the name I was given.{@ST italicize? some of these are future atri's internal thoughts; some (later) seem like they'd be present (flashback) atri's internal. labeled all ST -p}
 Dialogue: 10,0:14:17.18,0:14:18.65,Default,Atri,0,0,0,,"Atri."
-Dialogue: 10,0:14:18.65,0:14:20.76,Default,Atri,0,0,0,ST,Under my newfound name,
-Dialogue: 10,0:14:21.26,0:14:24.03,Default,Atri,0,0,0,,I began to live with Shiina{**-sama}.
+Dialogue: 10,0:14:18.65,0:14:20.76,Default,Atri,0,0,0,,{\i1}Under my newfound name,
+Dialogue: 10,0:14:21.26,0:14:24.03,Default,Atri,0,0,0,,{\i1}I began to live with Shiina{**-sama}.
 Dialogue: 10,0:14:24.76,0:14:26.00,Default,Atri,0,0,0,,Ah.
 Dialogue: 10,0:14:26.47,0:14:28.47,Default,Shiina,0,0,0,,Are you okay?
 Dialogue: 10,0:14:30.65,0:14:32.35,Default,Atri,0,0,0,,Shiina{**-sama}...
@@ -246,17 +246,17 @@ Dialogue: 10,0:15:12.85,0:15:14.76,Default,Shiina,0,0,0,,Yeah! One more time!
 Dialogue: 10,0:15:14.76,0:15:16.56,Default,Atri,0,0,0,,I'm high-spec!
 Dialogue: 10,0:15:16.56,0:15:17.52,Default,Shiina,0,0,0,,Yeah!
 Dialogue: 10,0:15:20.94,0:15:24.44,Default,Atri,0,0,0,,I'm high-spec, baby!
-Dialogue: 10,0:15:26.31,0:15:30.66,Default,Atri,0,0,0,ST,Life with Shiina{**-sama} was almost always\nspent with just the two of us.
+Dialogue: 10,0:15:26.31,0:15:30.66,Default,Atri,0,0,0,,{\i1}Life with Shiina{**-sama} was almost always\nspent with just the two of us.
 Dialogue: 10,0:15:31.78,0:15:35.27,Default,Shiina,0,0,0,,Aw, can't you let me win even once?!
 Dialogue: 10,0:15:35.27,0:15:39.01,Default,Atri,0,0,0,,Why are you so frightened by this particular insect?
 Dialogue: 10,0:15:39.01,0:15:40.94,Default,Shiina,0,0,0,,Just kill it already!
 Dialogue: 10,0:15:42.59,0:15:45.11,Default,Atri,0,0,0,,Why go to the effort of making this?
 Dialogue: 10,0:15:45.11,0:15:46.93,Default,Atri,0,0,0,,It'd be more efficient to simply buy one.
 Dialogue: 10,0:15:46.93,0:15:50.47,Default,Shiina,0,0,0,,No, no, baking it together\nmakes for a better memory!
-Dialogue: 10,0:15:51.12,0:15:55.09,Default,Atri,0,0,0,ST,But she seems as content as ever.
-Dialogue: 10,0:15:55.09,0:15:56.42,Default,Atri,0,0,0,ST,All is well.
-Dialogue: 10,0:15:59.64,0:16:02.48,Default,Atri,0,0,0,ST,Today is Shiina{**-sama}'s first day of middle school.
-Dialogue: 10,0:16:02.90,0:16:05.86,Default,Atri,0,0,0,ST,I've discerned several changes\nin her affect as a result.{congrats you've made me google a word -p}
+Dialogue: 10,0:15:51.12,0:15:55.09,Default,Atri,0,0,0,,{\i1}But she seems as content as ever.
+Dialogue: 10,0:15:55.09,0:15:56.42,Default,Atri,0,0,0,,{\i1}All is well.
+Dialogue: 10,0:15:59.64,0:16:02.48,Default,Atri,0,0,0,,{\i1}Today is Shiina{**-sama}'s first day of middle school.
+Dialogue: 10,0:16:02.90,0:16:05.86,Default,Atri,0,0,0,,{\i1}I've discerned several changes\nin her affect as a result.{congrats you've made me google a word -p}
 Dialogue: 10,0:16:06.57,0:16:08.15,Default,Shiina,0,0,0,,What do you think, Atri?
 Dialogue: 10,0:16:08.15,0:16:09.74,Default,Shiina,0,0,0,,How do I look?
 Dialogue: 10,0:16:09.74,0:16:11.02,Default,Atri,0,0,0,,Very stylish.
@@ -271,19 +271,19 @@ Dialogue: 10,0:16:40.64,0:16:42.11,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:16:43.65,0:16:45.86,Default,Shiina,0,0,0,,I've grown just as tall as you are, huh?
 Dialogue: 10,0:16:47.08,0:16:48.36,Default,Atri,0,0,0,,You have.
 Dialogue: 10,0:16:48.81,0:16:53.99,Default,Shiina,0,0,0,,I guess I'm gonna have to be\nthe big sister from now on...
-Dialogue: 10,0:16:58.05,0:17:02.50,Default,Atri,0,0,0,ST,That was the very last time\nI saw Shiina{**-sama}'s smile.
-Dialogue: 10,0:17:07.45,0:17:13.22,Default,Atri,0,0,0,ST,According to the report filed by the school,\nthe inciting incident was a trivial matter.
-Dialogue: 10,0:17:13.67,0:17:18.27,Default,Atri,0,0,0,ST,Shiina{**-sama} reproached another girl\nfor talking during class.
-Dialogue: 10,0:17:18.27,0:17:22.02,Default,Atri,0,0,0,ST,But presumably, the girl in question\nnursed a grudge over this interaction.
-Dialogue: 10,0:17:22.69,0:17:24.86,Default,Atri,0,0,0,ST,Wielding the influence she held within her class,
-Dialogue: 10,0:17:24.86,0:17:30.64,Default,Atri,0,0,0,ST,the girl in question incited many other students\nto become complicit in her vendetta.
-Dialogue: 10,0:17:31.99,0:17:36.08,Default,Atri,0,0,0,ST,Such a case of peer abuse is\na common social issue known as "bullying."
+Dialogue: 10,0:16:58.05,0:17:02.50,Default,Atri,0,0,0,,{\i1}That was the very last time\nI saw Shiina{**-sama}'s smile.
+Dialogue: 10,0:17:07.45,0:17:13.22,Default,Atri,0,0,0,,{\i1}According to the report filed by the school,\nthe inciting incident was a trivial matter.
+Dialogue: 10,0:17:13.67,0:17:18.27,Default,Atri,0,0,0,,{\i1}Shiina{**-sama} reproached another girl\nfor talking during class.
+Dialogue: 10,0:17:18.27,0:17:22.02,Default,Atri,0,0,0,,{\i1}But presumably, the girl in question\nnursed a grudge over this interaction.
+Dialogue: 10,0:17:22.69,0:17:24.86,Default,Atri,0,0,0,,{\i1}Wielding the influence she held within her class,
+Dialogue: 10,0:17:24.86,0:17:30.64,Default,Atri,0,0,0,,{\i1}the girl in question incited many other students\nto become complicit in her vendetta.
+Dialogue: 10,0:17:31.99,0:17:36.08,Default,Atri,0,0,0,,{\i1}Such a case of peer abuse is\na common social issue known as "bullying."
 Dialogue: 10,0:17:36.08,0:17:39.01,Default,Shiina,0,0,0,,I told you not to touch it!
 Dialogue: 10,0:17:39.01,0:17:40.54,Default,Atri,0,0,0,,My apologies.
 Dialogue: 10,0:17:45.30,0:17:46.41,Default,Shiina,0,0,0,,I'm sorry...
-Dialogue: 10,0:17:49.04,0:17:51.05,Default,Atri,0,0,0,ST,Clear signs of elevated stress observed.
-Dialogue: 10,0:17:51.36,0:17:55.77,Default,Atri,0,0,0,ST,For three concurrent months now,\nher stress levels have remained in the red zone.
-Dialogue: 10,0:17:56.75,0:17:58.27,Default,Atri,0,0,0,ST,Immediate intervention is needed.
+Dialogue: 10,0:17:49.04,0:17:51.05,Default,Atri,0,0,0,,{\i1}Clear signs of elevated stress observed.
+Dialogue: 10,0:17:51.36,0:17:55.77,Default,Atri,0,0,0,,{\i1}For three concurrent months now,\nher stress levels have remained in the red zone.
+Dialogue: 10,0:17:56.75,0:17:58.27,Default,Atri,0,0,0,,{\i1}Immediate intervention is needed.
 Dialogue: 10,0:18:03.43,0:18:04.27,Default,Shiina,0,0,0,,What?
 Dialogue: 10,0:18:04.27,0:18:06.75,Default,Atri,0,0,0,,You should talk to Nonko.
 Dialogue: 10,0:18:06.75,0:18:09.29,Default,Shiina,0,0,0,,Mom's busy.
@@ -304,12 +304,12 @@ Dialogue: 10,0:18:48.64,0:18:50.46,Default,Shiina,0,0,0,,Oh, who am I kidding?
 Dialogue: 10,0:18:50.46,0:18:52.01,Default,Shiina,0,0,0,,You're a Humanoid.
 Dialogue: 10,0:18:52.01,0:18:54.24,Default,Shiina,0,0,0,,You don't even {\i1}have{\i0} feelings.
 Dialogue: 10,0:18:55.27,0:18:56.22,Default,Atri,0,0,0,,Right.
-Dialogue: 10,0:18:57.52,0:19:00.01,Default,Atri,0,0,0,ST,Stress levels have been further exacerbated.
-Dialogue: 10,0:19:00.01,0:19:02.00,Default,Atri,0,0,0,ST,This cannot be allowed to continue.
-Dialogue: 10,0:19:02.44,0:19:04.22,Default,Atri,0,0,0,ST,I have to do {\i1}something.{\i0}
-Dialogue: 10,0:19:06.58,0:19:08.21,Default,Atri,0,0,0,,{\i1}Anything!{\i0}
-Dialogue: 10,0:19:17.06,0:19:21.81,Default,Atri,0,0,0,ST,Her class appears to have decided on the\nlead actress for its cultural festival performance.
-Dialogue: 10,0:19:24.09,0:19:30.09,Default,Atri,0,0,0,ST,Inferring that she was nominated\nfor the role against her will.
+Dialogue: 10,0:18:57.52,0:19:00.01,Default,Atri,0,0,0,,{\i1}Stress levels have been further exacerbated.
+Dialogue: 10,0:19:00.01,0:19:02.00,Default,Atri,0,0,0,,{\i1}This cannot be allowed to continue.
+Dialogue: 10,0:19:02.44,0:19:04.22,Default,Atri,0,0,0,,{\i1}I have to do something.
+Dialogue: 10,0:19:06.58,0:19:08.21,Default,Atri,0,0,0,,{\i1}Anything!
+Dialogue: 10,0:19:17.06,0:19:21.81,Default,Atri,0,0,0,,{\i1}Her class appears to have decided on the\nlead actress for its cultural festival performance.
+Dialogue: 10,0:19:24.09,0:19:30.09,Default,Atri,0,0,0,,{\i1}Inferring that she was nominated\nfor the role against her will.
 Dialogue: 10,0:19:32.94,0:19:35.95,Default,Female student D,0,0,0,,I heard she's about to jump off the roof!
 Dialogue: 10,0:19:35.95,0:19:36.91,Default,Female Student E,0,0,0,,For real?
 Dialogue: 10,0:19:36.91,0:19:39.04,Default,Female Student D,0,0,0,,Yeah, it's wild!
@@ -320,15 +320,15 @@ Dialogue: 10,0:20:04.69,0:20:05.64,Default,Teacher A,0,0,0,,Hey!
 Dialogue: 10,0:20:05.64,0:20:08.00,Default,Female Student A,0,0,0,,If you really wanna die,\nno one's gonna stop you.
 Dialogue: 10,0:20:08.00,0:20:11.36,Default,Female Student A,0,0,0,,And you won't have to act in the play that way.
 Dialogue: 10,0:20:11.36,0:20:13.86,Default,Female Student A,0,0,0,,So hurry up and jump already.
-Dialogue: 10,0:20:13.86,0:20:15.42,Default,Female Student A,0,0,0,,{\an8}Do it!
+Dialogue: 10,0:20:13.86,0:20:15.42,Default,Female Student A,0,0,0,,Do it!
 Dialogue: 10,0:20:15.42,0:20:26.41,Alt,Female Student A; B and C,0,0,0,,{\an8}Do it! Do it! Do it!
-Dialogue: 10,0:20:17.06,0:20:21.66,Default,Atri,0,0,0,ST,A fall from her height\nhas a fatality rate of 97 percent.
-Dialogue: 10,0:20:22.23,0:20:23.41,Default,Atri,0,0,0,ST,{\fad(0,100)}Danger.
-Dialogue: 10,0:20:23.41,0:20:24.96,Default,Atri,0,0,0,ST,{\fad(100,100)}Danger.
-Dialogue: 10,0:20:24.96,0:20:26.41,Default,Atri,0,0,0,ST,{\fad(100,0)}Danger!
-Dialogue: 10,0:20:27.21,0:20:28.92,Default,Atri,0,0,0,ST,I have to take action.
+Dialogue: 10,0:20:17.06,0:20:21.66,Default,Atri,0,0,0,,{\i1}A fall from her height\nhas a fatality rate of 97 percent.
+Dialogue: 10,0:20:22.23,0:20:23.41,Default,Atri,0,0,0,,{\fad(0,100)\i1}Danger.
+Dialogue: 10,0:20:23.41,0:20:24.96,Default,Atri,0,0,0,,{\fad(100,100)\i1}Danger.
+Dialogue: 10,0:20:24.96,0:20:26.41,Default,Atri,0,0,0,,{\fad(100,0)\i1}Danger!
+Dialogue: 10,0:20:27.21,0:20:28.92,Default,Atri,0,0,0,,{\i1}I have to take action.
 Dialogue: 10,0:20:28.92,0:20:29.71,Default,Female Student A,0,0,0,,Do it!
-Dialogue: 10,0:20:32.87,0:20:35.26,Default,Atri,0,0,0,ST,The next thing I knew...
+Dialogue: 10,0:20:32.87,0:20:35.26,Default,Atri,0,0,0,,{\i1}The next thing I knew...
 Dialogue: 10,0:20:53.57,0:20:54.01,Default,Atri,0,0,0,,Shii—
 Dialogue: 10,0:20:54.01,0:20:55.90,Default,Shiina,0,0,0,,Did I ever ask you to do something like this?!
 Dialogue: 10,0:20:56.43,0:20:57.53,Default,Atri,0,0,0,,Shiina{**-sama}—

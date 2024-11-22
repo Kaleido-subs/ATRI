@@ -20,8 +20,8 @@
 |                       | Pikminiman (05-13)                                 |                  | Petzku (OP1, ED1)    |
 | **Typesetting**       | Nyarthur                                           |                  |                      |
 | **Quality Control**   | petzku                                             |                  |                      |
-|                       | BB (01, 04-07)                                     |                  |                      |
-|                       | Nazaki (02-03, 10-13)                              |                  |                      |
+|                       | BB (01, 04-07, 10)                                 |                  |                      |
+|                       | Nazaki (02-03, 11-13)                              |                  |                      |
 | **Special Thanks**    | TheRoosterPL (Moral Support, Signspotting (06-13)) |                  |                      |
 
 ### Video

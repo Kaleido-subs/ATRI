@@ -47,14 +47,14 @@ Dialogue: 10,0:00:45.24,0:00:47.53,Default,Natsuki,0,0,0,,Just like any one of u
 Dialogue: 10,0:00:53.37,0:00:54.25,Default,Natsuki,0,0,0,,Atri!
 Dialogue: 10,0:00:57.58,0:00:59.15,Default,Atri,0,0,0,,Natsuki{**-san}...
 Dialogue: 10,0:01:00.66,0:01:01.67,Default,Yasuda,0,0,0,,Unbelievable.
-Dialogue: 10,0:01:02.59,0:01:06.18,Default,Yasuda,0,0,0,,What a truly wretched machine you are...
+Dialogue: 10,0:01:02.59,0:01:06.18,Default,Yasuda,0,0,0,,What a truly wretched machine you are,
 Dialogue: 10,0:01:06.18,0:01:09.19,Default,Yasuda,0,0,0,,deceiving this poor boy to such an extent.
 Dialogue: 10,0:01:12.73,0:01:13.43,Default,Ryuuji,0,0,0,,Natsu!
 Dialogue: 10,0:01:16.15,0:01:17.93,Default,Yasuda,0,0,0,,Professor Konishi was truly
 Dialogue: 10,0:01:19.38,0:01:21.29,Default,Yasuda,0,0,0,,a sinful man.
 Dialogue: 10,0:01:25.27,0:01:28.41,Default,Yasuda,0,0,0,,Nothing short of the devil\ncould have ever wrought such a creation.
 Dialogue: 10,0:01:34.14,0:01:35.70,Default,Yasuda,0,0,0,,For you see...
-Dialogue: 10,0:01:35.70,0:01:40.86,Default,Yasuda,0,0,0,,if this unit hadn't committed that atrocity...\nif it hadn't escaped justice...
+Dialogue: 10,0:01:35.70,0:01:40.86,Default,Yasuda,0,0,0,,if this unit hadn't committed that atrocity,\nif it hadn't escaped justice,
 Dialogue: 10,0:01:40.86,0:01:43.76,Default,Yasuda,0,0,0,,both the professor and the factory\nwould be alive and well.
 Dialogue: 10,0:01:44.30,0:01:48.71,Default,Yasuda,0,0,0,,But all because of this {\i1}thing{\i0},\nthis defective pile of scrap metal...{wtf, where's the whistle-blowing _now_? -p}
 Dialogue: 10,0:01:50.14,0:01:50.97,Default,Natsuki,0,0,0,,No.
@@ -143,7 +143,7 @@ Dialogue: 10,0:09:56.02,0:09:58.62,Default,Atri,0,0,0,,Everything seems to be in
 Dialogue: 10,0:09:58.62,0:10:00.29,Default,Natsuki,0,0,0,,Phew, that's good.
 Dialogue: 10,0:10:02.13,0:10:03.33,Default,Atri,0,0,0,,Um...
 Dialogue: 10,0:10:03.33,0:10:06.84,Default,Natsuki,0,0,0,,You don't have to worry about Yasuda ever again.
-Dialogue: 10,0:10:06.84,0:10:10.38,Default,Natsuki,0,0,0,,Catherine and Ryuuji are heading\nto the mainland to talk to the police.
+Dialogue: 10,0:10:06.84,0:10:10.38,Default,Natsuki,0,0,0,,Catherine and Ryuuji are heading to\nthe mainland to talk to the police.
 Dialogue: 10,0:10:10.74,0:10:14.05,Default,Natsuki,0,0,0,,We can't get him for violence against a Humanoid,
 Dialogue: 10,0:10:14.05,0:10:18.83,Default,Natsuki,0,0,0,,but they did take the kids hostage\nand threaten Ryuuji with a gun.
 Dialogue: 10,0:10:20.25,0:10:22.10,Default,Atri,0,0,0,,Oh...
@@ -266,10 +266,10 @@ Dialogue: 10,0:16:40.64,0:16:42.11,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:16:43.65,0:16:45.86,Default,Shiina,0,0,0,,I've grown just as tall as you, huh?
 Dialogue: 10,0:16:47.08,0:16:48.36,Default,Atri,0,0,0,,You have.
 Dialogue: 10,0:16:48.81,0:16:53.99,Default,Shiina,0,0,0,,I guess I'm gonna have to be\nthe big sister from now on...
-Dialogue: 10,0:16:58.05,0:17:02.50,Default,Atri,0,0,0,,{\i1}That was the very last time\nI saw Shiina{**-sama}'s smile.
+Dialogue: 10,0:16:58.05,0:17:02.50,Default,Atri,0,0,0,,{\i1}That was the very last time\nI saw Shiina{**-sama} smile.
 Dialogue: 10,0:17:07.45,0:17:13.22,Default,Atri,0,0,0,,{\i1}According to the report filed by the school,\nthe inciting incident was a trivial matter.
 Dialogue: 10,0:17:13.67,0:17:18.27,Default,Atri,0,0,0,,{\i1}Shiina{**-sama} reproached another girl\nfor talking during class.
-Dialogue: 10,0:17:18.27,0:17:22.02,Default,Atri,0,0,0,,{\i1}But presumably, the girl in question\nnursed a grudge over this interaction.
+Dialogue: 10,0:17:18.27,0:17:22.02,Default,Atri,0,0,0,,{\i1}Presumably, the girl in question\nnursed a grudge over this interaction.
 Dialogue: 10,0:17:22.69,0:17:24.86,Default,Atri,0,0,0,,{\i1}Wielding the influence she held within her class,
 Dialogue: 10,0:17:24.86,0:17:30.64,Default,Atri,0,0,0,,{\i1}the girl in question incited many other students\nto become complicit in her vendetta.
 Dialogue: 10,0:17:31.99,0:17:36.08,Default,Atri,0,0,0,,{\i1}Such a case of peer abuse is\na common social issue known as "bullying."
@@ -285,8 +285,8 @@ Dialogue: 10,0:18:06.75,0:18:09.29,Default,Shiina,0,0,0,,Mom's busy.
 Dialogue: 10,0:18:09.29,0:18:10.49,Default,Atri,0,0,0,,But...
 Dialogue: 10,0:18:10.49,0:18:13.28,Default,Shiina,0,0,0,,She says sea levels\nare gonna start rising any day now,
 Dialogue: 10,0:18:13.28,0:18:16.27,Default,Shiina,0,0,0,,and humanity's in for a huge crisis.
-Dialogue: 10,0:18:16.27,0:18:19.41,Default,Shiina,0,0,0,,Not that anyone in her lab actually believes her.
-Dialogue: 10,0:18:19.41,0:18:22.06,Default,Shiina,0,0,0,,Mom's lost her marbles, I swear...
+Dialogue: 10,0:18:16.27,0:18:19.33,Default,Shiina,0,0,0,,Not that anyone in her lab actually believes her.
+Dialogue: 10,0:18:19.33,0:18:22.06,Default,Shiina,0,0,0,,Mom's lost her marbles, I swear...
 Dialogue: 10,0:18:23.43,0:18:24.71,Default,Atri,0,0,0,,Please take that back.
 Dialogue: 10,0:18:26.27,0:18:28.96,Default,Atri,0,0,0,,Words have power.
 Dialogue: 10,0:18:29.78,0:18:30.46,Default,Atri,0,0,0,,If you don't mean—
@@ -303,25 +303,24 @@ Dialogue: 10,0:18:57.52,0:19:00.01,Default,Atri,0,0,0,,{\i1}Stress levels have b
 Dialogue: 10,0:19:00.01,0:19:02.00,Default,Atri,0,0,0,,{\i1}This cannot be allowed to continue.
 Dialogue: 10,0:19:02.44,0:19:04.22,Default,Atri,0,0,0,,{\i1}I have to do something.
 Dialogue: 10,0:19:06.58,0:19:08.21,Default,Atri,0,0,0,,{\i1}Anything!
-Dialogue: 10,0:19:17.06,0:19:21.81,Default,Atri,0,0,0,,{\i1}Her class appears to have decided on the\nlead actress for its cultural festival performance.
+Dialogue: 10,0:19:17.06,0:19:21.81,Default,Atri,0,0,0,,{\i1}Her class appears to have decided on the lead actress\nfor its cultural festival performance.
 Dialogue: 10,0:19:24.09,0:19:30.09,Default,Atri,0,0,0,,{\i1}Inferring that she was nominated\nfor the role against her will.
 Dialogue: 10,0:19:32.94,0:19:35.95,Default,Female student D,0,0,0,,I heard she's about to jump!
-Dialogue: 10,0:19:35.95,0:19:36.91,Default,Female Student E,0,0,0,,For real?
-Dialogue: 10,0:19:36.91,0:19:39.04,Default,Female Student D,0,0,0,,Yeah, it's wild!
-Dialogue: 10,0:19:56.55,0:19:58.21,Default,Teacher A,0,0,0,,Don't do anything stupid!
-Dialogue: 10,0:19:58.21,0:20:01.20,Default,Teacher B,0,0,0,,That's right, Yachigusa{**-san}! Let's all calm down!
+Dialogue: 10,0:19:35.95,0:19:39.04,Default,Female Student E,0,0,0,,For real? That's so wild!{bruh fr ong? no cap? -p}
+Dialogue: 10,0:19:56.55,0:19:58.21,Default,Teacher A,0,0,0,,Don't do anything rash!
+Dialogue: 10,0:19:58.21,0:20:01.20,Default,Teacher B,0,0,0,,Hear us out, Yachigusa{**-san}! Let's all calm down!
 Dialogue: 10,0:20:01.20,0:20:03.60,Default,Female Student A,0,0,0,,We all know you don't have the guts.
 Dialogue: 10,0:20:04.69,0:20:05.64,Default,Teacher A,0,0,0,,Hey!
 Dialogue: 10,0:20:05.64,0:20:08.00,Default,Female Student A,0,0,0,,If you really wanna die,\nno one's gonna stop you.
 Dialogue: 10,0:20:08.00,0:20:11.36,Default,Female Student A,0,0,0,,And you won't have to act in the play that way.
-Dialogue: 10,0:20:11.36,0:20:13.86,Default,Female Student A,0,0,0,,So hurry up and jump already.
+Dialogue: 10,0:20:11.36,0:20:13.86,Default,Female Student A,0,0,0,,What are you waiting for? Jump.
 Dialogue: 10,0:20:13.86,0:20:15.42,Default,Female Student A,0,0,0,,Do it!
 Dialogue: 10,0:20:15.42,0:20:26.41,Default,Female Student A; B and C,0,0,0,,{\an8}Do it! Do it! Do it!
-Dialogue: 10,0:20:17.06,0:20:21.66,Default,Atri,0,0,0,,{\i1}A fall from this height\nhas a fatality rate of 97 percent.
+Dialogue: 10,0:20:17.06,0:20:21.66,Default,Atri,0,0,0,,{\i1}A fall from that height\nhas a fatality rate of 97 percent.
 Dialogue: 10,0:20:22.23,0:20:23.41,Default,Atri,0,0,0,,{\fad(0,100)\i1}Danger.
 Dialogue: 10,0:20:23.41,0:20:24.96,Default,Atri,0,0,0,,{\fad(100,100)\i1}Danger.
 Dialogue: 10,0:20:24.96,0:20:26.41,Default,Atri,0,0,0,,{\fad(100,0)\i1}Danger!
-Dialogue: 10,0:20:27.21,0:20:28.92,Default,Atri,0,0,0,,{\i1}I have to take action.
+Dialogue: 10,0:20:27.21,0:20:28.92,Default,Atri,0,0,0,,{\i1}I must take action.
 Dialogue: 10,0:20:28.92,0:20:29.71,Default,Female Student A,0,0,0,,Do it!
 Dialogue: 10,0:20:32.87,0:20:35.26,Default,Atri,0,0,0,,{\i1}The next thing I knew...
 Dialogue: 10,0:20:53.57,0:20:54.01,Default,Atri,0,0,0,,Shii—
@@ -343,7 +342,7 @@ Dialogue: 10,0:22:00.80,0:22:01.88,Default,Natsuki,0,0,0,,always...
 Dialogue: 10,0:22:02.70,0:22:03.92,Default,Natsuki,0,0,0,,always...
 Dialogue: 10,0:22:04.59,0:22:05.86,Default,Natsuki,0,0,0,,right there beside her.
 Dialogue: 10,0:22:06.47,0:22:10.14,Default,Natsuki,0,0,0,,And I'm guessing Grandma eventually caught her,
-Dialogue: 10,0:22:10.72,0:22:12.98,Default,Natsuki,0,0,0,,erased her memories,
+Dialogue: 10,0:22:10.72,0:22:12.98,Default,Natsuki,0,0,0,,wiped her memories,
 Dialogue: 10,0:22:13.77,0:22:15.89,Default,Atri,0,0,0,,and put her to sleep.
 Dialogue: 10,0:22:19.72,0:22:21.40,Default,Atri,0,0,0,,Natsuki{**-san}...
 Dialogue: 10,0:22:21.40,0:22:22.95,Default,Natsuki,0,0,0,,How are you feeling?
@@ -373,7 +372,7 @@ Dialogue: 10,0:23:50.93,0:23:53.23,Default,Shiina,0,0,0,,She was my very best fr
 Dialogue: 10,0:23:53.23,0:23:55.61,Default,Shiina,0,0,0,,I loved her more than anyone in the whole world,
 Dialogue: 10,0:23:55.61,0:23:58.25,Default,Shiina,0,0,0,,but I said some horrible things I didn't mean.
 Dialogue: 10,0:23:58.75,0:24:01.07,Default,Shiina,0,0,0,,And I'm sure that really hurt her.
-Dialogue: 10,0:24:04.81,0:24:07.31,Default,Shiina,0,0,0,,If only I could see her one more time.
+Dialogue: 10,0:24:04.81,0:24:07.31,Default,Shiina,0,0,0,,If only I could see her one last time.
 Comment: 10,0:24:08.72,0:24:09.93,Default,Shiina,0,0,0,,I miss her so much.
 Dialogue: 10,0:24:08.72,0:24:10.72,Default,Shiina,0,0,0,,I miss her so much.
 Dialogue: 10,0:24:10.72,0:24:10.76,Default,Shiina,0,0,0,,{\iclip(m 812.8 985.6 l 844.8 982.4 876.8 984 910.4 979.2 931.2 974.4 948.8 980.8 953.6 992 950.4 1009.6 940.8 1035.2 923.2 1057.6 905.6 1078.4 761.6 1072 446.4 876.8)}I miss her so much.
@@ -389,8 +388,7 @@ Dialogue: 10,0:24:34.61,0:24:36.65,Default,Atri,0,0,0,,Shiina{**-sama}...
 Dialogue: 10,0:24:37.38,0:24:39.54,Default,Atri,0,0,0,,Shiina{**-sama}...
 Dialogue: 10,0:24:49.56,0:24:50.75,Default,Natsuki,0,0,0,,{\i1}Oh, I see now...
 Dialogue: 10,0:24:51.54,0:24:53.56,Default,Natsuki,0,0,0,,{\i1}It wasn't that I wanted to be comforted.
-Dialogue: 10,0:24:55.04,0:24:58.05,Default,Natsuki,0,0,0,,{\i1}I always wanted to be someone\nwho can comfort others...
-Dialogue: 10,0:24:59.29,0:25:00.62,Default,Natsuki,0,0,0,,{\i1}with those precious words.
+Dialogue: 10,0:24:55.04,0:25:00.62,Default,Natsuki,0,0,0,,{\i1}I always wanted to be someone who could\ncomfort others with those precious words.
 Dialogue: 10,0:25:01.39,0:25:02.65,Default,Natsuki,0,0,0,,There, there.
 Dialogue: 10,0:25:04.10,0:25:05.42,Default,Shiina,0,0,0,,There, there.
 Dialogue: 10,0:25:07.02,0:25:08.64,Default,Atri,0,0,0,,It'll be all right.

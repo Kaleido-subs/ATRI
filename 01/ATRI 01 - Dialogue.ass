@@ -59,7 +59,7 @@ Dialogue: 10,0:01:42.29,0:01:44.08,Default,,0,0,0,,What'd I tell you?!
 Dialogue: 10,0:01:45.96,0:01:47.96,Default,,0,0,0,,Guess I can at least give it a shot.
 Dialogue: 10,0:01:52.51,0:01:54.55,Default,,0,0,0,,Not like we've got anything to lose.
 Dialogue: 10,0:01:59.18,0:02:00.85,Default,,0,0,0,,Not when the world's like this.
-Dialogue: 10,0:02:14.45,0:02:19.29,Default,,0,0,0,,{\an8}The controversial Amaterasu Project, expected to \nserve as humanity's new sustainable energy source,
+Dialogue: 10,0:02:14.45,0:02:19.29,Default,,0,0,0,,{\an8}The controversial Amaterasu Project, expected to\nserve as humanity's new sustainable energy source,
 Dialogue: 10,0:02:19.70,0:02:24.96,Default,,0,0,0,,{\an8}has been met with increasingly strong\nopposition by local populations
 Dialogue: 10,0:02:24.96,0:02:27.21,Default,,0,0,0,,{\an8}as it prepares for its first stage of rocket launches...
 Dialogue: 10,0:02:27.21,0:02:29.30,Default,,0,0,0,,Think it'll get off the ground this time?
@@ -145,7 +145,7 @@ Dialogue: 10,0:06:07.47,0:06:11.06,Default,,0,0,0,,Let him go already! Fuel does
 Dialogue: 10,0:06:11.06,0:06:12.23,Default,,0,0,0,,Ugh!
 Dialogue: 10,0:06:15.13,0:06:16.90,Default,,0,0,0,,Venting ballast tanks...
 Dialogue: 10,0:06:17.69,0:06:20.32,Default,,0,0,0,,I really don't think you should go through with this!
-Dialogue: 10,0:06:20.32,0:06:23.95,Default,,0,0,0,,The place I'm going is pretty shallow, \Nand I know exactly where it is.
+Dialogue: 10,0:06:20.32,0:06:23.95,Default,,0,0,0,,The place I'm going is pretty shallow,\nand I know exactly where it is.
 Dialogue: 10,0:06:23.95,0:06:25.45,Default,,0,0,0,,I'll be fine.
 Dialogue: 10,0:06:25.45,0:06:27.95,Default,,0,0,0,,Besides, I owe it to myself to go at least once.
 Dialogue: 10,0:06:27.95,0:06:28.95,Default,,0,0,0,,Huh?
@@ -367,7 +367,7 @@ Dialogue: 10,0:19:35.57,0:19:38.66,Default,,0,0,0,,If I leave it with you, you m
 Dialogue: 10,0:19:38.66,0:19:39.32,Default,,0,0,0,,You wanna sell her?
 Dialogue: 10,0:19:39.70,0:19:40.49,Default,,0,0,0,,You don't?
 Dialogue: 10,0:19:43.50,0:19:47.75,Default,,0,0,0,,So what if it ends up remembering\nits dead master's orders?
-Dialogue: 10,0:19:47.75,0:19:51.67,Default,,0,0,0,,Even if it does, I somehow doubt \nthis thing's gonna be able to carry them out.
+Dialogue: 10,0:19:47.75,0:19:51.67,Default,,0,0,0,,Even if it does, I somehow doubt\nthis thing's gonna be able to carry them out.
 Dialogue: 10,0:19:52.34,0:19:54.97,Default,,0,0,0,,Besides, don't you want a new leg?
 Dialogue: 10,0:19:57.01,0:19:58.01,Default,,0,0,0,,Atri.
 Dialogue: 10,0:19:58.01,0:19:58.84,Default,,0,0,0,,Yes?

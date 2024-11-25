@@ -54,7 +54,7 @@ Dialogue: 10,0:01:16.15,0:01:17.93,Default,Yasuda,0,0,0,,Professor Konishi was t
 Dialogue: 10,0:01:19.38,0:01:21.29,Default,Yasuda,0,0,0,,a sinful man.
 Dialogue: 10,0:01:25.27,0:01:28.41,Default,Yasuda,0,0,0,,Nothing short of the devil\ncould have ever wrought such a creation.
 Dialogue: 10,0:01:34.14,0:01:35.70,Default,Yasuda,0,0,0,,For you see...
-Dialogue: 10,0:01:35.70,0:01:40.86,Default,Yasuda,0,0,0,,if this unit hadn't committed that atrocity,\nif it hadn't escaped justice...
+Dialogue: 10,0:01:35.70,0:01:40.86,Default,Yasuda,0,0,0,,if this unit hadn't committed that atrocity...\nif it hadn't escaped justice...
 Dialogue: 10,0:01:40.86,0:01:43.76,Default,Yasuda,0,0,0,,both the professor and the factory\nwould be alive and well.
 Dialogue: 10,0:01:44.30,0:01:48.71,Default,Yasuda,0,0,0,,But all because of this {\i1}thing{\i0},\nthis defective pile of scrap metal...{wtf, where's the whistle-blowing _now_? -p}
 Dialogue: 10,0:01:50.14,0:01:50.97,Default,Natsuki,0,0,0,,No.
@@ -67,7 +67,7 @@ Dialogue: 10,0:02:10.85,0:02:14.12,Default,Yasuda,0,0,0,,Then what do you propos
 Dialogue: 10,0:03:48.95,0:03:52.30,Default,Yasuda,0,0,0,,{\an8}Then what do you propose?
 Dialogue: 10,0:04:12.77,0:04:15.13,Default,Yasuda,0,0,0,,Did you see that, friends?
 Dialogue: 10,0:04:15.13,0:04:17.11,Default,Yasuda,0,0,0,,That was a clear act of violence!
-Dialogue: 10,0:04:17.11,0:04:21.11,Default,Yasuda,0,0,0,,This Humanoid, in contravention\nto the Three Laws, struck me!
+Dialogue: 10,0:04:17.11,0:04:21.11,Default,Yasuda,0,0,0,,This Humanoid, in contravention\nof the Three Laws, struck me!
 Dialogue: 10,0:04:21.11,0:04:26.78,Default,Yasuda,0,0,0,,This lowly manmade {\i1}tool{\i0} struck a {\i1}human!
 Dialogue: 10,0:04:28.67,0:04:30.33,Default,Yasuda,0,0,0,,And so the truth comes out!
 Dialogue: 10,0:04:30.33,0:04:32.54,Default,Yasuda,0,0,0,,This is more than I had even hoped for!
@@ -154,7 +154,7 @@ Dialogue: 10,0:10:29.41,0:10:30.82,Default,Atri,0,0,0,,But still...
 Comment: 10,0:10:31.63,0:10:32.70,Default,Atri,0,0,0,,[traumatized robot noises]{don't think this needs to be subbed -ed}
 Dialogue: 10,0:10:39.72,0:10:41.86,Default,Natsuki,0,0,0,,Everyone makes mistakes.
 Dialogue: 10,0:10:42.45,0:10:45.01,Default,Natsuki,0,0,0,,We all do things we know are wrong,
-Dialogue: 10,0:10:45.61,0:10:48.45,Default,Natsuki,0,0,0,,or say things we really don't mean.
+Dialogue: 10,0:10:45.61,0:10:48.45,Default,Natsuki,0,0,0,,or say things we don't really mean.
 Dialogue: 10,0:10:49.88,0:10:54.22,Default,Natsuki,0,0,0,,But because of that, we get to feel emotions\nlike joy, or sorrow, or anger.
 Dialogue: 10,0:10:56.22,0:10:59.51,Default,Natsuki,0,0,0,,And right now, I feel like\nI want to always be there for you,
 Dialogue: 10,0:10:59.51,0:11:00.59,Default,Natsuki,0,0,0,,because...
@@ -209,7 +209,7 @@ Dialogue: 10,0:13:27.26,0:13:29.82,Default,Atri,0,0,0,,I do not have one. Call m
 Dialogue: 10,0:13:29.82,0:13:32.17,Default,Shiina,0,0,0,,I get to name you?
 Dialogue: 10,0:13:32.17,0:13:34.21,Default,Shiina,0,0,0,,Um, let's see!
 Dialogue: 10,0:13:34.21,0:13:37.22,Default,Shiina,0,0,0,,Ruri... Natsumi...
-Dialogue: 10,0:13:37.22,0:13:39.38,Default,Shiina,0,0,0,ED,Oh, I know! Betty Beep-Boop!{I got nothin.}{Hmm, mmmaybe "Machina"?, idk -yon}{I considered iRobot? Wall-Eve? maybe the QC folks have one they like the best}{@ED this is _funny_ but doesn't really feel appropriate with the other names. "Robbie", "Robin", etc? -p}{gonna keep Betty Beep-Boop for now -p}
+Dialogue: 10,0:13:37.22,0:13:39.38,Default,Shiina,0,0,0,,Oh, I know! Betty Beep-Boop!{I got nothin.}{Hmm, mmmaybe "Machina"?, idk -yon}{I considered iRobot? Wall-Eve? maybe the QC folks have one they like the best}{@ED this is _funny_ but doesn't really feel appropriate with the other names. "Robbie", "Robin", etc? -p}{gonna keep Betty Beep-Boop for now -p}
 Dialogue: 10,0:13:39.38,0:13:42.35,Default,Atri,0,0,0,,"Betty Beep-Boop" is a derogatory slur.
 Dialogue: 10,0:13:42.35,0:13:45.11,Default,Shiina,0,0,0,,Aw, but it's so cute...
 Dialogue: 10,0:13:45.11,0:13:47.64,Default,Shiina,0,0,0,,Uh, hmm...

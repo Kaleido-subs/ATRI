@@ -125,8 +125,7 @@ Dialogue: 10,0:08:57.82,0:09:00.14,Default,Natsuki,0,0,0,,Yeah. Those are tear s
 Dialogue: 10,0:09:00.14,0:09:01.31,Default,Minamo,0,0,0,,Huh?
 Dialogue: 10,0:09:01.83,0:09:05.98,Default,Natsuki,0,0,0,,Atri was crying,\nand she didn't even notice it herself.
 Dialogue: 10,0:09:05.98,0:09:08.97,Default,Minamo,0,0,0,,But I thought she said she couldn't cry...
-Dialogue: 10,0:09:08.97,0:09:11.24,Default,Natsuki,0,0,0,ED,She was just making assumptions.
-Dialogue: 10,0:09:11.24,0:09:13.66,Default,Natsuki,0,0,0,ED,That Humanoids could never cry. {### combine with previous line? "She assumed that humanoids could never cry."}
+Dialogue: 10,0:09:08.99,0:09:13.66,Default,Natsuki,0,0,0,,She just assumed that Humanoids could never cry.
 Dialogue: 10,0:09:13.66,0:09:15.35,Default,Natsuki,0,0,0,,That she couldn't shed any tears.
 Dialogue: 10,0:09:15.35,0:09:18.66,Default,Natsuki,0,0,0,,Because she had no heart, no real emotions...
 Dialogue: 10,0:09:18.66,0:09:20.22,Default,Minamo,0,0,0,,Oh...
@@ -134,7 +133,7 @@ Dialogue: 10,0:09:20.22,0:09:23.67,Default,Natsuki,0,0,0,,But those tear stains 
 Dialogue: 10,0:09:24.11,0:09:26.18,Default,Natsuki,0,0,0,,That she {\i1}does{\i0} have a heart.
 Dialogue: 10,0:09:27.33,0:09:31.72,Default,Natsuki,0,0,0,,She's been suffering\nfrom the moment she was born.
 Dialogue: 10,0:09:32.15,0:09:34.62,Default,Natsuki,0,0,0,,Struggling to do the things she knew were right...
-Dialogue: 10,0:09:34.62,0:09:38.03,Default,Natsuki,0,0,0,ED,Knowing what she was doing was wrong,\nbut not being able to stop herself... {### "She knew what she was doing was wrong, but couldn't stop herself."}
+Dialogue: 10,0:09:34.62,0:09:38.03,Default,Natsuki,0,0,0,,She knew what she was doing was wrong,\nbut couldn't stop herself.
 Dialogue: 10,0:09:38.03,0:09:41.86,Default,Natsuki,0,0,0,,She's been pulled apart by all these\ncontradictory impulses from her heart.
 Dialogue: 10,0:09:45.36,0:09:46.70,Default,Natsuki,0,0,0,,Are you awake?
 Dialogue: 10,0:09:46.70,0:09:47.82,Default,Atri,0,0,0,,Natsuki{**-san}...
@@ -153,7 +152,7 @@ Dialogue: 10,0:10:24.58,0:10:26.57,Default,Yoko,0,0,0,,You don't gotta worry abo
 Dialogue: 10,0:10:26.57,0:10:28.90,Default,Yoko,0,0,0,,If anything, it felt great seeing you give it to 'em!
 Dialogue: 10,0:10:29.41,0:10:30.82,Default,Atri,0,0,0,,But still...
 Comment: 10,0:10:31.63,0:10:32.70,Default,Atri,0,0,0,,[traumatized robot noises]{don't think this needs to be subbed -ed}
-Dialogue: 10,0:10:39.72,0:10:41.86,Default,Natsuki,0,0,0,ED,Everyone makes mistakes sometimes. {### drop "sometimes"?}
+Dialogue: 10,0:10:39.72,0:10:41.86,Default,Natsuki,0,0,0,,Everyone makes mistakes.
 Dialogue: 10,0:10:42.45,0:10:45.01,Default,Natsuki,0,0,0,,We all do things we know are wrong,
 Dialogue: 10,0:10:45.61,0:10:48.45,Default,Natsuki,0,0,0,,or say things we really don't mean.
 Dialogue: 10,0:10:49.88,0:10:54.22,Default,Natsuki,0,0,0,,But because of that, we get to feel emotions\nlike joy, or sorrow, or anger.
@@ -168,7 +167,7 @@ Dialogue: 10,0:11:13.04,0:11:17.05,Default,Natsuki,0,0,0,,The key is to keep con
 Dialogue: 10,0:11:17.05,0:11:19.18,Default,Natsuki,0,0,0,,Not the other way around.
 Dialogue: 10,0:11:19.79,0:11:22.08,Default,Natsuki,0,0,0,,But that's something you can figure out as you go.
 Dialogue: 10,0:11:22.08,0:11:23.35,Default,Minamo,0,0,0,,That's right!
-Dialogue: 10,0:11:23.35,0:11:26.42,Default,Minamo,0,0,0,ED,There's even plenty of {\i1}people{\i0}\nwho need lots of practice to get good at it!{I feel like this could make the contrast of humans vs robots a bit clearer -yon}{### "There's even some humans who need lots of practice..."?}
+Dialogue: 10,0:11:23.35,0:11:26.42,Default,Minamo,0,0,0,,Plenty of {\i1}humans{\i0} need\ntons of practice to get good at it too!
 Dialogue: 10,0:11:26.80,0:11:27.60,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:11:28.75,0:11:32.67,Default,Natsuki,0,0,0,,There might be people who doubt you\nbecause you're a Humanoid,
 Dialogue: 10,0:11:32.67,0:11:35.06,Default,Natsuki,0,0,0,,but I promise I'll always be there for you.
@@ -176,7 +175,7 @@ Dialogue: 10,0:11:39.23,0:11:40.26,Default,Atri,0,0,0,,Umm...
 Dialogue: 10,0:11:41.33,0:11:42.26,Default,Natsuki,0,0,0,,What's up?
 Dialogue: 10,0:11:42.26,0:11:45.63,Default,Atri,0,0,0,,For some reason,\nI have this incredible urge to hug you.
 Dialogue: 10,0:11:47.95,0:11:50.27,Default,Atri,0,0,0,,May I?
-Dialogue: 10,0:11:52.57,0:11:53.03,Default,Natsuki,0,0,0,ED,Sure. {### minor, "Of course"?}
+Dialogue: 10,0:11:52.57,0:11:53.03,Default,Natsuki,0,0,0,,Sure.
 Dialogue: 10,0:11:58.14,0:12:00.61,Default,Atri,0,0,0,,Am I doing something wrong?
 Dialogue: 10,0:12:01.15,0:12:02.79,Default,Natsuki,0,0,0,,Who knows?
 Dialogue: 10,0:12:03.13,0:12:05.79,Default,Natsuki,0,0,0,,But that's how it always is with the heart.
@@ -264,7 +263,7 @@ Dialogue: 10,0:16:26.01,0:16:29.01,Default,Shiina,0,0,0,,Still remember those ly
 Dialogue: 10,0:16:32.12,0:16:38.69,Default,Atri,0,0,0,,I sit on the sill to feel the rain.
 Dialogue: 10,0:16:38.69,0:16:40.64,Default,Shiina,0,0,0,,Yeah, that's it!
 Dialogue: 10,0:16:40.64,0:16:42.11,Default,Atri,0,0,0,,Yes.
-Dialogue: 10,0:16:43.65,0:16:45.86,Default,Shiina,0,0,0,ED,I've grown just as tall as you are, huh? {### drop "are"?}
+Dialogue: 10,0:16:43.65,0:16:45.86,Default,Shiina,0,0,0,,I've grown just as tall as you, huh?
 Dialogue: 10,0:16:47.08,0:16:48.36,Default,Atri,0,0,0,,You have.
 Dialogue: 10,0:16:48.81,0:16:53.99,Default,Shiina,0,0,0,,I guess I'm gonna have to be\nthe big sister from now on...
 Dialogue: 10,0:16:58.05,0:17:02.50,Default,Atri,0,0,0,,{\i1}That was the very last time\nI saw Shiina{**-sama}'s smile.
@@ -292,7 +291,7 @@ Dialogue: 10,0:18:23.43,0:18:24.71,Default,Atri,0,0,0,,Please take that back.
 Dialogue: 10,0:18:26.27,0:18:28.96,Default,Atri,0,0,0,,Words have power.
 Dialogue: 10,0:18:29.78,0:18:30.46,Default,Atri,0,0,0,,If you don't mean—
 Dialogue: 10,0:18:30.46,0:18:32.13,Default,Shiina,0,0,0,,Shut up!
-Dialogue: 10,0:18:33.30,0:18:37.08,Default,Shiina,0,0,0,ED,All you do is sit around\nand stare at the walls all day, {### "at the wall" (-"s")?}
+Dialogue: 10,0:18:33.30,0:18:37.08,Default,Shiina,0,0,0,,All you do is sit around\nand stare at the wall all day,
 Dialogue: 10,0:18:37.08,0:18:39.31,Default,Shiina,0,0,0,,so don't act like you understand anything!
 Dialogue: 10,0:18:40.36,0:18:42.04,Default,Atri,0,0,0,,I'm sorry.
 Dialogue: 10,0:18:42.04,0:18:46.11,Default,Shiina,0,0,0,,Don't you have any idea how I've been feeling?
@@ -306,7 +305,7 @@ Dialogue: 10,0:19:02.44,0:19:04.22,Default,Atri,0,0,0,,{\i1}I have to do somethi
 Dialogue: 10,0:19:06.58,0:19:08.21,Default,Atri,0,0,0,,{\i1}Anything!
 Dialogue: 10,0:19:17.06,0:19:21.81,Default,Atri,0,0,0,,{\i1}Her class appears to have decided on the\nlead actress for its cultural festival performance.
 Dialogue: 10,0:19:24.09,0:19:30.09,Default,Atri,0,0,0,,{\i1}Inferring that she was nominated\nfor the role against her will.
-Dialogue: 10,0:19:32.94,0:19:35.95,Default,Female student D,0,0,0,ED,I heard she's about to jump off the roof! {### Remove "off the roof"? That much can be inferred and sounds a smidge awkward/too expositiony to me}
+Dialogue: 10,0:19:32.94,0:19:35.95,Default,Female student D,0,0,0,,I heard she's about to jump!
 Dialogue: 10,0:19:35.95,0:19:36.91,Default,Female Student E,0,0,0,,For real?
 Dialogue: 10,0:19:36.91,0:19:39.04,Default,Female Student D,0,0,0,,Yeah, it's wild!
 Dialogue: 10,0:19:56.55,0:19:58.21,Default,Teacher A,0,0,0,,Don't do anything stupid!
@@ -318,7 +317,7 @@ Dialogue: 10,0:20:08.00,0:20:11.36,Default,Female Student A,0,0,0,,And you won't
 Dialogue: 10,0:20:11.36,0:20:13.86,Default,Female Student A,0,0,0,,So hurry up and jump already.
 Dialogue: 10,0:20:13.86,0:20:15.42,Default,Female Student A,0,0,0,,Do it!
 Dialogue: 10,0:20:15.42,0:20:26.41,Default,Female Student A; B and C,0,0,0,,{\an8}Do it! Do it! Do it!
-Dialogue: 10,0:20:17.06,0:20:21.66,Default,Atri,0,0,0,ED,{\i1}A fall from her height\nhas a fatality rate of 97 percent. {### "that"?}
+Dialogue: 10,0:20:17.06,0:20:21.66,Default,Atri,0,0,0,,{\i1}A fall from this height\nhas a fatality rate of 97 percent.
 Dialogue: 10,0:20:22.23,0:20:23.41,Default,Atri,0,0,0,,{\fad(0,100)\i1}Danger.
 Dialogue: 10,0:20:23.41,0:20:24.96,Default,Atri,0,0,0,,{\fad(100,100)\i1}Danger.
 Dialogue: 10,0:20:24.96,0:20:26.41,Default,Atri,0,0,0,,{\fad(100,0)\i1}Danger!
@@ -343,7 +342,7 @@ Dialogue: 10,0:21:57.51,0:21:58.56,Default,Natsuki,0,0,0,,Atri was always...
 Dialogue: 10,0:22:00.80,0:22:01.88,Default,Natsuki,0,0,0,,always...
 Dialogue: 10,0:22:02.70,0:22:03.92,Default,Natsuki,0,0,0,,always...
 Dialogue: 10,0:22:04.59,0:22:05.86,Default,Natsuki,0,0,0,,right there beside her.
-Dialogue: 10,0:22:06.47,0:22:10.14,Default,Natsuki,0,0,0,ED,And I'm guessing Grandma eventually found her, {### "caught"? If she's sneaking around, that makes a lot more sense to me.}
+Dialogue: 10,0:22:06.47,0:22:10.14,Default,Natsuki,0,0,0,,And I'm guessing Grandma eventually caught her,
 Dialogue: 10,0:22:10.72,0:22:12.98,Default,Natsuki,0,0,0,,erased her memories,
 Dialogue: 10,0:22:13.77,0:22:15.89,Default,Atri,0,0,0,,and put her to sleep.
 Dialogue: 10,0:22:19.72,0:22:21.40,Default,Atri,0,0,0,,Natsuki{**-san}...
@@ -384,8 +383,7 @@ Dialogue: 10,0:24:10.85,0:24:10.89,Default,Shiina,0,0,0,,{\clip(m 1870.4 1073.6 
 Dialogue: 10,0:24:10.89,0:24:10.93,Default,Shiina,0,0,0,,{\clip(m 1870.4 1073.6 l 1740.8 840 1203.29 908.57 b 1197.52 938.27 1161.67 956.83 1137.41 975.29 1129.98 981.99 1125.45 985.47 1133.67 987.69 1152.41 992.62 1174.34 1011.27 1193.84 1022.75)}I miss her so much.
 Dialogue: 10,0:24:13.77,0:24:15.93,Default,Atri,0,0,0,,Shiina{**-sama} really said that?
 Dialogue: 10,0:24:16.73,0:24:17.77,Default,Natsuki,0,0,0,,Yeah.
-Dialogue: 10,0:24:18.41,0:24:22.32,Default,Natsuki,0,0,0,ED,For the longest time,\nI never knew who she was talking about, {### "never knew" doesn't really follow from "For the longest time". "I could never figure out who she was talking about, but now I have no doubt she meant you."? Something in that vein?} 
-Dialogue: 10,0:24:22.32,0:24:25.34,Default,Natsuki,0,0,0,,but now I don't think there's any doubt it was you.
+Dialogue: 10,0:24:18.41,0:24:25.34,Default,Natsuki,0,0,0,,I could never figure out who she was talking about,\nbut now I have no doubt she meant you.
 Dialogue: 10,0:24:26.81,0:24:31.29,Default,Natsuki,0,0,0,,You were her best friend in the whole world.
 Dialogue: 10,0:24:34.61,0:24:36.65,Default,Atri,0,0,0,,Shiina{**-sama}...
 Dialogue: 10,0:24:37.38,0:24:39.54,Default,Atri,0,0,0,,Shiina{**-sama}...

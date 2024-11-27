@@ -17,7 +17,7 @@
 | **Encode**            | BB                                                 | **Typesetting**  | Nyarthur             |
 | **Timing**            | Dae (01-03)                                        |                  | BB                   |
 |                       | BB (04)                                            | **Song Styling** | BB (OP1, ED1, 06 ED) |
-|                       | Pikminiman (05-13)                                 |                  | Petzku (OP1, ED1)    |
+|                       | Pikminiman (05-13)                                 |                  | petzku (OP1, ED1)    |
 | **Typesetting**       | Nyarthur                                           |                  |                      |
 | **Quality Control**   | petzku                                             |                  |                      |
 |                       | BB (01, 04-07, 10)                                 |                  |                      |

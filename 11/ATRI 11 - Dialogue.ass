@@ -237,7 +237,7 @@ Dialogue: 10,0:13:16.86,0:13:17.69,Default,Natsuki,0,0,0,,Atri?
 Dialogue: 10,0:13:18.90,0:13:19.78,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:13:21.36,0:13:24.07,Default,Natsuki,0,0,0,,Hey... Atri? Atri?!
 Dialogue: 10,0:13:24.07,0:13:26.45,Default,Natsuki,0,0,0,,What's the matter? Answer me, Atri!
-Dialogue: 10,0:13:35.59,0:13:37.67,Default,Natsuki,0,0,0,,Up until then,
+Dialogue: 10,0:13:35.59,0:13:37.67,Default,Natsuki,0,0,0,ST,Up until then, {### this sounds like internal monologuing to me up until "found it"}
 Dialogue: 10,0:13:37.67,0:13:42.76,Default,Natsuki,0,0,0,,she never once experienced any issues\nwith her perception or motor skills.
 Dialogue: 10,0:13:42.76,0:13:47.10,Default,Natsuki,0,0,0,,Judging by her symptoms,\nthe problem probably has to do with...
 Dialogue: 10,0:13:48.68,0:13:51.52,Default,Natsuki,0,0,0,,Where is it? It's gotta be here somewhere!
@@ -247,7 +247,7 @@ Dialogue: 10,0:14:03.53,0:14:07.41,Default,Natsuki,0,0,0,,So it {\i1}is{\i0} the
 Dialogue: 10,0:14:07.74,0:14:10.12,Default,Natsuki,0,0,0,,"Due to high power draw requirements,
 Dialogue: 10,0:14:10.12,0:14:12.46,Default,Natsuki,0,0,0,,household charging presents significant hazards.
 Dialogue: 10,0:14:12.46,0:14:14.50,Default,Natsuki,0,0,0,,To prevent irreversible battery degradation,
-Dialogue: 10,0:14:14.50,0:14:17.67,Default,Natsuki,0,0,0,,periodic maintenance with the retailer is strongly advised..." {thoughts on the use of quotation marks?}
+Dialogue: 10,0:14:14.50,0:14:17.67,Default,Natsuki,0,0,0,ST,periodic maintenance with the retailer\nis strongly advised..." {thoughts on the use of quotation marks?}{### I typically have quotes on every line. This is the only such instance in the show I could find though, along with another instance later in the same episode, so whatever you choose, just be consistent and it should be fine.}
 Dialogue: 10,0:14:17.67,0:14:18.46,Default,Natsuki,0,0,0,,Shit!
 Dialogue: 10,0:14:20.88,0:14:22.22,Default,Minamo,0,0,0,,She's low on battery?
 Dialogue: 10,0:14:22.22,0:14:25.14,Default,Ryuuji,0,0,0,,So you can't charge her on your own?
@@ -281,8 +281,8 @@ Dialogue: 10,0:15:27.82,0:15:28.91,Default,Natsuki,0,0,0,,Just go to sleep.
 Dialogue: 10,0:15:36.04,0:15:37.46,Default,Minamo,0,0,0,,Atri{**-chan}...
 Dialogue: 10,0:15:37.46,0:15:39.59,Default,Catherine,0,0,0,,Yeah, let's cancel class for the day.
 Dialogue: 10,0:15:39.59,0:15:42.46,Default,Catherine,0,0,0,,I'll hit up all my contacts from my private eye days.
-Dialogue: 10,0:15:42.46,0:15:47.01,Default,Catherine,0,0,0,,The rest of you kiddos, go look for\nany info that might be useful. Okay?
-Dialogue: 10,0:16:32.47,0:16:35.35,Default,Catherine,0,0,0,,Not one single lead, huh?
+Dialogue: 10,0:15:42.46,0:15:47.01,Default,Catherine,0,0,0,,The rest of you kiddos, go look\nfor any info that might be useful. Okay?
+Dialogue: 10,0:16:32.47,0:16:35.35,Default,Catherine,0,0,0,ED,Not one{### "a" sounds way better to me} single lead, huh?
 Dialogue: 10,0:16:35.35,0:16:37.10,Default,Ryuuji,0,0,0,,Nope...
 Dialogue: 10,0:16:37.10,0:16:42.36,Default,Yoko,0,0,0,,I mean, like, she was manufactured\ndecades ago at this point...
 Dialogue: 10,0:16:45.73,0:16:47.65,Default,Ryuuji,0,0,0,,Is she gonna be okay?
@@ -310,9 +310,9 @@ Dialogue: 10,0:17:50.88,0:17:53.26,Default,Natsuki,0,0,0,,It's probably still...
 Dialogue: 10,0:17:59.35,0:18:00.35,Default,Natsuki,0,0,0,,Come on...
 Dialogue: 10,0:18:02.35,0:18:04.19,Default,Minamo,0,0,0,,How's it going, Natsu{**-kun}?
 Dialogue: 10,0:18:04.19,0:18:06.69,Default,Natsuki,0,0,0,,All good. I'm almost there.
-Dialogue: 10,0:18:08.28,0:18:09.19,Default,Natsuki,0,0,0,,Atri...
-Dialogue: 10,0:18:10.94,0:18:14.24,Default,Natsuki,0,0,0,,All the memories you and I made together...
-Dialogue: 10,0:18:15.53,0:18:17.74,Default,Natsuki,0,0,0,,I don't want you to forget one minute of it!
+Dialogue: 10,0:18:08.28,0:18:09.19,Default,Natsuki,0,0,0,,{\i1}Atri...
+Dialogue: 10,0:18:10.94,0:18:14.24,Default,Natsuki,0,0,0,,{\i1}All the memories you and I made together...
+Dialogue: 10,0:18:15.53,0:18:17.74,Default,Natsuki,0,0,0,,{\i1}I don't want you to forget one minute of it!
 Dialogue: 10,0:18:21.25,0:18:23.46,Default,Natsuki,0,0,0,,This place is looking a lot worse for wear...
 Dialogue: 10,0:18:23.46,0:18:25.38,Default,Natsuki,0,0,0,,Must be because of that storm.
 Dialogue: 10,0:18:25.75,0:18:27.88,Default,Minamo,0,0,0,,Natsu{**-kun}? Natsu{**-kun}!
@@ -320,7 +320,7 @@ Dialogue: 10,0:18:27.88,0:18:30.63,Default,Natsuki,0,0,0,,Good news, I found the
 Dialogue: 10,0:18:31.13,0:18:32.17,Default,Natsuki,0,0,0,,Problem is...
 Dialogue: 10,0:18:32.17,0:18:33.09,Default,Minamo,0,0,0,,What problem?
 Dialogue: 10,0:18:33.93,0:18:35.68,Default,Natsuki,0,0,0,,It's fine. Nothing I can't handle!
-Dialogue: 10,0:18:42.18,0:18:47.15,Default,Natsuki,0,0,0,,Listen, I know I should've maintained you better\nand never you get this beat-up...
+Dialogue: 10,0:18:42.18,0:18:47.15,Default,Natsuki,0,0,0,ED,Listen, I know I should've maintained you better\nand never you get this beat-up... {### missing word}
 Dialogue: 10,0:18:47.15,0:18:47.69,Default,Natsuki,0,0,0,,But one last time...
 Dialogue: 10,0:18:53.20,0:18:54.24,Default,Natsuki,0,0,0,,Please pull through for me!
 Dialogue: 10,0:19:05.04,0:19:06.38,Default,Natsuki,0,0,0,,Almost there!

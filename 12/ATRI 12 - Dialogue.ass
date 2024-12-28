@@ -32,7 +32,7 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.18,0:00:04.72,Default,Atri,0,0,0,,The capsule told me...
+Dialogue: 0,0:00:02.18,0:00:04.72,Default,Atri,0,0,0,,The capsule told me
 Dialogue: 0,0:00:06.01,0:00:08.03,Default,Atri,0,0,0,,about Nonko's final orders.
 Dialogue: 0,0:00:08.66,0:00:09.70,Default,Natsuki,0,0,0,,Eden?
 Dialogue: 0,0:00:09.70,0:00:11.82,Default,Minamo,0,0,0,,That's where you're supposed to go?

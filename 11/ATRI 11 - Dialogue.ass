@@ -87,8 +87,8 @@ Dialogue: 10,0:04:05.52,0:04:10.06,Default,Natsuki,0,0,0,,Stuff like how humans 
 Dialogue: 10,0:04:10.06,0:04:13.52,Default,Natsuki,0,0,0,,or what we can do to help\neach other live our best lives.
 Dialogue: 10,0:04:13.82,0:04:17.49,Default,Natsuki,0,0,0,,Those are the sorts of big questions\nI want to find the answers to someday.
 Dialogue: 10,0:04:25.79,0:04:27.25,Default,Natsuki,0,0,0,,Thanks, guys.
-Dialogue: 10,0:04:25.79,0:04:26.79,Alt,Some kid,0,0,0,,{\an8}We believe in you!
-Dialogue: 10,0:04:26.79,0:04:28.25,Alt,Some other kid,0,0,0,,{\an8}You can do it!
+Dialogue: 10,0:04:25.79,0:04:26.79,Default,Some kid,0,0,0,,{\an8}We believe in you!
+Dialogue: 10,0:04:26.79,0:04:28.25,Default,Some other kid,0,0,0,,{\an8}You can do it!
 Dialogue: 10,0:04:27.25,0:04:28.25,Default,Miyo,0,0,0,,{*}Mr. Natsuki{*Sensei}?
 Dialogue: 10,0:04:28.62,0:04:30.63,Default,Miyo,0,0,0,,What about Atri{**-chan}?
 Dialogue: 10,0:04:31.46,0:04:36.05,Default,Natsuki,0,0,0,,I told her she could decide for herself,\nand she said she'd come with me.
@@ -116,14 +116,13 @@ Dialogue: 10,0:05:44.57,0:05:45.99,Default,Natsuki,0,0,0,,Y-Yeah.
 Dialogue: 10,0:05:50.71,0:05:51.37,Default,Natsuki,0,0,0,,Ryuuji.
 Dialogue: 10,0:05:51.37,0:05:52.25,Default,Ryuuji,0,0,0,,Huh?
 Dialogue: 10,0:05:54.54,0:05:55.75,Default,Natsuki,0,0,0,,Er...
-Dialogue: 10,0:05:55.75,0:05:59.76,Default,Natsuki,0,0,0,,I don't wanna force you\ninto it or anything, but...
+Dialogue: 10,0:05:55.75,0:05:59.76,Default,Natsuki,0,0,0,,I don't wanna force you into it or anything, but...
 Dialogue: 10,0:05:59.76,0:06:01.01,Default,Ryuuji,0,0,0,,C'mon man, spill it.
 Dialogue: 10,0:06:01.59,0:06:06.05,Default,Natsuki,0,0,0,,Once I'm gone, could you carry on\nthe salvaging business?
 Dialogue: 10,0:06:06.68,0:06:09.85,Default,Natsuki,0,0,0,,You can have the boat and sub.
 Dialogue: 10,0:06:13.69,0:06:16.36,Default,Ryuuji,0,0,0,,Nah, you can keep those pieces of junk.
 Dialogue: 10,0:06:17.90,0:06:18.90,Default,Natsuki,0,0,0,,Oh...
-Dialogue: 10,0:06:19.98,0:06:21.82,Default,Ryuuji,0,0,0,,Though I wouldn't mind borrowing 'em
-Dialogue: 10,0:06:22.28,0:06:23.40,Default,Ryuuji,0,0,0,,for the salvage work.
+Dialogue: 10,0:06:19.98,0:06:23.40,Default,Ryuuji,0,0,0,,Though I wouldn't mind borrowing 'em\nfor the salvage work.
 Dialogue: 10,0:06:24.61,0:06:25.82,Default,Natsuki,0,0,0,,Ryuuji...
 Dialogue: 10,0:06:26.49,0:06:30.45,Default,Ryuuji,0,0,0,,I mean, whenever we manage to dredge up\npeople's old keepsakes from the ocean,
 Dialogue: 10,0:06:30.45,0:06:31.83,Default,Ryuuji,0,0,0,,it makes 'em real happy, doesn't it?
@@ -164,7 +163,7 @@ Dialogue: 10,0:08:44.59,0:08:46.76,Default,Natsuki,0,0,0,,Think I'm gonna go che
 Dialogue: 10,0:08:54.56,0:08:57.98,Default,Natsuki,0,0,0,,You've really done a lot for me too, huh?
 Dialogue: 10,0:09:04.32,0:09:06.36,Default,Atri,0,0,0,,She says, "You're welcome."
 Dialogue: 10,0:09:07.44,0:09:08.49,Default,Natsuki,0,0,0,,You can tell?
-Dialogue: 10,0:09:08.49,0:09:11.16,Default,Atri,0,0,0,,Yes. Just a vague sense.
+Dialogue: 10,0:09:08.49,0:09:11.16,Default,Atri,0,0,0,,Just a vague sense.
 Dialogue: 10,0:09:12.03,0:09:15.24,Default,Natsuki,0,0,0,,Well, guess I should believe it,\ncoming from a Humanoid.
 Dialogue: 10,0:09:16.16,0:09:17.70,Default,Natsuki,0,0,0,,Thanks for all your service.
 Dialogue: 10,0:09:18.33,0:09:19.75,Default,Natsuki,0,0,0,,Take good care of Ryuuji for me.

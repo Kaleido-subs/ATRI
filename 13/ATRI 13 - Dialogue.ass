@@ -32,6 +32,14 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=0}---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:02:10.99,0:02:10.99,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:02:26.63,0:02:26.63,Default,,0,0,0,opsync,{OPSync — First frame of Natsuki}
+Comment: 0,0:03:40.99,0:03:40.99,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:08:01.92,0:08:01.92,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:25:35.81,0:25:35.81,Default,chapter,0,0,0,,{=1}{ED}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
 Dialogue: 0,0:00:00.65,0:00:01.85,Default,Atri,0,0,0,,I...
 Dialogue: 0,0:00:02.50,0:00:03.61,Default,Atri,0,0,0,,won't go with you.
 Dialogue: 0,0:00:03.94,0:00:04.83,Default,Natsuki,0,0,0,,Atri...
@@ -145,7 +153,7 @@ Dialogue: 0,0:07:36.64,0:07:38.84,Default,Atri,0,0,0,,I want to see it through.
 Dialogue: 0,0:07:43.55,0:07:44.43,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 0,0:07:46.07,0:07:46.84,Default,Atri,0,0,0,,Yes?
 Dialogue: 0,0:07:49.69,0:07:51.48,Default,Natsuki,0,0,0,,Go become Eden's administrator.
-Dialogue: 0,0:07:58.64,0:07:59.56,Default,Atri,0,0,0,,Yes.
+Dialogue: 0,0:07:58.64,0:07:59.56,Default,Atri,0,0,0,,{\an8}Yes.
 Dialogue: 0,0:08:04.21,0:08:06.45,Default,Natsuki,0,0,0,,We gotta get your bedhead under control.
 Dialogue: 0,0:08:08.27,0:08:10.38,Default,Atri,0,0,0,,This feels so nice.
 Dialogue: 0,0:08:10.38,0:08:12.51,Default,Atri,0,0,0,,I can hardly contain my happiness!
@@ -418,4 +426,12 @@ Dialogue: 0,0:25:04.89,0:25:05.94,Default,Natsuki,0,0,0,,Where do you wanna go?
 Dialogue: 0,0:25:06.24,0:25:07.86,Default,Atri,0,0,0,,That hill by the sea.
 Dialogue: 0,0:25:08.38,0:25:12.24,Default,Atri,0,0,0,,That promised place where \NShiina-sama is waiting for me!
 Dialogue: 0,0:25:13.25,0:25:14.01,Default,Natsuki,0,0,0,,Yeah.
-Dialogue: 0,0:25:14.79,0:25:15.37,Default,Natsuki and Atri,0,0,0,,Let's go!
+Dialogue: 0,0:25:14.79,0:25:15.37,Default,Natsuki and Atri,0,0,0,,{=5}Let's go!
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;1;2
+Data: 3,_aegi_folddata,e1;1;2
+Data: 4,_aegi_folddata,e0;0;2
+Data: 5,_aegi_folddata,e1;0;2

@@ -32,6 +32,15 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=0}---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:02:04.98,0:02:04.98,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:02:20.62,0:02:20.62,Default,,0,0,0,opsync,{OPSync — First frame of Natsuki}
+Comment: 0,0:03:34.99,0:03:34.99,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:12:54.92,0:12:54.92,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:22:09.93,0:22:09.93,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:22:11.56,0:22:11.56,Default,,0,0,0,edsync,{=1}{EDSync — First frame of "YES" zoom}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
 Dialogue: 0,0:00:02.18,0:00:04.72,Default,Atri,0,0,0,,The capsule told me
 Dialogue: 0,0:00:06.01,0:00:08.03,Default,Atri,0,0,0,,about Nonko's final orders.
 Dialogue: 0,0:00:08.66,0:00:09.70,Default,Natsuki,0,0,0,,Eden?
@@ -363,4 +372,12 @@ Dialogue: 0,0:21:51.69,0:21:52.75,Default,Natsuki,0,0,0,,Let's go.
 Dialogue: 0,0:21:53.67,0:21:56.18,Default,Natsuki,0,0,0,,We're getting out of here, Atri! That's an order!
 Dialogue: 0,0:21:58.87,0:22:00.18,Default,Atri,0,0,0,,I'm sorry.
 Dialogue: 0,0:22:02.43,0:22:03.43,Default,Natsuki,0,0,0,,Atri...
-Dialogue: 0,0:22:05.80,0:22:08.97,Default,Atri,0,0,0,,I won't go with you.
+Dialogue: 0,0:22:05.80,0:22:08.97,Default,Atri,0,0,0,,{=5}I won't go with you.
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;1;2
+Data: 3,_aegi_folddata,e1;1;2
+Data: 4,_aegi_folddata,e0;0;2
+Data: 5,_aegi_folddata,e1;0;2

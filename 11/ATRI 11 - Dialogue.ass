@@ -56,17 +56,18 @@ Dialogue: 10,0:02:35.89,0:02:37.80,Default,Ririka,0,0,0,,{\an8}Whoa, that's one 
 Dialogue: 10,0:02:37.80,0:02:39.01,Default,Miyo,0,0,0,,{\an8}Didn't get enough sleep?
 Dialogue: 10,0:02:40.22,0:02:44.23,Default,Atri,0,0,0,,{\an8}Natsuki{**-san} hasn't been letting me\ndo much of that lately...
 Dialogue: 10,0:02:44.23,0:02:45.44,Default,Ririka and Miyo,0,0,0,,Really?!
-Dialogue: 10,0:02:45.44,0:02:47.86,Default,Natsuki,0,0,0,,Don't say things that'll give them the wrong idea.
-Dialogue: 10,0:02:48.56,0:02:50.73,Default,Ririka,0,0,0,,Oh, hey. {*}Mr. Natsuki{*Natsuki-sensei}.
+Dialogue: 10,0:02:45.44,0:02:47.86,Default,Natsuki,0,0,0,,Stop giving 'em the wrong idea.
+Dialogue: 10,0:02:48.56,0:02:50.73,Default,Ririka,0,0,0,,Oh. Hey, {*}Mr. Natsuki{*Natsuki-sensei}.
 Dialogue: 10,0:02:50.73,0:02:52.61,Default,Miyo,0,0,0,,What are you doing in our classroom?
 Dialogue: 10,0:02:52.61,0:02:54.74,Default,Toru,0,0,0,,What about your own class?
 Dialogue: 10,0:02:55.28,0:02:57.16,Default,Catherine,0,0,0,,Listen up, boys and girls!
-Dialogue: 10,0:02:57.16,0:03:01.95,Default,Catherine,0,0,0,,Before we get started today,\n{*}Mr. Natsuki{*Natsuki-sensei} has an important announcement to make.
+Dialogue: 10,0:02:57.16,0:03:01.95,Default,Catherine,0,0,0,,Before we get started today,\n{*}Mr. Natsuki{*Natsuki-sensei} has an important announcement.
+Dialogue: 10,0:03:01.95,0:03:04.30,Default,,0,0,0,,Huh, what's this about?
 Dialogue: 10,0:03:04.58,0:03:07.46,Default,Natsuki,0,0,0,,So, uh, I know this is on awfully short notice,
 Dialogue: 10,0:03:07.46,0:03:10.21,Default,Natsuki,0,0,0,,but I'm gonna be heading off to the mainland.
 Dialogue: 10,0:03:10.50,0:03:12.09,Default,All,0,0,0,,Huh?
 Dialogue: 10,0:03:12.09,0:03:14.76,Default,Natsuki,0,0,0,,I'm going to re-enroll in the Academy.
-Dialogue: 10,0:03:14.76,0:03:16.51,Default,Ririka,0,0,0,,Uh, {*}Mr. Natsuki}{*Sensei}...
+Dialogue: 10,0:03:14.76,0:03:16.51,Default,Ririka,0,0,0,,Uh, {*}Mr. Natsuki{*Sensei}...
 Dialogue: 10,0:03:16.51,0:03:18.39,Default,Toru,0,0,0,,Are you quitting as our teacher?
 Dialogue: 10,0:03:18.39,0:03:20.81,Default,Miyo,0,0,0,,Are you abandoning us?
 Dialogue: 10,0:03:20.81,0:03:22.43,Default,Natsuki,0,0,0,,Nah, that's not it at all.
@@ -75,18 +76,19 @@ Dialogue: 10,0:03:28.56,0:03:29.69,Default,Natsuki,0,0,0,,Ririka inspired me.
 Dialogue: 10,0:03:29.69,0:03:31.19,Default,Ririka,0,0,0,,Huh?
 Dialogue: 10,0:03:31.48,0:03:36.57,Default,Natsuki,0,0,0,,Even in a world without light,\nyou did everything you could to keep reading.
 Dialogue: 10,0:03:37.45,0:03:42.08,Default,Natsuki,0,0,0,,You studied your butt off,\nall because you had a goal you wanted to achieve.
-Dialogue: 10,0:03:42.91,0:03:45.33,Default,Natsuki,0,0,0,,Seeing that made me realize...
+Dialogue: 10,0:03:42.91,0:03:45.33,Default,Natsuki,0,0,0,,Seeing that made me realize
 Dialogue: 10,0:03:46.00,0:03:48.08,Default,Natsuki,0,0,0,,I wasn't okay with staying like this forever.
 Dialogue: 10,0:03:48.75,0:03:50.04,Default,Ririka,0,0,0,,{*}Mr. Natsuki{*Sensei}...
 Dialogue: 10,0:03:51.09,0:03:53.92,Default,Miyo,0,0,0,,What are you gonna study at the Academy?
 Dialogue: 10,0:03:53.92,0:03:57.55,Default,Natsuki,0,0,0,,Back in the day, I wanted to\nbuild a rocket and ride it into space.
 Dialogue: 10,0:03:57.55,0:04:00.22,Default,Natsuki,0,0,0,,I wanted to get this world moving again.
-Dialogue: 10,0:04:00.55,0:04:04.97,Default,Natsuki,0,0,0,,But now I want to learn\nmore and more about Humanoids.
+Dialogue: 10,0:04:00.55,0:04:04.97,Default,Natsuki,0,0,0,,But now I want to learn\nall that I can about Humanoids.
 Dialogue: 10,0:04:05.52,0:04:10.06,Default,Natsuki,0,0,0,,Stuff like how humans and\nHumanoids can coexist together,
-Dialogue: 10,0:04:10.06,0:04:13.52,Default,Natsuki,0,0,0,,or what we can do to help each other\nlive our best lives.
+Dialogue: 10,0:04:10.06,0:04:13.52,Default,Natsuki,0,0,0,,or what we can do to help\neach other live our best lives.
 Dialogue: 10,0:04:13.82,0:04:17.49,Default,Natsuki,0,0,0,,Those are the sorts of big questions\nI want to find the answers to someday.
-Dialogue: 10,0:04:25.79,0:04:26.79,Default,Natsuki,0,0,0,,Thanks, guys.
-Dialogue: 10,0:04:26.79,0:04:28.25,Alt,Some kid,0,0,0,,{\an8}You can do it!
+Dialogue: 10,0:04:25.79,0:04:27.25,Default,Natsuki,0,0,0,,Thanks, guys.
+Dialogue: 10,0:04:25.79,0:04:26.79,Alt,Some kid,0,0,0,,{\an8}We believe in you!
+Dialogue: 10,0:04:26.79,0:04:28.25,Alt,Some other kid,0,0,0,,{\an8}You can do it!
 Dialogue: 10,0:04:27.25,0:04:28.25,Default,Miyo,0,0,0,,{*}Mr. Natsuki{*Sensei}?
 Dialogue: 10,0:04:28.62,0:04:30.63,Default,Miyo,0,0,0,,What about Atri{**-chan}?
 Dialogue: 10,0:04:31.46,0:04:36.05,Default,Natsuki,0,0,0,,I told her she could decide for herself,\nand she said she'd come with me.
@@ -116,17 +118,17 @@ Dialogue: 10,0:05:51.37,0:05:52.25,Default,Ryuuji,0,0,0,,Huh?
 Dialogue: 10,0:05:54.54,0:05:55.75,Default,Natsuki,0,0,0,,Er...
 Dialogue: 10,0:05:55.75,0:05:59.76,Default,Natsuki,0,0,0,,I don't wanna force you\ninto it or anything, but...
 Dialogue: 10,0:05:59.76,0:06:01.01,Default,Ryuuji,0,0,0,,C'mon man, spill it.
-Dialogue: 10,0:06:01.59,0:06:06.05,Default,Natsuki,0,0,0,,Once I'm gone, can you carry on\nthe salvaging business?
+Dialogue: 10,0:06:01.59,0:06:06.05,Default,Natsuki,0,0,0,,Once I'm gone, could you carry on\nthe salvaging business?
 Dialogue: 10,0:06:06.68,0:06:09.85,Default,Natsuki,0,0,0,,You can have the boat and sub.
 Dialogue: 10,0:06:13.69,0:06:16.36,Default,Ryuuji,0,0,0,,Nah, you can keep those pieces of junk.
 Dialogue: 10,0:06:17.90,0:06:18.90,Default,Natsuki,0,0,0,,Oh...
-Dialogue: 10,0:06:19.98,0:06:21.82,Default,Ryuuji,0,0,0,,Though I wouldn't mind borrowing 'em...
-Dialogue: 10,0:06:22.28,0:06:23.40,Default,Ryuuji,0,0,0,,For the salvage work.
+Dialogue: 10,0:06:19.98,0:06:21.82,Default,Ryuuji,0,0,0,,Though I wouldn't mind borrowing 'em
+Dialogue: 10,0:06:22.28,0:06:23.40,Default,Ryuuji,0,0,0,,for the salvage work.
 Dialogue: 10,0:06:24.61,0:06:25.82,Default,Natsuki,0,0,0,,Ryuuji...
 Dialogue: 10,0:06:26.49,0:06:30.45,Default,Ryuuji,0,0,0,,I mean, whenever we manage to dredge up\npeople's old keepsakes from the ocean,
 Dialogue: 10,0:06:30.45,0:06:31.83,Default,Ryuuji,0,0,0,,it makes 'em real happy, doesn't it?
 Dialogue: 10,0:06:32.29,0:06:35.83,Default,Ryuuji,0,0,0,,Seeing their smiles made me think\nit ain't such a bad line of work.
-Dialogue: 10,0:06:36.38,0:06:38.34,Default,Yoko,0,0,0,,You can count on me and Minamo to help, too!
+Dialogue: 10,0:06:36.38,0:06:38.34,Default,Yoko,0,0,0,,You can count on us to help out, too!
 Dialogue: 10,0:06:38.34,0:06:38.84,Default,Minamo,0,0,0,,Yeah!
 Dialogue: 10,0:06:39.46,0:06:40.59,Default,Natsuki,0,0,0,,That's great!
 Dialogue: 10,0:06:49.60,0:06:52.93,Default,Yoko,0,0,0,,Gotta say, Natsuki{**-kun} really is\nan awfully decent guy, huh? {?! tricky, the "obvious" solution is bad imo, but I feel like there's something better}{how about something like "altruistic" -yon}
@@ -190,7 +192,7 @@ Dialogue: 10,0:10:20.64,0:10:24.14,Default,Natsuki,0,0,0,,We should, you know, t
 Dialogue: 10,0:10:25.44,0:10:26.65,Default,Atri,0,0,0,,I agree.
 Dialogue: 10,0:10:26.65,0:10:27.57,Default,Natsuki,0,0,0,,Huh?
 Dialogue: 10,0:10:28.82,0:10:34.07,Default,Atri,0,0,0,,I didn't understand any of this before, but now I do.
-Dialogue: 10,0:10:34.45,0:10:37.91,Default,Atri,0,0,0,,That this is something very precious,\nand it takes a lot of courage.
+Dialogue: 10,0:10:34.45,0:10:37.91,Default,Atri,0,0,0,,That it's something very precious,\nsomething that takes lots of courage.
 Dialogue: 10,0:10:38.83,0:10:43.08,Default,Atri,0,0,0,,Just thinking about it\nhas my heart beating out of my chest...
 Dialogue: 10,0:10:44.16,0:10:45.08,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:10:45.58,0:10:48.96,Default,Atri,0,0,0,,Natsuki{**-san}, um...
@@ -227,8 +229,8 @@ Dialogue: 10,0:12:30.73,0:12:31.90,Default,Atri,0,0,0,,Right...
 Dialogue: 10,0:12:32.94,0:12:36.78,Default,Natsuki,0,0,0,,But I also see you as so much more\nthan just a regular Humanoid.
 Dialogue: 10,0:12:40.49,0:12:45.87,Default,Natsuki,0,0,0,,To me, you've always just been {\i1}Atri.{\i0}\nA precious, unique, one-of-a-kind existence.
 Dialogue: 10,0:12:45.87,0:12:47.12,Default,Atri,0,0,0,,Natsuki{**-san}...
-Dialogue: 10,0:12:47.66,0:12:51.04,Default,Natsuki,0,0,0,,I'm a human, and you're a Humanoid\nwith a heart, so I have no idea
-Dialogue: 10,0:12:51.04,0:12:53.29,Default,Natsuki,0,0,0,,what our relationship should look like.
+Dialogue: 10,0:12:47.66,0:12:51.04,Default,Natsuki,0,0,0,,I'm a human, and you're a Humanoid with a heart,
+Dialogue: 10,0:12:51.04,0:12:53.29,Default,Natsuki,0,0,0,,so I have no idea what our relationship should be.
 Dialogue: 10,0:12:54.04,0:12:56.26,Default,Natsuki,0,0,0,,Should we fall in love like two humans would,
 Dialogue: 10,0:12:56.26,0:12:58.84,Default,Natsuki,0,0,0,,or is what we have something new and different?
 Dialogue: 10,0:12:59.30,0:13:02.30,Default,Natsuki,0,0,0,,But no matter what,\nI want to find that answer together.
@@ -248,21 +250,21 @@ Dialogue: 10,0:13:54.65,0:13:55.90,Default,Natsuki,0,0,0,,Found it!
 Dialogue: 10,0:13:57.57,0:13:59.65,Default,Natsuki,0,0,0,,Come on, come on...
 Dialogue: 10,0:14:03.53,0:14:07.41,Default,Natsuki,0,0,0,,So it {\i1}is{\i0} the battery.\nLet's see, charging methods...
 Dialogue: 10,0:14:07.74,0:14:10.12,Default,Natsuki,0,0,0,,"Due to high power draw requirements,
-Dialogue: 10,0:14:10.12,0:14:12.46,Default,Natsuki,0,0,0,,household charging presents significant hazards.
-Dialogue: 10,0:14:12.46,0:14:14.50,Default,Natsuki,0,0,0,,To prevent irreversible battery degradation,
+Dialogue: 10,0:14:10.12,0:14:12.46,Default,Natsuki,0,0,0,,household charging presents significant hazards."
+Dialogue: 10,0:14:12.46,0:14:14.50,Default,Natsuki,0,0,0,,"To prevent irreversible battery degradation,
 Dialogue: 10,0:14:14.50,0:14:17.67,Default,Natsuki,0,0,0,,periodic maintenance with the retailer\nis strongly advised..." {thoughts on the use of quotation marks?}{### I typically have quotes on every line. This is the only such instance in the show I could find though, along with another instance later in the same episode, so whatever you choose, just be consistent and it should be fine.}
 Dialogue: 10,0:14:17.67,0:14:18.46,Default,Natsuki,0,0,0,,Shit!
-Dialogue: 10,0:14:20.88,0:14:22.22,Default,Minamo,0,0,0,,She's low on battery?
-Dialogue: 10,0:14:22.22,0:14:25.14,Default,Ryuuji,0,0,0,,So you can't charge her on your own?
+Dialogue: 10,0:14:20.88,0:14:22.22,Default,Minamo,0,0,0,,Her battery is dying?
+Dialogue: 10,0:14:22.22,0:14:25.14,Default,Ryuuji,0,0,0,,And you can't charge her on your own?
 Dialogue: 10,0:14:25.14,0:14:27.14,Default,Yoko,0,0,0,,What happened to the manufacturer?
-Dialogue: 10,0:14:27.14,0:14:31.52,Default,Yoko,0,0,0,,Even if the company went under,\nthere should still be maintenance places, right?
+Dialogue: 10,0:14:27.14,0:14:31.52,Default,Yoko,0,0,0,,Even if the company went under,\nthere should still be repair shops, right?
 Dialogue: 10,0:14:31.52,0:14:34.19,Default,Natsuki,0,0,0,,On the mainland, probably. But...
 Dialogue: 10,0:14:34.94,0:14:37.86,Default,Catherine,0,0,0,,There's a recall out on her model.
 Dialogue: 10,0:14:37.86,0:14:39.90,Default,Catherine,0,0,0,,They'll just take her away.
 Dialogue: 10,0:14:39.90,0:14:41.11,Default,Minamo,0,0,0,,Oh...
 Dialogue: 10,0:14:41.11,0:14:42.28,Default,Yoko,0,0,0,,What do we do?
-Dialogue: 10,0:14:42.69,0:14:46.82,Default,Natsuki,0,0,0,,If things keep up, she'll lose her memory.
-Dialogue: 10,0:14:46.82,0:14:48.12,Default,Natsuki,0,0,0,,And then...
+Dialogue: 10,0:14:42.69,0:14:46.82,Default,Natsuki,0,0,0,,If we don't do anything,\nher memory will start to degrade.
+Dialogue: 10,0:14:46.82,0:14:48.12,Default,Natsuki,0,0,0,,And she'll...
 Dialogue: 10,0:14:48.12,0:14:49.95,Default,Atri,0,0,0,,Natsuki{**-san}, how could you?!
 Dialogue: 10,0:14:53.00,0:14:54.21,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:14:54.21,0:14:56.71,Default,Atri,0,0,0,,How dare you abandon me at home again?
@@ -284,7 +286,7 @@ Dialogue: 10,0:15:27.82,0:15:28.91,Default,Natsuki,0,0,0,,Just go to sleep.
 Dialogue: 10,0:15:36.04,0:15:37.46,Default,Minamo,0,0,0,,Atri{**-chan}...
 Dialogue: 10,0:15:37.46,0:15:39.59,Default,Catherine,0,0,0,,Yeah, let's cancel class for the day.
 Dialogue: 10,0:15:39.59,0:15:42.46,Default,Catherine,0,0,0,,I'll hit up all my contacts from my private eye days.
-Dialogue: 10,0:15:42.46,0:15:47.01,Default,Catherine,0,0,0,,The rest of you kiddos, go look\nfor any info that might be useful. Okay?
+Dialogue: 10,0:15:42.46,0:15:47.01,Default,Catherine,0,0,0,,The rest of you kiddos, go look for\nany info that might be useful. Okay?
 Dialogue: 10,0:16:32.47,0:16:35.35,Default,Catherine,0,0,0,,Not a single lead, huh?
 Dialogue: 10,0:16:35.35,0:16:37.10,Default,Ryuuji,0,0,0,,Nope...
 Dialogue: 10,0:16:37.10,0:16:42.36,Default,Yoko,0,0,0,,I mean, like, she was manufactured\ndecades ago at this point...
@@ -299,8 +301,8 @@ Dialogue: 10,0:17:08.51,0:17:09.51,Default,Natsuki,0,0,0,,Years...
 Dialogue: 10,0:17:10.76,0:17:11.51,Default,Minamo,0,0,0,,Am I wrong?
 Dialogue: 10,0:17:12.68,0:17:13.51,Default,Natsuki,0,0,0,,No...
 Dialogue: 10,0:17:17.31,0:17:19.31,Default,Yoko,0,0,0,,Atri{**-chan}'s logbook...
-Dialogue: 10,0:17:21.10,0:17:23.90,Default,Natsuki,0,0,0,,"Nonko told me to sleep here.
-Dialogue: 10,0:17:24.40,0:17:26.69,Default,Natsuki,0,0,0,,She said that this would be my cradle."
+Dialogue: 10,0:17:21.10,0:17:23.90,Default,Natsuki,0,0,0,,"Nonko told me to sleep here."
+Dialogue: 10,0:17:24.40,0:17:26.69,Default,Natsuki,0,0,0,,"She said that this would be my cradle."
 Dialogue: 10,0:17:27.48,0:17:28.90,Default,Natsuki,0,0,0,,What does that mean?
 Dialogue: 10,0:17:29.44,0:17:30.40,Default,Ryuuji,0,0,0,,Cradle?
 Dialogue: 10,0:17:37.04,0:17:37.95,Default,Natsuki,0,0,0,,That capsule...
@@ -309,7 +311,7 @@ Dialogue: 10,0:17:40.08,0:17:41.83,Default,Natsuki,0,0,0,,It's gotta be that cap
 Dialogue: 10,0:17:41.83,0:17:46.13,Default,Natsuki,0,0,0,,That capsule must've been giving Atri power\nthe whole time she was sleeping!
 Dialogue: 10,0:17:46.13,0:17:47.88,Default,Catherine,0,0,0,,I should've thought of that!
 Dialogue: 10,0:17:47.88,0:17:50.38,Default,Ryuuji,0,0,0,,So where's the capsule now?
-Dialogue: 10,0:17:50.88,0:17:53.26,Default,Natsuki,0,0,0,,It's probably still...
+Dialogue: 10,0:17:50.88,0:17:53.26,Default,Natsuki,0,0,0,,It should still be right there!
 Dialogue: 10,0:17:59.35,0:18:00.35,Default,Natsuki,0,0,0,,Come on...
 Dialogue: 10,0:18:02.35,0:18:04.19,Default,Minamo,0,0,0,,How's it going, Natsu{**-kun}?
 Dialogue: 10,0:18:04.19,0:18:06.69,Default,Natsuki,0,0,0,,All good. I'm almost there.
@@ -340,7 +342,7 @@ Dialogue: 10,0:19:53.84,0:19:55.01,Default,Minamo,0,0,0,,I can't see anything...
 Dialogue: 10,0:19:55.01,0:19:57.18,Default,Ryuuji,0,0,0,,Maybe it needs electricity?
 Dialogue: 10,0:19:57.59,0:20:00.18,Default,Natsuki,0,0,0,,No, I know my grandma.
 Dialogue: 10,0:20:00.18,0:20:02.93,Default,Natsuki,0,0,0,,She'd never rely on any sort of external assistance.
-Dialogue: 10,0:20:02.93,0:20:04.93,Default,Natsuki,0,0,0,,She would've found a way to be self-sufficient.
+Dialogue: 10,0:20:02.93,0:20:04.93,Default,Natsuki,0,0,0,,She would've found a way to make it self-sufficient.
 Dialogue: 10,0:20:37.92,0:20:39.18,Default,Minamo,0,0,0,,Atri{**-chan}...
 Dialogue: 10,0:20:45.14,0:20:46.89,Default,Ryuuji,0,0,0,,Whoa, what the heck?
 Dialogue: 10,0:20:47.81,0:20:51.15,Default,Natsuki,0,0,0,,It sensed Atri, and now it's charging her.
@@ -355,7 +357,7 @@ Dialogue: 10,0:21:44.24,0:21:45.83,Default,Atri,0,0,0,,Natsuki{**-san}...
 Dialogue: 10,0:21:51.83,0:21:53.79,Default,Natsuki,0,0,0,,You'd better thank my grandma.
 Dialogue: 10,0:21:57.09,0:21:58.21,Default,Atri,0,0,0,,Eden...
 Comment: 10,0:21:58.59,0:21:59.46,Default,Natsuki,0,0,0,,
-Dialogue: 10,0:22:01.51,0:22:04.55,Default,Atri,0,0,0,,This capsule told me...
+Dialogue: 10,0:22:01.51,0:22:04.55,Default,Atri,0,0,0,,This capsule told me
 Dialogue: 10,0:22:05.68,0:22:09.18,Default,Atri,0,0,0,,{=5}about Nonko's final orders.
 
 [Aegisub Extradata]

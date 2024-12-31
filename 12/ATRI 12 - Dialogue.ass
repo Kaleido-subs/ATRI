@@ -14,8 +14,8 @@ PlayResY: 1080
 WrapStyle: 2
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-LayoutResX: 0
-LayoutResY: 0
+LayoutResX: 1920
+LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Audio File: ATRI - S01E12 (Premux) [07E9AEDD].mkv

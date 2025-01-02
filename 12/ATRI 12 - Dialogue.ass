@@ -80,8 +80,8 @@ Dialogue: 10,0:01:47.59,0:01:49.88,Default,Atri,0,0,0,,It's a mystery, isn't it?
 Dialogue: 10,0:01:51.76,0:01:55.14,Default,Ryuuji,0,0,0,,Hey, Natsu. Is it just me, or is she...
 Dialogue: 10,0:01:56.43,0:01:57.56,Default,Natsuki,0,0,0,,Bolts for brains.
 Dialogue: 10,0:02:00.22,0:02:04.98,Default,Atri,0,0,0,,Super roundhouse rocket punch!
-Dialogue: 10,0:03:43.66,0:03:45.33,Default,Ryuuji,0,0,0,,Whole lotta nothing.
-Dialogue: 10,0:03:45.33,0:03:47.67,Default,Ririka,0,0,0,,I'm not seeing anything here, either.
+Dialogue: 10,0:03:43.66,0:03:45.33,Default,Ryuuji,0,0,0,,{\an8}Whole lotta nothing.
+Dialogue: 10,0:03:45.33,0:03:47.67,Default,Ririka,0,0,0,,{\an8}I'm not seeing anything here, either.
 Dialogue: 10,0:03:48.21,0:03:50.25,Default,Toru,0,0,0,,You sure it's out there?
 Dialogue: 10,0:03:50.25,0:03:52.46,Default,Atri,0,0,0,,All I know is that I have to go there...
 Dialogue: 10,0:03:52.96,0:03:56.47,Default,Catherine,0,0,0,,Isn't it awfully, you know, incomplete for an order?
@@ -103,7 +103,7 @@ Dialogue: 10,0:04:32.63,0:04:34.67,Default,Nonko,0,0,0,,and get used to not acco
 Dialogue: 10,0:04:38.26,0:04:39.68,Default,Minamo,0,0,0,,That's awful...
 Dialogue: 10,0:04:40.01,0:04:44.35,Default,Natsuki,0,0,0,,Well, she definitely wasn't a hypocrite.\nShe was strong enough to do it all on her own.
 Dialogue: 10,0:04:44.35,0:04:47.68,Default,Catherine,0,0,0,,So you think Eden is really out there somewhere?
-Dialogue: 10,0:04:47.68,0:04:52.02,Default,Natsuki,0,0,0,,Yeah. There's no way she wouldn't see\nsomething like this through.
+Dialogue: 10,0:04:47.68,0:04:51.81,Default,Natsuki,0,0,0,,Yeah. There's no way she wouldn't see\nsomething like this through.
 Dialogue: 10,0:04:55.73,0:04:57.15,Default,Catherine,0,0,0,,Be careful out there!
 Dialogue: 10,0:04:57.15,0:04:59.36,Default,Miyo,0,0,0,,Let us know if you find it!
 Dialogue: 10,0:04:59.36,0:05:00.82,Default,Natsuki,0,0,0,,Yeah! See you later!

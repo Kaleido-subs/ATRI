@@ -46,7 +46,6 @@ Dialogue: 10,0:00:09.70,0:00:11.82,Default,Minamo,0,0,0,,That's where you're sup
 Dialogue: 10,0:00:12.33,0:00:13.28,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:00:13.28,0:00:15.54,Default,Atri,0,0,0,,The capsule is set up so that\nwhen it runs out of battery,
 Dialogue: 10,0:00:15.54,0:00:19.87,Default,Atri,0,0,0,,it installs that order in me.
-Comment: 10,0:00:13.28,0:00:19.87,Default,Atri,0,0,0,ED,The capsule is set up to install\nthat order in me when its battery runs out.{@ED line split is quite uneven (timing-wise), maybe this? rephrased to trim it down; linebreak still not great -p}
 Dialogue: 10,0:00:19.87,0:00:23.42,Default,Atri,0,0,0,,And then I could spring into action.
 Dialogue: 10,0:00:23.71,0:00:24.92,Default,Catherine,0,0,0,,Then...
 Dialogue: 10,0:00:24.92,0:00:29.93,Default,Minamo,0,0,0,,But we woke you up early\nand took you out of the capsule.
@@ -57,13 +56,13 @@ Dialogue: 10,0:00:39.44,0:00:43.31,Default,Natsuki,0,0,0,,Even if someone had ta
 Dialogue: 10,0:00:43.31,0:00:46.94,Default,Natsuki,0,0,0,,they'd never know about this order.
 Dialogue: 10,0:00:46.94,0:00:49.32,Default,Natsuki,0,0,0,,Grandma was always the paranoid type.
 Dialogue: 10,0:00:49.74,0:00:51.70,Default,Atri,0,0,0,,Yes. Which ultimately means...
-Dialogue: 10,0:00:53.32,0:00:56.62,Default,Atri,0,0,0,ED,It wasn't {\i1}my{\i0} fault I couldn't remember!{@ED maybe lowercase -p}
+Dialogue: 10,0:00:53.32,0:00:56.62,Default,Atri,0,0,0,,It wasn't {\i1}my{\i0} fault I couldn't remember!
 Dialogue: 10,0:00:57.66,0:00:59.62,Default,Natsuki,0,0,0,,Well, I mean...
-Dialogue: 10,0:00:59.62,0:01:03.71,Default,Atri,0,0,0,,But nooo, you had to shower me\nin hate speech every chance you got!
+Dialogue: 10,0:00:59.62,0:01:03.71,Default,Atri,0,0,0,,But noooo, you had to slander me\nwith hate speech every chance you got!
 Dialogue: 10,0:01:03.71,0:01:06.63,Default,Atri,0,0,0,,Well, too bad! I really am high-spec!
 Dialogue: 10,0:01:06.63,0:01:09.34,Default,Atri,0,0,0,,A truly world-class Humanoid!
 Dialogue: 10,0:01:10.13,0:01:12.43,Default,Yoko,0,0,0,,World-class in smugness, maybe...
-Dialogue: 10,0:01:12.43,0:01:14.39,Default,Ryuuji,0,0,0,,Must've been holding it in all this time.
+Dialogue: 10,0:01:12.43,0:01:14.39,Default,Ryuuji,0,0,0,,Must've been holding it back all this time.
 Dialogue: 10,0:01:14.39,0:01:16.51,Default,Minamo,0,0,0,,Atri{**-chan}...
 Dialogue: 10,0:01:16.51,0:01:19.81,Default,Minamo,0,0,0,,So where is this "Eden" thing?
 Dialogue: 10,0:01:20.35,0:01:22.31,Default,Atri,0,0,0,,Oh, that's simple!
@@ -72,7 +71,7 @@ Dialogue: 10,0:01:25.52,0:01:26.94,Default,Minamo,0,0,0,,That way?
 Dialogue: 10,0:01:26.94,0:01:28.11,Default,Yoko,0,0,0,,That's all?
 Dialogue: 10,0:01:28.78,0:01:29.69,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:01:30.49,0:01:32.32,Default,Atri,0,0,0,,At least, that's what it told me...
-Dialogue: 10,0:01:34.87,0:01:37.74,Default,Ryuuji,0,0,0,ED,So what even is {@ED this? -p}"Eden," anyway?
+Dialogue: 10,0:01:34.87,0:01:37.74,Default,Ryuuji,0,0,0,,So what even is this "Eden" thing, anyway?
 Dialogue: 10,0:01:37.74,0:01:39.20,Default,Atri,0,0,0,,No idea.
 Dialogue: 10,0:01:39.20,0:01:41.58,Default,Catherine,0,0,0,,Do you know the exact coordinates?
 Dialogue: 10,0:01:42.04,0:01:43.00,Default,Atri,0,0,0,,Nope.
@@ -108,7 +107,7 @@ Dialogue: 10,0:04:47.68,0:04:51.81,Default,Natsuki,0,0,0,,Yeah. There's no way s
 Dialogue: 10,0:04:55.73,0:04:57.15,Default,Catherine,0,0,0,,Be careful out there!
 Dialogue: 10,0:04:57.15,0:04:59.36,Default,Miyo,0,0,0,,Let us know if you find it!
 Dialogue: 10,0:04:59.36,0:05:00.82,Default,Natsuki,0,0,0,,Yeah! See you later!
-Dialogue: 10,0:05:02.45,0:05:05.20,Default,Catherine,0,0,0,ED,Welp, let's head back to the school and start class.{@ED just "back to school"? -p}
+Dialogue: 10,0:05:02.45,0:05:05.20,Default,Catherine,0,0,0,,C'mon kiddos, let's start heading back to school.
 Dialogue: 10,0:05:06.87,0:05:07.95,Default,Ririka,0,0,0,,Eden...
 Dialogue: 10,0:05:08.91,0:05:10.67,Default,Toru,0,0,0,,What's up, Ririka?
 Dialogue: 10,0:05:10.67,0:05:13.83,Default,Ririka,0,0,0,,Haven't we seen that word somewhere?
@@ -133,7 +132,7 @@ Dialogue: 10,0:06:07.39,0:06:09.14,Default,Ryuuji,0,0,0,,Huh? Hey!
 Dialogue: 10,0:06:09.14,0:06:10.64,Default,Minamo,0,0,0,,Atri{**-chan}?
 Dialogue: 10,0:06:11.02,0:06:14.65,Default,Yoko,0,0,0,,Don't just say things like that, dude.\nI'm sure she's trying her best.
 Dialogue: 10,0:06:14.65,0:06:18.15,Default,Ryuuji,0,0,0,,No, uh, I didn't mean it like that...
-Dialogue: 10,0:06:18.48,0:06:21.99,Default,Minamo,0,0,0,ED,Do you think the professor\nwas just sending her on a fool's errand? {?}{@ED i see this has been ?'d but i don't really see what the problem is. i feel like "wild goose chase" fits this line better but it's used on an earlier line... -p}
+Dialogue: 10,0:06:18.48,0:06:21.99,Default,Minamo,0,0,0,,Do you think the professor\nwas just sending her on a fool's errand?
 Dialogue: 10,0:06:21.99,0:06:24.91,Default,Natsuki,0,0,0,,No. I normally wouldn't put\nsomething like that past her,
 Dialogue: 10,0:06:24.91,0:06:26.99,Default,Natsuki,0,0,0,,but she was always a scientist first.
 Dialogue: 10,0:06:26.99,0:06:29.04,Default,Natsuki,0,0,0,,She'd never leave us an unsolvable problem.
@@ -147,8 +146,8 @@ Dialogue: 10,0:06:56.65,0:06:58.56,Default,Atri,0,0,0,,And tasty equals happy!
 Dialogue: 10,0:06:58.56,0:07:00.27,Default,Ryuuji,0,0,0,,"Trying her best," my ass...
 Dialogue: 10,0:07:01.11,0:07:04.15,Default,Natsuki,0,0,0,,Maybe we'll find something\nif we dive down to her lab again...
 Dialogue: 10,0:07:04.15,0:07:06.36,Default,Kids,0,0,0,,Heeey!
-Dialogue: 10,0:07:08.37,0:07:10.37,Default,Kids,0,0,0,ED,Natsuki-sensei!{@ED honorific -p}
-Dialogue: 10,0:07:12.62,0:07:13.95,Default,Toru,0,0,0,ED,Natsuki-sensei!
+Dialogue: 10,0:07:08.37,0:07:10.37,Default,Kids,0,0,0,,{*}Mr. Natsuki{*Natsuki-sensei}!
+Dialogue: 10,0:07:12.62,0:07:13.95,Default,Toru,0,0,0,,{*}Mr. Natsuki{*Natsuki-sensei}!
 Dialogue: 10,0:07:13.95,0:07:15.54,Default,Miyo,0,0,0,,We figured out what Eden is.
 Dialogue: 10,0:07:15.54,0:07:17.38,Default,Miyo,0,0,0,,Ririka{**-chan} found it!
 Dialogue: 10,0:07:17.38,0:07:18.63,Default,Natsuki,0,0,0,,Huh?
@@ -186,11 +185,11 @@ Dialogue: 10,0:09:02.23,0:09:04.98,Default,Minamo,0,0,0,,We still couldn't find 
 Dialogue: 10,0:09:04.98,0:09:08.24,Default,Ryuuji,0,0,0,,Look, are we {\i1}sure{\i0} it really exists?
 Dialogue: 10,0:09:18.37,0:09:19.54,Default,Natsuki,0,0,0,,Atri.
 Dialogue: 10,0:09:19.54,0:09:22.21,Default,Atri,0,0,0,,Why can't we find it?
-Dialogue: 10,0:09:22.21,0:09:25.75,Default,Atri,0,0,0,ED,I really thought I would get\nto finally carry out my orders...{@ED break after "to"? or "would finally/get to carry out" -p}
+Dialogue: 10,0:09:22.21,0:09:25.75,Default,Atri,0,0,0,,I really thought I would finally\nget to carry out my orders...
 Dialogue: 10,0:09:26.30,0:09:27.96,Default,Natsuki,0,0,0,,It's not your fault.
 Dialogue: 10,0:09:32.30,0:09:33.26,Default,Natsuki,0,0,0,,Fog...
 Dialogue: 10,0:09:33.76,0:09:35.76,Default,Atri,0,0,0,,Looks like it.
-Dialogue: 10,0:09:35.76,0:09:38.85,Default,Atri,0,0,0,ED,I don't think we'll be able to see\nanything if it keeps up...{@ED also iffy linebreak -p}
+Dialogue: 10,0:09:35.76,0:09:38.85,Default,Atri,0,0,0,,I don't think we'll be able to see\nanything if it doesn't clear up...
 Dialogue: 10,0:09:42.44,0:09:45.36,Default,Natsuki,0,0,0,,There was fog back then, too...
 Dialogue: 10,0:09:47.73,0:09:49.69,Default,Atri,0,0,0,,You're going on a dive? Right now?
 Dialogue: 10,0:09:49.69,0:09:53.03,Default,Natsuki,0,0,0,,Yeah. Something's fishy about this fog.
@@ -208,7 +207,7 @@ Dialogue: 10,0:10:28.07,0:10:32.74,Default,Natsuki,0,0,0,,But there shouldn't be
 Dialogue: 10,0:10:32.74,0:10:35.61,Default,Ryuuji,0,0,0,,Then if you follow that cable...
 Dialogue: 10,0:10:35.61,0:10:36.45,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:10:47.59,0:10:48.46,Default,Ryuuji,0,0,0,,What's wrong?!
-Dialogue: 10,0:10:48.96,0:10:51.26,Default,Natsuki,0,0,0,ED,No clue, we just into a crazy strong current!{@ED missing word. "got sucked into"? -p}
+Dialogue: 10,0:10:48.96,0:10:51.26,Default,Natsuki,0,0,0,,No clue, we just fell into a crazy strong current!
 Dialogue: 10,0:10:57.80,0:10:58.97,Default,Natsuki,0,0,0,,Is this a natural current?
 Dialogue: 10,0:10:58.97,0:11:02.64,Default,Atri,0,0,0,,Let's surface for now! I'll dive back down myself!
 Dialogue: 10,0:11:02.64,0:11:06.02,Default,Natsuki,0,0,0,,No. I bet this is another one of Grandma's tricks.
@@ -249,7 +248,7 @@ Dialogue: 10,0:14:52.79,0:14:55.33,Default,Atri,0,0,0,,In that case, good mornin
 Dialogue: 10,0:14:55.67,0:14:57.58,Default,Natsuki,0,0,0,,Yeah. Morning.
 Dialogue: 10,0:14:58.67,0:15:01.26,Default,Atri,0,0,0,,Is this Eden?
 Dialogue: 10,0:15:01.26,0:15:03.09,Default,Natsuki,0,0,0,,Yeah, I think so.
-Dialogue: 10,0:15:03.09,0:15:08.85,Default,Natsuki,0,0,0,ED,It's an artificial island powered by wave energy\nand built to support human life.{@ED i _think_ it's more commonly "power" than "energy" but i'm unsure -p}
+Dialogue: 10,0:15:03.09,0:15:08.85,Default,Natsuki,0,0,0,,It's an artificial island powered by wave energy\n converters and built to support human life.
 Dialogue: 10,0:15:11.18,0:15:12.52,Default,Atri,0,0,0,,What's this?
 Dialogue: 10,0:15:12.85,0:15:15.48,Default,Natsuki,0,0,0,,They must be reacting to you.
 Dialogue: 10,0:15:15.48,0:15:18.48,Default,Atri,0,0,0,,The whole island's been waiting for you to arrive.
@@ -304,12 +303,11 @@ Dialogue: 10,0:17:32.95,0:17:34.41,Default,Atri,0,0,0,,Gosh...
 Dialogue: 10,0:17:36.16,0:17:37.41,Default,Natsuki,0,0,0,,Sorry.
 Dialogue: 10,0:17:37.83,0:17:41.16,Default,Atri,0,0,0,,I-It's fine. I'm just acting as your leg!
 Dialogue: 10,0:18:07.48,0:18:08.94,Default,Natsuki,0,0,0,,Whoa...
-Dialogue: 10,0:18:09.28,0:18:11.70,Default,Atri,0,0,0,ED,Are these all edible plants?{Why specify edible here? -yon}{yeah, fair complaint, but I felt like the question was weird if it was just "are all these plants"?}{@ED maybe "Did she grow all of these"? or "Are these rooms all full of plants" or something -p}
+Dialogue: 10,0:18:09.28,0:18:11.70,Default,Atri,0,0,0,,Are these all edible plants?
 Dialogue: 10,0:18:11.70,0:18:13.03,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:18:13.03,0:18:17.12,Default,Natsuki,0,0,0,,She's automated food production\nso nobody has to go hungry.
-Dialogue: 10,0:18:18.37,0:18:21.00,Default,Natsuki,0,0,0,ED,You know, they laughed her out of academia{@ED join next? -p}
-Dialogue: 10,0:18:21.00,0:18:23.37,Default,Natsuki,0,0,0,,for worrying about rising sea levels.
-Dialogue: 10,0:18:23.37,0:18:28.25,Default,Natsuki,0,0,0,,And ever since, she was building all this by herself,\nbehind everybody's backs.
+Dialogue: 10,0:18:18.37,0:18:23.37,Default,Natsuki,0,0,0,,You know, they laughed her out of academia\nfor worrying about rising sea levels.
+Dialogue: 10,0:18:23.37,0:18:28.25,Default,Natsuki,0,0,0,,But she went and built this whole place by herself,\nwithout anyone ever finding out about it.
 Dialogue: 10,0:18:30.96,0:18:35.26,Default,Natsuki,0,0,0,,This facility is where electricity is generated\nand distributed through the island
 Dialogue: 10,0:18:35.26,0:18:37.60,Default,Natsuki,0,0,0,,to make this place fully self-sustaining.
 Dialogue: 10,0:18:52.11,0:18:53.07,Default,Atri,0,0,0,,Look...
@@ -338,7 +336,7 @@ Dialogue: 10,0:20:06.73,0:20:08.10,Default,Natsuki,0,0,0,,Well, screw that!
 Dialogue: 10,0:20:08.10,0:20:10.56,Default,Natsuki,0,0,0,,Atri's finally become conscious of her emotions!
 Dialogue: 10,0:20:10.56,0:20:12.86,Default,Natsuki,0,0,0,,And you expect me to lock her up in here?!
 Dialogue: 10,0:20:12.86,0:20:15.24,Default,Nonko,0,0,0,,Oh, {\i1}I'm{\i0} the one that's being unreasonable?
-Dialogue: 10,0:20:15.24,0:20:20.32,Default,Nonko,0,0,0,,All I did was give this poor girl a purpose,\nsomething to give meaning to her existence.
+Dialogue: 10,0:20:15.24,0:20:20.32,Default,Nonko,0,0,0,,All I did was build this poor girl a purpose,\nsomething to give meaning to her existence.
 Dialogue: 10,0:20:20.32,0:20:22.41,Default,Nonko,0,0,0,,You should be thanking me if anything!
 Dialogue: 10,0:20:23.41,0:20:25.00,Default,Atri,0,0,0,,A purpose...
 Dialogue: 10,0:20:26.20,0:20:27.83,Default,Natsuki,0,0,0,,{\i1}I'll{\i0} build that meaning for her!
@@ -356,10 +354,8 @@ Dialogue: 10,0:21:00.03,0:21:01.03,Default,Natsuki,0,0,0,,And then...
 Dialogue: 10,0:21:01.03,0:21:03.28,Default,Nonko,0,0,0,,You think you have time for all that?
 Dialogue: 10,0:21:03.28,0:21:05.62,Default,Nonko,0,0,0,,You don't even realize how little time she has left.
 Dialogue: 10,0:21:05.95,0:21:06.66,Default,Natsuki,0,0,0,,Huh?
-Dialogue: 10,0:21:08.33,0:21:11.63,Default,Nonko,0,0,0,ED,From the moment she woke up,\na 45 day countdown was initiated.{@ED meh. try below -p}
-Dialogue: 10,0:21:12.38,0:21:14.50,Default,Nonko,0,0,0,ED,If she doesn't enter this capsule before then,
-Comment: 10,0:21:08.33,0:21:11.63,Default,Nonko,0,0,0,,A timer started ticking down\nthe moment she woke up.
-Comment: 10,0:21:12.38,0:21:14.50,Default,Nonko,0,0,0,,If she doesn't enter this capsule within 45 days,
+Dialogue: 10,0:21:08.33,0:21:11.63,Default,Nonko,0,0,0,,A countdown was initiated\n from the moment she woke up.
+Dialogue: 10,0:21:12.38,0:21:14.50,Default,Nonko,0,0,0,,If she doesn't enter this capsule within 45 days,
 Dialogue: 10,0:21:15.09,0:21:19.63,Default,Nonko,0,0,0,,a program I installed will erase all her memories.
 Dialogue: 10,0:21:19.63,0:21:22.09,Default,Nonko,0,0,0,,I'm sure you understand\nthe need to keep this place secret.
 Dialogue: 10,0:21:22.97,0:21:26.14,Default,Nonko,0,0,0,,And what do you know? It's been 42 days already.

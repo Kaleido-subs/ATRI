@@ -64,14 +64,14 @@ Dialogue: 10,0:01:06.63,0:01:09.34,Default,Atri,0,0,0,,A truly world-class Human
 Dialogue: 10,0:01:10.13,0:01:12.43,Default,Yoko,0,0,0,,World-class in smugness, maybe...
 Dialogue: 10,0:01:12.43,0:01:14.39,Default,Ryuuji,0,0,0,,Must've been holding it back all this time.
 Dialogue: 10,0:01:14.39,0:01:16.51,Default,Minamo,0,0,0,,Atri{**-chan}...
-Dialogue: 10,0:01:16.51,0:01:19.81,Default,Minamo,0,0,0,,So where is this "Eden" thing?
+Dialogue: 10,0:01:16.51,0:01:19.81,Default,Minamo,0,0,0,,So where is this "Eden" you mentioned?
 Dialogue: 10,0:01:20.35,0:01:22.31,Default,Atri,0,0,0,,Oh, that's simple!
 Dialogue: 10,0:01:24.02,0:01:25.06,Default,Atri,0,0,0,,It's thataway!
 Dialogue: 10,0:01:25.52,0:01:26.94,Default,Minamo,0,0,0,,That way?
 Dialogue: 10,0:01:26.94,0:01:28.11,Default,Yoko,0,0,0,,That's all?
 Dialogue: 10,0:01:28.78,0:01:29.69,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:01:30.49,0:01:32.32,Default,Atri,0,0,0,,At least, that's what it told me...
-Dialogue: 10,0:01:34.87,0:01:37.74,Default,Ryuuji,0,0,0,,So what even is this "Eden" thing, anyway?
+Dialogue: 10,0:01:34.87,0:01:37.74,Default,Ryuuji,0,0,0,,Also what even is this "Eden" thing, anyway?
 Dialogue: 10,0:01:37.74,0:01:39.20,Default,Atri,0,0,0,,No idea.
 Dialogue: 10,0:01:39.20,0:01:41.58,Default,Catherine,0,0,0,,Do you know the exact coordinates?
 Dialogue: 10,0:01:42.04,0:01:43.00,Default,Atri,0,0,0,,Nope.
@@ -248,7 +248,7 @@ Dialogue: 10,0:14:52.79,0:14:55.33,Default,Atri,0,0,0,,In that case, good mornin
 Dialogue: 10,0:14:55.67,0:14:57.58,Default,Natsuki,0,0,0,,Yeah. Morning.
 Dialogue: 10,0:14:58.67,0:15:01.26,Default,Atri,0,0,0,,Is this Eden?
 Dialogue: 10,0:15:01.26,0:15:03.09,Default,Natsuki,0,0,0,,Yeah, I think so.
-Dialogue: 10,0:15:03.09,0:15:08.85,Default,Natsuki,0,0,0,,It's an artificial island powered by wave energy\n converters and built to support human life.
+Dialogue: 10,0:15:03.09,0:15:08.85,Default,Natsuki,0,0,0,,It's an artificial island powered by wave generators\nand built from the ground up to sustain human life.
 Dialogue: 10,0:15:11.18,0:15:12.52,Default,Atri,0,0,0,,What's this?
 Dialogue: 10,0:15:12.85,0:15:15.48,Default,Natsuki,0,0,0,,They must be reacting to you.
 Dialogue: 10,0:15:15.48,0:15:18.48,Default,Atri,0,0,0,,The whole island's been waiting for you to arrive.
@@ -354,10 +354,10 @@ Dialogue: 10,0:21:00.03,0:21:01.03,Default,Natsuki,0,0,0,,And then...
 Dialogue: 10,0:21:01.03,0:21:03.28,Default,Nonko,0,0,0,,You think you have time for all that?
 Dialogue: 10,0:21:03.28,0:21:05.62,Default,Nonko,0,0,0,,You don't even realize how little time she has left.
 Dialogue: 10,0:21:05.95,0:21:06.66,Default,Natsuki,0,0,0,,Huh?
-Dialogue: 10,0:21:08.33,0:21:11.63,Default,Nonko,0,0,0,,A countdown was initiated\n from the moment she woke up.
-Dialogue: 10,0:21:12.38,0:21:14.50,Default,Nonko,0,0,0,,If she doesn't enter this capsule within 45 days,
-Dialogue: 10,0:21:15.09,0:21:19.63,Default,Nonko,0,0,0,,a program I installed will erase all her memories.
-Dialogue: 10,0:21:19.63,0:21:22.09,Default,Nonko,0,0,0,,I'm sure you understand\nthe need to keep this place secret.
+Dialogue: 10,0:21:08.33,0:21:11.63,Default,Nonko,0,0,0,,A countdown was initiated\n the moment she woke up.
+Dialogue: 10,0:21:12.38,0:21:15.09,Default,Nonko,0,0,0,,If she doesn't enter this capsule within 45 days,
+Dialogue: 10,0:21:15.09,0:21:19.63,Default,Nonko,0,0,0,,the program installed inside her\nwill erase all her memories.
+Dialogue: 10,0:21:19.63,0:21:22.09,Default,Nonko,0,0,0,,I'm sure you understand\nmy need to keep this place secret.
 Dialogue: 10,0:21:22.97,0:21:26.14,Default,Nonko,0,0,0,,And what do you know? It's been 42 days already.
 Dialogue: 10,0:21:26.14,0:21:28.31,Default,Nonko,0,0,0,,You sure took your sweet time.
 Dialogue: 10,0:21:28.31,0:21:29.64,Default,Nonko,0,0,0,,Only three days left!

@@ -78,6 +78,7 @@ Comment: 0,0:26:36.29,0:26:38.28,E13 - ED,eng,0,0,0,kara,So I'll soar now
 Comment: 0,0:26:38.28,0:26:40.75,E13 - ED,eng,0,0,0,kara,Through azure blue
 Comment: 0,0:26:40.75,0:26:45.08,E13 - ED,eng,0,0,0,kara,'Cross the world to see you
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,,{=7}---- ED lyrics
+Comment: 0,0:25:35.81,0:25:35.81,Default,,0,0,0,sync,{EDSync — first frame}
 Dialogue: 0,0:25:36.27,0:25:41.02,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}hatenai yoru wo koete
 Dialogue: 1,0:25:36.27,0:25:41.02,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}hatenai yoru wo koete
 Dialogue: 0,0:25:41.02,0:25:46.91,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}kimi ga nemuru umi e kogidasuyo

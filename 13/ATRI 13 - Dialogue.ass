@@ -82,8 +82,8 @@ Dialogue: 10,0:01:58.31,0:01:59.47,Default,Natsuki,0,0,0,,More importantly...
 Dialogue: 10,0:02:00.58,0:02:01.48,Default,Ryuuji,0,0,0,,What?
 Dialogue: 10,0:02:02.14,0:02:03.29,Default,Natsuki,0,0,0,,Never mind.
 Dialogue: 10,0:02:03.29,0:02:06.51,Default,Natsuki,0,0,0,,Let's just head back to the island.\nThere's something I wanna look into.
-Dialogue: 10,0:03:43.93,0:03:45.24,Default,Minamo,0,0,0,,A secret?
-Dialogue: 10,0:03:45.24,0:03:45.91,Default,Atri,0,0,0,,Yes.
+Dialogue: 10,0:03:43.93,0:03:45.41,Default,Minamo,0,0,0,,A secret?
+Dialogue: 10,0:03:45.41,0:03:45.91,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:03:46.61,0:03:50.17,Default,Atri,0,0,0,,Natsuki{**-san} told me not to breathe a word\nabout it to anyone.
 Dialogue: 10,0:03:50.17,0:03:51.66,Default,Yoko,0,0,0,,What the heck, man?
 Dialogue: 10,0:03:51.66,0:03:54.38,Default,Ryuuji,0,0,0,,Seriously? Even after how much we've helped him?
@@ -135,7 +135,7 @@ Dialogue: 10,0:06:32.54,0:06:35.00,Default,Atri,0,0,0,,It felt like my heart\nwa
 Dialogue: 10,0:06:36.42,0:06:38.15,Default,Atri,0,0,0,,When she said it was my purpose,
 Dialogue: 10,0:06:39.05,0:06:41.82,Default,Atri,0,0,0,,it felt like I'd finally found what I was looking for.
 Dialogue: 10,0:06:44.18,0:06:47.55,Default,Atri,0,0,0,,I want to make myself useful!
-Dialogue: 10,0:06:47.99,0:06:49.35,Default,Atri,0,0,0,,To Shiina-sama,
+Dialogue: 10,0:06:47.99,0:06:49.35,Default,Atri,0,0,0,,To Shiina{**-sama},
 Dialogue: 10,0:06:49.88,0:06:50.77,Default,Atri,0,0,0,,to Nonko,
 Dialogue: 10,0:06:51.26,0:06:52.56,Default,Atri,0,0,0,,to you,
 Dialogue: 10,0:06:52.56,0:06:54.06,Default,Atri,0,0,0,,to Minamo,
@@ -290,7 +290,7 @@ Dialogue: 10,0:16:05.65,0:16:06.76,Default,Natsuki,0,0,0,,Atri.
 Dialogue: 10,0:16:08.11,0:16:11.16,Default,Atri,0,0,0,,Thank you for everything.
 Dialogue: 10,0:16:12.07,0:16:14.93,Default,Atri,0,0,0,,I don't know if this is the right thing to do,
 Dialogue: 10,0:16:15.67,0:16:19.62,Default,Atri,0,0,0,,but right now, I don't think I've ever been happier.
-Dialogue: 10,0:16:21.02,0:16:26.64,Default,Atri,0,0,0,,Shiina-sama, Nonko, you, Minamo, Ryuuji,
+Dialogue: 10,0:16:21.02,0:16:26.64,Default,Atri,0,0,0,,Shiina{**-sama}, Nonko, you, Minamo, Ryuuji,
 Dialogue: 10,0:16:26.64,0:16:31.93,Default,Atri,0,0,0,,Ririka, Catherine, Youko, Tooru, Miyo...
 Dialogue: 10,0:16:32.29,0:16:34.43,Default,Atri,0,0,0,,I love each and every one of you so much.
 Dialogue: 10,0:16:35.19,0:16:37.14,Default,Atri,0,0,0,,So how can I not be\nthe happiest Humanoid in the world?
@@ -376,8 +376,7 @@ Dialogue: 10,0:23:04.72,0:23:08.95,Default,Natsuki,0,0,0,,I tried everything I c
 Dialogue: 10,0:23:08.95,0:23:10.91,Default,Natsuki,0,0,0,,That old bag was always five steps ahead...
 Dialogue: 10,0:23:11.69,0:23:13.04,Default,Atri,0,0,0,,Data?
 Dialogue: 10,0:23:13.38,0:23:14.99,Default,Natsuki,0,0,0,,So I had to settle for my plan B
-Dialogue: 10,0:23:14.99,0:23:17.52,Default,Natsuki,0,0,0,,and wait until Eden's end of service
-Dialogue: 10,0:23:17.52,0:23:20.00,Default,Natsuki,0,0,0,,so that I could extract your data from the system.
+Dialogue: 10,0:23:14.99,0:23:20.00,Default,Natsuki,0,0,0,,and wait until Eden's end of service\nso that I could extract your data from the system.
 Dialogue: 10,0:23:20.00,0:23:22.61,Default,Atri,0,0,0,,Then does that mean you're actually...
 Dialogue: 10,0:23:22.61,0:23:23.42,Default,Natsuki,0,0,0,,You know it.
 Dialogue: 10,0:23:23.42,0:23:27.39,Default,Natsuki,0,0,0,,But don'tcha think I look better as my old self\ninstead of some toothless geezer?
@@ -409,8 +408,8 @@ Dialogue: 10,0:24:18.05,0:24:22.58,Default,Natsuki,0,0,0,,I'll have you know, th
 Dialogue: 10,0:24:23.28,0:24:24.57,Default,Atri,0,0,0,,Really?
 Dialogue: 10,0:24:24.57,0:24:25.77,Default,Natsuki,0,0,0,,You know it.
 Dialogue: 10,0:24:25.77,0:24:27.84,Default,Natsuki,0,0,0,,Because guess what?
-Dialogue: 10,0:24:27.84,0:24:30.26,Default,Natsuki,0,0,0,,I'm high-spec, baby!{Keyframes file was missing the scene change at the end of this line. -Pik}
-Dialogue: 10,0:24:34.27,0:24:36.53,Default,Atri,0,0,0,,Pfft, says the old man!
+Dialogue: 10,0:24:27.84,0:24:29.91,Default,Natsuki,0,0,0,,I'm high-spec, baby!{Keyframes file was missing the scene change at the end of this line. -Pik}
+Dialogue: 10,0:24:34.27,0:24:35.91,Default,Atri,0,0,0,,Pfft, says the old man!
 Dialogue: 10,0:24:36.53,0:24:38.68,Default,Natsuki,0,0,0,,Hey, you were the one who said it first!
 Dialogue: 10,0:24:38.68,0:24:41.54,Default,Natsuki,0,0,0,,Besides, if we're playing the age card,\nyou're over a hundred!
 Dialogue: 10,0:24:41.54,0:24:42.63,Default,Atri,0,0,0,,Who cares?

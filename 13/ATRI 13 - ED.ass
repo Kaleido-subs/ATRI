@@ -33,9 +33,11 @@ Style: E13 - ED,Simple Michael,50,&H00FFFFFF,&H00FFFFFF,&H00CCC546,&H00CCC546,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,-- README --,{=8}Template written for 0x.KaraTemplater, written by LightArrowsEXE. Please contact us over at the Kaleido-subs Discord if you need help running this template!
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,template line loop layer 2,!relayer($loop_layer - 1)!
+Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,code once,function is_adjacent() return orgline.next and orgline.next.start_time == orgline.end_time end
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,mixin line actor rom,{\pos(480,284)}
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,mixin line actor eng,{\pos(480,800)}
-Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,mixin line,{\fad(200,300)}
+Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,mixin line unless is_adjacent,{\fad(200,300)}
+Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,mixin line if is_adjacent,{\fad(200,200)}
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,mixin line layer 0,{\blur8}
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,mixin line layer 1,{=9}{\bord0\blur0.8}
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,,{=6}---- ED lyrics
@@ -51,12 +53,10 @@ Comment: 0,0:26:05.61,0:26:08.43,E13 - ED,rom,0,0,0,kara,demo boku wa oboeteru
 Comment: 0,0:26:08.71,0:26:13.93,E13 - ED,rom,0,0,0,kara,namida ga kagayaku toki wo
 Comment: 0,0:26:14.22,0:26:21.67,E13 - ED,rom,0,0,0,kara,wasurezu utauyo saa
 Comment: 0,0:26:21.83,0:26:24.90,E13 - ED,rom,0,0,0,kara,ima hikari hanate
-Comment: 0,0:26:25.24,0:26:27.32,E13 - ED,rom,0,0,0,kara,mirai no michishi
-Comment: 0,0:26:27.37,0:26:30.50,E13 - ED,rom,0,0,0,kara,rube wo sora ni egake
-Comment: 0,0:26:30.79,0:26:32.67,E13 - ED,rom,0,0,0,kara,boku wa mou mayou
-Comment: 0,0:26:32.67,0:26:36.03,E13 - ED,rom,0,0,0,kara,wanai sou kimetanda
+Comment: 0,0:26:25.24,0:26:30.50,E13 - ED,rom,0,0,0,kara,mirai no michishirube wo sora ni egake
+Comment: 0,0:26:30.79,0:26:36.03,E13 - ED,rom,0,0,0,kara,boku wa mou mayouwanai sou kimetanda
 Comment: 0,0:26:36.29,0:26:38.28,E13 - ED,rom,0,0,0,kara,habatake
-Comment: 0,0:26:38.28,0:26:40.75,E13 - ED,rom,0,0,0,kara,maasugu
+Comment: 0,0:26:38.28,0:26:40.75,E13 - ED,rom,0,0,0,kara,massugu
 Comment: 0,0:26:40.75,0:26:45.08,E13 - ED,rom,0,0,0,kara,kimi no moto e
 Comment: 0,0:25:36.27,0:25:41.02,E13 - ED,eng,0,0,0,kara,The clouded sea has naught a guiding star
 Comment: 0,0:25:41.02,0:25:46.91,E13 - ED,eng,0,0,0,kara,Yet I row to your silent cradle every single night
@@ -71,16 +71,16 @@ Comment: 0,0:26:08.71,0:26:13.93,E13 - ED,eng,0,0,0,kara,The sparkle of your tea
 Comment: 0,0:26:14.22,0:26:21.67,E13 - ED,eng,0,0,0,kara,I remember... Bursting into song!
 Comment: 0,0:26:21.83,0:26:24.90,E13 - ED,eng,0,0,0,kara,We cast our light across the seas
 Comment: 0,0:26:25.24,0:26:27.32,E13 - ED,eng,0,0,0,kara,Paved a path among the stars
-Comment: 0,0:26:27.37,0:26:30.50,E13 - ED,eng,0,0,0,kara,For those who've yet to walk beside us
-Comment: 0,0:26:30.79,0:26:32.67,E13 - ED,eng,0,0,0,kara,When I lost my way, you came
-Comment: 0,0:26:32.67,0:26:36.03,E13 - ED,eng,0,0,0,kara,And helped me find the wings to guide me
+Comment: 0,0:26:27.32,0:26:30.50,E13 - ED,eng,0,0,0,kara,For those who've yet to walk beside us
+Comment: 0,0:26:30.79,0:26:32.84,E13 - ED,eng,0,0,0,kara,When I lost my way, you came
+Comment: 0,0:26:32.84,0:26:36.03,E13 - ED,eng,0,0,0,kara,And helped me find the wings to guide me
 Comment: 0,0:26:36.29,0:26:38.28,E13 - ED,eng,0,0,0,kara,So I'll soar now
 Comment: 0,0:26:38.28,0:26:40.75,E13 - ED,eng,0,0,0,kara,Through azure blue
 Comment: 0,0:26:40.75,0:26:45.08,E13 - ED,eng,0,0,0,kara,'Cross the world to see you
 Comment: 0,0:00:00.00,0:00:00.00,E13 - ED,,0,0,0,,{=7}---- ED lyrics
 Comment: 0,0:25:35.81,0:25:35.81,Default,,0,0,0,sync,{EDSync — first frame}
-Dialogue: 0,0:25:36.27,0:25:41.02,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}hatenai yoru wo koete
-Dialogue: 1,0:25:36.27,0:25:41.02,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}hatenai yoru wo koete
+Dialogue: 0,0:25:36.27,0:25:41.02,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,200)\blur8}hatenai yoru wo koete
+Dialogue: 1,0:25:36.27,0:25:41.02,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,200)\bord0\blur0.8}hatenai yoru wo koete
 Dialogue: 0,0:25:41.02,0:25:46.91,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}kimi ga nemuru umi e kogidasuyo
 Dialogue: 1,0:25:41.02,0:25:46.91,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}kimi ga nemuru umi e kogidasuyo
 Dialogue: 0,0:25:47.51,0:25:48.83,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}namida ni
@@ -103,22 +103,18 @@ Dialogue: 0,0:26:14.22,0:26:21.67,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,3
 Dialogue: 1,0:26:14.22,0:26:21.67,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}wasurezu utauyo saa
 Dialogue: 0,0:26:21.83,0:26:24.90,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}ima hikari hanate
 Dialogue: 1,0:26:21.83,0:26:24.90,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}ima hikari hanate
-Dialogue: 0,0:26:25.24,0:26:27.32,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}mirai no michishi
-Dialogue: 1,0:26:25.24,0:26:27.32,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}mirai no michishi
-Dialogue: 0,0:26:27.37,0:26:30.50,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}rube wo sora ni egake
-Dialogue: 1,0:26:27.37,0:26:30.50,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}rube wo sora ni egake
-Dialogue: 0,0:26:30.79,0:26:32.67,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}boku wa mou mayou
-Dialogue: 1,0:26:30.79,0:26:32.67,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}boku wa mou mayou
-Dialogue: 0,0:26:32.67,0:26:36.03,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}wanai sou kimetanda
-Dialogue: 1,0:26:32.67,0:26:36.03,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}wanai sou kimetanda
-Dialogue: 0,0:26:36.29,0:26:38.28,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}habatake
-Dialogue: 1,0:26:36.29,0:26:38.28,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}habatake
-Dialogue: 0,0:26:38.28,0:26:40.75,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}maasugu
-Dialogue: 1,0:26:38.28,0:26:40.75,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}maasugu
+Dialogue: 0,0:26:25.24,0:26:30.50,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}mirai no michishirube wo sora ni egake
+Dialogue: 1,0:26:25.24,0:26:30.50,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}mirai no michishirube wo sora ni egake
+Dialogue: 0,0:26:30.79,0:26:36.03,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}boku wa mou mayouwanai sou kimetanda
+Dialogue: 1,0:26:30.79,0:26:36.03,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}boku wa mou mayouwanai sou kimetanda
+Dialogue: 0,0:26:36.29,0:26:38.28,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,200)\blur8}habatake
+Dialogue: 1,0:26:36.29,0:26:38.28,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,200)\bord0\blur0.8}habatake
+Dialogue: 0,0:26:38.28,0:26:40.75,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,200)\blur8}massugu
+Dialogue: 1,0:26:38.28,0:26:40.75,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,200)\bord0\blur0.8}massugu
 Dialogue: 0,0:26:40.75,0:26:45.08,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\blur8}kimi no moto e
 Dialogue: 1,0:26:40.75,0:26:45.08,E13 - ED,rom,0,0,0,fx,{\pos(480,284)\fad(200,300)\bord0\blur0.8}kimi no moto e
-Dialogue: 0,0:25:36.27,0:25:41.02,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}The clouded sea has naught a guiding star
-Dialogue: 1,0:25:36.27,0:25:41.02,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}The clouded sea has naught a guiding star
+Dialogue: 0,0:25:36.27,0:25:41.02,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\blur8}The clouded sea has naught a guiding star
+Dialogue: 1,0:25:36.27,0:25:41.02,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\bord0\blur0.8}The clouded sea has naught a guiding star
 Dialogue: 0,0:25:41.02,0:25:46.91,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}Yet I row to your silent cradle every single night
 Dialogue: 1,0:25:41.02,0:25:46.91,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}Yet I row to your silent cradle every single night
 Dialogue: 0,0:25:47.51,0:25:48.83,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}And there you sleep
@@ -141,18 +137,18 @@ Dialogue: 0,0:26:14.22,0:26:21.67,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,3
 Dialogue: 1,0:26:14.22,0:26:21.67,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}I remember... Bursting into song!
 Dialogue: 0,0:26:21.83,0:26:24.90,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}We cast our light across the seas
 Dialogue: 1,0:26:21.83,0:26:24.90,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}We cast our light across the seas
-Dialogue: 0,0:26:25.24,0:26:27.32,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}Paved a path among the stars
-Dialogue: 1,0:26:25.24,0:26:27.32,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}Paved a path among the stars
-Dialogue: 0,0:26:27.37,0:26:30.50,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}For those who've yet to walk beside us
-Dialogue: 1,0:26:27.37,0:26:30.50,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}For those who've yet to walk beside us
-Dialogue: 0,0:26:30.79,0:26:32.67,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}When I lost my way, you came
-Dialogue: 1,0:26:30.79,0:26:32.67,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}When I lost my way, you came
-Dialogue: 0,0:26:32.67,0:26:36.03,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}And helped me find the wings to guide me
-Dialogue: 1,0:26:32.67,0:26:36.03,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}And helped me find the wings to guide me
-Dialogue: 0,0:26:36.29,0:26:38.28,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}So I'll soar now
-Dialogue: 1,0:26:36.29,0:26:38.28,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}So I'll soar now
-Dialogue: 0,0:26:38.28,0:26:40.75,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}Through azure blue
-Dialogue: 1,0:26:38.28,0:26:40.75,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}Through azure blue
+Dialogue: 0,0:26:25.24,0:26:27.32,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\blur8}Paved a path among the stars
+Dialogue: 1,0:26:25.24,0:26:27.32,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\bord0\blur0.8}Paved a path among the stars
+Dialogue: 0,0:26:27.32,0:26:30.50,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}For those who've yet to walk beside us
+Dialogue: 1,0:26:27.32,0:26:30.50,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}For those who've yet to walk beside us
+Dialogue: 0,0:26:30.79,0:26:32.84,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\blur8}When I lost my way, you came
+Dialogue: 1,0:26:30.79,0:26:32.84,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\bord0\blur0.8}When I lost my way, you came
+Dialogue: 0,0:26:32.84,0:26:36.03,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}And helped me find the wings to guide me
+Dialogue: 1,0:26:32.84,0:26:36.03,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}And helped me find the wings to guide me
+Dialogue: 0,0:26:36.29,0:26:38.28,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\blur8}So I'll soar now
+Dialogue: 1,0:26:36.29,0:26:38.28,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\bord0\blur0.8}So I'll soar now
+Dialogue: 0,0:26:38.28,0:26:40.75,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\blur8}Through azure blue
+Dialogue: 1,0:26:38.28,0:26:40.75,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,200)\bord0\blur0.8}Through azure blue
 Dialogue: 0,0:26:40.75,0:26:45.08,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\blur8}'Cross the world to see you
 Dialogue: 1,0:26:40.75,0:26:45.08,E13 - ED,eng,0,0,0,fx,{\pos(480,800)\fad(200,300)\bord0\blur0.8}'Cross the world to see you
 

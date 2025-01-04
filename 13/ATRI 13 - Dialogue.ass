@@ -47,8 +47,8 @@ Dialogue: 10,0:00:09.04,0:00:10.62,Default,Natsuki,0,0,0,,Don't let her fool you
 Dialogue: 10,0:00:10.62,0:00:14.35,Default,Natsuki,0,0,0,,Grandma's just trying to use you to her own ends!
 Dialogue: 10,0:00:15.37,0:00:19.04,Default,Natsuki,0,0,0,,Besides, she could've just been making up\nthat three-day time limit!
 Dialogue: 10,0:00:20.33,0:00:22.43,Default,Atri,0,0,0,,But if she wasn't,
-Dialogue: 10,0:00:22.43,0:00:25.42,Default,Atri,0,0,0,,I'll lose all my memories, won't I?
-Dialogue: 10,0:00:27.55,0:00:31.76,Default,Atri,0,0,0,,You said it yourself, didn't you?\nEverything Nonko does, she does for a reason.
+Dialogue: 10,0:00:22.43,0:00:25.42,Default,Atri,0,0,0,ED,I'll lose all my memories, won't I?{@ED should this be a conditional? "I would lose" -p}
+Dialogue: 10,0:00:27.55,0:00:31.76,Default,Atri,0,0,0,ED,You said it yourself, didn't you?\nEverything Nonko does, she does for a reason.{@ED sounds like it's referring back to a prior line? should it match the phrasing? -p}
 Dialogue: 10,0:00:33.92,0:00:35.06,Default,Atri,0,0,0,,I...
 Dialogue: 10,0:00:35.85,0:00:38.39,Default,Atri,0,0,0,,I don't want to lose my memories of you.
 Dialogue: 10,0:00:43.88,0:00:46.00,Default,Natsuki,0,0,0,,It's not that simple!{end-time could be snapped to keyframe -Pik}
@@ -56,8 +56,8 @@ Dialogue: 10,0:00:46.93,0:00:49.93,Default,Natsuki,0,0,0,,You're so much more th
 Dialogue: 10,0:00:49.93,0:00:52.26,Default,Natsuki,0,0,0,,You're a Humanoid with a heart!
 Dialogue: 10,0:00:52.26,0:00:55.03,Default,Natsuki,0,0,0,,You have a consciousness! Emotions!
 Dialogue: 10,0:00:55.47,0:00:58.91,Default,Natsuki,0,0,0,,And this system won't cut them off.
-Dialogue: 10,0:00:59.42,0:01:03.40,Default,Natsuki,0,0,0,,You'll feel every second, every day,\nevery year pass you by,
-Dialogue: 10,0:01:03.40,0:01:07.34,Default,Natsuki,0,0,0,,all while you're trapped there,\nunable to do anything!
+Dialogue: 10,0:00:59.42,0:01:03.40,Default,Natsuki,0,0,0,ED,You'll feel every second, every day,\nevery year pass you by,{@ED italicize "year"? -p}
+Dialogue: 10,0:01:03.40,0:01:07.34,Default,Natsuki,0,0,0,,all while you're trapped there,\nunable to do anything!{@ED "trapped in there/in here"? -p}
 Dialogue: 10,0:01:07.34,0:01:11.01,Default,Natsuki,0,0,0,,Do you have any idea how painful that'll be?!
 Dialogue: 10,0:01:12.93,0:01:15.60,Default,Atri,0,0,0,,You really do care about me, don't you?
 Dialogue: 10,0:01:15.60,0:01:16.51,Default,Natsuki,0,0,0,,Stop it!
@@ -78,10 +78,10 @@ Dialogue: 10,0:01:49.05,0:01:50.47,Default,Natsuki,0,0,0,,Let's get going.
 Dialogue: 10,0:01:50.47,0:01:52.17,Default,Minamo,0,0,0,,Huh? Already?
 Dialogue: 10,0:01:52.17,0:01:54.30,Default,Ryuuji,0,0,0,,Dude, it took us all night to find this place.
 Dialogue: 10,0:01:54.30,0:01:58.31,Default,Natsuki,0,0,0,,We know the location now.\nWe can come back whenever we want.
-Dialogue: 10,0:01:58.31,0:01:59.47,Default,Natsuki,0,0,0,,More importantly...
+Dialogue: 10,0:01:58.31,0:01:59.47,Default,Natsuki,0,0,0,ED,More importantly...{@ED consider "And besides..." -p}
 Dialogue: 10,0:02:00.58,0:02:01.48,Default,Ryuuji,0,0,0,,What?
 Dialogue: 10,0:02:02.14,0:02:03.29,Default,Natsuki,0,0,0,,Never mind.
-Dialogue: 10,0:02:03.29,0:02:06.51,Default,Natsuki,0,0,0,,Let's just head back to the island.\nThere's something I wanna look into.
+Dialogue: 10,0:02:03.29,0:02:06.51,Default,Natsuki,0,0,0,TM/ED,Let's just head back to the island.\nThere's something I wanna look into.{@TM/ED could split -p}
 Dialogue: 10,0:03:43.93,0:03:45.41,Default,Minamo,0,0,0,,A secret?
 Dialogue: 10,0:03:45.41,0:03:45.91,Default,Atri,0,0,0,,Yes.
 Dialogue: 10,0:03:46.61,0:03:50.17,Default,Atri,0,0,0,,Natsuki{**-san} told me not to breathe a word\nabout it to anyone.
@@ -91,7 +91,7 @@ Dialogue: 10,0:03:54.38,0:03:56.34,Default,Ryuuji,0,0,0,,Can't believe he still 
 Dialogue: 10,0:03:56.34,0:03:57.96,Default,Minamo,0,0,0,,It's not like that.
 Dialogue: 10,0:03:57.96,0:04:02.26,Default,Minamo,0,0,0,,I'm sure he just doesn't want\nto burden us with his problems.
 Dialogue: 10,0:04:02.26,0:04:05.14,Default,Ryuuji,0,0,0,,Dude seriously needs to lighten up a little.
-Dialogue: 10,0:04:05.14,0:04:08.23,Default,Ryuuji,0,0,0,,Lighting up the school is one thing,\nbut his personality has a long way to go... {maybe a bit too forced? feels bad to not compensate at all though}
+Dialogue: 10,0:04:05.14,0:04:08.23,Default,Ryuuji,0,0,0,ED,Lighting up the school is one thing,\nbut his personality has a long way to go... {maybe a bit too forced? feels bad to not compensate at all though}{@ED a bit forced, yeah. no stellar ideas here but can brainstorm later -p}
 Dialogue: 10,0:04:08.23,0:04:10.06,Default,Atri,0,0,0,,Unfortunately, that is all I can say.
 Dialogue: 10,0:04:10.60,0:04:13.48,Default,Atri,0,0,0,,Thank you so much for everything, everyone.
 Dialogue: 10,0:04:13.48,0:04:15.10,Default,Ryuuji,0,0,0,,Oh, come on.
@@ -111,7 +111,7 @@ Dialogue: 10,0:05:04.37,0:05:06.38,Default,Natsuki,0,0,0,,You guys knew?
 Dialogue: 10,0:05:06.38,0:05:07.41,Default,Yoko,0,0,0,,You bet.
 Dialogue: 10,0:05:08.65,0:05:10.25,Default,Yoko,0,0,0,,And so do they.
 Dialogue: 10,0:05:10.65,0:05:12.83,Default,Ririka,0,0,0,,We'll research stuff on our end, too.
-Dialogue: 10,0:05:12.83,0:05:14.50,Default,Toru,0,0,0,,There's only three days, right?
+Dialogue: 10,0:05:12.83,0:05:14.50,Default,Toru,0,0,0,ED,There's only three days, right?{@ED i guess this works but this line feels off somehow -p}
 Dialogue: 10,0:05:14.50,0:05:16.38,Default,Miyo,0,0,0,,You don't have any time to waste!
 Dialogue: 10,0:05:20.49,0:05:21.54,Default,Natsuki,0,0,0,,Thank you.
 Dialogue: 10,0:05:26.47,0:05:27.64,Default,Natsuki,0,0,0,,Atri.
@@ -125,12 +125,12 @@ Dialogue: 10,0:05:51.50,0:05:55.21,Default,Atri,0,0,0,,You said I should be free
 Dialogue: 10,0:05:55.21,0:05:59.24,Default,Atri,0,0,0,,That I'm allowed to do whatever I want?
 Dialogue: 10,0:06:00.23,0:06:01.00,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:06:02.15,0:06:02.88,Default,Atri,0,0,0,,In that case...
-Dialogue: 10,0:06:04.48,0:06:08.35,Default,Atri,0,0,0,,I've decided that what I want\nis to carry out Nonko's orders.
+Dialogue: 10,0:06:04.48,0:06:08.35,Default,Atri,0,0,0,ED,I've decided that what I want\nis to carry out Nonko's orders.{@ED line uhh, feels prone to misparsing, i guess? took me a few seconds to understand (possible skill issue) -p}
 Dialogue: 10,0:06:10.18,0:06:11.54,Default,Atri,0,0,0,,I know what it means.
-Dialogue: 10,0:06:12.99,0:06:17.32,Default,Atri,0,0,0,,I'm sure it won't exactly be fun.
+Dialogue: 10,0:06:12.99,0:06:17.32,Default,Atri,0,0,0,ED,I'm sure it won't exactly be fun.{@ED bit meh -p}
 Dialogue: 10,0:06:17.93,0:06:20.32,Default,Atri,0,0,0,,But it's a way that I can be useful!
 Dialogue: 10,0:06:20.84,0:06:25.99,Default,Atri,0,0,0,,To you, to our friends, and hopefully\nlots and lots of other people, too.
-Dialogue: 10,0:06:27.35,0:06:32.54,Default,Atri,0,0,0,,When Nonko said I could be of service\nto humanity, it made me so happy.
+Dialogue: 10,0:06:27.35,0:06:32.54,Default,Atri,0,0,0,ED,When Nonko said I could be {@ED consider linebreak here -p}of service\nto humanity, it made me so happy.
 Dialogue: 10,0:06:32.54,0:06:35.00,Default,Atri,0,0,0,,It felt like my heart\nwas going to beat out of my chest!
 Dialogue: 10,0:06:36.42,0:06:38.15,Default,Atri,0,0,0,,When she said it was my purpose,
 Dialogue: 10,0:06:39.05,0:06:41.82,Default,Atri,0,0,0,,it felt like I'd finally found what I was looking for.
@@ -146,13 +146,13 @@ Dialogue: 10,0:07:10.72,0:07:13.73,Default,Atri,0,0,0,,I'm sure this meaning was
 Dialogue: 10,0:07:14.79,0:07:17.14,Default,Atri,0,0,0,,And the only reason I think this way...
 Dialogue: 10,0:07:17.70,0:07:21.80,Default,Atri,0,0,0,,The reason I want to do\neverything I can to be useful...
 Dialogue: 10,0:07:23.73,0:07:26.55,Default,Atri,0,0,0,,is because I have a heart.
-Dialogue: 10,0:07:27.22,0:07:31.36,Default,Atri,0,0,0,,This is the purpose I was born for,\nsomething nobody else can do.
+Dialogue: 10,0:07:27.22,0:07:31.36,Default,Atri,0,0,0,ED,This is the purpose I was born for,\nsomething nobody else can do.{@ED ive always been a bit meh on the "nobody else can do" thing, but... no good ideas here atm. might come back -p}{also the scene in general falls a bit flat for the emotion it's supposed to have, not just this line -p}
 Dialogue: 10,0:07:34.76,0:07:35.56,Default,Atri,0,0,0,,And I...
 Dialogue: 10,0:07:36.64,0:07:38.84,Default,Atri,0,0,0,,I want to see it through.
 Dialogue: 10,0:07:43.55,0:07:44.43,Default,Natsuki,0,0,0,,Atri...
 Dialogue: 10,0:07:46.07,0:07:46.84,Default,Atri,0,0,0,,Yes?
 Dialogue: 10,0:07:49.69,0:07:51.48,Default,Natsuki,0,0,0,,Go become Eden's administrator.
-Dialogue: 10,0:07:58.64,0:07:59.56,Default,Atri,0,0,0,,{\an8}Yes.
+Dialogue: 10,0:07:58.64,0:07:59.56,Default,Atri,0,0,0,ED,{\an8}Yes.{@ED consider "I will" or a slightly weightier affirmation than just "yes" -p}
 Dialogue: 10,0:08:04.21,0:08:06.45,Default,Natsuki,0,0,0,,We gotta get your bedhead under control.
 Dialogue: 10,0:08:08.27,0:08:10.38,Default,Atri,0,0,0,,This feels so nice.
 Dialogue: 10,0:08:10.38,0:08:12.51,Default,Atri,0,0,0,,I can hardly contain my happiness!
@@ -171,7 +171,7 @@ Dialogue: 10,0:08:47.34,0:08:50.09,Default,Ryuuji; Catherine; Yoko; Miyo; Toru,0
 Dialogue: 10,0:08:50.09,0:08:52.11,Default,Atri,0,0,0,,Birthday...
 Dialogue: 10,0:08:52.11,0:08:58.12,Default,Natsuki,0,0,0,,The YHN-04B series came out\n33 years ago in August.
 Dialogue: 10,0:08:58.69,0:09:00.73,Default,Natsuki,0,0,0,,Maybe not this exact day, but close enough.
-Dialogue: 10,0:09:00.73,0:09:06.34,Default,Minamo,0,0,0,,Natsu{**-kun} looked it up. And so we figured\nwe might as well turn this party into a birthday party!
+Dialogue: 10,0:09:00.73,0:09:06.34,Default,Minamo,0,0,0,ED,Natsu{**-kun} looked it up. And so we figured\nwe might as well turn this party into a birthday party!{@ED maybe just "turn this into" -p}
 Dialogue: 10,0:09:06.34,0:09:08.15,Default,Atri,0,0,0,,A birthday party...
 Dialogue: 10,0:09:08.15,0:09:09.40,Default,Ririka,0,0,0,,That's right!
 Dialogue: 10,0:09:09.40,0:09:11.38,Default,Catherine,0,0,0,,Isn't that way too many candles?
@@ -211,7 +211,7 @@ Dialogue: 10,0:11:00.46,0:11:03.83,Default,Natsuki,0,0,0,,Three, two, one...
 Dialogue: 10,0:11:07.40,0:11:09.58,Default,Atri,0,0,0,,It's so pretty!
 Dialogue: 10,0:11:09.58,0:11:10.47,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:11:11.61,0:11:13.11,Default,Atri,0,0,0,,I always thought...
-Dialogue: 10,0:11:13.67,0:11:17.26,Default,Atri,0,0,0,,goodbyes were supposed to be sad.
+Dialogue: 10,0:11:13.67,0:11:17.26,Default,Atri,0,0,0,ED,goodbyes were supposed to be sad.{@ED meh on this split and/or phrasing. might be fine to join? -p}
 Dialogue: 10,0:11:21.21,0:11:24.37,Default,Atri,0,0,0,,And maybe they are...
 Dialogue: 10,0:11:25.74,0:11:30.44,Default,Atri,0,0,0,,But only because of all\nthe fun times we had together.
 Dialogue: 10,0:11:32.99,0:11:33.79,Default,Natsuki,0,0,0,,Yeah.
@@ -275,7 +275,7 @@ Dialogue: 10,0:14:50.35,0:14:53.54,Default,Atri,0,0,0,,This way, you can keep mo
 Dialogue: 10,0:14:54.50,0:14:56.33,Default,Atri,0,0,0,,What do you think?
 Dialogue: 10,0:14:56.33,0:14:57.40,Default,Natsuki,0,0,0,,It's light...
 Dialogue: 10,0:14:58.25,0:15:00.79,Default,Atri,0,0,0,,It's high-spec!
-Dialogue: 10,0:15:00.79,0:15:02.84,Default,Atri,0,0,0,,Though not as high-spec as me, naturally.
+Dialogue: 10,0:15:00.79,0:15:02.84,Default,Atri,0,0,0,ED,Though not as high-spec as me, naturally.{@ED consider "as yours truly" for extra smug -p}
 Dialogue: 10,0:15:03.14,0:15:04.30,Default,Natsuki,0,0,0,,Thank you.
 Dialogue: 10,0:15:07.07,0:15:08.59,Default,Atri,0,0,0,,I'm counting on you.
 Dialogue: 10,0:15:09.39,0:15:12.47,Default,Atri,0,0,0,,Please always be there for Natsuki{**-san}.
@@ -285,7 +285,7 @@ Dialogue: 10,0:15:28.45,0:15:30.56,Default,Atri,0,0,0,,Let's both do our best, o
 Dialogue: 10,0:15:32.88,0:15:34.53,Default,Atri,0,0,0,,It's awfully quiet.
 Dialogue: 10,0:15:44.38,0:15:47.42,Default,Atri,0,0,0,,They're going to launch the rocket soon, right?
 Dialogue: 10,0:15:47.97,0:15:48.75,Default,Natsuki,0,0,0,,Yeah.
-Dialogue: 10,0:15:49.91,0:15:51.53,Default,Atri,0,0,0,,I'd love to have been able to see it.
+Dialogue: 10,0:15:49.91,0:15:51.53,Default,Atri,0,0,0,ED,I'd love to have been able to see it.{@ED the tense feels wrong here to me. i think it wants to be "i would have loved to..."? but it's quite wordy already so uh. yeah. -p}
 Dialogue: 10,0:16:05.65,0:16:06.76,Default,Natsuki,0,0,0,,Atri.
 Dialogue: 10,0:16:08.11,0:16:11.16,Default,Atri,0,0,0,,Thank you for everything.
 Dialogue: 10,0:16:12.07,0:16:14.93,Default,Atri,0,0,0,,I don't know if this is the right thing to do,
@@ -306,8 +306,8 @@ Dialogue: 10,0:17:15.83,0:17:18.99,Default,Atri,0,0,0,,Didn't you promise me\nyo
 Dialogue: 10,0:17:19.81,0:17:23.98,Default,Atri,0,0,0,,And when I told you this was what I wanted,\ndidn't you agree to support my decision?
 Dialogue: 10,0:17:25.06,0:17:27.99,Default,Natsuki,0,0,0,,That's only because... you were there for me...
 Dialogue: 10,0:17:28.30,0:17:29.99,Default,Atri,0,0,0,,And I still will be.
-Dialogue: 10,0:17:30.55,0:17:31.74,Default,Atri,0,0,0,,Always...
-Dialogue: 10,0:17:32.83,0:17:34.03,Default,Atri,0,0,0,,right here.
+Dialogue: 10,0:17:30.55,0:17:31.74,Default,Atri,0,0,0,ED,Always...{@ED consider "Right here... with you." -p}
+Dialogue: 10,0:17:32.83,0:17:34.03,Default,Atri,0,0,0,ED,right here.
 Dialogue: 10,0:17:36.08,0:17:39.01,Default,Atri,0,0,0,,Once you've accomplished everything you've wanted,
 Dialogue: 10,0:17:40.00,0:17:42.50,Default,Atri,0,0,0,,once you have no more regrets left,
 Dialogue: 10,0:17:42.50,0:17:44.14,Default,Atri,0,0,0,,please, come back and find me.
@@ -326,20 +326,23 @@ Dialogue: 10,0:19:48.00,0:19:49.99,Default,Natsuki,0,0,0,,You're the one who lit
 Dialogue: 10,0:19:49.99,0:19:51.86,Default,Atri,0,0,0,,Really?
 Dialogue: 10,0:19:51.86,0:19:55.09,Default,Atri,0,0,0,,All I did was flip a switch.
 Dialogue: 10,0:19:55.09,0:19:59.45,Default,Natsuki,0,0,0,,I'll bet the town is going crazy right now.
-Dialogue: 10,0:20:06.20,0:20:07.59,Default,Atri,0,0,0,,I never knew tears...
-Dialogue: 10,0:20:09.34,0:20:11.05,Default,Atri,0,0,0,,could come out
-Dialogue: 10,0:20:11.83,0:20:13.86,Default,Atri,0,0,0,,when you're happy, too.
+Dialogue: 10,0:20:06.20,0:20:07.59,Default,Atri,0,0,0,ED,I never knew tears...
+Dialogue: 10,0:20:09.34,0:20:11.05,Default,Atri,0,0,0,ED,could come out
+Dialogue: 10,0:20:11.83,0:20:13.86,Default,Atri,0,0,0,ED,when you're happy, too.{@ED doesn't really have the right impact with the splits like this -p}{maybe below -p}
+Comment: 10,0:20:06.20,0:20:07.59,Default,Atri,0,0,0,ED,I never knew...
+Comment: 10,0:20:09.34,0:20:11.05,Default,Atri,0,0,0,ED,you could cry like this{or maybe "this much/hard" but "like this" is more "cry at all" adjacent -p}
+Comment: 10,0:20:11.83,0:20:13.86,Default,Atri,0,0,0,ED,out of happiness.
 Dialogue: 10,0:20:17.78,0:20:21.03,Default,Natsuki,0,0,0,,Watch me. I'll set time moving forward again.
-Dialogue: 10,0:20:21.03,0:20:24.52,Default,Natsuki,0,0,0,,I'll unpause humanity's progress\nand finally set things to right.
+Dialogue: 10,0:20:21.03,0:20:24.52,Default,Natsuki,0,0,0,ED,I'll unpause humanity's progress\nand finally set things to right.{@ED "set things right"? -p}
 Dialogue: 10,0:20:25.12,0:20:26.37,Default,Atri,0,0,0,,Yes...
 Dialogue: 10,0:20:26.87,0:20:28.72,Default,Natsuki,0,0,0,,And then, I'll come back to you.
 Dialogue: 10,0:20:29.26,0:20:30.04,Default,Natsuki,0,0,0,,I swear it.
 Dialogue: 10,0:20:32.26,0:20:33.32,Default,Atri,0,0,0,,I believe you!
 Dialogue: 10,0:20:34.55,0:20:38.78,Default,Atri,0,0,0,,Because you're high-spec!
 Dialogue: 10,0:20:58.85,0:21:03.09,Default,Announcer,0,0,0,,Today, as we celebrate the 70th anniversary\nof the Amaterasu Project's first launch,
-Dialogue: 10,0:21:03.09,0:21:08.41,Default,Announcer,0,0,0,,its first pilot, Nanami Ririka{**-san},\nwill be able to watch her granddaughter, Nanami Hana{**-san},
+Dialogue: 10,0:21:03.09,0:21:08.41,Default,Announcer,0,0,0,ED,its first pilot, Nanami Ririka{**-san},\nwill be able to watch her granddaughter, Nanami Hana{**-san},{@ED veeeeeery wide with honorifics (but maybe not too wide). possibly break "able to/watch" -p}
 Dialogue: 10,0:21:08.41,0:21:11.36,Default,Announcer,0,0,0,,set off for the Amaterasu Space Station.
-Dialogue: 10,0:21:12.96,0:21:17.28,Default,Announcer,0,0,0,,Their heroic efforts contributed to the reversal\nof the unprecedented sea level crisis,
+Dialogue: 10,0:21:12.96,0:21:17.28,Default,Announcer,0,0,0,ED,Their heroic efforts contributed to the reversal\nof the unprecedented sea level crisis,{@ED consider "catastrophic rise of sea levels" -p}
 Dialogue: 10,0:21:17.28,0:21:19.30,Default,Announcer,0,0,0,,serving as a beacon of hope to humanity.
 Dialogue: 10,0:21:19.60,0:21:23.72,Default,Announcer,0,0,0,,Dubbed "The Restarter of Progress"\nalongside the resumption of Humanoid research,
 Dialogue: 10,0:21:24.13,0:21:27.22,Default,Announcer,0,0,0,,today's rocket launch is set to propel\nhumanity to ever greater heights.
@@ -357,15 +360,16 @@ Dialogue: 10,0:21:53.39,0:21:56.14,Default,Granddaughter Minamo,0,0,0,,serving a
 Dialogue: 10,0:21:56.14,0:21:59.09,Default,Granddaughter Minamo,0,0,0,,For that, I couldn't be more proud\nto be her granddaughter.
 Dialogue: 10,0:21:59.40,0:22:02.80,Default,Granddaughter Minamo,0,0,0,,Unfortunately, my grandmother\nwas unable to attend today's ceremony,
 Dialogue: 10,0:22:03.15,0:22:07.82,Default,Granddaughter Minamo,0,0,0,,but please allow me to convey, on her behalf,\nthe enormous pride and joy she feels
-Dialogue: 10,0:22:07.82,0:22:11.92,Default,Granddaughter Minamo,0,0,0,,at the privilege to be able to\ndecommission the very first
-Dialogue: 10,0:22:11.92,0:22:13.94,Default,Granddaughter Minamo,0,0,0,,of over 100 currently operational Eden facilities.
+Dialogue: 10,0:22:07.82,0:22:11.92,Default,Granddaughter Minamo,0,0,0,ED,at the privilege to be able to decommission the very first
+Dialogue: 10,0:22:11.92,0:22:13.94,Default,Granddaughter Minamo,0,0,0,ED,of over 100 currently operational Eden facilities.{@ED timing is awkward here, could either rephrase or just join (or both) -p}
+Comment: 10,0:22:07.82,0:22:13.94,Default,Granddaughter Minamo,0,0,0,ED,at the privilege to be able to decommission the very first\nof over 100 currently operational Eden facilities.{@ED possible join (but this is very wide) -p}
 Dialogue: 10,0:22:17.63,0:22:20.78,Default,Host,0,0,0,,And now, let us commence\nwith the shutdown procedure.
 Dialogue: 10,0:22:21.19,0:22:25.20,Default,Host,0,0,0,,Esteemed guests, please take\nyour position in front of the switch.
 Dialogue: 10,0:22:27.83,0:22:30.33,Default,Host,0,0,0,,You may now cut the power.
 Dialogue: 10,0:22:30.70,0:22:33.43,Default,Host,0,0,0,,Thank you for your service, Eden 1!
-Dialogue: 10,0:22:41.53,0:22:42.37,Default,Natsuki,0,0,0,,Atri.
+Dialogue: 10,0:22:41.53,0:22:42.37,Default,Natsuki,0,0,0,ST,Atri.{@ST maybe make this fainter -p}
 Dialogue: 10,0:22:44.89,0:22:46.86,Default,Atri,0,0,0,,Natsuki{**-san}?
-Dialogue: 10,0:22:47.75,0:22:48.85,Default,Natsuki,0,0,0,,You awake?
+Dialogue: 10,0:22:47.75,0:22:48.85,Default,Natsuki,0,0,0,,You awake?{hey you, you're finally awake -p}
 Dialogue: 10,0:22:49.51,0:22:51.33,Default,Atri,0,0,0,,Where am I?
 Dialogue: 10,0:22:51.33,0:22:52.85,Default,Natsuki,0,0,0,,Can't you tell?
 Dialogue: 10,0:22:52.85,0:22:56.06,Default,Atri,0,0,0,,This can't be right! It's been seventy years!
@@ -398,7 +402,7 @@ Dialogue: 10,0:23:45.59,0:23:46.36,Default,Natsuki,0,0,0,,Three.
 Dialogue: 10,0:23:47.11,0:23:47.89,Default,Natsuki,0,0,0,,Two.
 Dialogue: 10,0:23:48.37,0:23:49.29,Default,Natsuki,0,0,0,,One.
 Dialogue: 10,0:23:58.07,0:24:01.16,Default,Natsuki,0,0,0,,You wanted to see the rocket, didn't you?
-Dialogue: 10,0:24:03.55,0:24:06.72,Default,Natsuki,0,0,0,,Ririka's granddaughter is in that thing,\nfollowing in her grandma's footsteps.
+Dialogue: 10,0:24:03.55,0:24:06.72,Default,Natsuki,0,0,0,ED,Ririka's granddaughter is in that thing{@ED consider "is flying it" or possibly "in there" -p},\nfollowing in her grandma's footsteps.{@ED and maybe -grandma's to trim down cps if necessary -p}
 Dialogue: 10,0:24:06.72,0:24:08.11,Default,Atri,0,0,0,,Huh?
 Dialogue: 10,0:24:08.11,0:24:09.98,Default,Atri,0,0,0,,But what about you?
 Dialogue: 10,0:24:09.98,0:24:12.32,Default,Natsuki,0,0,0,,Oh, as if I had time for {\i1}that.{\i0}
@@ -409,21 +413,21 @@ Dialogue: 10,0:24:23.28,0:24:24.57,Default,Atri,0,0,0,,Really?
 Dialogue: 10,0:24:24.57,0:24:25.77,Default,Natsuki,0,0,0,,You know it.
 Dialogue: 10,0:24:25.77,0:24:27.84,Default,Natsuki,0,0,0,,Because guess what?
 Dialogue: 10,0:24:27.84,0:24:29.91,Default,Natsuki,0,0,0,,I'm high-spec, baby!{Keyframes file was missing the scene change at the end of this line. -Pik}
-Dialogue: 10,0:24:34.27,0:24:35.91,Default,Atri,0,0,0,,Pfft, says the old man!
+Dialogue: 10,0:24:34.27,0:24:35.91,Default,Atri,0,0,0,ED,Pfft, says the old man!{@ED consider "geezer" -p}
 Dialogue: 10,0:24:36.53,0:24:38.68,Default,Natsuki,0,0,0,,Hey, you were the one who said it first!
-Dialogue: 10,0:24:38.68,0:24:41.54,Default,Natsuki,0,0,0,,Besides, if we're playing the age card,\nyou're over a hundred!
+Dialogue: 10,0:24:38.68,0:24:41.54,Default,Natsuki,0,0,0,ED,Besides, if we're playing the age card,\nyou're over a hundred!{@ED consider "well over a hundred" or something with "pushing". maybe "yourself" at the end? -p}
 Dialogue: 10,0:24:41.54,0:24:42.63,Default,Atri,0,0,0,,Who cares?
 Dialogue: 10,0:24:42.63,0:24:44.73,Default,Atri,0,0,0,,I'm a Humanoid, baby!
 Dialogue: 10,0:24:45.75,0:24:47.81,Default,Natsuki,0,0,0,,Here, none of that makes a difference.
 Dialogue: 10,0:24:49.04,0:24:51.82,Default,Natsuki,0,0,0,,We're ourselves, and that's all that matters.
 Dialogue: 10,0:24:54.36,0:24:55.89,Default,Natsuki,0,0,0,,Isn't that right?
 Dialogue: 10,0:24:55.89,0:24:56.90,Default,Atri,0,0,0,,Yes.
-Dialogue: 10,0:24:59.21,0:25:01.05,Default,Natsuki,0,0,0,,Your very last day...
-Dialogue: 10,0:25:01.05,0:25:04.40,Default,Natsuki,0,0,0,,But here, it's a day that can last forever.
+Dialogue: 10,0:24:59.21,0:25:01.05,Default,Natsuki,0,0,0,ED,Your very last day...{@ED maybe "You might only have one day left..." -p}
+Dialogue: 10,0:25:01.05,0:25:04.40,Default,Natsuki,0,0,0,ED,But here, it's a day that can last forever.{@ED maybe "that one day can last forever" -p}
 Dialogue: 10,0:25:04.89,0:25:05.94,Default,Natsuki,0,0,0,,Where do you wanna go?
 Dialogue: 10,0:25:06.24,0:25:07.86,Default,Atri,0,0,0,,That hill by the sea.
-Dialogue: 10,0:25:08.38,0:25:12.24,Default,Atri,0,0,0,,That promised place\nwhere Shiina{**-sama} is waiting for me!
-Dialogue: 10,0:25:13.25,0:25:14.01,Default,Natsuki,0,0,0,,Yeah.
+Dialogue: 10,0:25:08.38,0:25:12.24,Default,Atri,0,0,0,ED,That promised place\nwhere Shiina{**-sama} is waiting for me!{@ED "promised place" sounds very translationese. "Where Shiina promised to wait for/be waiting for me!" maybe though the impact feels a bit lessened -p}
+Dialogue: 10,0:25:13.25,0:25:14.01,Default,Natsuki,0,0,0,,Yeah.{@ED maybe "Sure." -p}
 Dialogue: 10,0:25:14.79,0:25:15.37,Default,Natsuki and Atri,0,0,0,,{=5}Let's go!
 
 [Aegisub Extradata]

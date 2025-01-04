@@ -23,8 +23,8 @@ Video File: D:/Downloads/[KitaujiSub] ATRI -My Dear Moments- [13][WebRip][HEVC_A
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 382
-Active Line: 392
+Scroll Position: 342
+Active Line: 117
 Video Position: 36165
 
 [V4+ Styles]
@@ -151,7 +151,7 @@ Dialogue: 10,0:07:10.72,0:07:13.73,Default,Atri,0,0,0,,I'm sure this meaning was
 Dialogue: 10,0:07:14.79,0:07:17.14,Default,Atri,0,0,0,,And the only reason I think this way...
 Dialogue: 10,0:07:17.70,0:07:21.80,Default,Atri,0,0,0,,The reason I want to do\neverything I can to be useful...
 Dialogue: 10,0:07:23.73,0:07:26.55,Default,Atri,0,0,0,,is because I have a heart.
-Dialogue: 10,0:07:27.22,0:07:31.36,Default,Atri,0,0,0,ED,This is the purpose I was born for,\nsomething nobody else can do.{@ED ive always been a bit meh on the "nobody else can do" thing, but... no good ideas here atm. might come back -p}{also the scene in general falls a bit flat for the emotion it's supposed to have, not just this line -p}{hard to see any tangible improvements, anyone else have any suggestions? -lonesome}
+Dialogue: 10,0:07:27.22,0:07:31.36,Default,Atri,0,0,0,,This is the purpose I was born for,\nsomething nobody else can do.{@ED ive always been a bit meh on the "nobody else can do" thing, but... no good ideas here atm. might come back -p}{also the scene in general falls a bit flat for the emotion it's supposed to have, not just this line -p}{hard to see any tangible improvements, anyone else have any suggestions? -lonesome}
 Dialogue: 10,0:07:34.76,0:07:35.56,Default,Atri,0,0,0,,And I...
 Dialogue: 10,0:07:36.64,0:07:38.84,Default,Atri,0,0,0,,I want to see it through.
 Dialogue: 10,0:07:43.55,0:07:44.43,Default,Natsuki,0,0,0,,Atri...
@@ -290,7 +290,7 @@ Dialogue: 10,0:15:28.45,0:15:30.56,Default,Atri,0,0,0,,Let's both do our best, o
 Dialogue: 10,0:15:32.88,0:15:34.53,Default,Atri,0,0,0,,It's awfully quiet.
 Dialogue: 10,0:15:44.38,0:15:47.42,Default,Atri,0,0,0,,They're going to launch the rocket soon, right?
 Dialogue: 10,0:15:47.97,0:15:48.75,Default,Natsuki,0,0,0,,Yeah.
-Dialogue: 10,0:15:49.91,0:15:51.53,Default,Atri,0,0,0,ED,I would've loved to see it. {@ED the tense feels wrong here to me. i think it wants to be "i would have loved to..."? but it's quite wordy already so uh. yeah. -p}{you're right tense is surprisingly tricky... does this current line perhaps read as "an event that happened in the past" now? word econ is better but maybe this is technically grammatically wrong lol}
+Dialogue: 10,0:15:49.91,0:15:51.53,Default,Atri,0,0,0,,I would've loved to see it.
 Dialogue: 10,0:16:05.65,0:16:06.76,Default,Natsuki,0,0,0,,Atri.
 Dialogue: 10,0:16:08.11,0:16:11.16,Default,Atri,0,0,0,,Thank you for everything.
 Dialogue: 10,0:16:12.07,0:16:14.93,Default,Atri,0,0,0,,I don't know if this is the right thing to do,
@@ -415,18 +415,18 @@ Dialogue: 10,0:24:25.77,0:24:27.84,Default,Natsuki,0,0,0,,Because guess what?
 Dialogue: 10,0:24:27.84,0:24:29.91,Default,Natsuki,0,0,0,,I'm high-spec, baby!{Keyframes file was missing the scene change at the end of this line. -Pik}
 Dialogue: 10,0:24:34.27,0:24:35.91,Default,Atri,0,0,0,,Pfft, sure thing gramps!
 Dialogue: 10,0:24:36.53,0:24:38.68,Default,Natsuki,0,0,0,,Hey, you were the one who said it first!
-Dialogue: 10,0:24:38.68,0:24:41.54,Default,Natsuki,0,0,0,,Besides, if we're playing the age card,\nyou're pushing a hundred!
+Dialogue: 10,0:24:38.68,0:24:41.54,Default,Natsuki,0,0,0,,Besides, if we're playing the age card,\nyou're well over a hundred!
 Dialogue: 10,0:24:41.54,0:24:42.63,Default,Atri,0,0,0,,Who cares?
 Dialogue: 10,0:24:42.63,0:24:44.73,Default,Atri,0,0,0,,I'm a Humanoid, baby!
 Dialogue: 10,0:24:45.75,0:24:47.81,Default,Natsuki,0,0,0,,Here, none of that makes a difference.
 Dialogue: 10,0:24:49.04,0:24:51.82,Default,Natsuki,0,0,0,,We're ourselves, and that's all that matters.
 Dialogue: 10,0:24:54.36,0:24:55.89,Default,Natsuki,0,0,0,,Isn't that right?
 Dialogue: 10,0:24:55.89,0:24:56.90,Default,Atri,0,0,0,,Yes.
-Dialogue: 10,0:24:59.21,0:25:01.05,Default,Natsuki,0,0,0,,You might only have one day left...{@ED maybe "You might only have one day left..." -p}
-Dialogue: 10,0:25:01.05,0:25:04.40,Default,Natsuki,0,0,0,,But here, that day can last forever.{@ED maybe "that one day can last forever" -p}
+Dialogue: 10,0:24:59.21,0:25:01.05,Default,Natsuki,0,0,0,,You might only have one day left...
+Dialogue: 10,0:25:01.05,0:25:04.40,Default,Natsuki,0,0,0,,But here, that day can last forever.
 Dialogue: 10,0:25:04.89,0:25:05.94,Default,Natsuki,0,0,0,,Where do you wanna go?
 Dialogue: 10,0:25:06.24,0:25:07.86,Default,Atri,0,0,0,,That hill by the sea.
-Dialogue: 10,0:25:08.38,0:25:12.24,Default,Atri,0,0,0,ED,That place Shiina{**-sama} promised \nshe'd be waiting for me!{@ED "promised place" sounds very translationese. "Where Shiina promised to wait for/be waiting for me!" maybe though the impact feels a bit lessened -p}{also wait, did we NOT do "Miss Shiina" for Shiina-sama?}
+Dialogue: 10,0:25:08.38,0:25:12.24,Default,Atri,0,0,0,,That place Shiina{**-sama} promised \nshe'd be waiting for me!
 Dialogue: 10,0:25:13.25,0:25:14.01,Default,Natsuki,0,0,0,,Yeah.{@ED maybe "Sure." -p}
 Dialogue: 10,0:25:14.79,0:25:15.37,Default,Natsuki and Atri,0,0,0,,{=5}Let's go!
 

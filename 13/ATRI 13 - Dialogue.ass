@@ -335,7 +335,7 @@ Dialogue: 10,0:20:06.20,0:20:07.59,Default,Atri,0,0,0,,I never knew...
 Dialogue: 10,0:20:09.34,0:20:11.05,Default,Atri,0,0,0,,I could also
 Dialogue: 10,0:20:11.83,0:20:13.86,Default,Atri,0,0,0,,cry tears of joy.
 Dialogue: 10,0:20:17.78,0:20:21.03,Default,Natsuki,0,0,0,,Watch me. I'll set time moving forward again.
-Dialogue: 10,0:20:21.03,0:20:24.52,Default,Natsuki,0,0,0,,I'll unpause humanity's progress\nand finally set things to right.{@ED "set things right"? -p}{this is a set phrase, a bit more formal and archaic (eg. gandalf says it in lotr) but it felt appropriate when characters talk about "the future" and stuff, I used it several other times already now, so if you wanna nix it, reminder to do that in the batch}
+Dialogue: 10,0:20:21.03,0:20:24.52,Default,Natsuki,0,0,0,,I'll unpause humanity's progress\nand finally set things to right.
 Dialogue: 10,0:20:25.12,0:20:26.37,Default,Atri,0,0,0,,Yes...
 Dialogue: 10,0:20:26.87,0:20:28.72,Default,Natsuki,0,0,0,,And then, I'll come back to you.
 Dialogue: 10,0:20:29.26,0:20:30.04,Default,Natsuki,0,0,0,,I swear it.
@@ -344,7 +344,7 @@ Dialogue: 10,0:20:34.55,0:20:38.78,Default,Atri,0,0,0,,Because you're high-spec!
 Dialogue: 10,0:20:58.85,0:21:03.09,Default,Announcer,0,0,0,,Today, as we celebrate the 70th anniversary\nof the Amaterasu Project's first launch,
 Dialogue: 10,0:21:03.09,0:21:08.41,Default,Announcer,0,0,0,,its first pilot, Nanami Ririka{**-san}, will be able\nto watch her granddaughter, Nanami Hana{**-san},
 Dialogue: 10,0:21:08.41,0:21:11.36,Default,Announcer,0,0,0,,set off for the Amaterasu Space Station.
-Dialogue: 10,0:21:12.96,0:21:17.28,Default,Announcer,0,0,0,,Their heroic efforts contributed to the reversal\nof the catastrophic rising sea level crisis,{@ED consider "catastrophic rise of sea levels" -p}
+Dialogue: 10,0:21:12.96,0:21:17.28,Default,Announcer,0,0,0,,Their heroic efforts contributed to the reversal\nof the catastrophic rising sea level crisis,
 Dialogue: 10,0:21:17.28,0:21:19.30,Default,Announcer,0,0,0,,serving as a beacon of hope to humanity.
 Dialogue: 10,0:21:19.60,0:21:23.72,Default,Announcer,0,0,0,,Dubbed "The Restarter of Progress"\nalongside the resumption of Humanoid research,
 Dialogue: 10,0:21:24.13,0:21:27.22,Default,Announcer,0,0,0,,today's rocket launch is set to propel\nhumanity to ever greater heights.
@@ -362,7 +362,7 @@ Dialogue: 10,0:21:53.39,0:21:56.14,Default,Granddaughter Minamo,0,0,0,,serving a
 Dialogue: 10,0:21:56.14,0:21:59.09,Default,Granddaughter Minamo,0,0,0,,For that, I couldn't be more proud\nto be her granddaughter.
 Dialogue: 10,0:21:59.40,0:22:02.80,Default,Granddaughter Minamo,0,0,0,,Unfortunately, my grandmother\nwas unable to attend today's ceremony,
 Dialogue: 10,0:22:03.15,0:22:07.82,Default,Granddaughter Minamo,0,0,0,,but please allow me to convey, on her behalf,\nthe enormous pride and joy she feels
-Dialogue: 10,0:22:07.82,0:22:13.94,Default,Granddaughter Minamo,0,0,0,,to be granted the privilege of decommissioning the first\nof now over 100 currently operational Eden facilities.{@ED possible join (but this is very wide) -p}
+Dialogue: 10,0:22:07.82,0:22:13.94,Default,Granddaughter Minamo,0,0,0,,to be granted the privilege of decommissioning the first\nof now over 100 currently operational Eden facilities.
 Dialogue: 10,0:22:17.63,0:22:20.78,Default,Host,0,0,0,,And now, let us commence\nwith the shutdown procedure.
 Dialogue: 10,0:22:21.19,0:22:25.20,Default,Host,0,0,0,,Esteemed guests, please take\nyour position in front of the switch.
 Dialogue: 10,0:22:27.83,0:22:30.33,Default,Host,0,0,0,,You may now cut the power.
@@ -427,7 +427,7 @@ Dialogue: 10,0:25:01.05,0:25:04.40,Default,Natsuki,0,0,0,,But here, that day can
 Dialogue: 10,0:25:04.89,0:25:05.94,Default,Natsuki,0,0,0,,Where do you wanna go?
 Dialogue: 10,0:25:06.24,0:25:07.86,Default,Atri,0,0,0,,That hill by the sea.
 Dialogue: 10,0:25:08.38,0:25:12.24,Default,Atri,0,0,0,,That place Shiina{**-sama} promised \nshe'd be waiting for me!
-Dialogue: 10,0:25:13.25,0:25:14.01,Default,Natsuki,0,0,0,,Yeah.{@ED maybe "Sure." -p}
+Dialogue: 10,0:25:13.25,0:25:14.01,Default,Natsuki,0,0,0,,Yeah.
 Dialogue: 10,0:25:14.79,0:25:15.37,Default,Natsuki and Atri,0,0,0,,{=5}Let's go!
 
 [Aegisub Extradata]

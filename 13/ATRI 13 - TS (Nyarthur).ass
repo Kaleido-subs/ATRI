@@ -17,10 +17,6 @@ Audio File: ../../../../Downloads/ATRI - S01E13 (Premux) [AAD9C49A].mkv
 Video File: ../../../../Downloads/ATRI - S01E13 (Premux) [AAD9C49A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 93
-Active Line: 3333
-Video Position: 13277
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -207,7 +203,7 @@ Dialogue: 1,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{\an7\pos(0,0)\1c&H24190
 Dialogue: 1,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{\an7\pos(0,0)\1c&H201409&\p1}m 1124.98 429.02 b 1123.42 429.02 1121.92 428.93 1122.08 426.75 1122.13 426.07 1122.46 425.31 1123.21 425.48 1125.13 425.91 1124.93 427.57 1124.98 429.02
 Dialogue: 1,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{\an7\pos(0,0)\1c&H22160C&\p1}m 1114.04 402.07 b 1112.65 401.75 1110.81 402.72 1110.21 400.64 1110.03 400 1110.46 399.29 1111.25 399.24 1113.21 399.1 1113.77 400.41 1114.04 402.07
 Comment: 0,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=1}
-Dialogue: 3,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=91}{\fnBlee Guys ES\blur1\c&H130502&\1a&H1D&\\fax-0.115409\fscx379.01\fscy431.20\frz5.7923\frx0.0002\fry-0.9769\org(932.75,472.46)\pos(943.68,472.46)}High School
+Dialogue: 3,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=94}{\fnBlee Guys ES\c&H130502&\1a&H1D&\blur1\fax-0.114999\fscx273.14\fscy310.75\frz5.7920\fry-0.9770\org(932.77,472.46)\pos(940.63,472.46)}High School Class
 Comment: 0,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=87}
 Comment: 0,0:09:09.40,0:09:13.78,NyarthurSigns,,0,0,0,,{=92}-- THE CAKE IS A LIE
 Comment: 1,0:09:09.40,0:09:13.78,NyarthurSigns,,0,0,0,,{=17}-- MASK
@@ -4448,9 +4444,9 @@ Dialogue: 1,0:22:15.52,0:22:15.56,NyarthurSigns,,0,0,0,,{=83}{\frz0\alpha&H00&\c
 Dialogue: 1,0:22:15.56,0:22:15.60,NyarthurSigns,,0,0,0,,{=83}{\frz0\alpha&H00&\c&H5C5E5E&\fnAfterGlow\fs40\blur0.75\fscx100\fscy220\pos(980.99,214.72)\1a&H78&}EDEN 1 DECOMMISSIONING CEREMONY
 Comment: 1,0:22:08.60,0:22:15.61,NyarthurSigns,,0,0,0,,{=70}
 Dialogue: 0,0:25:30.38,0:25:35.81,NyarthurSigns,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,465)\p1\c&HFFFFFF&}m -806 -81 l 742 -81 742 255 -806 255
-Dialogue: 1,0:25:30.38,0:25:31.01,NyarthurSigns,,0,0,0,,{\fs150\alpha&HFF&\t(0,358,1,\alpha&H00&)\blur7\t(0,358,1,\blur0.75)\c&H4F5858&\pos(960,465)}Stay with me, my dear
+Dialogue: 1,0:25:30.38,0:25:31.01,NyarthurSigns,,0,0,0,,{\fs150\alpha&HFF&\t(0,358,1,\alpha&H00&)\blur7\t(0,358,1,\blur0.75)\c&H4F5858&\pos(960,465)}Stay with me, my dear,
 Dialogue: 1,0:25:30.38,0:25:31.01,NyarthurSigns,,0,0,0,,{\fs150\c&H4F5858&\pos(960,615)\alpha&HFF&\t(0,358,1,\alpha&H00&)\blur7\t(0,358,1,\blur0.75)}in these everlasting moments
-Dialogue: 1,0:25:31.01,0:25:35.81,NyarthurSigns,,0,0,0,,{\fad(0,150)\fs150\blur0.75\c&H4F5858&\pos(960,465)\t(4680,4800,\c&HB09984&)}S{\c&H4F5858&\t(4671,4791,\c&HB09984&)}t{\c&H4F5858&\t(4663,4783,\c&HB09984&)}a{\c&H4F5858&\t(4655,4775,\c&HB09984&)}y {\c&H4F5858&\t(4647,4767,\c&HB09984&)}w{\c&H4F5858&\t(4639,4759,\c&HB09984&)}i{\c&H4F5858&\t(4631,4751,\c&HB09984&)}t{\c&H4F5858&\t(4623,4743,\c&HB09984&)}h {\c&H4F5858&\t(4615,4735,\c&HB09984&)}m{\c&H4F5858&\t(4606,4726,\c&HB09984&)}e{\c&H4F5858&\t(4598,4718,\c&HB09984&)}, {\c&H4F5858&\t(4590,4710,\c&HB09984&)}m{\c&H4F5858&\t(4582,4702,\c&HB09984&)}y {\c&H4F5858&\t(4574,4694,\c&HB09984&)}d{\c&H4F5858&\t(4566,4686,\c&HB09984&)}e{\c&H4F5858&\t(4558,4678,\c&HB09984&)}a{\c&H4F5858&\t(4550,4670,\c&HB09984&)}r
+Dialogue: 1,0:25:31.01,0:25:35.81,NyarthurSigns,,0,0,0,,{\fad(0,150)\fs150\blur0.75\c&H4F5858&\pos(960,465)\t(4680,4800,\c&HB09984&)}S{\c&H4F5858&\t(4671,4791,\c&HB09984&)}t{\c&H4F5858&\t(4663,4783,\c&HB09984&)}a{\c&H4F5858&\t(4655,4775,\c&HB09984&)}y {\c&H4F5858&\t(4647,4767,\c&HB09984&)}w{\c&H4F5858&\t(4639,4759,\c&HB09984&)}i{\c&H4F5858&\t(4631,4751,\c&HB09984&)}t{\c&H4F5858&\t(4623,4743,\c&HB09984&)}h {\c&H4F5858&\t(4615,4735,\c&HB09984&)}m{\c&H4F5858&\t(4606,4726,\c&HB09984&)}e{\c&H4F5858&\t(4598,4718,\c&HB09984&)}, {\c&H4F5858&\t(4590,4710,\c&HB09984&)}m{\c&H4F5858&\t(4582,4702,\c&HB09984&)}y {\c&H4F5858&\t(4574,4694,\c&HB09984&)}d{\c&H4F5858&\t(4566,4686,\c&HB09984&)}e{\c&H4F5858&\t(4558,4678,\c&HB09984&)}a{\c&H4F5858&\t(4550,4670,\c&HB09984&)}r,
 Dialogue: 1,0:25:31.01,0:25:35.81,NyarthurSigns,,0,0,0,,{\fad(0,150)\fs150\c&H4F5858&\pos(960,615)\blur0.75\t(4680,4800,\c&HB09984&)}i{\c&H4F5858&\t(4674,4794,\c&HB09984&)}n {\c&H4F5858&\t(4669,4789,\c&HB09984&)}t{\c&H4F5858&\t(4663,4783,\c&HB09984&)}h{\c&H4F5858&\t(4658,4778,\c&HB09984&)}e{\c&H4F5858&\t(4652,4772,\c&HB09984&)}s{\c&H4F5858&\t(4647,4767,\c&HB09984&)}e {\c&H4F5858&\t(4642,4762,\c&HB09984&)}e{\c&H4F5858&\t(4636,4756,\c&HB09984&)}v{\c&H4F5858&\t(4631,4751,\c&HB09984&)}e{\c&H4F5858&\t(4625,4745,\c&HB09984&)}r{\c&H4F5858&\t(4620,4740,\c&HB09984&)}l{\c&H4F5858&\t(4615,4735,\c&HB09984&)}a{\c&H4F5858&\t(4609,4729,\c&HB09984&)}s{\c&H4F5858&\t(4604,4724,\c&HB09984&)}t{\c&H4F5858&\t(4598,4718,\c&HB09984&)}i{\c&H4F5858&\t(4593,4713,\c&HB09984&)}n{\c&H4F5858&\t(4587,4707,\c&HB09984&)}g {\c&H4F5858&\t(4582,4702,\c&HB09984&)}m{\c&H4F5858&\t(4577,4697,\c&HB09984&)}o{\c&H4F5858&\t(4571,4691,\c&HB09984&)}m{\c&H4F5858&\t(4566,4686,\c&HB09984&)}e{\c&H4F5858&\t(4560,4680,\c&HB09984&)}n{\c&H4F5858&\t(4555,4675,\c&HB09984&)}t{\c&H4F5858&\t(4550,4670,\c&HB09984&)}s
 Dialogue: 0,0:26:14.39,0:26:19.93,NyarthurSigns,,0,0,0,,{\fnPencilfiedX\frz15.89\fs40\blur0.75\fax0.3\c&H272F34&\pos(448,564)}I love her.
 
@@ -4526,3 +4522,4 @@ Data: 90,_aegi_folddata,e1;0;1
 Data: 91,_aegi_perspective_ambient_plane,e552.94;344.06#7C1337.51;257.16#7C1337.51;582.04#7C552.94;655.33
 Data: 92,_aegi_folddata,e0;0;4
 Data: 93,_aegi_folddata,e1;0;4
+Data: 94,_aegi_perspective_ambient_plane,e552.91;344.07#7C1337.41;257.18#7C1337.53;582.04#7C553.02;655.31

@@ -203,8 +203,7 @@ Dialogue: 1,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{\an7\pos(0,0)\1c&H24190
 Dialogue: 1,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{\an7\pos(0,0)\1c&H201409&\p1}m 1124.98 429.02 b 1123.42 429.02 1121.92 428.93 1122.08 426.75 1122.13 426.07 1122.46 425.31 1123.21 425.48 1125.13 425.91 1124.93 427.57 1124.98 429.02
 Dialogue: 1,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{\an7\pos(0,0)\1c&H22160C&\p1}m 1114.04 402.07 b 1112.65 401.75 1110.81 402.72 1110.21 400.64 1110.03 400 1110.46 399.29 1111.25 399.24 1113.21 399.1 1113.77 400.41 1114.04 402.07
 Comment: 0,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=1}
-Dialogue: 3,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=91}{\pos(941.26,472.46)\org(932.74,472.46)\fscx295.18\fscy335.83\frz5.792\fry-0.977\frx0\fax-0.115\fnBlee Guys ES\c&H130502&\1a&H1D&\blur1}7{\1a&HFF&\fs-4}th{\1a&H1D&\fs}-12{\1a&HFF&\fs-4}th{\1a&H1D&\fs} Grades
-Dialogue: 3,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=91}{\pos(934.59,428.37)\org(932.74,472.46)\fscx295.18\fscy335.83\frz5.792\fry-0.977\frx0\fax-0.115\fnBlee Guys ES\c&H130502&\1a&HFF&\blur1}7{\1a&H1D&\fs-4}th{\1a&HFF&\fs}-12{\1a&H1D&\fs-4}th{\1a&HFF&\fs} Grades
+Dialogue: 3,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=94}{\fnBlee Guys ES\c&H130502&\1a&H1D&\blur1\fax-0.114999\fscx273.14\fscy310.75\frz5.7920\fry-0.9770\org(932.77,472.46)\pos(940.63,472.46)}High School Class
 Comment: 0,0:08:41.08,0:08:42.59,NyarthurSigns,,0,0,0,,{=87}
 Comment: 0,0:09:09.40,0:09:13.78,NyarthurSigns,,0,0,0,,{=92}-- THE CAKE IS A LIE
 Comment: 1,0:09:09.40,0:09:13.78,NyarthurSigns,,0,0,0,,{=17}-- MASK
@@ -4523,3 +4522,4 @@ Data: 90,_aegi_folddata,e1;0;1
 Data: 91,_aegi_perspective_ambient_plane,e552.94;344.06#7C1337.51;257.16#7C1337.51;582.04#7C552.94;655.33
 Data: 92,_aegi_folddata,e0;0;4
 Data: 93,_aegi_folddata,e1;0;4
+Data: 94,_aegi_perspective_ambient_plane,e552.91;344.07#7C1337.41;257.18#7C1337.53;582.04#7C553.02;655.31

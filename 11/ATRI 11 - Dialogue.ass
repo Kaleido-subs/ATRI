@@ -251,7 +251,7 @@ Dialogue: 10,0:14:03.53,0:14:07.41,Default,Natsuki,0,0,0,,So it {\i1}is{\i0} the
 Dialogue: 10,0:14:07.74,0:14:10.12,Default,Natsuki,0,0,0,,"Due to high power draw requirements,
 Dialogue: 10,0:14:10.12,0:14:12.46,Default,Natsuki,0,0,0,,household charging presents significant hazards."
 Dialogue: 10,0:14:12.46,0:14:14.50,Default,Natsuki,0,0,0,,"To prevent irreversible battery degradation,
-Dialogue: 10,0:14:14.50,0:14:17.67,Default,Natsuki,0,0,0,,periodic maintenance with the retailer\nis strongly advised..." {thoughts on the use of quotation marks?}{### I typically have quotes on every line. This is the only such instance in the show I could find though, along with another instance later in the same episode, so whatever you choose, just be consistent and it should be fine.}
+Dialogue: 10,0:14:14.50,0:14:17.67,Default,Natsuki,0,0,0,,periodic maintenance with the retailer\nis strongly advised..."
 Dialogue: 10,0:14:17.67,0:14:18.46,Default,Natsuki,0,0,0,,Shit!
 Dialogue: 10,0:14:20.88,0:14:22.22,Default,Minamo,0,0,0,,Her battery is dying?
 Dialogue: 10,0:14:22.22,0:14:25.14,Default,Ryuuji,0,0,0,,And you can't charge her on your own?

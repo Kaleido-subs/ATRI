@@ -44,7 +44,7 @@ Dialogue: 10,0:00:16.41,0:00:18.75,Default,Natsuki,0,0,0,,Were you just pretendi
 Dialogue: 10,0:00:19.40,0:00:20.45,Default,Atri,0,0,0,,Pretending?
 Dialogue: 10,0:00:21.00,0:00:22.21,Default,Atri,0,0,0,,What do you mean by preten—
 Dialogue: 10,0:00:22.21,0:00:23.63,Default,Natsuki,0,0,0,,It means lying!
-Dialogue: 10,0:00:23.63,0:00:25.96,Default,Natsuki,0,0,0,,It means saying things you don't mean!
+Dialogue: 10,0:00:23.63,0:00:25.96,Default,Natsuki,0,0,0,,Saying things you don't mean!
 Dialogue: 10,0:00:29.34,0:00:30.91,Default,Atri,0,0,0,,I don't know.
 Dialogue: 10,0:00:31.39,0:00:35.72,Default,Atri,0,0,0,,My job is to be useful to you and make you happy.
 Dialogue: 10,0:00:36.03,0:00:38.74,Default,Atri,0,0,0,,That's the motivation behind all my actions.
@@ -62,10 +62,10 @@ Dialogue: 10,0:01:18.90,0:01:20.85,Default,Atri,0,0,0,,As you are now,
 Dialogue: 10,0:01:23.99,0:01:25.36,Default,Atri,0,0,0,,I hate you.
 Dialogue: 10,0:01:37.87,0:01:38.95,Default,Natsuki,0,0,0,,Don't follow me!
 Dialogue: 10,0:03:28.65,0:03:30.44,Default,Atri,0,0,0,,I'm a super high-spec model!
-Dialogue: 10,0:03:32.22,0:03:33.81,Default,Natsuki,0,0,0,,Was it all a lie?
-Dialogue: 10,0:03:34.40,0:03:37.11,Default,Natsuki,0,0,0,,Her smiles... Her laughter...
-Dialogue: 10,0:03:37.11,0:03:40.41,Default,Natsuki,0,0,0,,Everything we went through...\nEverything she showed me...
-Dialogue: 10,0:03:40.78,0:03:42.03,Default,Natsuki,0,0,0,,Was it all a lie?
+Dialogue: 10,0:03:32.22,0:03:33.81,Default,Natsuki,0,0,0,,{\i1}Was it all a lie?
+Dialogue: 10,0:03:34.40,0:03:37.11,Default,Natsuki,0,0,0,,{\i1}Her smiles... Her laughter...
+Dialogue: 10,0:03:37.11,0:03:40.41,Default,Natsuki,0,0,0,,{\i1}Everything we went through...\nEverything she showed me...
+Dialogue: 10,0:03:40.78,0:03:42.03,Default,Natsuki,0,0,0,,{\i1}Was it all a lie?
 Dialogue: 10,0:04:16.52,0:04:18.48,Default,Ryuuji,0,0,0,,You sure he's okay?
 Dialogue: 10,0:04:18.48,0:04:20.33,Default,Ryuuji,0,0,0,,Whatever happened, it was serious.
 Dialogue: 10,0:04:20.33,0:04:21.15,Default,Ririka,0,0,0,,Yeah...
@@ -100,7 +100,7 @@ Dialogue: 10,0:06:19.74,0:06:22.85,Default,Minamo,0,0,0,,But I think all of us s
 Dialogue: 10,0:06:22.85,0:06:25.51,Default,Minamo,0,0,0,,things we don't even understand ourselves,
 Dialogue: 10,0:06:25.51,0:06:28.95,Default,Minamo,0,0,0,,just because it's what our heart tells us is right.
 Dialogue: 10,0:06:30.92,0:06:34.08,Default,Minamo,0,0,0,,So if you ask me, I think you were right all along,
-Dialogue: 10,0:06:34.69,0:06:38.09,Default,Minamo,0,0,0,,that Atri{**-chan} really does have a heart.
+Dialogue: 10,0:06:34.69,0:06:38.09,Default,Minamo,0,0,0,,and Atri{**-chan} really does have a heart.
 Dialogue: 10,0:06:38.81,0:06:43.09,Default,Minamo,0,0,0,,But I think she's doubting herself.
 Dialogue: 10,0:06:44.08,0:06:47.82,Default,Minamo,0,0,0,,Realizing that she has a heart\nmust be awfully scary for her.
 Dialogue: 10,0:06:52.74,0:06:53.55,Default,Natsuki,0,0,0,,Ow...
@@ -115,12 +115,12 @@ Dialogue: 10,0:07:20.45,0:07:21.63,Default,Natsuki,0,0,0,,Oh.
 Dialogue: 10,0:07:22.26,0:07:27.06,Default,Minamo,0,0,0,,I'll tell everyone you're out with a cold, okay?
 Dialogue: 10,0:07:27.06,0:07:29.36,Default,Natsuki,0,0,0,,No, I'll go too.
 Dialogue: 10,0:07:29.36,0:07:30.14,Default,Minamo,0,0,0,,Hm?
-Dialogue: 10,0:07:30.14,0:07:34.26,Default,Natsuki,0,0,0,,It'd be unfair to everyone who showed up\nif their teacher called in sick.
+Dialogue: 10,0:07:30.14,0:07:34.26,Default,Natsuki,0,0,0,,It'd be unfair to all the kids\nif their teacher called in sick.
 Dialogue: 10,0:07:34.26,0:07:35.32,Default,Minamo,0,0,0,,But...
 Dialogue: 10,0:07:35.32,0:07:36.44,Default,Natsuki,0,0,0,,Besides,
 Dialogue: 10,0:07:37.31,0:07:40.90,Default,Natsuki,0,0,0,,I can't exactly get away with avoiding Atri forever.
-Dialogue: 10,0:07:42.31,0:07:44.32,Default,Minamo,0,0,0,,I was hoping you'd say that...
-Dialogue: 10,0:07:44.68,0:07:46.79,Default,Minamo,0,0,0,,So I brought your uniform for you!
+Dialogue: 10,0:07:42.31,0:07:44.32,Default,Minamo,0,0,0,,I was hoping you'd say that,
+Dialogue: 10,0:07:44.68,0:07:46.79,Default,Minamo,0,0,0,,so I brought your uniform for you!
 Dialogue: 10,0:07:50.51,0:07:51.81,Default,Miyo,0,0,0,,Sure is coming down hard, huh?
 Dialogue: 10,0:07:51.81,0:07:52.82,Default,Ririka,0,0,0,,Yeah...
 Dialogue: 10,0:07:53.34,0:07:53.95,Default,Toru,0,0,0,,Oh!
@@ -145,15 +145,15 @@ Dialogue: 10,0:08:44.86,0:08:49.68,Default,Catherine,0,0,0,,But her model only e
 Dialogue: 10,0:08:49.68,0:08:52.13,Default,Catherine,0,0,0,,They were all immediately recalled,
 Dialogue: 10,0:08:52.13,0:08:57.18,Default,Catherine,0,0,0,,but a single unit, the one responsible\nfor the incident, broke out and went missing.
 Dialogue: 10,0:08:57.84,0:09:01.48,Default,Catherine,0,0,0,,Naturally, Yamasaki Factory covered that up,
-Dialogue: 10,0:09:01.48,0:09:06.88,Default,Catherine,0,0,0,,but all the bad press still tanked the demand\nfor Humanoids, and the company went under.
-Dialogue: 10,0:09:06.88,0:09:09.34,Default,Catherine,0,0,0,,The missing unit never did get recovered either.
-Dialogue: 10,0:09:09.92,0:09:12.24,Default,Natsuki,0,0,0,,And you're saying that unit was Atri?
+Dialogue: 10,0:09:01.48,0:09:06.88,Default,Catherine,0,0,0,,but all the bad press still tanked the demand\nfor Humanoid sales, and the company went under.
+Dialogue: 10,0:09:06.88,0:09:09.34,Default,Catherine,0,0,0,,They never did manage to find the missing unit.
+Dialogue: 10,0:09:09.92,0:09:12.24,Default,Natsuki,0,0,0,,And you're suggesting that unit was Atri?
 Dialogue: 10,0:09:12.24,0:09:13.91,Default,Catherine,0,0,0,,There's no proof.
 Dialogue: 10,0:09:14.39,0:09:17.73,Default,Catherine,0,0,0,,This report could just be a big crock of bull.
-Dialogue: 10,0:09:17.73,0:09:21.92,Default,Catherine,0,0,0,,But I'm responsible for these kiddos' safety,\nso I can't just pretend I never saw it.
+Dialogue: 10,0:09:17.73,0:09:21.92,Default,Catherine,0,0,0,,But I'm responsible for these kiddos' safety,\nso I can't just turn a blind eye to it.
 Dialogue: 10,0:09:22.94,0:09:25.37,Default,Catherine,0,0,0,,When she came by earlier,
 Dialogue: 10,0:09:25.37,0:09:29.28,Default,Catherine,0,0,0,,I told her I couldn't risk letting her\ninto the school and turned her away.
-Dialogue: 10,0:09:32.28,0:09:35.75,Default,Catherine,0,0,0,,You should get going too.\nI can handle things here on my own.
+Dialogue: 10,0:09:32.28,0:09:35.75,Default,Catherine,0,0,0,,You should go find her.\nI'll handle things here.
 Dialogue: 10,0:09:35.75,0:09:38.34,Default,Catherine,0,0,0,,I still owe you one, after all.
 Dialogue: 10,0:09:40.06,0:09:41.14,Default,Natsuki,0,0,0,,Thanks.
 Dialogue: 10,0:09:50.84,0:09:53.64,Default,Natsuki,0,0,0,,{\i1}Atri turned violent?

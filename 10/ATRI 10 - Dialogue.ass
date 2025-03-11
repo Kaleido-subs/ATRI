@@ -96,7 +96,7 @@ Dialogue: 10,0:06:38.52,0:06:40.25,Default,Atri,0,0,0,,Not a heart.
 Dialogue: 10,0:06:41.15,0:06:44.98,Default,Atri,0,0,0,,I... have nothing of the sort.
 Dialogue: 10,0:06:44.98,0:06:46.26,Default,Natsuki,0,0,0,,How can you say that?
 Dialogue: 10,0:06:47.18,0:06:49.75,Default,Natsuki,0,0,0,,How are you supposed to know that for sure?
-Dialogue: 10,0:06:50.26,0:06:53.07,Default,Natsuki,0,0,0,,Nobody knows what the heart is.{just in case, noting that "arika" also refers to the location -yon}
+Dialogue: 10,0:06:50.26,0:06:53.07,Default,Natsuki,0,0,0,,Nobody knows what the heart is.
 Dialogue: 10,0:06:54.25,0:06:57.75,Default,Natsuki,0,0,0,,Heck, I don't know the first thing about mine,
 Dialogue: 10,0:06:57.75,0:07:01.03,Default,Natsuki,0,0,0,,or if I even have one at all.
 Dialogue: 10,0:07:02.19,0:07:03.53,Default,Natsuki,0,0,0,,That's how it is to be human.{he's only human, after all; don't put the blame on him -p}
@@ -145,7 +145,7 @@ Dialogue: 10,0:10:22.72,0:10:24.06,Default,Minamo,0,0,0,,Atri{**-chan}...
 Dialogue: 10,0:10:24.58,0:10:26.57,Default,Yoko,0,0,0,,You don't gotta worry about us!
 Dialogue: 10,0:10:26.57,0:10:28.90,Default,Yoko,0,0,0,,If anything, it felt great seeing you give it to 'em!
 Dialogue: 10,0:10:29.41,0:10:30.82,Default,Atri,0,0,0,,But still...
-Comment: 10,0:10:31.63,0:10:32.70,Default,Atri,0,0,0,,[traumatized robot noises]{don't think this needs to be subbed -ed}
+Comment: 10,0:10:31.63,0:10:32.70,Default,Atri,0,0,0,,[traumatized robot noises]
 Dialogue: 10,0:10:39.72,0:10:41.86,Default,Natsuki,0,0,0,,Everyone makes mistakes.
 Dialogue: 10,0:10:42.45,0:10:45.01,Default,Natsuki,0,0,0,,We all do things we know are wrong,
 Dialogue: 10,0:10:45.61,0:10:48.45,Default,Natsuki,0,0,0,,or say things we don't really mean.
@@ -203,7 +203,7 @@ Dialogue: 10,0:13:27.26,0:13:29.82,Default,Atri,0,0,0,,I do not have one. Call m
 Dialogue: 10,0:13:29.82,0:13:32.17,Default,Shiina,0,0,0,,I get to name you?
 Dialogue: 10,0:13:32.17,0:13:34.21,Default,Shiina,0,0,0,,Um, let's see!
 Dialogue: 10,0:13:34.21,0:13:37.22,Default,Shiina,0,0,0,,Ruri... Natsumi...
-Dialogue: 10,0:13:37.22,0:13:39.38,Default,Shiina,0,0,0,,Oh, I know! Betty Beep-Boop!{I got nothin.}{Hmm, mmmaybe "Machina"?, idk -yon}{I considered iRobot? Wall-Eve? maybe the QC folks have one they like the best}{@ED this is _funny_ but doesn't really feel appropriate with the other names. "Robbie", "Robin", etc? -p}{gonna keep Betty Beep-Boop for now -p}
+Dialogue: 10,0:13:37.22,0:13:39.38,Default,Shiina,0,0,0,,Oh, I know! Betty Beep-Boop!
 Dialogue: 10,0:13:39.38,0:13:42.35,Default,Atri,0,0,0,,"Betty Beep-Boop" is a derogatory slur.
 Dialogue: 10,0:13:42.35,0:13:45.11,Default,Shiina,0,0,0,,Aw, but it's so cute...
 Dialogue: 10,0:13:45.11,0:13:47.64,Default,Shiina,0,0,0,,Uh, hmm...

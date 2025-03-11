@@ -272,7 +272,7 @@ Dialogue: 10,0:16:14.24,0:16:18.42,Default,Atri,0,0,0,,Um, can I go into baby mo
 Dialogue: 10,0:16:19.00,0:16:20.67,Default,Natsuki,0,0,0,,Baby mode?
 Dialogue: 10,0:16:21.00,0:16:24.42,Default,Atri,0,0,0,,Whenever you held me, I felt at ease.
 Dialogue: 10,0:16:26.34,0:16:28.93,Default,Natsuki,0,0,0,,Then I'll do just that.
-Dialogue: 10,0:16:28.93,0:16:31.26,Default,Natsuki,0,0,0,,Anything to put your heart at ease. {better way out there to resolve this pun? this is elegant enough, but elides some of the sense in return}
+Dialogue: 10,0:16:28.93,0:16:31.26,Default,Natsuki,0,0,0,,Anything to put your heart at ease.
 Dialogue: 10,0:16:31.26,0:16:31.93,Default,Atri,0,0,0,,Thank you...
 Dialogue: 10,0:16:32.97,0:16:34.43,Default,Natsuki,0,0,0,,You're cold.
 Dialogue: 10,0:16:34.43,0:16:38.23,Default,Atri,0,0,0,,I'm in low-power mode,\nso my body temperature has fallen.

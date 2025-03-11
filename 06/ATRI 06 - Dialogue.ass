@@ -205,15 +205,13 @@ Dialogue: 10,0:09:00.27,0:09:03.02,Default,Natsuki,0,0,0,,Remember when we turne
 Dialogue: 10,0:09:03.58,0:09:06.25,Default,Natsuki,0,0,0,,When I saw her smile back then, it made me think.
 Dialogue: 10,0:09:06.98,0:09:08.99,Default,Natsuki,0,0,0,,If she really can experience happiness,
 Dialogue: 10,0:09:09.34,0:09:12.99,Default,Natsuki,0,0,0,,if she really is smiling from the heart,
-Dialogue: 10,0:09:13.91,0:09:16.99,Default,Natsuki,0,0,0,,then I have to start treating her like a human. {? tricky, should discuss}
+Dialogue: 10,0:09:13.91,0:09:16.99,Default,Natsuki,0,0,0,,then I have to start treating her like a human.
 Dialogue: 10,0:09:17.61,0:09:18.92,Default,Minamo,0,0,0,,Natsu{**-kun}...
 Dialogue: 10,0:09:22.11,0:09:22.89,Default,Minamo,0,0,0,,Yeah.
 Dialogue: 10,0:09:26.02,0:09:28.11,Default,Catherine,0,0,0,,All right kiddos, dig in!
 Dialogue: 10,0:09:29.47,0:09:31.67,Default,Catherine,0,0,0,,Eat up while it's still nice and cold, you hear?
 Dialogue: 10,0:09:31.67,0:09:33.51,Default,Ririka; Toru; Miyo,0,0,0,,Yeah!
 Dialogue: 10,0:09:33.51,0:09:35.59,Default,Miyo,0,0,0,,It's so sweet!
-Comment: 10,0:00:00.00,0:00:00.00,Default,Ririka,0,0,0,,{I didn't add these lines, and I don't think anything is missing. -Pik}{i think these are the background lines? -p}
-Comment: 10,0:00:00.00,0:00:00.00,On Top,Miyo,0,0,0,,{I didn't add these lines, and I don't think anything is missing. -Pik}
 Dialogue: 10,0:09:35.59,0:09:38.77,Default,Miyo,0,0,0,,Don't just stand there. Go get some for yourself!
 Dialogue: 10,0:09:42.05,0:09:44.02,Default,Atri,0,0,0,,{*}Très bien{*Delicious}!
 Dialogue: 10,0:09:49.64,0:09:53.20,Default,Atri,0,0,0,,I love Minamo so much! This is great!
@@ -345,7 +343,7 @@ Dialogue: 10,0:15:49.60,0:15:50.64,Default,Yoko,0,0,0,,Atri{**-chan}?
 Dialogue: 10,0:15:50.94,0:15:51.85,Default,Natsuki,0,0,0,,Huh?!
 Dialogue: 10,0:15:52.15,0:15:53.95,Default,Natsuki,0,0,0,,You've gotta be kidding me!
 Dialogue: 10,0:15:53.95,0:15:55.45,Default,Natsuki,0,0,0,,For one, Atri's a Humanoid...
-Dialogue: 10,0:15:55.45,0:15:56.88,Default,Natsuki,0,0,0,,Plus she barely looks ten years old! {the gaiken line, sort of tricky, not sure how to avoid overtranslation}
+Dialogue: 10,0:15:55.45,0:15:56.88,Default,Natsuki,0,0,0,,Plus she barely looks ten years old!
 Dialogue: 10,0:15:59.06,0:16:02.82,Default,Yoko,0,0,0,,But I've heard you can't sleep\nunless you're cuddling her...
 Dialogue: 10,0:16:03.77,0:16:04.80,Default,Natsuki,0,0,0,,She told you about that?!
 Dialogue: 10,0:16:04.80,0:16:06.78,Default,Yoko,0,0,0,,Wait wha—it's actually {\i1}true?!{\i0}
@@ -360,7 +358,7 @@ Dialogue: 10,0:16:27.76,0:16:30.22,Default,Minamo,0,0,0,,That's who Natsu{**-kun
 Dialogue: 10,0:16:30.22,0:16:31.54,Default,Yoko,0,0,0,,That's what he said.
 Dialogue: 10,0:16:31.54,0:16:33.33,Default,Yoko,0,0,0,,Can't forget her, apparently.
 Dialogue: 10,0:16:34.73,0:16:37.68,Default,Ryuuji,0,0,0,,Holy crap, that dork is too pure for this world!
-Dialogue: 10,0:16:37.68,0:16:39.81,Default,Minamo,0,0,0,,Still, she was his first love? {?}
+Dialogue: 10,0:16:37.68,0:16:39.81,Default,Minamo,0,0,0,,Still, she was his first love?
 Dialogue: 10,0:16:40.25,0:16:43.42,Default,Yoko,0,0,0,,I think he said it was when he was nine or so...
 Dialogue: 10,0:16:43.42,0:16:45.57,Default,Yoko,0,0,0,,It was right after he had his accident,
 Dialogue: 10,0:16:45.57,0:16:48.82,Default,Yoko,0,0,0,,and he was going through a lot mentally...
@@ -387,7 +385,7 @@ Dialogue: 10,0:17:45.42,0:17:47.30,Default,Yokoo,0,0,0,,But she ain't twenty.
 Dialogue: 10,0:17:47.73,0:17:49.30,Default,Minamo,0,0,0,,But she {\i1}is{\i0} a Humanoid!
 Dialogue: 10,0:17:52.30,0:17:53.89,Default,Atri,0,0,0,,Wh-What's all this about?
 Dialogue: 10,0:17:53.89,0:17:57.10,Default,Atri,0,0,0,,I have very important places to be,\nnamely Natsuki{**-san}'s side!
-Dialogue: 10,0:17:57.62,0:17:59.85,Default,Minamo,0,0,0,,This is important! Please tell us the truth, okay? {?}
+Dialogue: 10,0:17:57.62,0:17:59.85,Default,Minamo,0,0,0,,This is important! Please tell us the truth, okay?
 Dialogue: 10,0:17:59.85,0:18:02.94,Default,Ryuuji,0,0,0,,You've actually met Natsu before, haven't you?
 Dialogue: 10,0:18:02.94,0:18:03.96,Default,Atri,0,0,0,,Huh?
 Dialogue: 10,0:18:03.96,0:18:05.06,Default,Atri,0,0,0,,Natsuki{**-san}?

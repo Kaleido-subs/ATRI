@@ -6,10 +6,10 @@ ScaledBorderAndShadow: yes
 ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
-WrapStyle: 2
-YCbCr Matrix: TV.709
 LayoutResX: 1920
 LayoutResY: 1080
+WrapStyle: 2
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Audio File: D:/Downloads/[KitaujiSub] ATRI -My Dear Moments- [11][WebRip][HEVC_AAC][CHS].mp4

@@ -52,6 +52,7 @@ This release contains an alternative honorifics track.
 Set your media player to play "enm" language tracks by default to automatically play honorifics tracks.
 
 Spot an issue, want to chat, or want to check out the project's progress? Join our [Discord server][discord]!
+The Github repository with up-to-date fixes can be found [here][gh].
 
 We only support [mpv][]! Please try out a recent mpv build if you run into any playback issues.
 
@@ -65,6 +66,7 @@ If you're a foreign fansub group or want to do your own lyrics, you can ask us t
 [tvdb-id]: https://thetvdb.com/series/atri-my-dear-moments
 [anidb-id]: https://anidb.net/anime/17635
 [tvdb-order]: https://thetvdb.com/series/atri-my-dear-moments/allseasons/official
+[gh]: https://github.com/Kaleido-subs/ATRI
 
 [//]: <> (Sources)
 [bd]: https://u2.dmhy.org/details.php?id=59710

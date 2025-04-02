@@ -26,19 +26,20 @@
 
 ### Video
 
-|                  |                              |                        |
-| ---------------- | ---------------------------- | ---------------------- |
-| **Sources**      | [Crunchyroll][crunchyroll]   |                        |
-| **Resolution**   | 1920x1080p                   |                        |
-| **Codec**        | H.265 (x265) 10-bit          |                        |
-| **Aspect Ratio** | 16:9                         |                        |
-| **Extra**        | [Video Comparison][slowpics] | [MediaInfo][mediainfo] |
+|                  |                              |
+| ---------------- | ---------------------------- |
+| **Sources**      | [JP BD][bd]                  |
+| **Resolution**   | 1920x1080p                   |
+| **Codec**        | H.265 (x265) 10-bit          |
+| **Aspect Ratio** | 16:9                         |
+| **Extra**        | [Video Comparison][slowpics] |
+|                  | [MediaInfo][mediainfo]       |
 
 ### Audio
 
 | Track        | Codec | Channels | Bitrate  | Source           | Default | Forced |
 | ------------ | ----- | -------- | -------- | ---------------- | ------- | ------ |
-| **Japanese** | EAC-3 | 2.0      | 224 kbps | [Amazon][amazon] | Yes     | No     |
+| **Japanese** | Opus  | 2.0      | 192 kbps | [JP BD][bd] | Yes     | No     |
 
 ### Subtitles
 
@@ -66,12 +67,11 @@ If you're a foreign fansub group or want to do your own lyrics, you can ask us t
 [tvdb-order]: https://thetvdb.com/series/atri-my-dear-moments/allseasons/official
 
 [//]: <> (Sources)
-[crunchyroll]: https://nyaa.si/?f=0&c=0_0&q=Atri+My+Dear+Moments+S01+1080p+CR+NanDesuKa
-[amazon]: https://nyaa.si/?f=0&c=0_0&q=New-raws+ATRI+My+Dear+Moments+1080p+AMZN
+[bd]: https://u2.dmhy.org/details.php?id=59710
 
 [//]: <> (Encode info)
-[slowpics]: https://slow.pics/c/GQ7Dsjns
-[mediainfo]: https://paste2.org/FJKpHjkH
+[slowpics]: if-you-see-this-i-forgor-sorry
+[mediainfo]: https://paste2.org/F2zcFUcI
 
 [//]: <> (Other)
 [discord]: https://discord.gg/dk7aadV

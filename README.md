@@ -28,7 +28,7 @@
 
 |                  |                              |
 | ---------------- | ---------------------------- |
-| **Sources**      | [JP BD][bd]                  |
+| **Sources**      | [Blu-ray (Aniplex)][bd]      |
 | **Resolution**   | 1920x1080p                   |
 | **Codec**        | H.265 (x265) 10-bit          |
 | **Aspect Ratio** | 16:9                         |
@@ -37,9 +37,9 @@
 
 ### Audio
 
-| Track        | Codec | Channels | Bitrate  | Source           | Default | Forced |
-| ------------ | ----- | -------- | -------- | ---------------- | ------- | ------ |
-| **Japanese** | Opus  | 2.0      | 192 kbps | [JP BD][bd] | Yes     | No     |
+| Track        | Codec | Channels | Bitrate  | Source                  | Default | Forced |
+| ------------ | ----- | -------- | -------- | ----------------------- | ------- | ------ |
+| **Japanese** | Opus  | 2.0      | 192 kbps | [Blu-ray (Aniplex)][bd] | Yes     | No     |
 
 ### Subtitles
 
